@@ -1,1 +1,13 @@
 See http://opencv.willowgarage.com
+
+## Notes by Jimmy
+
+Goal here is to have a project anybody can use easily to pull OpenCV into his
+iOS project. It is not supported, but is based almost entirely off the fine
+work here: http://computer-vision-talks.com/2010/12/building-opencv-for-ios/
+
+Builds under SDK 4.2, the iOS build target is 4.0.
+
+Does not include highgui or any of the included apps.
+
+Did I mention it's not supported? :)
