@@ -1,0 +1,44 @@
+Topencv_test_ml
+v7
+r1
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/tests/ml/OpenCV.build/Release-iphonesimulator/opencv_test_ml.build/Script-1014559F01014559F0101455.sh
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/tests/ml/OpenCV.build/Release-iphonesimulator/opencv_test_ml.build/Script-101456450101456450101456.sh
+c00000000000000000000000000000000
+t2
+s0
+
+CCompileC tests/ml/OpenCV.build/Release-iphonesimulator/opencv_test_ml.build/Objects-normal/i386/aemknearestkmeans.o /Users/jjthrash/Downloads/OpenCV-2.2.0/tests/ml/src/aemknearestkmeans.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC tests/ml/OpenCV.build/Release-iphonesimulator/opencv_test_ml.build/Objects-normal/i386/amltests.o /Users/jjthrash/Downloads/OpenCV-2.2.0/tests/ml/src/amltests.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC tests/ml/OpenCV.build/Release-iphonesimulator/opencv_test_ml.build/Objects-normal/i386/gbttest.o /Users/jjthrash/Downloads/OpenCV-2.2.0/tests/ml/src/gbttest.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC tests/ml/OpenCV.build/Release-iphonesimulator/opencv_test_ml.build/Objects-normal/i386/mltest_main.o /Users/jjthrash/Downloads/OpenCV-2.2.0/tests/ml/src/mltest_main.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC tests/ml/OpenCV.build/Release-iphonesimulator/opencv_test_ml.build/Objects-normal/i386/mltests.o /Users/jjthrash/Downloads/OpenCV-2.2.0/tests/ml/src/mltests.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC tests/ml/OpenCV.build/Release-iphonesimulator/opencv_test_ml.build/Objects-normal/i386/precomp.o /Users/jjthrash/Downloads/OpenCV-2.2.0/tests/ml/src/precomp.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC tests/ml/OpenCV.build/Release-iphonesimulator/opencv_test_ml.build/Objects-normal/i386/slmltests.o /Users/jjthrash/Downloads/OpenCV-2.2.0/tests/ml/src/slmltests.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+r0
+
+CLd /Users/jjthrash/Downloads/OpenCV-2.2.0/bin/Release/ normal i386
+r0
+
+CPhaseScriptExecution "CMake PostBuild Rules" /Users/jjthrash/Downloads/OpenCV-2.2.0/tests/ml/OpenCV.build/Release-iphonesimulator/opencv_test_ml.build/Script-101456450101456450101456.sh
+r0
+
+CPhaseScriptExecution "CMake ReRun" /Users/jjthrash/Downloads/OpenCV-2.2.0/tests/ml/OpenCV.build/Release-iphonesimulator/opencv_test_ml.build/Script-1014559F01014559F0101455.sh
+r0
+

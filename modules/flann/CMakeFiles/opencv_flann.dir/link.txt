@@ -1,0 +1,2 @@
+/usr/bin/ar cr ../../lib/libopencv_flann.a  CMakeFiles/opencv_flann.dir/src/flann.o CMakeFiles/opencv_flann.dir/src/precomp.o
+/usr/bin/ranlib ../../lib/libopencv_flann.a

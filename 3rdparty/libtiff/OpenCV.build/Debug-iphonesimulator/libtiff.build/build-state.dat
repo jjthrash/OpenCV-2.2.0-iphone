@@ -1,0 +1,1224 @@
+Tlibtiff
+v7
+r0
+t319993550.370578
+cCheck dependencies
+cPhaseScriptExecution "CMake ReRun" /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Script-10172F4A010172F4A010172F.sh
+cCompileC 3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_aux.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_aux.c normal i386 c com.apple.compilers.gcc.4_2
+cCompileC 3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_close.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_close.c normal i386 c com.apple.compilers.gcc.4_2
+cCompileC 3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_codec.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_codec.c normal i386 c com.apple.compilers.gcc.4_2
+cCompileC 3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_color.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_color.c normal i386 c com.apple.compilers.gcc.4_2
+cCompileC 3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_compress.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_compress.c normal i386 c com.apple.compilers.gcc.4_2
+cCompileC 3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_dir.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_dir.c normal i386 c com.apple.compilers.gcc.4_2
+cCompileC 3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_dirinfo.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_dirinfo.c normal i386 c com.apple.compilers.gcc.4_2
+cCompileC 3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_dirread.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_dirread.c normal i386 c com.apple.compilers.gcc.4_2
+cCompileC 3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_dirwrite.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_dirwrite.c normal i386 c com.apple.compilers.gcc.4_2
+cCompileC 3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_dumpmode.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_dumpmode.c normal i386 c com.apple.compilers.gcc.4_2
+cCompileC 3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_error.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_error.c normal i386 c com.apple.compilers.gcc.4_2
+cCompileC 3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_extension.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_extension.c normal i386 c com.apple.compilers.gcc.4_2
+cCompileC 3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_fax3.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_fax3.c normal i386 c com.apple.compilers.gcc.4_2
+cCompileC 3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_fax3sm.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_fax3sm.c normal i386 c com.apple.compilers.gcc.4_2
+cCompileC 3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_flush.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_flush.c normal i386 c com.apple.compilers.gcc.4_2
+cCompileC 3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_getimage.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_getimage.c normal i386 c com.apple.compilers.gcc.4_2
+cCompileC 3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_jbig.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_jbig.c normal i386 c com.apple.compilers.gcc.4_2
+cCompileC 3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_jpeg.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_jpeg.c normal i386 c com.apple.compilers.gcc.4_2
+cCompileC 3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_luv.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_luv.c normal i386 c com.apple.compilers.gcc.4_2
+cCompileC 3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_lzw.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_lzw.c normal i386 c com.apple.compilers.gcc.4_2
+cCompileC 3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_next.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_next.c normal i386 c com.apple.compilers.gcc.4_2
+cCompileC 3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_ojpeg.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_ojpeg.c normal i386 c com.apple.compilers.gcc.4_2
+cCompileC 3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_open.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_open.c normal i386 c com.apple.compilers.gcc.4_2
+cCompileC 3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_packbits.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_packbits.c normal i386 c com.apple.compilers.gcc.4_2
+cCompileC 3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_pixarlog.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_pixarlog.c normal i386 c com.apple.compilers.gcc.4_2
+cCompileC 3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_predict.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_predict.c normal i386 c com.apple.compilers.gcc.4_2
+cCompileC 3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_print.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_print.c normal i386 c com.apple.compilers.gcc.4_2
+cCompileC 3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_read.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_read.c normal i386 c com.apple.compilers.gcc.4_2
+cCompileC 3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_stream.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_stream.cxx normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC 3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_strip.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_strip.c normal i386 c com.apple.compilers.gcc.4_2
+cCompileC 3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_swab.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_swab.c normal i386 c com.apple.compilers.gcc.4_2
+cCompileC 3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_thunder.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_thunder.c normal i386 c com.apple.compilers.gcc.4_2
+cCompileC 3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_tile.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_tile.c normal i386 c com.apple.compilers.gcc.4_2
+cCompileC 3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_version.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_version.c normal i386 c com.apple.compilers.gcc.4_2
+cCompileC 3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_warning.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_warning.c normal i386 c com.apple.compilers.gcc.4_2
+cCompileC 3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_write.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_write.c normal i386 c com.apple.compilers.gcc.4_2
+cCompileC 3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_zip.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_zip.c normal i386 c com.apple.compilers.gcc.4_2
+cCompileC 3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_unix.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_unix.c normal i386 c com.apple.compilers.gcc.4_2
+cLibtool /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug/liblibtiff.a normal i386
+cPhaseScriptExecution "CMake PostBuild Rules" /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Script-10172FEE010172FEE010172F.sh
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/assert.h
+c000000004CB3E4860000000000000DCB
+t1286857862
+s3531
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/ctype.h
+c000000004CB3E4860000000000002C18
+t1286857862
+s11288
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/fcntl.h
+c000000004CB3E48600000000000003EA
+t1286857862
+s1002
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/math.h
+c000000004A5C14A000000000000004F1
+t1247548576
+s1265
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/search.h
+c000000004CB3E4860000000000000585
+t1286857862
+s1413
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/setjmp.h
+c000000004CB3E4860000000000000438
+t1286857862
+s1080
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/stdio.h
+c000000004CB3E48600000000000040AC
+t1286857862
+s16556
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/stdlib.h
+c000000004CB3E4860000000000002DF5
+t1286857862
+s11765
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/string.h
+c000000004CB3E4860000000000001731
+t1286857862
+s5937
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/sys/mman.h
+c000000004CBFACAB00000000000020EC
+t1287629995
+s8428
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/sys/stat.h
+c000000004CBFACAC0000000000004A1D
+t1287629996
+s18973
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/sys/types.h
+c000000004CBFACAC0000000000002905
+t1287629996
+s10501
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/unistd.h
+c000000004CB3E486000000000000563E
+t1286857862
+s22078
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/stdarg.h
+c000000004A11983400000000000010DD
+t1242667060
+s4317
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/jconfig.h
+c000000004CFB087B000000000000070A
+t1291520123
+s1802
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/jmorecfg.h
+c000000004CFB087B00000000000030AA
+t1291520123
+s12458
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/jpeglib.h
+c000000004CFB087B000000000000B5E9
+t1291520123
+s46569
+i"jconfig.h"
+i"jmorecfg.h"
+i"jpegint.h"
+i"jerror.h"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/tiff.h
+c000000004CFB087B0000000000008415
+t1291520123
+s33813
+i"tiffconf.h"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/tiffconf.h
+c000000004CFB087B0000000000000CA9
+t1291520123
+s3241
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/tiffio.h
+c000000004CFB087B0000000000005023
+t1291520123
+s20515
+i"tiff.h"
+i"tiffvers.h"
+i<windows.h>
+i<stdio.h>
+i<stdarg.h>
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/tiffvers.h
+c000000004CFB087B000000000000019A
+t1291520123
+s410
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/zconf.h
+c000000004CFB087B000000000000343F
+t1291520123
+s13375
+i<windows.h>
+i<sys/types.h>
+i<unistd.h>
+i<unixio.h>
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/zlib.h
+c000000004CFB087B00000000000136CC
+t1291520123
+s79564
+i"zconf.h"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug/liblibtiff.a
+t1298299972
+s2411696
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/libtiff.LinkFileList
+c000000004D627C370000000000001467
+t1298299959
+s5223
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_aux.o
+t1298299960
+s58772
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_close.o
+t1298299960
+s45588
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_codec.o
+t1298299960
+s47384
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_color.o
+t1298299960
+s54564
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_compress.o
+t1298299960
+s54788
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_dir.o
+t1298299961
+s74384
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_dirinfo.o
+t1298299960
+s78080
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_dirread.o
+t1298299961
+s88448
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_dirwrite.o
+t1298299961
+s75372
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_dumpmode.o
+t1298299961
+s46652
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_error.o
+t1298299961
+s39888
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_extension.o
+t1298299961
+s47012
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_fax3.o
+t1298299970
+s106520
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_fax3sm.o
+t1298299970
+s121964
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_flush.o
+t1298299970
+s44876
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_getimage.o
+t1298299971
+s132308
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_jbig.o
+t1298299970
+s36972
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_jpeg.o
+t1298299970
+s37008
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_luv.o
+t1298299971
+s112180
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_lzw.o
+t1298299971
+s64324
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_next.o
+t1298299971
+s46184
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_ojpeg.o
+t1298299971
+s36972
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_open.o
+t1298299971
+s57640
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_packbits.o
+t1298299971
+s49040
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_pixarlog.o
+t1298299971
+s36980
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_predict.o
+t1298299971
+s68748
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_print.o
+t1298299971
+s64620
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_read.o
+t1298299971
+s63356
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_stream.o
+t1298299972
+s164708
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_strip.o
+t1298299971
+s53668
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_swab.o
+t1298299971
+s41652
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_thunder.o
+t1298299971
+s47220
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_tile.o
+t1298299971
+s51452
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_unix.o
+t1298299971
+s76568
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_version.o
+t1298299971
+s37760
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_warning.o
+t1298299971
+s39932
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_write.o
+t1298299971
+s59744
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_zip.o
+t1298299971
+s36968
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Script-10172F4A010172F4A010172F.sh
+c000000004D627C370000000000000080
+t1298299959
+s128
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Script-10172FEE010172FEE010172F.sh
+c000000004D627C3700000000000000C0
+t1298299959
+s192
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/t4.h
+c000000004CFB087B0000000000002C77
+t1291520123
+s11383
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_aux.c
+c000000004CFB087B0000000000001FD8
+t1291520123
+s8152
+i"tiffiop.h"
+i"tif_predict.h"
+i<math.h>
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_close.c
+c000000004CFB087B0000000000000E68
+t1291520123
+s3688
+i"tiffiop.h"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_codec.c
+c000000004CFB087B0000000000001347
+t1291520123
+s4935
+i"tiffiop.h"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_color.c
+c000000004CFB087B0000000000002271
+t1291520123
+s8817
+i"tiffiop.h"
+i<math.h>
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_compress.c
+c000000004CFB087B0000000000001EF5
+t1291520123
+s7925
+i"tiffiop.h"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_config.h
+c000000004CFB087B00000000000006EA
+t1291520123
+s1770
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_dir.c
+c000000004CFB087B0000000000009E19
+t1291520123
+s40473
+i"tiffiop.h"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_dir.h
+c000000004CFB087B0000000000001CAE
+t1291520123
+s7342
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_dirinfo.c
+c000000004CFB087B00000000000083FF
+t1291520123
+s33791
+i"tiffiop.h"
+i<stdlib.h>
+i<string.h>
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_dirread.c
+c000000004CFB087B000000000000EE03
+t1291520123
+s60931
+i"tiffiop.h"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_dirwrite.c
+c000000004CFB087B00000000000096C9
+t1291520123
+s38601
+i"tiffiop.h"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_dumpmode.c
+c000000004CFB087B0000000000000D5C
+t1291520123
+s3420
+i"tiffiop.h"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_error.c
+c000000004CFB087B0000000000000933
+t1291520123
+s2355
+i"tiffiop.h"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_extension.c
+c000000004CFB087B0000000000000CAC
+t1291520123
+s3244
+i"tiffiop.h"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_fax3.c
+c000000004CFB087B000000000000B260
+t1291520123
+s45664
+i"tiffiop.h"
+i"tif_fax3.h"
+i"t4.h"
+i<stdio.h>
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_fax3.h
+c000000004CFB087B0000000000003E32
+t1291520123
+s15922
+i"tiff.h"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_fax3sm.c
+c000000004CFB087B0000000000019924
+t1291520123
+s104740
+i"tiff.h"
+i"tif_fax3.h"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_flush.c
+c000000004CFB087B0000000000000903
+t1291520123
+s2307
+i"tiffiop.h"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_getimage.c
+c000000004CFB087B0000000000010D10
+t1291520123
+s68880
+i"tiffiop.h"
+i<stdio.h>
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_jbig.c
+c000000004CFB087B0000000000002DCF
+t1291520123
+s11727
+i"tiffiop.h"
+i"jbig.h"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_jpeg.c
+c000000004CFB087B000000000000F331
+t1291520123
+s62257
+i"tiffiop.h"
+i<setjmp.h>
+i"jpeglib.h"
+i"jerror.h"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_luv.c
+c000000004CFB087B000000000000A26B
+t1291520123
+s41579
+i"tiffiop.h"
+i<stdio.h>
+i<stdlib.h>
+i<math.h>
+i"uvcode.h"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_lzw.c
+c000000004CFB087B00000000000077B3
+t1291520123
+s30643
+i"tiffiop.h"
+i"tif_predict.h"
+i<stdio.h>
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_next.c
+c000000004CFB087B0000000000000FBB
+t1291520123
+s4027
+i"tiffiop.h"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_ojpeg.c
+c000000004CFB087B000000000001245D
+t1291520123
+s74845
+i"tiffiop.h"
+i<setjmp.h>
+i"jpeglib.h"
+i"jerror.h"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_open.c
+c000000004CFB087B00000000000041FF
+t1291520123
+s16895
+i"tiffiop.h"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_packbits.c
+c000000004CFB087B0000000000001EA0
+t1291520123
+s7840
+i"tiffiop.h"
+i<stdio.h>
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_pixarlog.c
+c000000004CFB087B000000000000940D
+t1291520123
+s37901
+i"tiffiop.h"
+i"tif_predict.h"
+i"zlib.h"
+i<stdio.h>
+i<stdlib.h>
+i<math.h>
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_predict.c
+c000000004CFB087B0000000000004AA2
+t1291520123
+s19106
+i"tiffiop.h"
+i"tif_predict.h"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_predict.h
+c000000004CFB087B0000000000000B2B
+t1291520123
+s2859
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_print.c
+c000000004CFB087B00000000000049DB
+t1291520123
+s18907
+i"tiffiop.h"
+i<stdio.h>
+i<string.h>
+i<ctype.h>
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_read.c
+c000000004CFB087B0000000000005535
+t1291520123
+s21813
+i"tiffiop.h"
+i<stdio.h>
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_stream.cxx
+c000000004CFB087B0000000000001A6A
+t1291520123
+s6762
+i"tiffiop.h"
+i<iostream>
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_strip.c
+c000000004CFB087B000000000000294E
+t1291520123
+s10574
+i"tiffiop.h"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_swab.c
+c000000004CFB087B0000000000001E12
+t1291520123
+s7698
+i"tiffiop.h"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_thunder.c
+c000000004CFB087B00000000000013B1
+t1291520123
+s5041
+i"tiffiop.h"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_tile.c
+c000000004CFB087B0000000000001EC7
+t1291520123
+s7879
+i"tiffiop.h"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_unix.c
+c000000004CFB087B0000000000001822
+t1291520123
+s6178
+i"tif_config.h"
+i<sys/types.h>
+i<stdarg.h>
+i<stdlib.h>
+i<sys/stat.h>
+i<unistd.h>
+i<fcntl.h>
+i"tiffiop.h"
+i<sys/mman.h>
+i<windows.h>
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_version.c
+c000000004CFB087B000000000000060F
+t1291520123
+s1551
+i"tiffiop.h"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_warning.c
+c000000004CFB087B0000000000000958
+t1291520123
+s2392
+i"tiffiop.h"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_write.c
+c000000004CFB087B0000000000005817
+t1291520123
+s22551
+i"tiffiop.h"
+i<stdio.h>
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_zip.c
+c000000004CFB087B0000000000002BFE
+t1291520123
+s11262
+i"tiffiop.h"
+i"tif_predict.h"
+i"zlib.h"
+i<stdio.h>
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tiffiop.h
+c000000004CFB087B000000000000349A
+t1291520123
+s13466
+i"tif_config.h"
+i<fcntl.h>
+i<sys/types.h>
+i<string.h>
+i<assert.h>
+i<search.h>
+i"tiffio.h"
+i"tif_dir.h"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/uvcode.h
+c000000004CFB087B0000000000001603
+t1291520123
+s5635
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies319993550#319993550#0(0"0(0#1#0"8639752096#0"0#
+
+CCompileC 3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_aux.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_aux.c normal i386 c com.apple.compilers.gcc.4_2
+s319992760.473956
+e319992760.616670
+r1
+xCompileC
+x3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_aux.o
+x/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_aux.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_aux.c319992760#319992760#0(0"0(0#0#65"/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_aux.c8650538368#1675"    cd /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -DCMAKE_INTDIR="Debug" -DHAVE_ALLOCA -DHAVE_ALLOCA_H -DHAVE_LIBPTHREAD -DHAVE_UNISTD_H -DHAVE_CONFIG_H -DHAVE_STRING_H=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/../include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/DerivedSources/i386 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/DerivedSources -Wall -pthread -fPIC -ggdb3 -DDEBUG -D_DEBUG -c /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_aux.c -o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_aux.o0#
+
+CCompileC 3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_close.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_close.c normal i386 c com.apple.compilers.gcc.4_2
+s319992760.608934
+e319992760.701873
+r1
+xCompileC
+x3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_close.o
+x/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_close.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_close.c319992760#319992760#0(0"0(0#0#67"/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_close.c8664573792#1679"    cd /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -DCMAKE_INTDIR="Debug" -DHAVE_ALLOCA -DHAVE_ALLOCA_H -DHAVE_LIBPTHREAD -DHAVE_UNISTD_H -DHAVE_CONFIG_H -DHAVE_STRING_H=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/../include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/DerivedSources/i386 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/DerivedSources -Wall -pthread -fPIC -ggdb3 -DDEBUG -D_DEBUG -c /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_close.c -o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_close.o0#
+
+CCompileC 3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_codec.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_codec.c normal i386 c com.apple.compilers.gcc.4_2
+s319992760.616872
+e319992760.695569
+r1
+xCompileC
+x3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_codec.o
+x/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_codec.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_codec.c319992760#319992760#0(0"0(0#0#67"/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_codec.c8659313408#1679"    cd /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -DCMAKE_INTDIR="Debug" -DHAVE_ALLOCA -DHAVE_ALLOCA_H -DHAVE_LIBPTHREAD -DHAVE_UNISTD_H -DHAVE_CONFIG_H -DHAVE_STRING_H=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/../include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/DerivedSources/i386 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/DerivedSources -Wall -pthread -fPIC -ggdb3 -DDEBUG -D_DEBUG -c /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_codec.c -o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_codec.o0#
+
+CCompileC 3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_color.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_color.c normal i386 c com.apple.compilers.gcc.4_2
+s319992760.695743
+e319992760.834172
+r1
+xCompileC
+x3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_color.o
+x/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_color.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_color.c319992760#319992760#0(0"0(0#0#67"/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_color.c8677817280#1679"    cd /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -DCMAKE_INTDIR="Debug" -DHAVE_ALLOCA -DHAVE_ALLOCA_H -DHAVE_LIBPTHREAD -DHAVE_UNISTD_H -DHAVE_CONFIG_H -DHAVE_STRING_H=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/../include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/DerivedSources/i386 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/DerivedSources -Wall -pthread -fPIC -ggdb3 -DDEBUG -D_DEBUG -c /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_color.c -o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_color.o0#
+
+CCompileC 3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_compress.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_compress.c normal i386 c com.apple.compilers.gcc.4_2
+s319992760.729454
+e319992760.873604
+r1
+xCompileC
+x3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_compress.o
+x/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_compress.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_compress.c319992760#319992760#0(0"0(0#0#70"/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_compress.c8675673952#1685"    cd /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -DCMAKE_INTDIR="Debug" -DHAVE_ALLOCA -DHAVE_ALLOCA_H -DHAVE_LIBPTHREAD -DHAVE_UNISTD_H -DHAVE_CONFIG_H -DHAVE_STRING_H=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/../include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/DerivedSources/i386 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/DerivedSources -Wall -pthread -fPIC -ggdb3 -DDEBUG -D_DEBUG -c /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_compress.c -o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_compress.o0#
+
+CCompileC 3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_dir.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_dir.c normal i386 c com.apple.compilers.gcc.4_2
+s319992760.834332
+e319992761.090946
+r1
+xCompileC
+x3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_dir.o
+x/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_dir.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_dir.c319992760#319992761#0(0"0(0#0#65"/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_dir.c8630395104#1675"    cd /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -DCMAKE_INTDIR="Debug" -DHAVE_ALLOCA -DHAVE_ALLOCA_H -DHAVE_LIBPTHREAD -DHAVE_UNISTD_H -DHAVE_CONFIG_H -DHAVE_STRING_H=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/../include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/DerivedSources/i386 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/DerivedSources -Wall -pthread -fPIC -ggdb3 -DDEBUG -D_DEBUG -c /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_dir.c -o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_dir.o0#
+
+CCompileC 3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_dirinfo.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_dirinfo.c normal i386 c com.apple.compilers.gcc.4_2
+s319992760.838206
+e319992760.996064
+r1
+xCompileC
+x3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_dirinfo.o
+x/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_dirinfo.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_dirinfo.c319992760#319992760#0(0"0(0#0#69"/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_dirinfo.c8680737536#1683"    cd /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -DCMAKE_INTDIR="Debug" -DHAVE_ALLOCA -DHAVE_ALLOCA_H -DHAVE_LIBPTHREAD -DHAVE_UNISTD_H -DHAVE_CONFIG_H -DHAVE_STRING_H=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/../include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/DerivedSources/i386 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/DerivedSources -Wall -pthread -fPIC -ggdb3 -DDEBUG -D_DEBUG -c /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_dirinfo.c -o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_dirinfo.o0#
+
+CCompileC 3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_dirread.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_dirread.c normal i386 c com.apple.compilers.gcc.4_2
+s319992760.873779
+e319992761.201674
+r1
+xCompileC
+x3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_dirread.o
+x/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_dirread.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_dirread.c319992760#319992761#0(0"0(0#0#69"/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_dirread.c8645276608#1683"    cd /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -DCMAKE_INTDIR="Debug" -DHAVE_ALLOCA -DHAVE_ALLOCA_H -DHAVE_LIBPTHREAD -DHAVE_UNISTD_H -DHAVE_CONFIG_H -DHAVE_STRING_H=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/../include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/DerivedSources/i386 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/DerivedSources -Wall -pthread -fPIC -ggdb3 -DDEBUG -D_DEBUG -c /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_dirread.c -o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_dirread.o0#
+
+CCompileC 3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_dirwrite.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_dirwrite.c normal i386 c com.apple.compilers.gcc.4_2
+s319992760.996710
+e319992761.233927
+r1
+xCompileC
+x3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_dirwrite.o
+x/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_dirwrite.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_dirwrite.c319992760#319992761#0(0"0(0#0#70"/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_dirwrite.c8674777952#1685"    cd /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -DCMAKE_INTDIR="Debug" -DHAVE_ALLOCA -DHAVE_ALLOCA_H -DHAVE_LIBPTHREAD -DHAVE_UNISTD_H -DHAVE_CONFIG_H -DHAVE_STRING_H=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/../include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/DerivedSources/i386 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/DerivedSources -Wall -pthread -fPIC -ggdb3 -DDEBUG -D_DEBUG -c /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_dirwrite.c -o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_dirwrite.o0#
+
+CCompileC 3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_dumpmode.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_dumpmode.c normal i386 c com.apple.compilers.gcc.4_2
+s319992761.091136
+e319992761.161728
+r1
+xCompileC
+x3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_dumpmode.o
+x/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_dumpmode.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_dumpmode.c319992761#319992761#0(0"0(0#0#70"/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_dumpmode.c8660646176#1685"    cd /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -DCMAKE_INTDIR="Debug" -DHAVE_ALLOCA -DHAVE_ALLOCA_H -DHAVE_LIBPTHREAD -DHAVE_UNISTD_H -DHAVE_CONFIG_H -DHAVE_STRING_H=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/../include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/DerivedSources/i386 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/DerivedSources -Wall -pthread -fPIC -ggdb3 -DDEBUG -D_DEBUG -c /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_dumpmode.c -o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_dumpmode.o0#
+
+CCompileC 3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_error.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_error.c normal i386 c com.apple.compilers.gcc.4_2
+s319992761.161929
+e319992761.234192
+r1
+xCompileC
+x3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_error.o
+x/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_error.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_error.c319992761#319992761#0(0"0(0#0#67"/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_error.c8656405120#1679"    cd /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -DCMAKE_INTDIR="Debug" -DHAVE_ALLOCA -DHAVE_ALLOCA_H -DHAVE_LIBPTHREAD -DHAVE_UNISTD_H -DHAVE_CONFIG_H -DHAVE_STRING_H=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/../include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/DerivedSources/i386 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/DerivedSources -Wall -pthread -fPIC -ggdb3 -DDEBUG -D_DEBUG -c /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_error.c -o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_error.o0#
+
+CCompileC 3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_extension.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_extension.c normal i386 c com.apple.compilers.gcc.4_2
+s319992761.201840
+e319992761.288287
+r1
+xCompileC
+x3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_extension.o
+x/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_extension.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_extension.c319992761#319992761#0(0"0(0#0#71"/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_extension.c8653832768#1687"    cd /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -DCMAKE_INTDIR="Debug" -DHAVE_ALLOCA -DHAVE_ALLOCA_H -DHAVE_LIBPTHREAD -DHAVE_UNISTD_H -DHAVE_CONFIG_H -DHAVE_STRING_H=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/../include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/DerivedSources/i386 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/DerivedSources -Wall -pthread -fPIC -ggdb3 -DDEBUG -D_DEBUG -c /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_extension.c -o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_extension.o0#
+
+CCompileC 3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_fax3.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_fax3.c normal i386 c com.apple.compilers.gcc.4_2
+s319992770.432135
+e319992770.861154
+r1
+xCompileC
+x3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_fax3.o
+x/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_fax3.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_fax3.c319992770#319992770#0(0"0(0#0#66"/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_fax3.c8650057536#1677"    cd /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -DCMAKE_INTDIR="Debug" -DHAVE_ALLOCA -DHAVE_ALLOCA_H -DHAVE_LIBPTHREAD -DHAVE_UNISTD_H -DHAVE_CONFIG_H -DHAVE_STRING_H=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/../include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/DerivedSources/i386 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/DerivedSources -Wall -pthread -fPIC -ggdb3 -DDEBUG -D_DEBUG -c /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_fax3.c -o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_fax3.o0#
+
+CCompileC 3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_fax3sm.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_fax3sm.c normal i386 c com.apple.compilers.gcc.4_2
+s319992770.456235
+e319992770.700104
+r1
+xCompileC
+x3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_fax3sm.o
+x/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_fax3sm.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_fax3sm.c319992770#319992770#0(0"0(0#0#68"/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_fax3sm.c8647769536#1681"    cd /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -DCMAKE_INTDIR="Debug" -DHAVE_ALLOCA -DHAVE_ALLOCA_H -DHAVE_LIBPTHREAD -DHAVE_UNISTD_H -DHAVE_CONFIG_H -DHAVE_STRING_H=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/../include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/DerivedSources/i386 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/DerivedSources -Wall -pthread -fPIC -ggdb3 -DDEBUG -D_DEBUG -c /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_fax3sm.c -o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_fax3sm.o0#
+
+CCompileC 3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_flush.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_flush.c normal i386 c com.apple.compilers.gcc.4_2
+s319992770.483421
+e319992770.549016
+r1
+xCompileC
+x3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_flush.o
+x/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_flush.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_flush.c319992770#319992770#0(0"0(0#0#67"/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_flush.c8646040672#1679"    cd /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -DCMAKE_INTDIR="Debug" -DHAVE_ALLOCA -DHAVE_ALLOCA_H -DHAVE_LIBPTHREAD -DHAVE_UNISTD_H -DHAVE_CONFIG_H -DHAVE_STRING_H=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/../include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/DerivedSources/i386 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/DerivedSources -Wall -pthread -fPIC -ggdb3 -DDEBUG -D_DEBUG -c /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_flush.c -o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_flush.o0#
+
+CCompileC 3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_getimage.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_getimage.c normal i386 c com.apple.compilers.gcc.4_2
+s319992770.549214
+e319992771.204122
+r1
+xCompileC
+x3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_getimage.o
+x/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_getimage.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_getimage.c319992770#319992771#0(0"0(0#0#70"/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_getimage.c8642946912#1685"    cd /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -DCMAKE_INTDIR="Debug" -DHAVE_ALLOCA -DHAVE_ALLOCA_H -DHAVE_LIBPTHREAD -DHAVE_UNISTD_H -DHAVE_CONFIG_H -DHAVE_STRING_H=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/../include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/DerivedSources/i386 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/DerivedSources -Wall -pthread -fPIC -ggdb3 -DDEBUG -D_DEBUG -c /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_getimage.c -o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_getimage.o0#
+
+CCompileC 3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_jbig.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_jbig.c normal i386 c com.apple.compilers.gcc.4_2
+s319992770.700271
+e319992770.758430
+r1
+xCompileC
+x3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_jbig.o
+x/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_jbig.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_jbig.c319992770#319992770#0(0"0(0#0#66"/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_jbig.c8666836448#1677"    cd /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -DCMAKE_INTDIR="Debug" -DHAVE_ALLOCA -DHAVE_ALLOCA_H -DHAVE_LIBPTHREAD -DHAVE_UNISTD_H -DHAVE_CONFIG_H -DHAVE_STRING_H=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/../include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/DerivedSources/i386 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/DerivedSources -Wall -pthread -fPIC -ggdb3 -DDEBUG -D_DEBUG -c /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_jbig.c -o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_jbig.o0#
+
+CCompileC 3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_jpeg.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_jpeg.c normal i386 c com.apple.compilers.gcc.4_2
+s319992770.758607
+e319992770.860908
+r1
+xCompileC
+x3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_jpeg.o
+x/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_jpeg.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_jpeg.c319992770#319992770#0(0"0(0#0#66"/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_jpeg.c8661150208#1677"    cd /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -DCMAKE_INTDIR="Debug" -DHAVE_ALLOCA -DHAVE_ALLOCA_H -DHAVE_LIBPTHREAD -DHAVE_UNISTD_H -DHAVE_CONFIG_H -DHAVE_STRING_H=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/../include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/DerivedSources/i386 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/DerivedSources -Wall -pthread -fPIC -ggdb3 -DDEBUG -D_DEBUG -c /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_jpeg.c -o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_jpeg.o0#
+
+CCompileC 3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_luv.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_luv.c normal i386 c com.apple.compilers.gcc.4_2
+s319992770.861307
+e319992771.358157
+r1
+xCompileC
+x3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_luv.o
+x/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_luv.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_luv.c319992770#319992771#0(0"0(0#0#65"/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_luv.c8665989024#1675"    cd /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -DCMAKE_INTDIR="Debug" -DHAVE_ALLOCA -DHAVE_ALLOCA_H -DHAVE_LIBPTHREAD -DHAVE_UNISTD_H -DHAVE_CONFIG_H -DHAVE_STRING_H=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/../include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/DerivedSources/i386 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/DerivedSources -Wall -pthread -fPIC -ggdb3 -DDEBUG -D_DEBUG -c /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_luv.c -o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_luv.o0#
+
+CCompileC 3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_lzw.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_lzw.c normal i386 c com.apple.compilers.gcc.4_2
+s319992770.862772
+e319992771.051408
+r1
+xCompileC
+x3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_lzw.o
+x/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_lzw.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_lzw.c319992770#319992771#0(0"0(0#0#65"/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_lzw.c8665362976#1675"    cd /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -DCMAKE_INTDIR="Debug" -DHAVE_ALLOCA -DHAVE_ALLOCA_H -DHAVE_LIBPTHREAD -DHAVE_UNISTD_H -DHAVE_CONFIG_H -DHAVE_STRING_H=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/../include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/DerivedSources/i386 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/DerivedSources -Wall -pthread -fPIC -ggdb3 -DDEBUG -D_DEBUG -c /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_lzw.c -o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_lzw.o0#
+
+CCompileC 3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_next.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_next.c normal i386 c com.apple.compilers.gcc.4_2
+s319992770.962445
+e319992771.072864
+r1
+xCompileC
+x3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_next.o
+x/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_next.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_next.c319992770#319992771#0(0"0(0#0#66"/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_next.c8653137984#1677"    cd /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -DCMAKE_INTDIR="Debug" -DHAVE_ALLOCA -DHAVE_ALLOCA_H -DHAVE_LIBPTHREAD -DHAVE_UNISTD_H -DHAVE_CONFIG_H -DHAVE_STRING_H=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/../include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/DerivedSources/i386 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/DerivedSources -Wall -pthread -fPIC -ggdb3 -DDEBUG -D_DEBUG -c /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_next.c -o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_next.o0#
+
+CCompileC 3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_ojpeg.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_ojpeg.c normal i386 c com.apple.compilers.gcc.4_2
+s319992771.051551
+e319992771.149350
+r1
+xCompileC
+x3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_ojpeg.o
+x/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_ojpeg.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_ojpeg.c319992771#319992771#0(0"0(0#0#67"/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_ojpeg.c8644823904#1679"    cd /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -DCMAKE_INTDIR="Debug" -DHAVE_ALLOCA -DHAVE_ALLOCA_H -DHAVE_LIBPTHREAD -DHAVE_UNISTD_H -DHAVE_CONFIG_H -DHAVE_STRING_H=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/../include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/DerivedSources/i386 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/DerivedSources -Wall -pthread -fPIC -ggdb3 -DDEBUG -D_DEBUG -c /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_ojpeg.c -o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_ojpeg.o0#
+
+CCompileC 3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_open.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_open.c normal i386 c com.apple.compilers.gcc.4_2
+s319992771.072997
+e319992771.313931
+r1
+xCompileC
+x3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_open.o
+x/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_open.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_open.c319992771#319992771#0(0"0(0#0#66"/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_open.c8641865120#1677"    cd /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -DCMAKE_INTDIR="Debug" -DHAVE_ALLOCA -DHAVE_ALLOCA_H -DHAVE_LIBPTHREAD -DHAVE_UNISTD_H -DHAVE_CONFIG_H -DHAVE_STRING_H=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/../include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/DerivedSources/i386 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/DerivedSources -Wall -pthread -fPIC -ggdb3 -DDEBUG -D_DEBUG -c /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_open.c -o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_open.o0#
+
+CCompileC 3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_packbits.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_packbits.c normal i386 c com.apple.compilers.gcc.4_2
+s319992771.149480
+e319992771.269642
+r1
+xCompileC
+x3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_packbits.o
+x/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_packbits.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_packbits.c319992771#319992771#0(0"0(0#0#70"/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_packbits.c8633125728#1685"    cd /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -DCMAKE_INTDIR="Debug" -DHAVE_ALLOCA -DHAVE_ALLOCA_H -DHAVE_LIBPTHREAD -DHAVE_UNISTD_H -DHAVE_CONFIG_H -DHAVE_STRING_H=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/../include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/DerivedSources/i386 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/DerivedSources -Wall -pthread -fPIC -ggdb3 -DDEBUG -D_DEBUG -c /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_packbits.c -o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_packbits.o0#
+
+CCompileC 3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_pixarlog.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_pixarlog.c normal i386 c com.apple.compilers.gcc.4_2
+s319992771.204351
+e319992771.288168
+r1
+xCompileC
+x3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_pixarlog.o
+x/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_pixarlog.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_pixarlog.c319992771#319992771#0(0"0(0#0#70"/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_pixarlog.c8627292960#1685"    cd /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -DCMAKE_INTDIR="Debug" -DHAVE_ALLOCA -DHAVE_ALLOCA_H -DHAVE_LIBPTHREAD -DHAVE_UNISTD_H -DHAVE_CONFIG_H -DHAVE_STRING_H=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/../include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/DerivedSources/i386 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/DerivedSources -Wall -pthread -fPIC -ggdb3 -DDEBUG -D_DEBUG -c /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_pixarlog.c -o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_pixarlog.o0#
+
+CCompileC 3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_predict.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_predict.c normal i386 c com.apple.compilers.gcc.4_2
+s319992771.270088
+e319992771.612845
+r1
+xCompileC
+x3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_predict.o
+x/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_predict.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+o/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_predict.c: In function 'PredictorEncodeTile':
+o/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_predict.c:587: warning: format '%d' expects type 'int', but argument 4 has type 'tsize_t'
+lSLF07#2@77"Compile /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_predict.c319992771#319992771#0(256"/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_predict.c: In function 'PredictorEncodeTile':/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_predict.c:587: warning: format '%d' expects type 'int', but argument 4 has type 'tsize_t'1(22@65"Format '%d' expects type 'int', but argument 4 has type 'tsize_t'319992771#106#150#0(6@69"/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_predict.c313212923#587#0#587#0#56"format '*' expects type '*', but argument * has type '*'0(0#0#69"/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_predict.c8644782496#1683"    cd /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -DCMAKE_INTDIR="Debug" -DHAVE_ALLOCA -DHAVE_ALLOCA_H -DHAVE_LIBPTHREAD -DHAVE_UNISTD_H -DHAVE_CONFIG_H -DHAVE_STRING_H=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/../include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/DerivedSources/i386 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/DerivedSources -Wall -pthread -fPIC -ggdb3 -DDEBUG -D_DEBUG -c /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_predict.c -o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_predict.o0#
+
+CCompileC 3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_print.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_print.c normal i386 c com.apple.compilers.gcc.4_2
+s319992771.288344
+e319992771.538445
+r1
+xCompileC
+x3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_print.o
+x/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_print.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_print.c319992771#319992771#0(0"0(0#0#67"/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_print.c8632770944#1679"    cd /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -DCMAKE_INTDIR="Debug" -DHAVE_ALLOCA -DHAVE_ALLOCA_H -DHAVE_LIBPTHREAD -DHAVE_UNISTD_H -DHAVE_CONFIG_H -DHAVE_STRING_H=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/../include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/DerivedSources/i386 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/DerivedSources -Wall -pthread -fPIC -ggdb3 -DDEBUG -D_DEBUG -c /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_print.c -o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_print.o0#
+
+CCompileC 3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_read.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_read.c normal i386 c com.apple.compilers.gcc.4_2
+s319992771.314075
+e319992771.555647
+r1
+xCompileC
+x3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_read.o
+x/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_read.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_read.c319992771#319992771#0(0"0(0#0#66"/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_read.c8626203104#1677"    cd /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -DCMAKE_INTDIR="Debug" -DHAVE_ALLOCA -DHAVE_ALLOCA_H -DHAVE_LIBPTHREAD -DHAVE_UNISTD_H -DHAVE_CONFIG_H -DHAVE_STRING_H=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/../include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/DerivedSources/i386 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/DerivedSources -Wall -pthread -fPIC -ggdb3 -DDEBUG -D_DEBUG -c /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_read.c -o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_read.o0#
+
+CCompileC 3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_stream.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_stream.cxx normal i386 c++ com.apple.compilers.gcc.4_2
+s319992771.358387
+e319992772.359671
+r1
+xCompileC
+x3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_stream.o
+x/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_stream.cxx
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+o/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_stream.cxx: In function 'toff_t _tiffosSeekProc(void*, toff_t, int)':
+o/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_stream.cxx:140: warning: comparison between signed and unsigned integer expressions
+lSLF07#2@78"Compile /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_stream.cxx319992771#319992772#0(274"/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_stream.cxx: In function 'toff_t _tiffosSeekProc(void*, toff_t, int)':/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_stream.cxx:140: warning: comparison between signed and unsigned integer expressions1(22@58"Comparison between signed and unsigned integer expressions319992772#130#144#0(6@70"/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_stream.cxx313212923#140#0#140#0#58"comparison between signed and unsigned integer expressions0(0#0#70"/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_stream.cxx8632099680#1679"    cd /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -DCMAKE_INTDIR="Debug" -DHAVE_ALLOCA -DHAVE_ALLOCA_H -DHAVE_LIBPTHREAD -DHAVE_UNISTD_H -DHAVE_CONFIG_H -DHAVE_STRING_H=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/../include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/DerivedSources/i386 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/DerivedSources -Wall -pthread -ggdb3 -DDEBUG -D_DEBUG -c /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_stream.cxx -o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_stream.o0#
+
+CCompileC 3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_strip.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_strip.c normal i386 c com.apple.compilers.gcc.4_2
+s319992771.538579
+e319992771.686661
+r1
+xCompileC
+x3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_strip.o
+x/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_strip.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_strip.c319992771#319992771#0(0"0(0#0#67"/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_strip.c8626837376#1679"    cd /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -DCMAKE_INTDIR="Debug" -DHAVE_ALLOCA -DHAVE_ALLOCA_H -DHAVE_LIBPTHREAD -DHAVE_UNISTD_H -DHAVE_CONFIG_H -DHAVE_STRING_H=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/../include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/DerivedSources/i386 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/DerivedSources -Wall -pthread -fPIC -ggdb3 -DDEBUG -D_DEBUG -c /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_strip.c -o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_strip.o0#
+
+CCompileC 3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_swab.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_swab.c normal i386 c com.apple.compilers.gcc.4_2
+s319992771.555783
+e319992771.683588
+r1
+xCompileC
+x3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_swab.o
+x/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_swab.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_swab.c319992771#319992771#0(0"0(0#0#66"/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_swab.c8621323968#1677"    cd /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -DCMAKE_INTDIR="Debug" -DHAVE_ALLOCA -DHAVE_ALLOCA_H -DHAVE_LIBPTHREAD -DHAVE_UNISTD_H -DHAVE_CONFIG_H -DHAVE_STRING_H=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/../include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/DerivedSources/i386 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/DerivedSources -Wall -pthread -fPIC -ggdb3 -DDEBUG -D_DEBUG -c /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_swab.c -o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_swab.o0#
+
+CCompileC 3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_thunder.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_thunder.c normal i386 c com.apple.compilers.gcc.4_2
+s319992771.612990
+e319992771.765557
+r1
+xCompileC
+x3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_thunder.o
+x/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_thunder.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_thunder.c319992771#319992771#0(0"0(0#0#69"/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_thunder.c8619550432#1683"    cd /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -DCMAKE_INTDIR="Debug" -DHAVE_ALLOCA -DHAVE_ALLOCA_H -DHAVE_LIBPTHREAD -DHAVE_UNISTD_H -DHAVE_CONFIG_H -DHAVE_STRING_H=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/../include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/DerivedSources/i386 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/DerivedSources -Wall -pthread -fPIC -ggdb3 -DDEBUG -D_DEBUG -c /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_thunder.c -o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_thunder.o0#
+
+CCompileC 3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_tile.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_tile.c normal i386 c com.apple.compilers.gcc.4_2
+s319992771.683743
+e319992771.851822
+r1
+xCompileC
+x3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_tile.o
+x/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_tile.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_tile.c319992771#319992771#0(0"0(0#0#66"/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_tile.c8632690368#1677"    cd /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -DCMAKE_INTDIR="Debug" -DHAVE_ALLOCA -DHAVE_ALLOCA_H -DHAVE_LIBPTHREAD -DHAVE_UNISTD_H -DHAVE_CONFIG_H -DHAVE_STRING_H=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/../include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/DerivedSources/i386 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/DerivedSources -Wall -pthread -fPIC -ggdb3 -DDEBUG -D_DEBUG -c /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_tile.c -o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_tile.o0#
+
+CCompileC 3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_unix.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_unix.c normal i386 c com.apple.compilers.gcc.4_2
+s319992771.863960
+e319992771.978898
+r1
+xCompileC
+x3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_unix.o
+x/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_unix.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_unix.c319992771#319992771#0(0"0(0#0#66"/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_unix.c8663112704#1677"    cd /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -DCMAKE_INTDIR="Debug" -DHAVE_ALLOCA -DHAVE_ALLOCA_H -DHAVE_LIBPTHREAD -DHAVE_UNISTD_H -DHAVE_CONFIG_H -DHAVE_STRING_H=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/../include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/DerivedSources/i386 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/DerivedSources -Wall -pthread -fPIC -ggdb3 -DDEBUG -D_DEBUG -c /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_unix.c -o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_unix.o0#
+
+CCompileC 3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_version.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_version.c normal i386 c com.apple.compilers.gcc.4_2
+s319992771.686788
+e319992771.768994
+r1
+xCompileC
+x3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_version.o
+x/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_version.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_version.c319992771#319992771#0(0"0(0#0#69"/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_version.c8610669216#1683"    cd /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -DCMAKE_INTDIR="Debug" -DHAVE_ALLOCA -DHAVE_ALLOCA_H -DHAVE_LIBPTHREAD -DHAVE_UNISTD_H -DHAVE_CONFIG_H -DHAVE_STRING_H=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/../include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/DerivedSources/i386 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/DerivedSources -Wall -pthread -fPIC -ggdb3 -DDEBUG -D_DEBUG -c /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_version.c -o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_version.o0#
+
+CCompileC 3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_warning.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_warning.c normal i386 c com.apple.compilers.gcc.4_2
+s319992771.765716
+e319992771.863805
+r1
+xCompileC
+x3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_warning.o
+x/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_warning.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_warning.c319992771#319992771#0(0"0(0#0#69"/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_warning.c8658739520#1683"    cd /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -DCMAKE_INTDIR="Debug" -DHAVE_ALLOCA -DHAVE_ALLOCA_H -DHAVE_LIBPTHREAD -DHAVE_UNISTD_H -DHAVE_CONFIG_H -DHAVE_STRING_H=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/../include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/DerivedSources/i386 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/DerivedSources -Wall -pthread -fPIC -ggdb3 -DDEBUG -D_DEBUG -c /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_warning.c -o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_warning.o0#
+
+CCompileC 3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_write.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_write.c normal i386 c com.apple.compilers.gcc.4_2
+s319992771.769145
+e319992771.958677
+r1
+xCompileC
+x3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_write.o
+x/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_write.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_write.c319992771#319992771#0(0"0(0#0#67"/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_write.c8658292160#1679"    cd /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -DCMAKE_INTDIR="Debug" -DHAVE_ALLOCA -DHAVE_ALLOCA_H -DHAVE_LIBPTHREAD -DHAVE_UNISTD_H -DHAVE_CONFIG_H -DHAVE_STRING_H=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/../include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/DerivedSources/i386 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/DerivedSources -Wall -pthread -fPIC -ggdb3 -DDEBUG -D_DEBUG -c /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_write.c -o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_write.o0#
+
+CCompileC 3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_zip.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_zip.c normal i386 c com.apple.compilers.gcc.4_2
+s319992771.852242
+e319992771.914922
+r1
+xCompileC
+x3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_zip.o
+x/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_zip.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_zip.c319992771#319992771#0(0"0(0#0#65"/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_zip.c8667691712#1675"    cd /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -DCMAKE_INTDIR="Debug" -DHAVE_ALLOCA -DHAVE_ALLOCA_H -DHAVE_LIBPTHREAD -DHAVE_UNISTD_H -DHAVE_CONFIG_H -DHAVE_STRING_H=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/../include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/DerivedSources/i386 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/DerivedSources -Wall -pthread -fPIC -ggdb3 -DDEBUG -D_DEBUG -c /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_zip.c -o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_zip.o0#
+
+CLibtool /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug/liblibtiff.a normal i386
+s319992772.359799
+e319992772.414617
+r1
+xLibtool
+x/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug/liblibtiff.a
+xnormal
+xi386
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/libtool: file: /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_jbig.o has no symbols
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/libtool: file: /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_jpeg.o has no symbols
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/libtool: file: /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_ojpeg.o has no symbols
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/libtool: file: /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_pixarlog.o has no symbols
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/libtool: file: /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_zip.o has no symbols
+lSLF07#2@51"Libtool 3rdparty/lib/Debug/liblibtiff.a normal i386319992772#319992772#0(1154"/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/libtool: file: /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_jbig.o has no symbols/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/libtool: file: /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_jpeg.o has no symbols/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/libtool: file: /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_ojpeg.o has no symbols/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/libtool: file: /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_pixarlog.o has no symbols/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/libtool: file: /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/tif_zip.o has no symbols0(0#0#0"8662783232#704"    cd /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/libtool -static -arch_only i386 -syslibroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug -filelist /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/libtiff.LinkFileList -o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug/liblibtiff.a0#
+
+CPhaseScriptExecution "CMake PostBuild Rules" /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Script-10172FEE010172FEE010172F.sh
+s319993550.233975
+e319993550.370515
+r1
+xPhaseScriptExecution
+xCMake PostBuild Rules
+x/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Script-10172FEE010172FEE010172F.sh
+oecho "Depend check for xcode"
+oDepend check for xcode
+ocd /Users/jjthrash/Downloads/OpenCV-2.2.0 && make -C /Users/jjthrash/Downloads/OpenCV-2.2.0 -f /Users/jjthrash/Downloads/OpenCV-2.2.0/CMakeScripts/XCODE_DEPEND_HELPER.make all.Debug
+o/bin/rm -f /Users/jjthrash/Downloads/OpenCV-2.2.0/bin/Debug/opencv_createsamples
+o/bin/rm -f /Users/jjthrash/Downloads/OpenCV-2.2.0/bin/Debug/opencv_haartraining
+o/bin/rm -f /Users/jjthrash/Downloads/OpenCV-2.2.0/bin/Debug/opencv_performance
+o/bin/rm -f /Users/jjthrash/Downloads/OpenCV-2.2.0/bin/Debug/opencv_traincascade
+o/bin/rm -f /Users/jjthrash/Downloads/OpenCV-2.2.0/bin/Debug/opencv_test
+o/bin/rm -f /Users/jjthrash/Downloads/OpenCV-2.2.0/bin/Debug/opencv_test_core
+o/bin/rm -f /Users/jjthrash/Downloads/OpenCV-2.2.0/bin/Debug/opencv_test_ml
+o/bin/rm -f /Users/jjthrash/Downloads/OpenCV-2.2.0/bin/Debug/opencv_test_gpu
+oecho "Depend check for xcode"
+oDepend check for xcode
+ocd /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff && make -C /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff -f /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/CMakeScripts/XCODE_DEPEND_HELPER.make all.Debug
+omake[1]: Nothing to be done for `all.Debug'.
+lSLF07#2@47"Run custom shell script 'CMake PostBuild Rules'319993550#319993550#0(1186"echo "Depend check for xcode"Depend check for xcodecd /Users/jjthrash/Downloads/OpenCV-2.2.0 && make -C /Users/jjthrash/Downloads/OpenCV-2.2.0 -f /Users/jjthrash/Downloads/OpenCV-2.2.0/CMakeScripts/XCODE_DEPEND_HELPER.make all.Debug/bin/rm -f /Users/jjthrash/Downloads/OpenCV-2.2.0/bin/Debug/opencv_createsamples/bin/rm -f /Users/jjthrash/Downloads/OpenCV-2.2.0/bin/Debug/opencv_haartraining/bin/rm -f /Users/jjthrash/Downloads/OpenCV-2.2.0/bin/Debug/opencv_performance/bin/rm -f /Users/jjthrash/Downloads/OpenCV-2.2.0/bin/Debug/opencv_traincascade/bin/rm -f /Users/jjthrash/Downloads/OpenCV-2.2.0/bin/Debug/opencv_test/bin/rm -f /Users/jjthrash/Downloads/OpenCV-2.2.0/bin/Debug/opencv_test_core/bin/rm -f /Users/jjthrash/Downloads/OpenCV-2.2.0/bin/Debug/opencv_test_ml/bin/rm -f /Users/jjthrash/Downloads/OpenCV-2.2.0/bin/Debug/opencv_test_gpuecho "Depend check for xcode"Depend check for xcodecd /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff && make -C /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff -f /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/CMakeScripts/XCODE_DEPEND_HELPER.make all.Debugmake[1]: Nothing to be done for `all.Debug'.15(13@30"echo "Depend check for xcode"319993550#0#30#0(1@0"0(13@23"Depend check for xcode319993550#30#23#0(1@0"0(13@182"cd /Users/jjthrash/Downloads/OpenCV-2.2.0 && make -C /Users/jjthrash/Downloads/OpenCV-2.2.0 -f /Users/jjthrash/Downloads/OpenCV-2.2.0/CMakeScripts/XCODE_DEPEND_HELPER.make all.Debug319993550#53#182#0(1@0"0(13@81"/bin/rm -f /Users/jjthrash/Downloads/OpenCV-2.2.0/bin/Debug/opencv_createsamples319993550#235#81#0(1@0"0(13@80"/bin/rm -f /Users/jjthrash/Downloads/OpenCV-2.2.0/bin/Debug/opencv_haartraining319993550#316#80#0(1@0"0(13@79"/bin/rm -f /Users/jjthrash/Downloads/OpenCV-2.2.0/bin/Debug/opencv_performance319993550#396#79#0(1@0"0(13@80"/bin/rm -f /Users/jjthrash/Downloads/OpenCV-2.2.0/bin/Debug/opencv_traincascade319993550#475#80#0(1@0"0(13@72"/bin/rm -f /Users/jjthrash/Downloads/OpenCV-2.2.0/bin/Debug/opencv_test319993550#555#72#0(1@0"0(13@77"/bin/rm -f /Users/jjthrash/Downloads/OpenCV-2.2.0/bin/Debug/opencv_test_core319993550#627#77#0(1@0"0(13@75"/bin/rm -f /Users/jjthrash/Downloads/OpenCV-2.2.0/bin/Debug/opencv_test_ml319993550#704#75#0(1@0"0(13@76"/bin/rm -f /Users/jjthrash/Downloads/OpenCV-2.2.0/bin/Debug/opencv_test_gpu319993550#779#76#0(1@0"0(13@30"echo "Depend check for xcode"319993550#855#30#0(1@0"0(13@23"Depend check for xcode319993550#885#23#0(1@0"0(13@233"cd /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff && make -C /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff -f /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/CMakeScripts/XCODE_DEPEND_HELPER.make all.Debug319993550#908#233#0(1@0"0(13@45"make[1]: Nothing to be done for `all.Debug'.319993550#1141#45#0(1@0"0(0#0#0"8608661088#16763"    cd /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv ACTION build    setenv ALTERNATE_GROUP staff    setenv ALTERNATE_MODE u+w,go-w,a+rX    setenv ALTERNATE_OWNER jjthrash    setenv ALWAYS_SEARCH_USER_PATHS YES    setenv APPLE_INTERNAL_DEVELOPER_DIR /AppleInternal/Developer    setenv APPLE_INTERNAL_DIR /AppleInternal    setenv APPLE_INTERNAL_DOCUMENTATION_DIR /AppleInternal/Documentation    setenv APPLE_INTERNAL_LIBRARY_DIR /AppleInternal/Library    setenv APPLE_INTERNAL_TOOLS /AppleInternal/Developer/Tools    setenv APPLY_RULES_IN_COPY_FILES NO    setenv ARCHS i386    setenv ARCHS_STANDARD_32_BIT i386    setenv ARCHS_UNIVERSAL_IPHONE_OS i386    setenv BUILD_COMPONENTS "headers build"    setenv BUILD_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff    setenv BUILD_ROOT /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff    setenv BUILD_STYLE Debug    setenv BUILD_VARIANTS normal    setenv BUILT_PRODUCTS_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug    setenv CACHE_ROOT /var/folders/j9/j9D8eGkFG60i5wEYUED5B++++TI/-Caches-/com.apple.Xcode.501    setenv CCHROOT /var/folders/j9/j9D8eGkFG60i5wEYUED5B++++TI/-Caches-/com.apple.Xcode.501    setenv CHMOD /bin/chmod    setenv CHOWN /usr/sbin/chown    setenv CLASS_FILE_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/JavaClasses    setenv CLEAN_PRECOMPS YES    setenv CLONE_HEADERS NO    setenv CODESIGNING_FOLDER_PATH /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug/liblibtiff.a    setenv CODE_SIGN_CONTEXT_CLASS XCCodeSignContext    setenv COMMAND_MODE legacy    setenv COMPOSITE_SDK_DIRS /var/folders/j9/j9D8eGkFG60i5wEYUED5B++++TI/-Caches-/com.apple.Xcode.501/CompositeSDKs    setenv COMPRESS_PNG_FILES YES    setenv CONFIGURATION Debug    setenv CONFIGURATION_BUILD_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug    setenv CONFIGURATION_TEMP_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator    setenv COPYING_PRESERVES_HFS_DATA NO    setenv COPY_PHASE_STRIP YES    setenv COPY_RESOURCES_FROM_STATIC_FRAMEWORKS YES    setenv CP /bin/cp    setenv CURRENT_ARCH i386    setenv CURRENT_VARIANT normal    setenv DEAD_CODE_STRIPPING NO    setenv DEBUGGING_SYMBOLS YES    setenv DEBUG_INFORMATION_FORMAT dwarf-with-dsym    setenv DEPLOYMENT_LOCATION NO    setenv DEPLOYMENT_POSTPROCESSING NO    setenv DERIVED_FILES_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/DerivedSources    setenv DERIVED_FILE_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/DerivedSources    setenv DERIVED_SOURCES_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/DerivedSources    setenv DEVELOPER_APPLICATIONS_DIR /Developer/Applications    setenv DEVELOPER_BIN_DIR /Developer/usr/bin    setenv DEVELOPER_DIR /Developer    setenv DEVELOPER_FRAMEWORKS_DIR /Developer/Library/Frameworks    setenv DEVELOPER_FRAMEWORKS_DIR_QUOTED "\"/Developer/Library/Frameworks\""    setenv DEVELOPER_LIBRARY_DIR /Developer/Library    setenv DEVELOPER_SDK_DIR /Developer/SDKs    setenv DEVELOPER_TOOLS_DIR /Developer/Tools    setenv DEVELOPER_USR_DIR /Developer/usr    setenv DEVELOPMENT_LANGUAGE English    setenv DO_HEADER_SCANNING_IN_JAM NO    setenv DSTROOT /tmp/OpenCV.dst    setenv DWARF_DSYM_FILE_NAME liblibtiff.a.dSYM    setenv DWARF_DSYM_FOLDER_PATH /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug    setenv EFFECTIVE_PLATFORM_NAME -iphonesimulator    setenv ENABLE_HEADER_DEPENDENCIES YES    setenv ENABLE_OPENMP_SUPPORT NO    setenv EXCLUDED_INSTALLSRC_SUBDIRECTORY_PATTERNS ".svn .git CVS"    setenv EXCLUDED_RECURSIVE_SEARCH_PATH_SUBDIRECTORIES "*.nib *.lproj *.framework *.gch (*) CVS .svn .git *.xcodeproj *.xcode *.pbproj *.pbxproj"    setenv EXECUTABLE_EXTENSION a    setenv EXECUTABLE_NAME liblibtiff.a    setenv EXECUTABLE_PATH liblibtiff.a    setenv EXECUTABLE_PREFIX lib    setenv EXECUTABLE_SUFFIX .a    setenv FILE_LIST /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects/LinkFileList    setenv FIXED_FILES_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/FixedFiles    setenv FRAMEWORK_FLAG_PREFIX -framework    setenv FRAMEWORK_SEARCH_PATHS "\"/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug\" "    setenv FRAMEWORK_VERSION A    setenv FULL_PRODUCT_NAME liblibtiff.a    setenv GCC3_VERSION 3.3    setenv GCC_ENABLE_SYMBOL_SEPARATION NO    setenv GCC_GENERATE_DEBUGGING_SYMBOLS YES    setenv GCC_INLINES_ARE_PRIVATE_EXTERN NO    setenv GCC_OBJC_LEGACY_DISPATCH YES    setenv GCC_OPTIMIZATION_LEVEL 0    setenv GCC_PFE_FILE_C_DIALECTS "c objective-c c++ objective-c++"    setenv GCC_PREPROCESSOR_DEFINITIONS "'CMAKE_INTDIR=\"Debug\"' HAVE_ALLOCA HAVE_ALLOCA_H HAVE_LIBPTHREAD HAVE_UNISTD_H HAVE_CONFIG_H 'HAVE_STRING_H=1'"    setenv GCC_SYMBOLS_PRIVATE_EXTERN NO    setenv GCC_THUMB_SUPPORT YES    setenv GCC_TREAT_WARNINGS_AS_ERRORS NO    setenv GCC_VERSION 4.2    setenv GCC_VERSION_IDENTIFIER __2    setenv GENERATE_MASTER_OBJECT_FILE NO    setenv GENERATE_PKGINFO_FILE NO    setenv GENERATE_PROFILING_CODE NO    setenv GID 20    setenv GROUP staff    setenv HEADERMAP_INCLUDES_FLAT_ENTRIES_FOR_TARGET_BEING_BUILT YES    setenv HEADERMAP_INCLUDES_FRAMEWORK_ENTRIES_FOR_ALL_PRODUCT_TYPES YES    setenv HEADERMAP_INCLUDES_NONPUBLIC_NONPRIVATE_HEADERS YES    setenv HEADERMAP_INCLUDES_PROJECT_HEADERS YES    setenv HEADER_SEARCH_PATHS "\"/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug/include\" /Users/jjthrash/Downloads/OpenCV-2.2.0/. /Users/jjthrash/Downloads/OpenCV-2.2.0 /Users/jjthrash/Downloads/OpenCV-2.2.0/include /Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/../include"    setenv ICONV /usr/bin/iconv    setenv INFOPLIST_EXPAND_BUILD_SETTINGS YES    setenv INFOPLIST_OUTPUT_FORMAT binary    setenv INFOPLIST_PREPROCESS NO    setenv INSTALL_DIR /tmp/OpenCV.dst    setenv INSTALL_GROUP staff    setenv INSTALL_MODE_FLAG u+w,go-w,a+rX    setenv INSTALL_OWNER jjthrash    setenv INSTALL_ROOT /tmp/OpenCV.dst    setenv IPHONEOS_DEPLOYMENT_TARGET 4.2    setenv JAVAC_DEFAULT_FLAGS "-J-Xms64m -J-XX:NewSize=4M -J-Dfile.encoding=UTF8"    setenv JAVA_APP_STUB /System/Library/Frameworks/JavaVM.framework/Resources/MacOS/JavaApplicationStub    setenv JAVA_ARCHIVE_CLASSES YES    setenv JAVA_ARCHIVE_TYPE JAR    setenv JAVA_COMPILER /usr/bin/javac    setenv JAVA_FRAMEWORK_RESOURCES_DIRS Resources    setenv JAVA_JAR_FLAGS cv    setenv JAVA_SOURCE_SUBDIR .    setenv JAVA_USE_DEPENDENCIES YES    setenv JAVA_ZIP_FLAGS -urg    setenv JIKES_DEFAULT_FLAGS "+E +OLDCSO"    setenv KEEP_PRIVATE_EXTERNS NO    setenv LD_GENERATE_MAP_FILE NO    setenv LD_MAP_FILE_PATH /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/libtiff-LinkMap-normal-i386.txt    setenv LD_OPENMP_FLAGS -fopenmp    setenv LEX /Developer/usr/bin/lex    setenv LIBRARY_FLAG_NOSPACE YES    setenv LIBRARY_FLAG_PREFIX -l    setenv LIBRARY_SEARCH_PATHS "\"/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug\" "    setenv LIBRARY_STYLE STATIC    setenv LINKER_DISPLAYS_MANGLED_NAMES NO    setenv LINK_FILE_LIST_normal_i386 /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/libtiff.LinkFileList    setenv LINK_WITH_STANDARD_LIBRARIES YES    setenv LOCAL_ADMIN_APPS_DIR /Applications/Utilities    setenv LOCAL_APPS_DIR /Applications    setenv LOCAL_DEVELOPER_DIR /Library/Developer    setenv LOCAL_LIBRARY_DIR /Library    setenv MACH_O_TYPE staticlib    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv MAC_OS_X_VERSION_ACTUAL 1066    setenv MAC_OS_X_VERSION_MAJOR 1060    setenv MAC_OS_X_VERSION_MINOR 0606    setenv NATIVE_ARCH i386    setenv NATIVE_ARCH_32_BIT i386    setenv NATIVE_ARCH_64_BIT x86_64    setenv NATIVE_ARCH_ACTUAL x86_64    setenv NO_COMMON YES    setenv OBJC_ABI_VERSION 2    setenv OBJECT_FILE_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects    setenv OBJECT_FILE_DIR_normal /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal    setenv OBJROOT /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff    setenv ONLY_ACTIVE_ARCH YES    setenv OPTIMIZATION_LEVEL 0    setenv OS MACOS    setenv OSAC /usr/bin/osacompile    setenv OTHER_CFLAGS "-Wall -pthread -fPIC -ggdb3 -DDEBUG -D_DEBUG"    setenv OTHER_CPLUSPLUSFLAGS "-Wall -pthread -ggdb3 -DDEBUG -D_DEBUG"    setenv PACKAGE_TYPE com.apple.package-type.static-library    setenv PASCAL_STRINGS YES    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv PATH_PREFIXES_EXCLUDED_FROM_HEADER_DEPENDENCIES "/usr/include /usr/local/include /System/Library/Frameworks /System/Library/PrivateFrameworks /Developer/Headers /Developer/SDKs /Developer/Platforms"    setenv PFE_FILE_C_DIALECTS "c c++"    setenv PKGINFO_FILE_PATH /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/PkgInfo    setenv PLATFORM_DEVELOPER_APPLICATIONS_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/Applications    setenv PLATFORM_DEVELOPER_BIN_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin    setenv PLATFORM_DEVELOPER_LIBRARY_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/Library    setenv PLATFORM_DEVELOPER_SDK_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs    setenv PLATFORM_DEVELOPER_TOOLS_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/Tools    setenv PLATFORM_DEVELOPER_USR_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/usr    setenv PLATFORM_DIR /Developer/Platforms/iPhoneSimulator.platform    setenv PLATFORM_NAME iphonesimulator    setenv PLATFORM_PRODUCT_BUILD_VERSION 8C134    setenv PLATFORM_VERSION_AVAILABILITY_H_FORMAT 40200    setenv PLIST_FILE_OUTPUT_FORMAT binary    setenv PREBINDING NO    setenv PRECOMPS_INCLUDE_HEADERS_FROM_BUILT_PRODUCTS_DIR YES    setenv PRECOMP_DESTINATION_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/PrefixHeaders    setenv PRESERVE_DEAD_CODE_INITS_AND_TERMS NO    setenv PRIVATE_HEADERS_FOLDER_PATH /usr/local/include    setenv PRODUCT_NAME libtiff    setenv PRODUCT_SETTINGS_PATH     setenv PRODUCT_TYPE com.apple.product-type.library.static    setenv PROFILING_CODE NO    setenv PROJECT OpenCV    setenv PROJECT_DERIVED_FILE_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/DerivedSources    setenv PROJECT_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv PROJECT_FILE_PATH /Users/jjthrash/Downloads/OpenCV-2.2.0/OpenCV.xcodeproj    setenv PROJECT_NAME OpenCV    setenv PROJECT_TEMP_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build    setenv PUBLIC_HEADERS_FOLDER_PATH /usr/local/include    setenv RECURSIVE_SEARCH_PATHS_FOLLOW_SYMLINKS YES    setenv REMOVE_CVS_FROM_RESOURCES YES    setenv REMOVE_GIT_FROM_RESOURCES YES    setenv REMOVE_SVN_FROM_RESOURCES YES    setenv REZ_COLLECTOR_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/ResourceManagerResources    setenv REZ_EXECUTABLE YES    setenv REZ_OBJECTS_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/ResourceManagerResources/Objects    setenv REZ_SEARCH_PATHS "\"/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug\" "    setenv RUN_CLANG_STATIC_ANALYZER NO    setenv SCAN_ALL_SOURCE_FILES_FOR_INCLUDES NO    setenv SCRIPT_INPUT_FILE_COUNT 0    setenv SCRIPT_OUTPUT_FILE_COUNT 0    setenv SDKROOT /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk    setenv SDK_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk    setenv SDK_NAME iphonesimulator4.2    setenv SED /usr/bin/sed    setenv SEPARATE_STRIP YES    setenv SEPARATE_SYMBOL_EDIT NO    setenv SET_DIR_MODE_OWNER_GROUP YES    setenv SET_FILE_MODE_OWNER_GROUP NO    setenv SHARED_DERIVED_FILE_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug/DerivedSources    setenv SHARED_PRECOMPS_DIR /var/folders/j9/j9D8eGkFG60i5wEYUED5B++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders    setenv SKIP_INSTALL YES    setenv SOURCE_ROOT /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv SRCROOT /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv STANDARD_C_PLUS_PLUS_LIBRARY_TYPE dynamic    setenv STRINGS_FILE_OUTPUT_ENCODING binary    setenv STRIP_INSTALLED_PRODUCT YES    setenv STRIP_STYLE debugging    setenv SUPPORTED_DEVICE_FAMILIES "1 2"    setenv SYMBOL_REPOSITORY_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/SymbolRepositories    setenv SYMROOT /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff    setenv SYSTEM_ADMIN_APPS_DIR /Applications/Utilities    setenv SYSTEM_APPS_DIR /Applications    setenv SYSTEM_CORE_SERVICES_DIR /System/Library/CoreServices    setenv SYSTEM_DEMOS_DIR /Applications/Extras    setenv SYSTEM_DEVELOPER_APPS_DIR /Developer/Applications    setenv SYSTEM_DEVELOPER_BIN_DIR /Developer/usr/bin    setenv SYSTEM_DEVELOPER_DEMOS_DIR "/Developer/Applications/Utilities/Built Examples"    setenv SYSTEM_DEVELOPER_DIR /Developer    setenv SYSTEM_DEVELOPER_DOC_DIR "/Developer/ADC Reference Library"    setenv SYSTEM_DEVELOPER_GRAPHICS_TOOLS_DIR "/Developer/Applications/Graphics Tools"    setenv SYSTEM_DEVELOPER_JAVA_TOOLS_DIR "/Developer/Applications/Java Tools"    setenv SYSTEM_DEVELOPER_PERFORMANCE_TOOLS_DIR "/Developer/Applications/Performance Tools"    setenv SYSTEM_DEVELOPER_RELEASENOTES_DIR "/Developer/ADC Reference Library/releasenotes"    setenv SYSTEM_DEVELOPER_TOOLS /Developer/Tools    setenv SYSTEM_DEVELOPER_TOOLS_DOC_DIR "/Developer/ADC Reference Library/documentation/DeveloperTools"    setenv SYSTEM_DEVELOPER_TOOLS_RELEASENOTES_DIR "/Developer/ADC Reference Library/releasenotes/DeveloperTools"    setenv SYSTEM_DEVELOPER_USR_DIR /Developer/usr    setenv SYSTEM_DEVELOPER_UTILITIES_DIR /Developer/Applications/Utilities    setenv SYSTEM_DOCUMENTATION_DIR /Library/Documentation    setenv SYSTEM_LIBRARY_DIR /System/Library    setenv TARGETED_DEVICE_FAMILY 1    setenv TARGETNAME libtiff    setenv TARGET_BUILD_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug    setenv TARGET_NAME libtiff    setenv TARGET_TEMP_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build    setenv TEMP_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build    setenv TEMP_FILES_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build    setenv TEMP_FILE_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build    setenv TEMP_ROOT /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff    setenv UID 501    setenv UNSTRIPPED_PRODUCT NO    setenv USER jjthrash    setenv USER_APPS_DIR /Users/jjthrash/Applications    setenv USER_LIBRARY_DIR /Users/jjthrash/Library    setenv USE_DYNAMIC_NO_PIC YES    setenv USE_HEADERMAP NO    setenv USE_HEADER_SYMLINKS NO    setenv VALIDATE_PRODUCT NO    setenv VALID_ARCHS i386    setenv VERBOSE_PBXCP NO    setenv VERSION_INFO_BUILDER jjthrash    setenv VERSION_INFO_FILE libtiff_vers.c    setenv VERSION_INFO_STRING "\"@(#)PROGRAM:libtiff  PROJECT:OpenCV-\""    setenv WARNING_CFLAGS "-Wmost -Wno-four-char-constants -Wno-unknown-pragmas"    setenv XCODE_APP_SUPPORT_DIR /Developer/Library/Xcode    setenv XCODE_PRODUCT_BUILD_VERSION 10M2423    setenv XCODE_VERSION_ACTUAL 0325    setenv XCODE_VERSION_MAJOR 0300    setenv XCODE_VERSION_MINOR 0320    setenv YACC /Developer/usr/bin/yacc    setenv _REAL_SDKROOT iphoneos    /bin/sh -c /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Script-10172FEE010172FEE010172F.sh0#
+
+CPhaseScriptExecution "CMake ReRun" /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Script-10172F4A010172F4A010172F.sh
+s319993550.149529
+e319993550.228226
+r1
+xPhaseScriptExecution
+xCMake ReRun
+x/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Script-10172F4A010172F4A010172F.sh
+omake: `CMakeFiles/cmake.check_cache' is up to date.
+lSLF07#2@37"Run custom shell script 'CMake ReRun'319993550#319993550#0(52"make: `CMakeFiles/cmake.check_cache' is up to date.1(13@52"make: `CMakeFiles/cmake.check_cache' is up to date.319993550#0#52#0(1@0"0(0#0#0"8627445152#16763"    cd /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv ACTION build    setenv ALTERNATE_GROUP staff    setenv ALTERNATE_MODE u+w,go-w,a+rX    setenv ALTERNATE_OWNER jjthrash    setenv ALWAYS_SEARCH_USER_PATHS YES    setenv APPLE_INTERNAL_DEVELOPER_DIR /AppleInternal/Developer    setenv APPLE_INTERNAL_DIR /AppleInternal    setenv APPLE_INTERNAL_DOCUMENTATION_DIR /AppleInternal/Documentation    setenv APPLE_INTERNAL_LIBRARY_DIR /AppleInternal/Library    setenv APPLE_INTERNAL_TOOLS /AppleInternal/Developer/Tools    setenv APPLY_RULES_IN_COPY_FILES NO    setenv ARCHS i386    setenv ARCHS_STANDARD_32_BIT i386    setenv ARCHS_UNIVERSAL_IPHONE_OS i386    setenv BUILD_COMPONENTS "headers build"    setenv BUILD_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff    setenv BUILD_ROOT /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff    setenv BUILD_STYLE Debug    setenv BUILD_VARIANTS normal    setenv BUILT_PRODUCTS_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug    setenv CACHE_ROOT /var/folders/j9/j9D8eGkFG60i5wEYUED5B++++TI/-Caches-/com.apple.Xcode.501    setenv CCHROOT /var/folders/j9/j9D8eGkFG60i5wEYUED5B++++TI/-Caches-/com.apple.Xcode.501    setenv CHMOD /bin/chmod    setenv CHOWN /usr/sbin/chown    setenv CLASS_FILE_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/JavaClasses    setenv CLEAN_PRECOMPS YES    setenv CLONE_HEADERS NO    setenv CODESIGNING_FOLDER_PATH /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug/liblibtiff.a    setenv CODE_SIGN_CONTEXT_CLASS XCCodeSignContext    setenv COMMAND_MODE legacy    setenv COMPOSITE_SDK_DIRS /var/folders/j9/j9D8eGkFG60i5wEYUED5B++++TI/-Caches-/com.apple.Xcode.501/CompositeSDKs    setenv COMPRESS_PNG_FILES YES    setenv CONFIGURATION Debug    setenv CONFIGURATION_BUILD_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug    setenv CONFIGURATION_TEMP_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator    setenv COPYING_PRESERVES_HFS_DATA NO    setenv COPY_PHASE_STRIP YES    setenv COPY_RESOURCES_FROM_STATIC_FRAMEWORKS YES    setenv CP /bin/cp    setenv CURRENT_ARCH i386    setenv CURRENT_VARIANT normal    setenv DEAD_CODE_STRIPPING NO    setenv DEBUGGING_SYMBOLS YES    setenv DEBUG_INFORMATION_FORMAT dwarf-with-dsym    setenv DEPLOYMENT_LOCATION NO    setenv DEPLOYMENT_POSTPROCESSING NO    setenv DERIVED_FILES_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/DerivedSources    setenv DERIVED_FILE_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/DerivedSources    setenv DERIVED_SOURCES_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/DerivedSources    setenv DEVELOPER_APPLICATIONS_DIR /Developer/Applications    setenv DEVELOPER_BIN_DIR /Developer/usr/bin    setenv DEVELOPER_DIR /Developer    setenv DEVELOPER_FRAMEWORKS_DIR /Developer/Library/Frameworks    setenv DEVELOPER_FRAMEWORKS_DIR_QUOTED "\"/Developer/Library/Frameworks\""    setenv DEVELOPER_LIBRARY_DIR /Developer/Library    setenv DEVELOPER_SDK_DIR /Developer/SDKs    setenv DEVELOPER_TOOLS_DIR /Developer/Tools    setenv DEVELOPER_USR_DIR /Developer/usr    setenv DEVELOPMENT_LANGUAGE English    setenv DO_HEADER_SCANNING_IN_JAM NO    setenv DSTROOT /tmp/OpenCV.dst    setenv DWARF_DSYM_FILE_NAME liblibtiff.a.dSYM    setenv DWARF_DSYM_FOLDER_PATH /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug    setenv EFFECTIVE_PLATFORM_NAME -iphonesimulator    setenv ENABLE_HEADER_DEPENDENCIES YES    setenv ENABLE_OPENMP_SUPPORT NO    setenv EXCLUDED_INSTALLSRC_SUBDIRECTORY_PATTERNS ".svn .git CVS"    setenv EXCLUDED_RECURSIVE_SEARCH_PATH_SUBDIRECTORIES "*.nib *.lproj *.framework *.gch (*) CVS .svn .git *.xcodeproj *.xcode *.pbproj *.pbxproj"    setenv EXECUTABLE_EXTENSION a    setenv EXECUTABLE_NAME liblibtiff.a    setenv EXECUTABLE_PATH liblibtiff.a    setenv EXECUTABLE_PREFIX lib    setenv EXECUTABLE_SUFFIX .a    setenv FILE_LIST /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects/LinkFileList    setenv FIXED_FILES_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/FixedFiles    setenv FRAMEWORK_FLAG_PREFIX -framework    setenv FRAMEWORK_SEARCH_PATHS "\"/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug\" "    setenv FRAMEWORK_VERSION A    setenv FULL_PRODUCT_NAME liblibtiff.a    setenv GCC3_VERSION 3.3    setenv GCC_ENABLE_SYMBOL_SEPARATION NO    setenv GCC_GENERATE_DEBUGGING_SYMBOLS YES    setenv GCC_INLINES_ARE_PRIVATE_EXTERN NO    setenv GCC_OBJC_LEGACY_DISPATCH YES    setenv GCC_OPTIMIZATION_LEVEL 0    setenv GCC_PFE_FILE_C_DIALECTS "c objective-c c++ objective-c++"    setenv GCC_PREPROCESSOR_DEFINITIONS "'CMAKE_INTDIR=\"Debug\"' HAVE_ALLOCA HAVE_ALLOCA_H HAVE_LIBPTHREAD HAVE_UNISTD_H HAVE_CONFIG_H 'HAVE_STRING_H=1'"    setenv GCC_SYMBOLS_PRIVATE_EXTERN NO    setenv GCC_THUMB_SUPPORT YES    setenv GCC_TREAT_WARNINGS_AS_ERRORS NO    setenv GCC_VERSION 4.2    setenv GCC_VERSION_IDENTIFIER __2    setenv GENERATE_MASTER_OBJECT_FILE NO    setenv GENERATE_PKGINFO_FILE NO    setenv GENERATE_PROFILING_CODE NO    setenv GID 20    setenv GROUP staff    setenv HEADERMAP_INCLUDES_FLAT_ENTRIES_FOR_TARGET_BEING_BUILT YES    setenv HEADERMAP_INCLUDES_FRAMEWORK_ENTRIES_FOR_ALL_PRODUCT_TYPES YES    setenv HEADERMAP_INCLUDES_NONPUBLIC_NONPRIVATE_HEADERS YES    setenv HEADERMAP_INCLUDES_PROJECT_HEADERS YES    setenv HEADER_SEARCH_PATHS "\"/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug/include\" /Users/jjthrash/Downloads/OpenCV-2.2.0/. /Users/jjthrash/Downloads/OpenCV-2.2.0 /Users/jjthrash/Downloads/OpenCV-2.2.0/include /Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/../include"    setenv ICONV /usr/bin/iconv    setenv INFOPLIST_EXPAND_BUILD_SETTINGS YES    setenv INFOPLIST_OUTPUT_FORMAT binary    setenv INFOPLIST_PREPROCESS NO    setenv INSTALL_DIR /tmp/OpenCV.dst    setenv INSTALL_GROUP staff    setenv INSTALL_MODE_FLAG u+w,go-w,a+rX    setenv INSTALL_OWNER jjthrash    setenv INSTALL_ROOT /tmp/OpenCV.dst    setenv IPHONEOS_DEPLOYMENT_TARGET 4.2    setenv JAVAC_DEFAULT_FLAGS "-J-Xms64m -J-XX:NewSize=4M -J-Dfile.encoding=UTF8"    setenv JAVA_APP_STUB /System/Library/Frameworks/JavaVM.framework/Resources/MacOS/JavaApplicationStub    setenv JAVA_ARCHIVE_CLASSES YES    setenv JAVA_ARCHIVE_TYPE JAR    setenv JAVA_COMPILER /usr/bin/javac    setenv JAVA_FRAMEWORK_RESOURCES_DIRS Resources    setenv JAVA_JAR_FLAGS cv    setenv JAVA_SOURCE_SUBDIR .    setenv JAVA_USE_DEPENDENCIES YES    setenv JAVA_ZIP_FLAGS -urg    setenv JIKES_DEFAULT_FLAGS "+E +OLDCSO"    setenv KEEP_PRIVATE_EXTERNS NO    setenv LD_GENERATE_MAP_FILE NO    setenv LD_MAP_FILE_PATH /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/libtiff-LinkMap-normal-i386.txt    setenv LD_OPENMP_FLAGS -fopenmp    setenv LEX /Developer/usr/bin/lex    setenv LIBRARY_FLAG_NOSPACE YES    setenv LIBRARY_FLAG_PREFIX -l    setenv LIBRARY_SEARCH_PATHS "\"/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug\" "    setenv LIBRARY_STYLE STATIC    setenv LINKER_DISPLAYS_MANGLED_NAMES NO    setenv LINK_FILE_LIST_normal_i386 /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal/i386/libtiff.LinkFileList    setenv LINK_WITH_STANDARD_LIBRARIES YES    setenv LOCAL_ADMIN_APPS_DIR /Applications/Utilities    setenv LOCAL_APPS_DIR /Applications    setenv LOCAL_DEVELOPER_DIR /Library/Developer    setenv LOCAL_LIBRARY_DIR /Library    setenv MACH_O_TYPE staticlib    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv MAC_OS_X_VERSION_ACTUAL 1066    setenv MAC_OS_X_VERSION_MAJOR 1060    setenv MAC_OS_X_VERSION_MINOR 0606    setenv NATIVE_ARCH i386    setenv NATIVE_ARCH_32_BIT i386    setenv NATIVE_ARCH_64_BIT x86_64    setenv NATIVE_ARCH_ACTUAL x86_64    setenv NO_COMMON YES    setenv OBJC_ABI_VERSION 2    setenv OBJECT_FILE_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects    setenv OBJECT_FILE_DIR_normal /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Objects-normal    setenv OBJROOT /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff    setenv ONLY_ACTIVE_ARCH YES    setenv OPTIMIZATION_LEVEL 0    setenv OS MACOS    setenv OSAC /usr/bin/osacompile    setenv OTHER_CFLAGS "-Wall -pthread -fPIC -ggdb3 -DDEBUG -D_DEBUG"    setenv OTHER_CPLUSPLUSFLAGS "-Wall -pthread -ggdb3 -DDEBUG -D_DEBUG"    setenv PACKAGE_TYPE com.apple.package-type.static-library    setenv PASCAL_STRINGS YES    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv PATH_PREFIXES_EXCLUDED_FROM_HEADER_DEPENDENCIES "/usr/include /usr/local/include /System/Library/Frameworks /System/Library/PrivateFrameworks /Developer/Headers /Developer/SDKs /Developer/Platforms"    setenv PFE_FILE_C_DIALECTS "c c++"    setenv PKGINFO_FILE_PATH /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/PkgInfo    setenv PLATFORM_DEVELOPER_APPLICATIONS_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/Applications    setenv PLATFORM_DEVELOPER_BIN_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin    setenv PLATFORM_DEVELOPER_LIBRARY_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/Library    setenv PLATFORM_DEVELOPER_SDK_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs    setenv PLATFORM_DEVELOPER_TOOLS_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/Tools    setenv PLATFORM_DEVELOPER_USR_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/usr    setenv PLATFORM_DIR /Developer/Platforms/iPhoneSimulator.platform    setenv PLATFORM_NAME iphonesimulator    setenv PLATFORM_PRODUCT_BUILD_VERSION 8C134    setenv PLATFORM_VERSION_AVAILABILITY_H_FORMAT 40200    setenv PLIST_FILE_OUTPUT_FORMAT binary    setenv PREBINDING NO    setenv PRECOMPS_INCLUDE_HEADERS_FROM_BUILT_PRODUCTS_DIR YES    setenv PRECOMP_DESTINATION_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/PrefixHeaders    setenv PRESERVE_DEAD_CODE_INITS_AND_TERMS NO    setenv PRIVATE_HEADERS_FOLDER_PATH /usr/local/include    setenv PRODUCT_NAME libtiff    setenv PRODUCT_SETTINGS_PATH     setenv PRODUCT_TYPE com.apple.product-type.library.static    setenv PROFILING_CODE NO    setenv PROJECT OpenCV    setenv PROJECT_DERIVED_FILE_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/DerivedSources    setenv PROJECT_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv PROJECT_FILE_PATH /Users/jjthrash/Downloads/OpenCV-2.2.0/OpenCV.xcodeproj    setenv PROJECT_NAME OpenCV    setenv PROJECT_TEMP_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build    setenv PUBLIC_HEADERS_FOLDER_PATH /usr/local/include    setenv RECURSIVE_SEARCH_PATHS_FOLLOW_SYMLINKS YES    setenv REMOVE_CVS_FROM_RESOURCES YES    setenv REMOVE_GIT_FROM_RESOURCES YES    setenv REMOVE_SVN_FROM_RESOURCES YES    setenv REZ_COLLECTOR_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/ResourceManagerResources    setenv REZ_EXECUTABLE YES    setenv REZ_OBJECTS_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/ResourceManagerResources/Objects    setenv REZ_SEARCH_PATHS "\"/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug\" "    setenv RUN_CLANG_STATIC_ANALYZER NO    setenv SCAN_ALL_SOURCE_FILES_FOR_INCLUDES NO    setenv SCRIPT_INPUT_FILE_COUNT 0    setenv SCRIPT_OUTPUT_FILE_COUNT 0    setenv SDKROOT /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk    setenv SDK_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk    setenv SDK_NAME iphonesimulator4.2    setenv SED /usr/bin/sed    setenv SEPARATE_STRIP YES    setenv SEPARATE_SYMBOL_EDIT NO    setenv SET_DIR_MODE_OWNER_GROUP YES    setenv SET_FILE_MODE_OWNER_GROUP NO    setenv SHARED_DERIVED_FILE_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug/DerivedSources    setenv SHARED_PRECOMPS_DIR /var/folders/j9/j9D8eGkFG60i5wEYUED5B++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders    setenv SKIP_INSTALL YES    setenv SOURCE_ROOT /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv SRCROOT /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv STANDARD_C_PLUS_PLUS_LIBRARY_TYPE dynamic    setenv STRINGS_FILE_OUTPUT_ENCODING binary    setenv STRIP_INSTALLED_PRODUCT YES    setenv STRIP_STYLE debugging    setenv SUPPORTED_DEVICE_FAMILIES "1 2"    setenv SYMBOL_REPOSITORY_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/SymbolRepositories    setenv SYMROOT /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff    setenv SYSTEM_ADMIN_APPS_DIR /Applications/Utilities    setenv SYSTEM_APPS_DIR /Applications    setenv SYSTEM_CORE_SERVICES_DIR /System/Library/CoreServices    setenv SYSTEM_DEMOS_DIR /Applications/Extras    setenv SYSTEM_DEVELOPER_APPS_DIR /Developer/Applications    setenv SYSTEM_DEVELOPER_BIN_DIR /Developer/usr/bin    setenv SYSTEM_DEVELOPER_DEMOS_DIR "/Developer/Applications/Utilities/Built Examples"    setenv SYSTEM_DEVELOPER_DIR /Developer    setenv SYSTEM_DEVELOPER_DOC_DIR "/Developer/ADC Reference Library"    setenv SYSTEM_DEVELOPER_GRAPHICS_TOOLS_DIR "/Developer/Applications/Graphics Tools"    setenv SYSTEM_DEVELOPER_JAVA_TOOLS_DIR "/Developer/Applications/Java Tools"    setenv SYSTEM_DEVELOPER_PERFORMANCE_TOOLS_DIR "/Developer/Applications/Performance Tools"    setenv SYSTEM_DEVELOPER_RELEASENOTES_DIR "/Developer/ADC Reference Library/releasenotes"    setenv SYSTEM_DEVELOPER_TOOLS /Developer/Tools    setenv SYSTEM_DEVELOPER_TOOLS_DOC_DIR "/Developer/ADC Reference Library/documentation/DeveloperTools"    setenv SYSTEM_DEVELOPER_TOOLS_RELEASENOTES_DIR "/Developer/ADC Reference Library/releasenotes/DeveloperTools"    setenv SYSTEM_DEVELOPER_USR_DIR /Developer/usr    setenv SYSTEM_DEVELOPER_UTILITIES_DIR /Developer/Applications/Utilities    setenv SYSTEM_DOCUMENTATION_DIR /Library/Documentation    setenv SYSTEM_LIBRARY_DIR /System/Library    setenv TARGETED_DEVICE_FAMILY 1    setenv TARGETNAME libtiff    setenv TARGET_BUILD_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug    setenv TARGET_NAME libtiff    setenv TARGET_TEMP_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build    setenv TEMP_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build    setenv TEMP_FILES_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build    setenv TEMP_FILE_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build    setenv TEMP_ROOT /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff    setenv UID 501    setenv UNSTRIPPED_PRODUCT NO    setenv USER jjthrash    setenv USER_APPS_DIR /Users/jjthrash/Applications    setenv USER_LIBRARY_DIR /Users/jjthrash/Library    setenv USE_DYNAMIC_NO_PIC YES    setenv USE_HEADERMAP NO    setenv USE_HEADER_SYMLINKS NO    setenv VALIDATE_PRODUCT NO    setenv VALID_ARCHS i386    setenv VERBOSE_PBXCP NO    setenv VERSION_INFO_BUILDER jjthrash    setenv VERSION_INFO_FILE libtiff_vers.c    setenv VERSION_INFO_STRING "\"@(#)PROGRAM:libtiff  PROJECT:OpenCV-\""    setenv WARNING_CFLAGS "-Wmost -Wno-four-char-constants -Wno-unknown-pragmas"    setenv XCODE_APP_SUPPORT_DIR /Developer/Library/Xcode    setenv XCODE_PRODUCT_BUILD_VERSION 10M2423    setenv XCODE_VERSION_ACTUAL 0325    setenv XCODE_VERSION_MAJOR 0300    setenv XCODE_VERSION_MINOR 0320    setenv YACC /Developer/usr/bin/yacc    setenv _REAL_SDKROOT iphoneos    /bin/sh -c /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/OpenCV.build/Debug-iphonesimulator/libtiff.build/Script-10172F4A010172F4A010172F.sh0#
+

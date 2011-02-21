@@ -1,0 +1,918 @@
+// !$*UTF8*$!
+{
+       archiveVersion = 1;
+       classes = {
+       };
+       objectVersion = 45;
+       objects = {
+
+/* Begin PBXAggregateTarget section */
+              1010E2E701010E2E701010E2 /* ALL_BUILD */ = {
+                     isa = PBXAggregateTarget;
+                     buildConfigurationList = 1010DE4901010DE4901010DE /* Build configuration list for PBXAggregateTarget "ALL_BUILD" */;
+                     buildPhases = (
+                            1010DEDB01010DEDB01010DE /* CMake ReRun */,
+                            1010DF7501010DF7501010DF /* CMake Rules */,
+                     );
+                     dependencies = (
+                            1010BFF601010BFF601010BF /* PBXTargetDependency */,
+                     );
+                     name = ALL_BUILD;
+                     productName = ALL_BUILD;
+              };
+              1010D13601010D13601010D1 /* RUN_TESTS */ = {
+                     isa = PBXAggregateTarget;
+                     buildConfigurationList = 1010CF9F01010CF9F01010CF /* Build configuration list for PBXAggregateTarget "RUN_TESTS" */;
+                     buildPhases = (
+                            1010D16101010D16101010D1 /* CMake ReRun */,
+                            1010352E01010352E0101035 /* CMake PostBuild Rules */,
+                     );
+                     dependencies = (
+                     );
+                     name = RUN_TESTS;
+                     productName = RUN_TESTS;
+              };
+              101058290101058290101058 /* install */ = {
+                     isa = PBXAggregateTarget;
+                     buildConfigurationList = 101059BB0101059BB0101059 /* Build configuration list for PBXAggregateTarget "install" */;
+                     buildPhases = (
+                            101058540101058540101058 /* CMake ReRun */,
+                            101058F00101058F00101058 /* CMake PostBuild Rules */,
+                     );
+                     dependencies = (
+                            1010BE2B01010BE2B01010BE /* PBXTargetDependency */,
+                     );
+                     name = install;
+                     productName = install;
+              };
+/* End PBXAggregateTarget section */
+
+/* Begin PBXBuildFile section */
+10102CD3010102CD3010102C /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/calibinit.cpp */ = {isa = PBXBuildFile; fileRef = 10102C1B010102C1B010102C /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/calibinit.cpp */; settings = { COMPILER_FLAGS = ""; }; };
+10102DD4010102DD4010102D /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/calibration.cpp */ = {isa = PBXBuildFile; fileRef = 10102D25010102D25010102D /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/calibration.cpp */; settings = { COMPILER_FLAGS = ""; }; };
+101038FC0101038FC0101038 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/checkchessboard.cpp */ = {isa = PBXBuildFile; fileRef = 101039F20101039F20101039 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/checkchessboard.cpp */; settings = { COMPILER_FLAGS = ""; }; };
+101034D00101034D00101034 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/fundam.cpp */ = {isa = PBXBuildFile; fileRef = 101039490101039490101039 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/fundam.cpp */; settings = { COMPILER_FLAGS = ""; }; };
+1010D70101010D70101010D7 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/modelest.cpp */ = {isa = PBXBuildFile; fileRef = 1010D65201010D65201010D6 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/modelest.cpp */; settings = { COMPILER_FLAGS = ""; }; };
+1010E00801010E00801010E0 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/posit.cpp */ = {isa = PBXBuildFile; fileRef = 1010D75501010D75501010D7 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/posit.cpp */; settings = { COMPILER_FLAGS = ""; }; };
+1010E10801010E10801010E1 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/precomp.cpp */ = {isa = PBXBuildFile; fileRef = 1010E05901010E05901010E0 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/precomp.cpp */; settings = { COMPILER_FLAGS = ""; }; };
+1010E34901010E34901010E3 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/stereobm.cpp */ = {isa = PBXBuildFile; fileRef = 1010E15601010E15601010E1 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/stereobm.cpp */; settings = { COMPILER_FLAGS = ""; }; };
+1010E44901010E44901010E4 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/stereogc.cpp */ = {isa = PBXBuildFile; fileRef = 1010E39701010E39701010E3 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/stereogc.cpp */; settings = { COMPILER_FLAGS = ""; }; };
+1010D86801010D86801010D8 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/stereosgbm.cpp */ = {isa = PBXBuildFile; fileRef = 1010E4A501010E4A501010E4 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/stereosgbm.cpp */; settings = { COMPILER_FLAGS = ""; }; };
+1010D96901010D96901010D9 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/triangulate.cpp */ = {isa = PBXBuildFile; fileRef = 1010D8BA01010D8BA01010D8 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/triangulate.cpp */; settings = { COMPILER_FLAGS = ""; }; };
+1010DA7901010DA7901010DA /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/include/opencv2/calib3d/calib3d.hpp */ = {isa = PBXBuildFile; fileRef = 1010D9BC01010D9BC01010D9 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/include/opencv2/calib3d/calib3d.hpp */; settings = { COMPILER_FLAGS = ""; }; };
+1010DB6F01010DB6F01010DB /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/_modelest.h */ = {isa = PBXBuildFile; fileRef = 1010DAC001010DAC001010DA /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/_modelest.h */; settings = { COMPILER_FLAGS = ""; }; };
+1010DC6C01010DC6C01010DC /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/precomp.hpp */ = {isa = PBXBuildFile; fileRef = 1010DBBD01010DBBD01010DB /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/precomp.hpp */; settings = { COMPILER_FLAGS = ""; }; };
+1010DD2E01010DD2E01010DD /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/CMakeLists.txt */ = {isa = PBXBuildFile; fileRef = 1010D2F301010D2F301010D2 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/CMakeLists.txt */; settings = { COMPILER_FLAGS = ""; }; };
+/* End PBXBuildFile section */
+
+/* Begin PBXBuildStyle section */
+              1010BD3501010BD3501010BD /*  */ = {
+                     isa = PBXBuildStyle;
+              };
+              10109FA4010109FA4010109F /* Debug */ = {
+                     isa = PBXBuildStyle;
+                     buildSettings = {
+                            COPY_PHASE_STRIP = NO;
+                     };
+                     name = Debug;
+              };
+              10102E1E010102E1E010102E /* Release */ = {
+                     isa = PBXBuildStyle;
+                     buildSettings = {
+                            COPY_PHASE_STRIP = NO;
+                     };
+                     name = Release;
+              };
+              1010F7AC01010F7AC01010F7 /* MinSizeRel */ = {
+                     isa = PBXBuildStyle;
+                     buildSettings = {
+                            COPY_PHASE_STRIP = NO;
+                     };
+                     name = MinSizeRel;
+              };
+              101050720101050720101050 /* RelWithDebInfo */ = {
+                     isa = PBXBuildStyle;
+                     buildSettings = {
+                            COPY_PHASE_STRIP = NO;
+                     };
+                     name = RelWithDebInfo;
+              };
+/* End PBXBuildStyle section */
+
+/* Begin PBXContainerItemProxy section */
+              1010B1E801010B1E801010B1 /* PBXContainerItemProxy */ = {
+                     isa = PBXContainerItemProxy;
+                     containerPortal = 100464140100464140100464 /* Project object */;
+                     proxyType = 1;
+                     remoteGlobalIDString = 1010EFE801010EFE801010EF;
+                     remoteInfo = opencv_calib3d;
+              };
+              1010C03901010C03901010C0 /* PBXContainerItemProxy */ = {
+                     isa = PBXContainerItemProxy;
+                     containerPortal = 100464140100464140100464 /* Project object */;
+                     proxyType = 1;
+                     remoteGlobalIDString = 1010E2E701010E2E701010E2;
+                     remoteInfo = ALL_BUILD;
+              };
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+1010D2F301010D2F301010D2 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/CMakeLists.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.text"; name = "CMakeLists.txt"; path = "CMakeLists.txt"; sourceTree = SOURCE_ROOT; };
+10102C1B010102C1B010102C /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/calibinit.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.cpp.cpp"; name = "calibinit.cpp"; path = "src/calibinit.cpp"; sourceTree = SOURCE_ROOT; };
+10102D25010102D25010102D /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/calibration.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.cpp.cpp"; name = "calibration.cpp"; path = "src/calibration.cpp"; sourceTree = SOURCE_ROOT; };
+101039F20101039F20101039 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/checkchessboard.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.cpp.cpp"; name = "checkchessboard.cpp"; path = "src/checkchessboard.cpp"; sourceTree = SOURCE_ROOT; };
+101039490101039490101039 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/fundam.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.cpp.cpp"; name = "fundam.cpp"; path = "src/fundam.cpp"; sourceTree = SOURCE_ROOT; };
+1010D65201010D65201010D6 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/modelest.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.cpp.cpp"; name = "modelest.cpp"; path = "src/modelest.cpp"; sourceTree = SOURCE_ROOT; };
+1010D75501010D75501010D7 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/posit.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.cpp.cpp"; name = "posit.cpp"; path = "src/posit.cpp"; sourceTree = SOURCE_ROOT; };
+1010E05901010E05901010E0 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/precomp.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.cpp.cpp"; name = "precomp.cpp"; path = "src/precomp.cpp"; sourceTree = SOURCE_ROOT; };
+1010E15601010E15601010E1 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/stereobm.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.cpp.cpp"; name = "stereobm.cpp"; path = "src/stereobm.cpp"; sourceTree = SOURCE_ROOT; };
+1010E39701010E39701010E3 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/stereogc.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.cpp.cpp"; name = "stereogc.cpp"; path = "src/stereogc.cpp"; sourceTree = SOURCE_ROOT; };
+1010E4A501010E4A501010E4 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/stereosgbm.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.cpp.cpp"; name = "stereosgbm.cpp"; path = "src/stereosgbm.cpp"; sourceTree = SOURCE_ROOT; };
+1010D8BA01010D8BA01010D8 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/triangulate.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.cpp.cpp"; name = "triangulate.cpp"; path = "src/triangulate.cpp"; sourceTree = SOURCE_ROOT; };
+1010D9BC01010D9BC01010D9 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/include/opencv2/calib3d/calib3d.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.cpp.h"; name = "calib3d.hpp"; path = "include/opencv2/calib3d/calib3d.hpp"; sourceTree = SOURCE_ROOT; };
+1010DAC001010DAC001010DA /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/_modelest.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.c.h"; name = "_modelest.h"; path = "src/_modelest.h"; sourceTree = SOURCE_ROOT; };
+1010DBBD01010DBBD01010DB /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/precomp.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.cpp.h"; name = "precomp.hpp"; path = "src/precomp.hpp"; sourceTree = SOURCE_ROOT; };
+1010E8C301010E8C301010E8 /* opencv_calib3d */ = {isa = PBXFileReference; explicitFileType = "archive.ar"; path = "libopencv_calib3d.a"; refType = 0; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+              101011730101011730101011  = {
+                     isa = PBXGroup;
+                     children = (
+                            10109C96010109C96010109C /* Sources */,
+                            101000E00101000E00101000 /* Resources */,
+                            1004486F01004486F0100448 /* Products */,
+                     );
+                     sourceTree = "<group>";
+              };
+              10109C96010109C96010109C /* Sources */ = {
+                     isa = PBXGroup;
+                     children = (
+                            1010058F01010058F0101005 /* ALL_BUILD */,
+                            1010BD0801010BD0801010BD /* opencv_calib3d */,
+                     );
+                     name = Sources;
+                     sourceTree = "<group>";
+              };
+              101000E00101000E00101000 /* Resources */ = {
+                     isa = PBXGroup;
+                     children = (
+                     );
+                     name = Resources;
+                     sourceTree = "<group>";
+              };
+              1010058F01010058F0101005 /* ALL_BUILD */ = {
+                     isa = PBXGroup;
+                     children = (
+                            10103F5A010103F5A010103F /* CMake Rules */,
+                            1010D2F301010D2F301010D2 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/CMakeLists.txt */,
+                     );
+                     name = ALL_BUILD;
+                     sourceTree = "<group>";
+              };
+              10103F5A010103F5A010103F /* CMake Rules */ = {
+                     isa = PBXGroup;
+                     children = (
+                     );
+                     name = "CMake Rules";
+                     sourceTree = "<group>";
+              };
+              1010BD0801010BD0801010BD /* opencv_calib3d */ = {
+                     isa = PBXGroup;
+                     children = (
+                            1010BA7501010BA7501010BA /* Src */,
+                            101015830101015830101015 /* Include */,
+                            1010D2F301010D2F301010D2 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/CMakeLists.txt */,
+                     );
+                     name = opencv_calib3d;
+                     sourceTree = "<group>";
+              };
+              1010BA7501010BA7501010BA /* Src */ = {
+                     isa = PBXGroup;
+                     children = (
+                            10102C1B010102C1B010102C /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/calibinit.cpp */,
+                            10102D25010102D25010102D /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/calibration.cpp */,
+                            101039F20101039F20101039 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/checkchessboard.cpp */,
+                            101039490101039490101039 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/fundam.cpp */,
+                            1010D65201010D65201010D6 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/modelest.cpp */,
+                            1010D75501010D75501010D7 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/posit.cpp */,
+                            1010E05901010E05901010E0 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/precomp.cpp */,
+                            1010E15601010E15601010E1 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/stereobm.cpp */,
+                            1010E39701010E39701010E3 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/stereogc.cpp */,
+                            1010E4A501010E4A501010E4 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/stereosgbm.cpp */,
+                            1010D8BA01010D8BA01010D8 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/triangulate.cpp */,
+                            1010DAC001010DAC001010DA /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/_modelest.h */,
+                            1010DBBD01010DBBD01010DB /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/precomp.hpp */,
+                     );
+                     name = Src;
+                     sourceTree = "<group>";
+              };
+              101015830101015830101015 /* Include */ = {
+                     isa = PBXGroup;
+                     children = (
+                            1010D9BC01010D9BC01010D9 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/include/opencv2/calib3d/calib3d.hpp */,
+                     );
+                     name = Include;
+                     sourceTree = "<group>";
+              };
+              1004486F01004486F0100448 /* Products */ = {
+                     isa = PBXGroup;
+                     children = (
+                            1010E8C301010E8C301010E8 /* opencv_calib3d */,
+                     );
+                     name = Products;
+                     sourceTree = "<group>";
+              };
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+              1010EFE801010EFE801010EF /* opencv_calib3d */ = {
+                     isa = PBXNativeTarget;
+                     buildConfigurationList = 1010F03801010F03801010F0 /* Build configuration list for PBXNativeTarget "opencv_calib3d" */;
+                     buildPhases = (
+                            1010DDE401010DDE401010DD /* CMake ReRun */,
+                            1010DD7201010DD7201010DD /* Sources */,
+                            1010EDF801010EDF801010ED /* CMake PostBuild Rules */,
+                     );
+                     buildRules = (
+                     );
+                     dependencies = (
+                     );
+                     name = opencv_calib3d;
+                     productName = opencv_calib3d;
+                     productReference = 1010E8C301010E8C301010E8 /* opencv_calib3d */;
+                     productType = "com.apple.product-type.library.static";
+              };
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+              100464140100464140100464 /* Project object */ = {
+                     isa = PBXProject;
+                     attributes = {
+                            BuildIndependentTargetsInParallel = YES;
+                     };
+                     buildConfigurationList = 101047220101047220101047 /* Build configuration list for PBXProject  "opencv_calib3d" */;
+                     buildSettings = {
+                     };
+                     buildStyles = (
+                            10109FA4010109FA4010109F /* Debug */,
+                            10102E1E010102E1E010102E /* Release */,
+                            1010F7AC01010F7AC01010F7 /* MinSizeRel */,
+                            101050720101050720101050 /* RelWithDebInfo */,
+                     );
+                     compatibilityVersion = "Xcode 3.1";
+                     hasScannedForEncodings = 0;
+                     mainGroup = 101011730101011730101011;
+                     projectDirPath = ".";
+                     projectRoot = "";
+                     targets = (
+                            1010E2E701010E2E701010E2 /* ALL_BUILD */,
+                            1010D13601010D13601010D1 /* RUN_TESTS */,
+                            101058290101058290101058 /* install */,
+                            1010EFE801010EFE801010EF /* opencv_calib3d */,
+                     );
+              };
+/* End PBXProject section */
+
+/* Begin PBXShellScriptBuildPhase section */
+              1010E22F01010E22F01010E2 /*  */ = {
+                     isa = PBXShellScriptBuildPhase;
+                     buildActionMask = 2147483647;
+                     files = (
+                     );
+                     inputPaths = (
+                     );
+                     outputPaths = (
+                     );
+                     runOnlyForDeploymentPostprocessing = 0;
+                     shellPath = /bin/sh;
+                     shellScript = "# shell script goes here
+exit 0";
+              };
+              1010DEDB01010DEDB01010DE /* CMake ReRun */ = {
+                     isa = PBXShellScriptBuildPhase;
+                     buildActionMask = 2147483647;
+                     files = (
+                     );
+                     name = "CMake ReRun";
+                     runOnlyForDeploymentPostprocessing = 0;
+                     shellPath = /bin/sh;
+                     shellScript = "make -C /Users/jjthrash/Downloads/OpenCV-2.2.0 -f /Users/jjthrash/Downloads/OpenCV-2.2.0/CMakeScripts/ReRunCMake.make";
+              };
+              1010DF7501010DF7501010DF /* CMake Rules */ = {
+                     isa = PBXShellScriptBuildPhase;
+                     buildActionMask = 2147483647;
+                     files = (
+                     );
+                     name = "CMake Rules";
+                     runOnlyForDeploymentPostprocessing = 0;
+                     shellPath = /bin/sh;
+                     shellScript = "make -C /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d -f /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/CMakeScripts/ALL_BUILD_cmakeRulesBuildPhase.make$CONFIGURATION all";
+              };
+              1010D08A01010D08A01010D0 /*  */ = {
+                     isa = PBXShellScriptBuildPhase;
+                     buildActionMask = 2147483647;
+                     files = (
+                     );
+                     inputPaths = (
+                     );
+                     outputPaths = (
+                     );
+                     runOnlyForDeploymentPostprocessing = 0;
+                     shellPath = /bin/sh;
+                     shellScript = "# shell script goes here
+exit 0";
+              };
+              1010D16101010D16101010D1 /* CMake ReRun */ = {
+                     isa = PBXShellScriptBuildPhase;
+                     buildActionMask = 2147483647;
+                     files = (
+                     );
+                     name = "CMake ReRun";
+                     runOnlyForDeploymentPostprocessing = 0;
+                     shellPath = /bin/sh;
+                     shellScript = "make -C /Users/jjthrash/Downloads/OpenCV-2.2.0 -f /Users/jjthrash/Downloads/OpenCV-2.2.0/CMakeScripts/ReRunCMake.make";
+              };
+              1010352E01010352E0101035 /* CMake PostBuild Rules */ = {
+                     isa = PBXShellScriptBuildPhase;
+                     buildActionMask = 2147483647;
+                     files = (
+                     );
+                     name = "CMake PostBuild Rules";
+                     runOnlyForDeploymentPostprocessing = 0;
+                     shellPath = /bin/sh;
+                     shellScript = "make -C /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d -f /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/CMakeScripts/RUN_TESTS_postBuildPhase.make$CONFIGURATION all";
+              };
+              1010576E01010576E0101057 /*  */ = {
+                     isa = PBXShellScriptBuildPhase;
+                     buildActionMask = 2147483647;
+                     files = (
+                     );
+                     inputPaths = (
+                     );
+                     outputPaths = (
+                     );
+                     runOnlyForDeploymentPostprocessing = 0;
+                     shellPath = /bin/sh;
+                     shellScript = "# shell script goes here
+exit 0";
+              };
+              101058540101058540101058 /* CMake ReRun */ = {
+                     isa = PBXShellScriptBuildPhase;
+                     buildActionMask = 2147483647;
+                     files = (
+                     );
+                     name = "CMake ReRun";
+                     runOnlyForDeploymentPostprocessing = 0;
+                     shellPath = /bin/sh;
+                     shellScript = "make -C /Users/jjthrash/Downloads/OpenCV-2.2.0 -f /Users/jjthrash/Downloads/OpenCV-2.2.0/CMakeScripts/ReRunCMake.make";
+              };
+              101058F00101058F00101058 /* CMake PostBuild Rules */ = {
+                     isa = PBXShellScriptBuildPhase;
+                     buildActionMask = 2147483647;
+                     files = (
+                     );
+                     name = "CMake PostBuild Rules";
+                     runOnlyForDeploymentPostprocessing = 0;
+                     shellPath = /bin/sh;
+                     shellScript = "make -C /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d -f /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/CMakeScripts/install_postBuildPhase.make$CONFIGURATION all";
+              };
+              1010DDE401010DDE401010DD /* CMake ReRun */ = {
+                     isa = PBXShellScriptBuildPhase;
+                     buildActionMask = 2147483647;
+                     files = (
+                     );
+                     name = "CMake ReRun";
+                     runOnlyForDeploymentPostprocessing = 0;
+                     shellPath = /bin/sh;
+                     shellScript = "make -C /Users/jjthrash/Downloads/OpenCV-2.2.0 -f /Users/jjthrash/Downloads/OpenCV-2.2.0/CMakeScripts/ReRunCMake.make";
+              };
+              1010EDF801010EDF801010ED /* CMake PostBuild Rules */ = {
+                     isa = PBXShellScriptBuildPhase;
+                     buildActionMask = 2147483647;
+                     files = (
+                     );
+                     name = "CMake PostBuild Rules";
+                     runOnlyForDeploymentPostprocessing = 0;
+                     shellPath = /bin/sh;
+                     shellScript = "make -C /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d -f /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/CMakeScripts/opencv_calib3d_postBuildPhase.make$CONFIGURATION all";
+              };
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+              1010DD7201010DD7201010DD /* Sources */ = {
+                     isa = PBXSourcesBuildPhase;
+                     buildActionMask = 2147483647;
+                     files = (
+                            10102CD3010102CD3010102C /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/calibinit.cpp */,
+                            10102DD4010102DD4010102D /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/calibration.cpp */,
+                            101038FC0101038FC0101038 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/checkchessboard.cpp */,
+                            101034D00101034D00101034 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/fundam.cpp */,
+                            1010D70101010D70101010D7 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/modelest.cpp */,
+                            1010E00801010E00801010E0 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/posit.cpp */,
+                            1010E10801010E10801010E1 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/precomp.cpp */,
+                            1010E34901010E34901010E3 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/stereobm.cpp */,
+                            1010E44901010E44901010E4 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/stereogc.cpp */,
+                            1010D86801010D86801010D8 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/stereosgbm.cpp */,
+                            1010D96901010D96901010D9 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/triangulate.cpp */,
+                     );
+                     runOnlyForDeploymentPostprocessing = 0;
+              };
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+              1010BFF601010BFF601010BF /* PBXTargetDependency */ = {
+                     isa = PBXTargetDependency;
+                     target = 1010EFE801010EFE801010EF /* opencv_calib3d */;
+                     targetProxy = 1010B1E801010B1E801010B1 /* PBXContainerItemProxy */;
+              };
+              1010BE2B01010BE2B01010BE /* PBXTargetDependency */ = {
+                     isa = PBXTargetDependency;
+                     target = 1010E2E701010E2E701010E2 /* ALL_BUILD */;
+                     targetProxy = 1010C03901010C03901010C0 /* PBXContainerItemProxy */;
+              };
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+              101047420101047420101047 /* Debug */ = {
+                     isa = XCBuildConfiguration;
+                     buildSettings = {
+                            ARCHS = "$(ARCHS_STANDARD_32_64_BIT)";
+                            ONLY_ACTIVE_ARCH = YES;
+                            SDKROOT = "/Developer/SDKs/MacOSX10.6.sdk";
+                            SYMROOT = "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/build";
+                     };
+                     name = Debug;
+              };
+              101062700101062700101062 /* Release */ = {
+                     isa = XCBuildConfiguration;
+                     buildSettings = {
+                            ARCHS = "$(ARCHS_STANDARD_32_64_BIT)";
+                            ONLY_ACTIVE_ARCH = YES;
+                            SDKROOT = "/Developer/SDKs/MacOSX10.6.sdk";
+                            SYMROOT = "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/build";
+                     };
+                     name = Release;
+              };
+              1010629C01010629C0101062 /* MinSizeRel */ = {
+                     isa = XCBuildConfiguration;
+                     buildSettings = {
+                            ARCHS = "$(ARCHS_STANDARD_32_64_BIT)";
+                            ONLY_ACTIVE_ARCH = YES;
+                            SDKROOT = "/Developer/SDKs/MacOSX10.6.sdk";
+                            SYMROOT = "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/build";
+                     };
+                     name = MinSizeRel;
+              };
+              101062CB0101062CB0101062 /* RelWithDebInfo */ = {
+                     isa = XCBuildConfiguration;
+                     buildSettings = {
+                            ARCHS = "$(ARCHS_STANDARD_32_64_BIT)";
+                            ONLY_ACTIVE_ARCH = YES;
+                            SDKROOT = "/Developer/SDKs/MacOSX10.6.sdk";
+                            SYMROOT = "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/build";
+                     };
+                     name = RelWithDebInfo;
+              };
+              1010EE3E01010EE3E01010EE /* Debug */ = {
+                     isa = XCBuildConfiguration;
+                     buildSettings = {
+                            GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
+                            GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+                            GCC_OPTIMIZATION_LEVEL = 0;
+                            GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)\"'", HAVE_ALLOCA, HAVE_ALLOCA_H, HAVE_LIBPTHREAD, HAVE_UNISTD_H, HAVE_CONFIG_H, CVAPI_EXPORTS, );
+                            GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+                            HEADER_SEARCH_PATHS = ("/Users/jjthrash/Downloads/OpenCV-2.2.0/.", "/Users/jjthrash/Downloads/OpenCV-2.2.0", "/Users/jjthrash/Downloads/OpenCV-2.2.0/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/../core/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/../imgproc/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/../highgui/include", );
+                            INSTALL_PATH = "";
+                            OTHER_CFLAGS = "  ";
+                            OTHER_LDFLAGS = "";
+                            OTHER_REZFLAGS = "";
+                            PREBINDING = NO;
+                            PRODUCT_NAME = ALL_BUILD;
+                            SECTORDER_FLAGS = "";
+                            SYMROOT = "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d";
+                            USE_HEADERMAP = NO;
+                            WARNING_CFLAGS = ("-Wmost", "-Wno-four-char-constants", "-Wno-unknown-pragmas", );
+                     };
+                     name = Debug;
+              };
+              1010E5BA01010E5BA01010E5 /* Release */ = {
+                     isa = XCBuildConfiguration;
+                     buildSettings = {
+                            GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
+                            GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+                            GCC_OPTIMIZATION_LEVEL = 0;
+                            GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)\"'", HAVE_ALLOCA, HAVE_ALLOCA_H, HAVE_LIBPTHREAD, HAVE_UNISTD_H, HAVE_CONFIG_H, CVAPI_EXPORTS, );
+                            GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+                            HEADER_SEARCH_PATHS = ("/Users/jjthrash/Downloads/OpenCV-2.2.0/.", "/Users/jjthrash/Downloads/OpenCV-2.2.0", "/Users/jjthrash/Downloads/OpenCV-2.2.0/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/../core/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/../imgproc/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/../highgui/include", );
+                            INSTALL_PATH = "";
+                            OTHER_CFLAGS = "  ";
+                            OTHER_LDFLAGS = "";
+                            OTHER_REZFLAGS = "";
+                            PREBINDING = NO;
+                            PRODUCT_NAME = ALL_BUILD;
+                            SECTORDER_FLAGS = "";
+                            SYMROOT = "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d";
+                            USE_HEADERMAP = NO;
+                            WARNING_CFLAGS = ("-Wmost", "-Wno-four-char-constants", "-Wno-unknown-pragmas", );
+                     };
+                     name = Release;
+              };
+              101031030101031030101031 /* MinSizeRel */ = {
+                     isa = XCBuildConfiguration;
+                     buildSettings = {
+                            GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
+                            GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+                            GCC_OPTIMIZATION_LEVEL = 0;
+                            GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)\"'", HAVE_ALLOCA, HAVE_ALLOCA_H, HAVE_LIBPTHREAD, HAVE_UNISTD_H, HAVE_CONFIG_H, CVAPI_EXPORTS, );
+                            GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+                            HEADER_SEARCH_PATHS = ("/Users/jjthrash/Downloads/OpenCV-2.2.0/.", "/Users/jjthrash/Downloads/OpenCV-2.2.0", "/Users/jjthrash/Downloads/OpenCV-2.2.0/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/../core/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/../imgproc/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/../highgui/include", );
+                            INSTALL_PATH = "";
+                            OTHER_CFLAGS = "  ";
+                            OTHER_LDFLAGS = "";
+                            OTHER_REZFLAGS = "";
+                            PREBINDING = NO;
+                            PRODUCT_NAME = ALL_BUILD;
+                            SECTORDER_FLAGS = "";
+                            SYMROOT = "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d";
+                            USE_HEADERMAP = NO;
+                            WARNING_CFLAGS = ("-Wmost", "-Wno-four-char-constants", "-Wno-unknown-pragmas", );
+                     };
+                     name = MinSizeRel;
+              };
+              1010D52501010D52501010D5 /* RelWithDebInfo */ = {
+                     isa = XCBuildConfiguration;
+                     buildSettings = {
+                            GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
+                            GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+                            GCC_OPTIMIZATION_LEVEL = 0;
+                            GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)\"'", HAVE_ALLOCA, HAVE_ALLOCA_H, HAVE_LIBPTHREAD, HAVE_UNISTD_H, HAVE_CONFIG_H, CVAPI_EXPORTS, );
+                            GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+                            HEADER_SEARCH_PATHS = ("/Users/jjthrash/Downloads/OpenCV-2.2.0/.", "/Users/jjthrash/Downloads/OpenCV-2.2.0", "/Users/jjthrash/Downloads/OpenCV-2.2.0/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/../core/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/../imgproc/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/../highgui/include", );
+                            INSTALL_PATH = "";
+                            OTHER_CFLAGS = "  ";
+                            OTHER_LDFLAGS = "";
+                            OTHER_REZFLAGS = "";
+                            PREBINDING = NO;
+                            PRODUCT_NAME = ALL_BUILD;
+                            SECTORDER_FLAGS = "";
+                            SYMROOT = "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d";
+                            USE_HEADERMAP = NO;
+                            WARNING_CFLAGS = ("-Wmost", "-Wno-four-char-constants", "-Wno-unknown-pragmas", );
+                     };
+                     name = RelWithDebInfo;
+              };
+              1010357E01010357E0101035 /* Debug */ = {
+                     isa = XCBuildConfiguration;
+                     buildSettings = {
+                            GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
+                            GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+                            GCC_OPTIMIZATION_LEVEL = 0;
+                            GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)\"'", HAVE_ALLOCA, HAVE_ALLOCA_H, HAVE_LIBPTHREAD, HAVE_UNISTD_H, HAVE_CONFIG_H, CVAPI_EXPORTS, );
+                            GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+                            HEADER_SEARCH_PATHS = ("/Users/jjthrash/Downloads/OpenCV-2.2.0/.", "/Users/jjthrash/Downloads/OpenCV-2.2.0", "/Users/jjthrash/Downloads/OpenCV-2.2.0/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/../core/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/../imgproc/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/../highgui/include", );
+                            INSTALL_PATH = "";
+                            OTHER_CFLAGS = "  ";
+                            OTHER_LDFLAGS = "";
+                            OTHER_REZFLAGS = "";
+                            PREBINDING = NO;
+                            PRODUCT_NAME = RUN_TESTS;
+                            SECTORDER_FLAGS = "";
+                            SYMROOT = "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d";
+                            USE_HEADERMAP = NO;
+                            WARNING_CFLAGS = ("-Wmost", "-Wno-four-char-constants", "-Wno-unknown-pragmas", );
+                     };
+                     name = Debug;
+              };
+              10103CB4010103CB4010103C /* Release */ = {
+                     isa = XCBuildConfiguration;
+                     buildSettings = {
+                            GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
+                            GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+                            GCC_OPTIMIZATION_LEVEL = 0;
+                            GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)\"'", HAVE_ALLOCA, HAVE_ALLOCA_H, HAVE_LIBPTHREAD, HAVE_UNISTD_H, HAVE_CONFIG_H, CVAPI_EXPORTS, );
+                            GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+                            HEADER_SEARCH_PATHS = ("/Users/jjthrash/Downloads/OpenCV-2.2.0/.", "/Users/jjthrash/Downloads/OpenCV-2.2.0", "/Users/jjthrash/Downloads/OpenCV-2.2.0/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/../core/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/../imgproc/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/../highgui/include", );
+                            INSTALL_PATH = "";
+                            OTHER_CFLAGS = "  ";
+                            OTHER_LDFLAGS = "";
+                            OTHER_REZFLAGS = "";
+                            PREBINDING = NO;
+                            PRODUCT_NAME = RUN_TESTS;
+                            SECTORDER_FLAGS = "";
+                            SYMROOT = "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d";
+                            USE_HEADERMAP = NO;
+                            WARNING_CFLAGS = ("-Wmost", "-Wno-four-char-constants", "-Wno-unknown-pragmas", );
+                     };
+                     name = Release;
+              };
+              1010402F01010402F0101040 /* MinSizeRel */ = {
+                     isa = XCBuildConfiguration;
+                     buildSettings = {
+                            GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
+                            GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+                            GCC_OPTIMIZATION_LEVEL = 0;
+                            GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)\"'", HAVE_ALLOCA, HAVE_ALLOCA_H, HAVE_LIBPTHREAD, HAVE_UNISTD_H, HAVE_CONFIG_H, CVAPI_EXPORTS, );
+                            GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+                            HEADER_SEARCH_PATHS = ("/Users/jjthrash/Downloads/OpenCV-2.2.0/.", "/Users/jjthrash/Downloads/OpenCV-2.2.0", "/Users/jjthrash/Downloads/OpenCV-2.2.0/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/../core/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/../imgproc/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/../highgui/include", );
+                            INSTALL_PATH = "";
+                            OTHER_CFLAGS = "  ";
+                            OTHER_LDFLAGS = "";
+                            OTHER_REZFLAGS = "";
+                            PREBINDING = NO;
+                            PRODUCT_NAME = RUN_TESTS;
+                            SECTORDER_FLAGS = "";
+                            SYMROOT = "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d";
+                            USE_HEADERMAP = NO;
+                            WARNING_CFLAGS = ("-Wmost", "-Wno-four-char-constants", "-Wno-unknown-pragmas", );
+                     };
+                     name = MinSizeRel;
+              };
+              101065730101065730101065 /* RelWithDebInfo */ = {
+                     isa = XCBuildConfiguration;
+                     buildSettings = {
+                            GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
+                            GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+                            GCC_OPTIMIZATION_LEVEL = 0;
+                            GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)\"'", HAVE_ALLOCA, HAVE_ALLOCA_H, HAVE_LIBPTHREAD, HAVE_UNISTD_H, HAVE_CONFIG_H, CVAPI_EXPORTS, );
+                            GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+                            HEADER_SEARCH_PATHS = ("/Users/jjthrash/Downloads/OpenCV-2.2.0/.", "/Users/jjthrash/Downloads/OpenCV-2.2.0", "/Users/jjthrash/Downloads/OpenCV-2.2.0/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/../core/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/../imgproc/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/../highgui/include", );
+                            INSTALL_PATH = "";
+                            OTHER_CFLAGS = "  ";
+                            OTHER_LDFLAGS = "";
+                            OTHER_REZFLAGS = "";
+                            PREBINDING = NO;
+                            PRODUCT_NAME = RUN_TESTS;
+                            SECTORDER_FLAGS = "";
+                            SYMROOT = "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d";
+                            USE_HEADERMAP = NO;
+                            WARNING_CFLAGS = ("-Wmost", "-Wno-four-char-constants", "-Wno-unknown-pragmas", );
+                     };
+                     name = RelWithDebInfo;
+              };
+              10105A10010105A10010105A /* Debug */ = {
+                     isa = XCBuildConfiguration;
+                     buildSettings = {
+                            GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
+                            GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+                            GCC_OPTIMIZATION_LEVEL = 0;
+                            GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)\"'", HAVE_ALLOCA, HAVE_ALLOCA_H, HAVE_LIBPTHREAD, HAVE_UNISTD_H, HAVE_CONFIG_H, CVAPI_EXPORTS, );
+                            GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+                            HEADER_SEARCH_PATHS = ("/Users/jjthrash/Downloads/OpenCV-2.2.0/.", "/Users/jjthrash/Downloads/OpenCV-2.2.0", "/Users/jjthrash/Downloads/OpenCV-2.2.0/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/../core/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/../imgproc/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/../highgui/include", );
+                            INSTALL_PATH = "";
+                            OTHER_CFLAGS = "  ";
+                            OTHER_LDFLAGS = "";
+                            OTHER_REZFLAGS = "";
+                            PREBINDING = NO;
+                            PRODUCT_NAME = install;
+                            SECTORDER_FLAGS = "";
+                            SYMROOT = "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d";
+                            USE_HEADERMAP = NO;
+                            WARNING_CFLAGS = ("-Wmost", "-Wno-four-char-constants", "-Wno-unknown-pragmas", );
+                     };
+                     name = Debug;
+              };
+              101067900101067900101067 /* Release */ = {
+                     isa = XCBuildConfiguration;
+                     buildSettings = {
+                            GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
+                            GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+                            GCC_OPTIMIZATION_LEVEL = 0;
+                            GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)\"'", HAVE_ALLOCA, HAVE_ALLOCA_H, HAVE_LIBPTHREAD, HAVE_UNISTD_H, HAVE_CONFIG_H, CVAPI_EXPORTS, );
+                            GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+                            HEADER_SEARCH_PATHS = ("/Users/jjthrash/Downloads/OpenCV-2.2.0/.", "/Users/jjthrash/Downloads/OpenCV-2.2.0", "/Users/jjthrash/Downloads/OpenCV-2.2.0/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/../core/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/../imgproc/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/../highgui/include", );
+                            INSTALL_PATH = "";
+                            OTHER_CFLAGS = "  ";
+                            OTHER_LDFLAGS = "";
+                            OTHER_REZFLAGS = "";
+                            PREBINDING = NO;
+                            PRODUCT_NAME = install;
+                            SECTORDER_FLAGS = "";
+                            SYMROOT = "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d";
+                            USE_HEADERMAP = NO;
+                            WARNING_CFLAGS = ("-Wmost", "-Wno-four-char-constants", "-Wno-unknown-pragmas", );
+                     };
+                     name = Release;
+              };
+              10106B17010106B17010106B /* MinSizeRel */ = {
+                     isa = XCBuildConfiguration;
+                     buildSettings = {
+                            GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
+                            GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+                            GCC_OPTIMIZATION_LEVEL = 0;
+                            GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)\"'", HAVE_ALLOCA, HAVE_ALLOCA_H, HAVE_LIBPTHREAD, HAVE_UNISTD_H, HAVE_CONFIG_H, CVAPI_EXPORTS, );
+                            GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+                            HEADER_SEARCH_PATHS = ("/Users/jjthrash/Downloads/OpenCV-2.2.0/.", "/Users/jjthrash/Downloads/OpenCV-2.2.0", "/Users/jjthrash/Downloads/OpenCV-2.2.0/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/../core/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/../imgproc/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/../highgui/include", );
+                            INSTALL_PATH = "";
+                            OTHER_CFLAGS = "  ";
+                            OTHER_LDFLAGS = "";
+                            OTHER_REZFLAGS = "";
+                            PREBINDING = NO;
+                            PRODUCT_NAME = install;
+                            SECTORDER_FLAGS = "";
+                            SYMROOT = "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d";
+                            USE_HEADERMAP = NO;
+                            WARNING_CFLAGS = ("-Wmost", "-Wno-four-char-constants", "-Wno-unknown-pragmas", );
+                     };
+                     name = MinSizeRel;
+              };
+              1010443C01010443C0101044 /* RelWithDebInfo */ = {
+                     isa = XCBuildConfiguration;
+                     buildSettings = {
+                            GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
+                            GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+                            GCC_OPTIMIZATION_LEVEL = 0;
+                            GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)\"'", HAVE_ALLOCA, HAVE_ALLOCA_H, HAVE_LIBPTHREAD, HAVE_UNISTD_H, HAVE_CONFIG_H, CVAPI_EXPORTS, );
+                            GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+                            HEADER_SEARCH_PATHS = ("/Users/jjthrash/Downloads/OpenCV-2.2.0/.", "/Users/jjthrash/Downloads/OpenCV-2.2.0", "/Users/jjthrash/Downloads/OpenCV-2.2.0/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/../core/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/../imgproc/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/../highgui/include", );
+                            INSTALL_PATH = "";
+                            OTHER_CFLAGS = "  ";
+                            OTHER_LDFLAGS = "";
+                            OTHER_REZFLAGS = "";
+                            PREBINDING = NO;
+                            PRODUCT_NAME = install;
+                            SECTORDER_FLAGS = "";
+                            SYMROOT = "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d";
+                            USE_HEADERMAP = NO;
+                            WARNING_CFLAGS = ("-Wmost", "-Wno-four-char-constants", "-Wno-unknown-pragmas", );
+                     };
+                     name = RelWithDebInfo;
+              };
+              1010F08E01010F08E01010F0 /* Debug */ = {
+                     isa = XCBuildConfiguration;
+                     buildSettings = {
+                            CONFIGURATION_BUILD_DIR = "/Users/jjthrash/Downloads/OpenCV-2.2.0/lib/Debug";
+                            EXECUTABLE_PREFIX = lib;
+                            EXECUTABLE_SUFFIX = ".a";
+                            GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
+                            GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+                            GCC_OPTIMIZATION_LEVEL = 0;
+                            GCC_PRECOMPILE_PREFIX_HEADER = YES;
+                            GCC_PREFIX_HEADER = "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/precomp.hpp";
+                            GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)\"'", HAVE_ALLOCA, HAVE_ALLOCA_H, HAVE_LIBPTHREAD, HAVE_UNISTD_H, HAVE_CONFIG_H, CVAPI_EXPORTS, );
+                            GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+                            HEADER_SEARCH_PATHS = ("/Users/jjthrash/Downloads/OpenCV-2.2.0/.", "/Users/jjthrash/Downloads/OpenCV-2.2.0", "/Users/jjthrash/Downloads/OpenCV-2.2.0/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/../core/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/../imgproc/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/../highgui/include", );
+                            INSTALL_PATH = "";
+                            LIBRARY_STYLE = STATIC;
+                            OTHER_CFLAGS = "  -Wall -pthread          -ggdb3 -DDEBUG -D_DEBUG   ";
+                            OTHER_CPLUSPLUSFLAGS = "  -Wall -pthread          -ggdb3 -DDEBUG -D_DEBUG   ";
+                            OTHER_LDFLAGS = "";
+                            OTHER_REZFLAGS = "";
+                            PREBINDING = NO;
+                            PRODUCT_NAME = opencv_calib3d;
+                            SECTORDER_FLAGS = "";
+                            SYMROOT = "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d";
+                            USE_HEADERMAP = NO;
+                            WARNING_CFLAGS = ("-Wmost", "-Wno-four-char-constants", "-Wno-unknown-pragmas", );
+                     };
+                     name = Debug;
+              };
+              1010F0C701010F0C701010F0 /* Release */ = {
+                     isa = XCBuildConfiguration;
+                     buildSettings = {
+                            CONFIGURATION_BUILD_DIR = "/Users/jjthrash/Downloads/OpenCV-2.2.0/lib/Release";
+                            EXECUTABLE_PREFIX = lib;
+                            EXECUTABLE_SUFFIX = ".a";
+                            GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
+                            GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+                            GCC_OPTIMIZATION_LEVEL = 3;
+                            GCC_PRECOMPILE_PREFIX_HEADER = YES;
+                            GCC_PREFIX_HEADER = "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/precomp.hpp";
+                            GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)\"'", HAVE_ALLOCA, HAVE_ALLOCA_H, HAVE_LIBPTHREAD, HAVE_UNISTD_H, HAVE_CONFIG_H, CVAPI_EXPORTS, );
+                            GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+                            HEADER_SEARCH_PATHS = ("/Users/jjthrash/Downloads/OpenCV-2.2.0/.", "/Users/jjthrash/Downloads/OpenCV-2.2.0", "/Users/jjthrash/Downloads/OpenCV-2.2.0/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/../core/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/../imgproc/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/../highgui/include", );
+                            INSTALL_PATH = "";
+                            LIBRARY_STYLE = STATIC;
+                            OTHER_CFLAGS = "  -Wall -pthread      -DNDEBUG  -fomit-frame-pointer -O3 -ffast-math -DNDEBUG   ";
+                            OTHER_CPLUSPLUSFLAGS = "  -Wall -pthread      -DNDEBUG  -fomit-frame-pointer -O3 -ffast-math -DNDEBUG   ";
+                            OTHER_LDFLAGS = "";
+                            OTHER_REZFLAGS = "";
+                            PREBINDING = NO;
+                            PRODUCT_NAME = opencv_calib3d;
+                            SECTORDER_FLAGS = "";
+                            SYMROOT = "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d";
+                            USE_HEADERMAP = NO;
+                            WARNING_CFLAGS = ("-Wmost", "-Wno-four-char-constants", "-Wno-unknown-pragmas", );
+                     };
+                     name = Release;
+              };
+              1010F2B701010F2B701010F2 /* MinSizeRel */ = {
+                     isa = XCBuildConfiguration;
+                     buildSettings = {
+                            CONFIGURATION_BUILD_DIR = "/Users/jjthrash/Downloads/OpenCV-2.2.0/lib/MinSizeRel";
+                            EXECUTABLE_PREFIX = lib;
+                            EXECUTABLE_SUFFIX = ".a";
+                            GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
+                            GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+                            GCC_OPTIMIZATION_LEVEL = 0;
+                            GCC_PRECOMPILE_PREFIX_HEADER = YES;
+                            GCC_PREFIX_HEADER = "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/precomp.hpp";
+                            GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)\"'", HAVE_ALLOCA, HAVE_ALLOCA_H, HAVE_LIBPTHREAD, HAVE_UNISTD_H, HAVE_CONFIG_H, CVAPI_EXPORTS, );
+                            GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+                            HEADER_SEARCH_PATHS = ("/Users/jjthrash/Downloads/OpenCV-2.2.0/.", "/Users/jjthrash/Downloads/OpenCV-2.2.0", "/Users/jjthrash/Downloads/OpenCV-2.2.0/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/../core/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/../imgproc/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/../highgui/include", );
+                            INSTALL_PATH = "";
+                            LIBRARY_STYLE = STATIC;
+                            OTHER_CFLAGS = "  -Wall -pthread   ";
+                            OTHER_CPLUSPLUSFLAGS = "  -Wall -pthread   ";
+                            OTHER_LDFLAGS = "";
+                            OTHER_REZFLAGS = "";
+                            PREBINDING = NO;
+                            PRODUCT_NAME = opencv_calib3d;
+                            SECTORDER_FLAGS = "";
+                            SYMROOT = "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d";
+                            USE_HEADERMAP = NO;
+                            WARNING_CFLAGS = ("-Wmost", "-Wno-four-char-constants", "-Wno-unknown-pragmas", );
+                     };
+                     name = MinSizeRel;
+              };
+              1010EB9101010EB9101010EB /* RelWithDebInfo */ = {
+                     isa = XCBuildConfiguration;
+                     buildSettings = {
+                            CONFIGURATION_BUILD_DIR = "/Users/jjthrash/Downloads/OpenCV-2.2.0/lib/RelWithDebInfo";
+                            EXECUTABLE_PREFIX = lib;
+                            EXECUTABLE_SUFFIX = ".a";
+                            GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
+                            GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+                            GCC_OPTIMIZATION_LEVEL = 0;
+                            GCC_PRECOMPILE_PREFIX_HEADER = YES;
+                            GCC_PREFIX_HEADER = "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/precomp.hpp";
+                            GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)\"'", HAVE_ALLOCA, HAVE_ALLOCA_H, HAVE_LIBPTHREAD, HAVE_UNISTD_H, HAVE_CONFIG_H, CVAPI_EXPORTS, );
+                            GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+                            HEADER_SEARCH_PATHS = ("/Users/jjthrash/Downloads/OpenCV-2.2.0/.", "/Users/jjthrash/Downloads/OpenCV-2.2.0", "/Users/jjthrash/Downloads/OpenCV-2.2.0/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/../core/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/../imgproc/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/../highgui/include", );
+                            INSTALL_PATH = "";
+                            LIBRARY_STYLE = STATIC;
+                            OTHER_CFLAGS = "  -Wall -pthread   ";
+                            OTHER_CPLUSPLUSFLAGS = "  -Wall -pthread   ";
+                            OTHER_LDFLAGS = "";
+                            OTHER_REZFLAGS = "";
+                            PREBINDING = NO;
+                            PRODUCT_NAME = opencv_calib3d;
+                            SECTORDER_FLAGS = "";
+                            SYMROOT = "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d";
+                            USE_HEADERMAP = NO;
+                            WARNING_CFLAGS = ("-Wmost", "-Wno-four-char-constants", "-Wno-unknown-pragmas", );
+                     };
+                     name = RelWithDebInfo;
+              };
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+              101047220101047220101047 /* Build configuration list for PBXProject  "opencv_calib3d" */ = {
+                     isa = XCConfigurationList;
+                     buildConfigurations = (
+                            101047420101047420101047 /* Debug */,
+                            101062700101062700101062 /* Release */,
+                            1010629C01010629C0101062 /* MinSizeRel */,
+                            101062CB0101062CB0101062 /* RelWithDebInfo */,
+                     );
+                     defaultConfigurationIsVisible = 0;
+                     defaultConfigurationName = Debug;
+              };
+              1010DE4901010DE4901010DE /* Build configuration list for PBXAggregateTarget "ALL_BUILD" */ = {
+                     isa = XCConfigurationList;
+                     buildConfigurations = (
+                            1010EE3E01010EE3E01010EE /* Debug */,
+                            1010E5BA01010E5BA01010E5 /* Release */,
+                            101031030101031030101031 /* MinSizeRel */,
+                            1010D52501010D52501010D5 /* RelWithDebInfo */,
+                     );
+                     defaultConfigurationIsVisible = 0;
+                     defaultConfigurationName = Debug;
+              };
+              1010CF9F01010CF9F01010CF /* Build configuration list for PBXAggregateTarget "RUN_TESTS" */ = {
+                     isa = XCConfigurationList;
+                     buildConfigurations = (
+                            1010357E01010357E0101035 /* Debug */,
+                            10103CB4010103CB4010103C /* Release */,
+                            1010402F01010402F0101040 /* MinSizeRel */,
+                            101065730101065730101065 /* RelWithDebInfo */,
+                     );
+                     defaultConfigurationIsVisible = 0;
+                     defaultConfigurationName = Debug;
+              };
+              101059BB0101059BB0101059 /* Build configuration list for PBXAggregateTarget "install" */ = {
+                     isa = XCConfigurationList;
+                     buildConfigurations = (
+                            10105A10010105A10010105A /* Debug */,
+                            101067900101067900101067 /* Release */,
+                            10106B17010106B17010106B /* MinSizeRel */,
+                            1010443C01010443C0101044 /* RelWithDebInfo */,
+                     );
+                     defaultConfigurationIsVisible = 0;
+                     defaultConfigurationName = Debug;
+              };
+              1010F03801010F03801010F0 /* Build configuration list for PBXNativeTarget "opencv_calib3d" */ = {
+                     isa = XCConfigurationList;
+                     buildConfigurations = (
+                            1010F08E01010F08E01010F0 /* Debug */,
+                            1010F0C701010F0C701010F0 /* Release */,
+                            1010F2B701010F2B701010F2 /* MinSizeRel */,
+                            1010EB9101010EB9101010EB /* RelWithDebInfo */,
+                     );
+                     defaultConfigurationIsVisible = 0;
+                     defaultConfigurationName = Debug;
+              };
+/* End XCConfigurationList section */
+       };
+       rootObject = 100464140100464140100464;
+}

@@ -1,0 +1,1045 @@
+// !$*UTF8*$!
+{
+       archiveVersion = 1;
+       classes = {
+       };
+       objectVersion = 45;
+       objects = {
+
+/* Begin PBXAggregateTarget section */
+              10104ABB010104ABB010104A /* ALL_BUILD */ = {
+                     isa = PBXAggregateTarget;
+                     buildConfigurationList = 10104C6F010104C6F010104C /* Build configuration list for PBXAggregateTarget "ALL_BUILD" */;
+                     buildPhases = (
+                            10104AF0010104AF0010104A /* CMake ReRun */,
+                            10104B8E010104B8E010104B /* CMake Rules */,
+                     );
+                     dependencies = (
+                            101061B30101061B30101061 /* PBXTargetDependency */,
+                     );
+                     name = ALL_BUILD;
+                     productName = ALL_BUILD;
+              };
+              1010BE5701010BE5701010BE /* RUN_TESTS */ = {
+                     isa = PBXAggregateTarget;
+                     buildConfigurationList = 1010BFEB01010BFEB01010BF /* Build configuration list for PBXAggregateTarget "RUN_TESTS" */;
+                     buildPhases = (
+                            1010BE8201010BE8201010BE /* CMake ReRun */,
+                            1010BF2001010BF2001010BF /* CMake PostBuild Rules */,
+                     );
+                     dependencies = (
+                     );
+                     name = RUN_TESTS;
+                     productName = RUN_TESTS;
+              };
+              1010B02601010B02601010B0 /* install */ = {
+                     isa = PBXAggregateTarget;
+                     buildConfigurationList = 1010B1B801010B1B801010B1 /* Build configuration list for PBXAggregateTarget "install" */;
+                     buildPhases = (
+                            1010B05101010B05101010B0 /* CMake ReRun */,
+                            1010B0ED01010B0ED01010B0 /* CMake PostBuild Rules */,
+                     );
+                     dependencies = (
+                            101062990101062990101062 /* PBXTargetDependency */,
+                     );
+                     name = install;
+                     productName = install;
+              };
+/* End PBXAggregateTarget section */
+
+/* Begin PBXBuildFile section */
+1010F01501010F01501010F0 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/t4.h */ = {isa = PBXBuildFile; fileRef = 1010EF7101010EF7101010EF /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/t4.h */; settings = { COMPILER_FLAGS = ""; }; };
+1010F11601010F11601010F1 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tiffio.hxx */ = {isa = PBXBuildFile; fileRef = 1010F06801010F06801010F0 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tiffio.hxx */; settings = { COMPILER_FLAGS = ""; }; };
+1010EF1101010EF1101010EF /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tiffiop.h */ = {isa = PBXBuildFile; fileRef = 1010EE6101010EE6101010EE /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tiffiop.h */; settings = { COMPILER_FLAGS = ""; }; };
+1010DE4701010DE4701010DE /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_aux.c */ = {isa = PBXBuildFile; fileRef = 1010EDA001010EDA001010ED /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_aux.c */; settings = { COMPILER_FLAGS = ""; }; };
+1010D89001010D89001010D8 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_close.c */ = {isa = PBXBuildFile; fileRef = 1010DE9901010DE9901010DE /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_close.c */; settings = { COMPILER_FLAGS = ""; }; };
+1010D99201010D99201010D9 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_codec.c */ = {isa = PBXBuildFile; fileRef = 1010D8E201010D8E201010D8 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_codec.c */; settings = { COMPILER_FLAGS = ""; }; };
+1010DA9301010DA9301010DA /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_color.c */ = {isa = PBXBuildFile; fileRef = 1010D9E501010D9E501010D9 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_color.c */; settings = { COMPILER_FLAGS = ""; }; };
+1010DB9501010DB9501010DB /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_compress.c */ = {isa = PBXBuildFile; fileRef = 1010DAE501010DAE501010DA /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_compress.c */; settings = { COMPILER_FLAGS = ""; }; };
+1010DC9401010DC9401010DC /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_dir.c */ = {isa = PBXBuildFile; fileRef = 1010DBEA01010DBEA01010DB /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_dir.c */; settings = { COMPILER_FLAGS = ""; }; };
+1010DD9301010DD9301010DD /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_dir.h */ = {isa = PBXBuildFile; fileRef = 1010DCE501010DCE501010DC /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_dir.h */; settings = { COMPILER_FLAGS = ""; }; };
+1010E69C01010E69C01010E6 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_dirinfo.c */ = {isa = PBXBuildFile; fileRef = 1010DDE501010DDE501010DD /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_dirinfo.c */; settings = { COMPILER_FLAGS = ""; }; };
+1010E79801010E79801010E7 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_dirread.c */ = {isa = PBXBuildFile; fileRef = 1010E6EA01010E6EA01010E6 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_dirread.c */; settings = { COMPILER_FLAGS = ""; }; };
+1010E3A801010E3A801010E3 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_dirwrite.c */ = {isa = PBXBuildFile; fileRef = 1010E7EA01010E7EA01010E7 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_dirwrite.c */; settings = { COMPILER_FLAGS = ""; }; };
+1010E4AA01010E4AA01010E4 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_dumpmode.c */ = {isa = PBXBuildFile; fileRef = 1010E40401010E40401010E4 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_dumpmode.c */; settings = { COMPILER_FLAGS = ""; }; };
+1010E5BA01010E5BA01010E5 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_error.c */ = {isa = PBXBuildFile; fileRef = 1010E50C01010E50C01010E5 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_error.c */; settings = { COMPILER_FLAGS = ""; }; };
+1010E08D01010E08D01010E0 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_extension.c */ = {isa = PBXBuildFile; fileRef = 1010E60C01010E60C01010E6 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_extension.c */; settings = { COMPILER_FLAGS = ""; }; };
+1010E18C01010E18C01010E1 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_fax3.c */ = {isa = PBXBuildFile; fileRef = 1010E0DE01010E0DE01010E0 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_fax3.c */; settings = { COMPILER_FLAGS = ""; }; };
+1010E29E01010E29E01010E2 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_fax3.h */ = {isa = PBXBuildFile; fileRef = 1010E1EE01010E1EE01010E1 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_fax3.h */; settings = { COMPILER_FLAGS = ""; }; };
+1010DF5801010DF5801010DF /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_fax3sm.c */ = {isa = PBXBuildFile; fileRef = 1010E2F401010E2F401010E2 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_fax3sm.c */; settings = { COMPILER_FLAGS = ""; }; };
+101030E40101030E40101030 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_flush.c */ = {isa = PBXBuildFile; fileRef = 1010DFA901010DFA901010DF /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_flush.c */; settings = { COMPILER_FLAGS = ""; }; };
+101031E30101031E30101031 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_getimage.c */ = {isa = PBXBuildFile; fileRef = 101031350101031350101031 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_getimage.c */; settings = { COMPILER_FLAGS = ""; }; };
+101032EB0101032EB0101032 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_jbig.c */ = {isa = PBXBuildFile; fileRef = 101032350101032350101032 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_jbig.c */; settings = { COMPILER_FLAGS = ""; }; };
+101033F20101033F20101033 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_jpeg.c */ = {isa = PBXBuildFile; fileRef = 101033490101033490101033 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_jpeg.c */; settings = { COMPILER_FLAGS = ""; }; };
+1010D6B701010D6B701010D6 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_luv.c */ = {isa = PBXBuildFile; fileRef = 101034440101034440101034 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_luv.c */; settings = { COMPILER_FLAGS = ""; }; };
+1010D7B701010D7B701010D7 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_lzw.c */ = {isa = PBXBuildFile; fileRef = 1010D70901010D70901010D7 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_lzw.c */; settings = { COMPILER_FLAGS = ""; }; };
+1010D5AA01010D5AA01010D5 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_next.c */ = {isa = PBXBuildFile; fileRef = 1010D4FC01010D4FC01010D4 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_next.c */; settings = { COMPILER_FLAGS = ""; }; };
+1010D39101010D39101010D3 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_ojpeg.c */ = {isa = PBXBuildFile; fileRef = 1010D5FC01010D5FC01010D5 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_ojpeg.c */; settings = { COMPILER_FLAGS = ""; }; };
+1010D49101010D49101010D4 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_open.c */ = {isa = PBXBuildFile; fileRef = 1010D3E301010D3E301010D3 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_open.c */; settings = { COMPILER_FLAGS = ""; }; };
+1010D28701010D28701010D2 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_packbits.c */ = {isa = PBXBuildFile; fileRef = 1010D1D901010D1D901010D1 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_packbits.c */; settings = { COMPILER_FLAGS = ""; }; };
+1010D07401010D07401010D0 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_pixarlog.c */ = {isa = PBXBuildFile; fileRef = 1010D2D901010D2D901010D2 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_pixarlog.c */; settings = { COMPILER_FLAGS = ""; }; };
+1010D17301010D17301010D1 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_predict.c */ = {isa = PBXBuildFile; fileRef = 1010D0C501010D0C501010D0 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_predict.c */; settings = { COMPILER_FLAGS = ""; }; };
+1010CF5D01010CF5D01010CF /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_predict.h */ = {isa = PBXBuildFile; fileRef = 101035010101035010101035 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_predict.h */; settings = { COMPILER_FLAGS = ""; }; };
+101034CF0101034CF0101034 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_print.c */ = {isa = PBXBuildFile; fileRef = 1010CFAF01010CFAF01010CF /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_print.c */; settings = { COMPILER_FLAGS = ""; }; };
+101048EA0101048EA0101048 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_read.c */ = {isa = PBXBuildFile; fileRef = 101035860101035860101035 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_read.c */; settings = { COMPILER_FLAGS = ""; }; };
+10103DFE010103DFE010103D /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_stream.cxx */ = {isa = PBXBuildFile; fileRef = 1010493B01010493B0101049 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_stream.cxx */; settings = { COMPILER_FLAGS = ""; }; };
+10103BDC010103BDC010103B /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_strip.c */ = {isa = PBXBuildFile; fileRef = 10103E50010103E50010103E /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_strip.c */; settings = { COMPILER_FLAGS = ""; }; };
+10103CDB010103CDB010103C /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_swab.c */ = {isa = PBXBuildFile; fileRef = 10103C2D010103C2D010103C /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_swab.c */; settings = { COMPILER_FLAGS = ""; }; };
+10103B13010103B13010103B /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_thunder.c */ = {isa = PBXBuildFile; fileRef = 10103D2D010103D2D010103D /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_thunder.c */; settings = { COMPILER_FLAGS = ""; }; };
+1010397C01010397C0101039 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_tile.c */ = {isa = PBXBuildFile; fileRef = 10103B61010103B61010103B /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_tile.c */; settings = { COMPILER_FLAGS = ""; }; };
+10103A73010103A73010103A /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_version.c */ = {isa = PBXBuildFile; fileRef = 101042160101042160101042 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_version.c */; settings = { COMPILER_FLAGS = ""; }; };
+1010363C01010363C0101036 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_warning.c */ = {isa = PBXBuildFile; fileRef = 1010424A01010424A0101042 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_warning.c */; settings = { COMPILER_FLAGS = ""; }; };
+10102CCA010102CCA010102C /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_write.c */ = {isa = PBXBuildFile; fileRef = 1010368D01010368D0101036 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_write.c */; settings = { COMPILER_FLAGS = ""; }; };
+10102DCA010102DCA010102D /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_zip.c */ = {isa = PBXBuildFile; fileRef = 10102D1C010102D1C010102D /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_zip.c */; settings = { COMPILER_FLAGS = ""; }; };
+10104C90010104C90010104C /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/uvcode.h */ = {isa = PBXBuildFile; fileRef = 10102BA1010102BA1010102B /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/uvcode.h */; settings = { COMPILER_FLAGS = ""; }; };
+1010F9A301010F9A301010F9 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_unix.c */ = {isa = PBXBuildFile; fileRef = 10104CE2010104CE2010104C /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_unix.c */; settings = { COMPILER_FLAGS = ""; }; };
+1010F8EA01010F8EA01010F8 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_config.h */ = {isa = PBXBuildFile; fileRef = 1010F9F501010F9F501010F9 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_config.h */; settings = { COMPILER_FLAGS = ""; }; };
+101048860101048860101048 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/tiff.h */ = {isa = PBXBuildFile; fileRef = 1010F93C01010F93C01010F9 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/tiff.h */; settings = { COMPILER_FLAGS = ""; }; };
+1010440B01010440B0101044 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/tiffio.h */ = {isa = PBXBuildFile; fileRef = 101047630101047630101047 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/tiffio.h */; settings = { COMPILER_FLAGS = ""; }; };
+1010450B01010450B0101045 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/tiffvers.h */ = {isa = PBXBuildFile; fileRef = 1010445A01010445A0101044 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/tiffvers.h */; settings = { COMPILER_FLAGS = ""; }; };
+1010461C01010461C0101046 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/tiffconf.h */ = {isa = PBXBuildFile; fileRef = 1010455A01010455A0101045 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/tiffconf.h */; settings = { COMPILER_FLAGS = ""; }; };
+101046DA0101046DA0101046 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/CMakeLists.txt */ = {isa = PBXBuildFile; fileRef = 101053980101053980101053 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/CMakeLists.txt */; settings = { COMPILER_FLAGS = ""; }; };
+/* End PBXBuildFile section */
+
+/* Begin PBXBuildStyle section */
+              1010BD3501010BD3501010BD /*  */ = {
+                     isa = PBXBuildStyle;
+              };
+              10109FA4010109FA4010109F /* Debug */ = {
+                     isa = PBXBuildStyle;
+                     buildSettings = {
+                            COPY_PHASE_STRIP = NO;
+                     };
+                     name = Debug;
+              };
+              100448A70100448A70100448 /* Release */ = {
+                     isa = PBXBuildStyle;
+                     buildSettings = {
+                            COPY_PHASE_STRIP = NO;
+                     };
+                     name = Release;
+              };
+              10102B7D010102B7D010102B /* MinSizeRel */ = {
+                     isa = PBXBuildStyle;
+                     buildSettings = {
+                            COPY_PHASE_STRIP = NO;
+                     };
+                     name = MinSizeRel;
+              };
+              101011730101011730101011 /* RelWithDebInfo */ = {
+                     isa = PBXBuildStyle;
+                     buildSettings = {
+                            COPY_PHASE_STRIP = NO;
+                     };
+                     name = RelWithDebInfo;
+              };
+/* End PBXBuildStyle section */
+
+/* Begin PBXContainerItemProxy section */
+              101041F60101041F60101041 /* PBXContainerItemProxy */ = {
+                     isa = PBXContainerItemProxy;
+                     containerPortal = 1010C74501010C74501010C7 /* Project object */;
+                     proxyType = 1;
+                     remoteGlobalIDString = 101067150101067150101067;
+                     remoteInfo = libtiff;
+              };
+              101061F90101061F90101061 /* PBXContainerItemProxy */ = {
+                     isa = PBXContainerItemProxy;
+                     containerPortal = 1010C74501010C74501010C7 /* Project object */;
+                     proxyType = 1;
+                     remoteGlobalIDString = 10104ABB010104ABB010104A;
+                     remoteInfo = ALL_BUILD;
+              };
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+101053980101053980101053 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/CMakeLists.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.text"; name = "CMakeLists.txt"; path = "CMakeLists.txt"; sourceTree = SOURCE_ROOT; };
+1010EF7101010EF7101010EF /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/t4.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.c.h"; name = "t4.h"; path = "t4.h"; sourceTree = SOURCE_ROOT; };
+1010F06801010F06801010F0 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tiffio.hxx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.cpp.h"; name = "tiffio.hxx"; path = "tiffio.hxx"; sourceTree = SOURCE_ROOT; };
+1010EE6101010EE6101010EE /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tiffiop.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.c.h"; name = "tiffiop.h"; path = "tiffiop.h"; sourceTree = SOURCE_ROOT; };
+1010EDA001010EDA001010ED /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_aux.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.c.c"; name = "tif_aux.c"; path = "tif_aux.c"; sourceTree = SOURCE_ROOT; };
+1010DE9901010DE9901010DE /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_close.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.c.c"; name = "tif_close.c"; path = "tif_close.c"; sourceTree = SOURCE_ROOT; };
+1010D8E201010D8E201010D8 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_codec.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.c.c"; name = "tif_codec.c"; path = "tif_codec.c"; sourceTree = SOURCE_ROOT; };
+1010D9E501010D9E501010D9 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_color.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.c.c"; name = "tif_color.c"; path = "tif_color.c"; sourceTree = SOURCE_ROOT; };
+1010DAE501010DAE501010DA /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_compress.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.c.c"; name = "tif_compress.c"; path = "tif_compress.c"; sourceTree = SOURCE_ROOT; };
+1010DBEA01010DBEA01010DB /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_dir.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.c.c"; name = "tif_dir.c"; path = "tif_dir.c"; sourceTree = SOURCE_ROOT; };
+1010DCE501010DCE501010DC /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_dir.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.c.h"; name = "tif_dir.h"; path = "tif_dir.h"; sourceTree = SOURCE_ROOT; };
+1010DDE501010DDE501010DD /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_dirinfo.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.c.c"; name = "tif_dirinfo.c"; path = "tif_dirinfo.c"; sourceTree = SOURCE_ROOT; };
+1010E6EA01010E6EA01010E6 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_dirread.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.c.c"; name = "tif_dirread.c"; path = "tif_dirread.c"; sourceTree = SOURCE_ROOT; };
+1010E7EA01010E7EA01010E7 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_dirwrite.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.c.c"; name = "tif_dirwrite.c"; path = "tif_dirwrite.c"; sourceTree = SOURCE_ROOT; };
+1010E40401010E40401010E4 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_dumpmode.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.c.c"; name = "tif_dumpmode.c"; path = "tif_dumpmode.c"; sourceTree = SOURCE_ROOT; };
+1010E50C01010E50C01010E5 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_error.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.c.c"; name = "tif_error.c"; path = "tif_error.c"; sourceTree = SOURCE_ROOT; };
+1010E60C01010E60C01010E6 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_extension.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.c.c"; name = "tif_extension.c"; path = "tif_extension.c"; sourceTree = SOURCE_ROOT; };
+1010E0DE01010E0DE01010E0 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_fax3.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.c.c"; name = "tif_fax3.c"; path = "tif_fax3.c"; sourceTree = SOURCE_ROOT; };
+1010E1EE01010E1EE01010E1 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_fax3.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.c.h"; name = "tif_fax3.h"; path = "tif_fax3.h"; sourceTree = SOURCE_ROOT; };
+1010E2F401010E2F401010E2 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_fax3sm.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.c.c"; name = "tif_fax3sm.c"; path = "tif_fax3sm.c"; sourceTree = SOURCE_ROOT; };
+1010DFA901010DFA901010DF /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_flush.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.c.c"; name = "tif_flush.c"; path = "tif_flush.c"; sourceTree = SOURCE_ROOT; };
+101031350101031350101031 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_getimage.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.c.c"; name = "tif_getimage.c"; path = "tif_getimage.c"; sourceTree = SOURCE_ROOT; };
+101032350101032350101032 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_jbig.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.c.c"; name = "tif_jbig.c"; path = "tif_jbig.c"; sourceTree = SOURCE_ROOT; };
+101033490101033490101033 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_jpeg.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.c.c"; name = "tif_jpeg.c"; path = "tif_jpeg.c"; sourceTree = SOURCE_ROOT; };
+101034440101034440101034 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_luv.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.c.c"; name = "tif_luv.c"; path = "tif_luv.c"; sourceTree = SOURCE_ROOT; };
+1010D70901010D70901010D7 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_lzw.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.c.c"; name = "tif_lzw.c"; path = "tif_lzw.c"; sourceTree = SOURCE_ROOT; };
+1010D4FC01010D4FC01010D4 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_next.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.c.c"; name = "tif_next.c"; path = "tif_next.c"; sourceTree = SOURCE_ROOT; };
+1010D5FC01010D5FC01010D5 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_ojpeg.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.c.c"; name = "tif_ojpeg.c"; path = "tif_ojpeg.c"; sourceTree = SOURCE_ROOT; };
+1010D3E301010D3E301010D3 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_open.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.c.c"; name = "tif_open.c"; path = "tif_open.c"; sourceTree = SOURCE_ROOT; };
+1010D1D901010D1D901010D1 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_packbits.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.c.c"; name = "tif_packbits.c"; path = "tif_packbits.c"; sourceTree = SOURCE_ROOT; };
+1010D2D901010D2D901010D2 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_pixarlog.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.c.c"; name = "tif_pixarlog.c"; path = "tif_pixarlog.c"; sourceTree = SOURCE_ROOT; };
+1010D0C501010D0C501010D0 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_predict.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.c.c"; name = "tif_predict.c"; path = "tif_predict.c"; sourceTree = SOURCE_ROOT; };
+101035010101035010101035 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_predict.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.c.h"; name = "tif_predict.h"; path = "tif_predict.h"; sourceTree = SOURCE_ROOT; };
+1010CFAF01010CFAF01010CF /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_print.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.c.c"; name = "tif_print.c"; path = "tif_print.c"; sourceTree = SOURCE_ROOT; };
+101035860101035860101035 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_read.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.c.c"; name = "tif_read.c"; path = "tif_read.c"; sourceTree = SOURCE_ROOT; };
+1010493B01010493B0101049 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_stream.cxx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.cpp.cpp"; name = "tif_stream.cxx"; path = "tif_stream.cxx"; sourceTree = SOURCE_ROOT; };
+10103E50010103E50010103E /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_strip.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.c.c"; name = "tif_strip.c"; path = "tif_strip.c"; sourceTree = SOURCE_ROOT; };
+10103C2D010103C2D010103C /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_swab.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.c.c"; name = "tif_swab.c"; path = "tif_swab.c"; sourceTree = SOURCE_ROOT; };
+10103D2D010103D2D010103D /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_thunder.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.c.c"; name = "tif_thunder.c"; path = "tif_thunder.c"; sourceTree = SOURCE_ROOT; };
+10103B61010103B61010103B /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_tile.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.c.c"; name = "tif_tile.c"; path = "tif_tile.c"; sourceTree = SOURCE_ROOT; };
+101042160101042160101042 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_version.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.c.c"; name = "tif_version.c"; path = "tif_version.c"; sourceTree = SOURCE_ROOT; };
+1010424A01010424A0101042 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_warning.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.c.c"; name = "tif_warning.c"; path = "tif_warning.c"; sourceTree = SOURCE_ROOT; };
+1010368D01010368D0101036 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_write.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.c.c"; name = "tif_write.c"; path = "tif_write.c"; sourceTree = SOURCE_ROOT; };
+10102D1C010102D1C010102D /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_zip.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.c.c"; name = "tif_zip.c"; path = "tif_zip.c"; sourceTree = SOURCE_ROOT; };
+10102BA1010102BA1010102B /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/uvcode.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.c.h"; name = "uvcode.h"; path = "uvcode.h"; sourceTree = SOURCE_ROOT; };
+10104CE2010104CE2010104C /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_unix.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.c.c"; name = "tif_unix.c"; path = "tif_unix.c"; sourceTree = SOURCE_ROOT; };
+1010F9F501010F9F501010F9 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_config.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.c.h"; name = "tif_config.h"; path = "tif_config.h"; sourceTree = SOURCE_ROOT; };
+1010F93C01010F93C01010F9 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/tiff.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.c.h"; name = "tiff.h"; path = "../include/tiff.h"; sourceTree = SOURCE_ROOT; };
+101047630101047630101047 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/tiffio.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.c.h"; name = "tiffio.h"; path = "../include/tiffio.h"; sourceTree = SOURCE_ROOT; };
+1010445A01010445A0101044 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/tiffvers.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.c.h"; name = "tiffvers.h"; path = "../include/tiffvers.h"; sourceTree = SOURCE_ROOT; };
+1010455A01010455A0101045 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/tiffconf.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.c.h"; name = "tiffconf.h"; path = "../include/tiffconf.h"; sourceTree = SOURCE_ROOT; };
+101063DE0101063DE0101063 /* libtiff */ = {isa = PBXFileReference; explicitFileType = "archive.ar"; path = "liblibtiff.a"; refType = 0; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+              10109C8A010109C8A010109C  = {
+                     isa = PBXGroup;
+                     children = (
+                            1010BA9E01010BA9E01010BA /* Sources */,
+                            101000EC0101000EC0101000 /* Resources */,
+                            10108DA6010108DA6010108D /* Products */,
+                     );
+                     sourceTree = "<group>";
+              };
+              1010BA9E01010BA9E01010BA /* Sources */ = {
+                     isa = PBXGroup;
+                     children = (
+                            1010058F01010058F0101005 /* ALL_BUILD */,
+                            10108DC0010108DC0010108D /* libtiff */,
+                     );
+                     name = Sources;
+                     sourceTree = "<group>";
+              };
+              101000EC0101000EC0101000 /* Resources */ = {
+                     isa = PBXGroup;
+                     children = (
+                     );
+                     name = Resources;
+                     sourceTree = "<group>";
+              };
+              1010058F01010058F0101005 /* ALL_BUILD */ = {
+                     isa = PBXGroup;
+                     children = (
+                            1010BD7601010BD7601010BD /* CMake Rules */,
+                            101053980101053980101053 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/CMakeLists.txt */,
+                     );
+                     name = ALL_BUILD;
+                     sourceTree = "<group>";
+              };
+              1010BD7601010BD7601010BD /* CMake Rules */ = {
+                     isa = PBXGroup;
+                     children = (
+                     );
+                     name = "CMake Rules";
+                     sourceTree = "<group>";
+              };
+              10108DC0010108DC0010108D /* libtiff */ = {
+                     isa = PBXGroup;
+                     children = (
+                            1010F8A201010F8A201010F8 /* Header Files */,
+                            101015950101015950101015 /* Source Files */,
+                            101053980101053980101053 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/CMakeLists.txt */,
+                     );
+                     name = libtiff;
+                     sourceTree = "<group>";
+              };
+              1010F8A201010F8A201010F8 /* Header Files */ = {
+                     isa = PBXGroup;
+                     children = (
+                            1010EF7101010EF7101010EF /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/t4.h */,
+                            1010F06801010F06801010F0 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tiffio.hxx */,
+                            1010EE6101010EE6101010EE /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tiffiop.h */,
+                            1010DCE501010DCE501010DC /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_dir.h */,
+                            1010E1EE01010E1EE01010E1 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_fax3.h */,
+                            101035010101035010101035 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_predict.h */,
+                            10102BA1010102BA1010102B /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/uvcode.h */,
+                            1010F9F501010F9F501010F9 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_config.h */,
+                            1010F93C01010F93C01010F9 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/tiff.h */,
+                            101047630101047630101047 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/tiffio.h */,
+                            1010445A01010445A0101044 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/tiffvers.h */,
+                            1010455A01010455A0101045 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/tiffconf.h */,
+                     );
+                     name = "Header Files";
+                     sourceTree = "<group>";
+              };
+              101015950101015950101015 /* Source Files */ = {
+                     isa = PBXGroup;
+                     children = (
+                            1010EDA001010EDA001010ED /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_aux.c */,
+                            1010DE9901010DE9901010DE /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_close.c */,
+                            1010D8E201010D8E201010D8 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_codec.c */,
+                            1010D9E501010D9E501010D9 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_color.c */,
+                            1010DAE501010DAE501010DA /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_compress.c */,
+                            1010DBEA01010DBEA01010DB /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_dir.c */,
+                            1010DDE501010DDE501010DD /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_dirinfo.c */,
+                            1010E6EA01010E6EA01010E6 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_dirread.c */,
+                            1010E7EA01010E7EA01010E7 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_dirwrite.c */,
+                            1010E40401010E40401010E4 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_dumpmode.c */,
+                            1010E50C01010E50C01010E5 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_error.c */,
+                            1010E60C01010E60C01010E6 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_extension.c */,
+                            1010E0DE01010E0DE01010E0 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_fax3.c */,
+                            1010E2F401010E2F401010E2 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_fax3sm.c */,
+                            1010DFA901010DFA901010DF /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_flush.c */,
+                            101031350101031350101031 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_getimage.c */,
+                            101032350101032350101032 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_jbig.c */,
+                            101033490101033490101033 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_jpeg.c */,
+                            101034440101034440101034 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_luv.c */,
+                            1010D70901010D70901010D7 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_lzw.c */,
+                            1010D4FC01010D4FC01010D4 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_next.c */,
+                            1010D5FC01010D5FC01010D5 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_ojpeg.c */,
+                            1010D3E301010D3E301010D3 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_open.c */,
+                            1010D1D901010D1D901010D1 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_packbits.c */,
+                            1010D2D901010D2D901010D2 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_pixarlog.c */,
+                            1010D0C501010D0C501010D0 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_predict.c */,
+                            1010CFAF01010CFAF01010CF /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_print.c */,
+                            101035860101035860101035 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_read.c */,
+                            1010493B01010493B0101049 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_stream.cxx */,
+                            10103E50010103E50010103E /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_strip.c */,
+                            10103C2D010103C2D010103C /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_swab.c */,
+                            10103D2D010103D2D010103D /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_thunder.c */,
+                            10103B61010103B61010103B /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_tile.c */,
+                            101042160101042160101042 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_version.c */,
+                            1010424A01010424A0101042 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_warning.c */,
+                            1010368D01010368D0101036 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_write.c */,
+                            10102D1C010102D1C010102D /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_zip.c */,
+                            10104CE2010104CE2010104C /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_unix.c */,
+                     );
+                     name = "Source Files";
+                     sourceTree = "<group>";
+              };
+              10108DA6010108DA6010108D /* Products */ = {
+                     isa = PBXGroup;
+                     children = (
+                            101063DE0101063DE0101063 /* libtiff */,
+                     );
+                     name = Products;
+                     sourceTree = "<group>";
+              };
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+              101067150101067150101067 /* libtiff */ = {
+                     isa = PBXNativeTarget;
+                     buildConfigurationList = 101067640101067640101067 /* Build configuration list for PBXNativeTarget "libtiff" */;
+                     buildPhases = (
+                            101043690101043690101043 /* CMake ReRun */,
+                            101042D90101042D90101042 /* Sources */,
+                            1010666E01010666E0101066 /* CMake PostBuild Rules */,
+                     );
+                     buildRules = (
+                     );
+                     dependencies = (
+                     );
+                     name = libtiff;
+                     productName = libtiff;
+                     productReference = 101063DE0101063DE0101063 /* libtiff */;
+                     productType = "com.apple.product-type.library.static";
+              };
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+              1010C74501010C74501010C7 /* Project object */ = {
+                     isa = PBXProject;
+                     attributes = {
+                            BuildIndependentTargetsInParallel = YES;
+                     };
+                     buildConfigurationList = 1010C42B01010C42B01010C4 /* Build configuration list for PBXProject  "libtiff" */;
+                     buildSettings = {
+                     };
+                     buildStyles = (
+                            10109FA4010109FA4010109F /* Debug */,
+                            100448A70100448A70100448 /* Release */,
+                            10102B7D010102B7D010102B /* MinSizeRel */,
+                            101011730101011730101011 /* RelWithDebInfo */,
+                     );
+                     compatibilityVersion = "Xcode 3.1";
+                     hasScannedForEncodings = 0;
+                     mainGroup = 10109C8A010109C8A010109C;
+                     projectDirPath = ".";
+                     projectRoot = "";
+                     targets = (
+                            10104ABB010104ABB010104A /* ALL_BUILD */,
+                            1010BE5701010BE5701010BE /* RUN_TESTS */,
+                            1010B02601010B02601010B0 /* install */,
+                            101067150101067150101067 /* libtiff */,
+                     );
+              };
+/* End PBXProject section */
+
+/* Begin PBXShellScriptBuildPhase section */
+              10104A03010104A03010104A /*  */ = {
+                     isa = PBXShellScriptBuildPhase;
+                     buildActionMask = 2147483647;
+                     files = (
+                     );
+                     inputPaths = (
+                     );
+                     outputPaths = (
+                     );
+                     runOnlyForDeploymentPostprocessing = 0;
+                     shellPath = /bin/sh;
+                     shellScript = "# shell script goes here
+exit 0";
+              };
+              10104AF0010104AF0010104A /* CMake ReRun */ = {
+                     isa = PBXShellScriptBuildPhase;
+                     buildActionMask = 2147483647;
+                     files = (
+                     );
+                     name = "CMake ReRun";
+                     runOnlyForDeploymentPostprocessing = 0;
+                     shellPath = /bin/sh;
+                     shellScript = "make -C /Users/jjthrash/Downloads/OpenCV-2.2.0 -f /Users/jjthrash/Downloads/OpenCV-2.2.0/CMakeScripts/ReRunCMake.make";
+              };
+              10104B8E010104B8E010104B /* CMake Rules */ = {
+                     isa = PBXShellScriptBuildPhase;
+                     buildActionMask = 2147483647;
+                     files = (
+                     );
+                     name = "CMake Rules";
+                     runOnlyForDeploymentPostprocessing = 0;
+                     shellPath = /bin/sh;
+                     shellScript = "make -C /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff -f /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/CMakeScripts/ALL_BUILD_cmakeRulesBuildPhase.make$CONFIGURATION all";
+              };
+              101054400101054400101054 /*  */ = {
+                     isa = PBXShellScriptBuildPhase;
+                     buildActionMask = 2147483647;
+                     files = (
+                     );
+                     inputPaths = (
+                     );
+                     outputPaths = (
+                     );
+                     runOnlyForDeploymentPostprocessing = 0;
+                     shellPath = /bin/sh;
+                     shellScript = "# shell script goes here
+exit 0";
+              };
+              1010BE8201010BE8201010BE /* CMake ReRun */ = {
+                     isa = PBXShellScriptBuildPhase;
+                     buildActionMask = 2147483647;
+                     files = (
+                     );
+                     name = "CMake ReRun";
+                     runOnlyForDeploymentPostprocessing = 0;
+                     shellPath = /bin/sh;
+                     shellScript = "make -C /Users/jjthrash/Downloads/OpenCV-2.2.0 -f /Users/jjthrash/Downloads/OpenCV-2.2.0/CMakeScripts/ReRunCMake.make";
+              };
+              1010BF2001010BF2001010BF /* CMake PostBuild Rules */ = {
+                     isa = PBXShellScriptBuildPhase;
+                     buildActionMask = 2147483647;
+                     files = (
+                     );
+                     name = "CMake PostBuild Rules";
+                     runOnlyForDeploymentPostprocessing = 0;
+                     shellPath = /bin/sh;
+                     shellScript = "make -C /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff -f /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/CMakeScripts/RUN_TESTS_postBuildPhase.make$CONFIGURATION all";
+              };
+              1010AF6D01010AF6D01010AF /*  */ = {
+                     isa = PBXShellScriptBuildPhase;
+                     buildActionMask = 2147483647;
+                     files = (
+                     );
+                     inputPaths = (
+                     );
+                     outputPaths = (
+                     );
+                     runOnlyForDeploymentPostprocessing = 0;
+                     shellPath = /bin/sh;
+                     shellScript = "# shell script goes here
+exit 0";
+              };
+              1010B05101010B05101010B0 /* CMake ReRun */ = {
+                     isa = PBXShellScriptBuildPhase;
+                     buildActionMask = 2147483647;
+                     files = (
+                     );
+                     name = "CMake ReRun";
+                     runOnlyForDeploymentPostprocessing = 0;
+                     shellPath = /bin/sh;
+                     shellScript = "make -C /Users/jjthrash/Downloads/OpenCV-2.2.0 -f /Users/jjthrash/Downloads/OpenCV-2.2.0/CMakeScripts/ReRunCMake.make";
+              };
+              1010B0ED01010B0ED01010B0 /* CMake PostBuild Rules */ = {
+                     isa = PBXShellScriptBuildPhase;
+                     buildActionMask = 2147483647;
+                     files = (
+                     );
+                     name = "CMake PostBuild Rules";
+                     runOnlyForDeploymentPostprocessing = 0;
+                     shellPath = /bin/sh;
+                     shellScript = "make -C /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff -f /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/CMakeScripts/install_postBuildPhase.make$CONFIGURATION all";
+              };
+              101043690101043690101043 /* CMake ReRun */ = {
+                     isa = PBXShellScriptBuildPhase;
+                     buildActionMask = 2147483647;
+                     files = (
+                     );
+                     name = "CMake ReRun";
+                     runOnlyForDeploymentPostprocessing = 0;
+                     shellPath = /bin/sh;
+                     shellScript = "make -C /Users/jjthrash/Downloads/OpenCV-2.2.0 -f /Users/jjthrash/Downloads/OpenCV-2.2.0/CMakeScripts/ReRunCMake.make";
+              };
+              1010666E01010666E0101066 /* CMake PostBuild Rules */ = {
+                     isa = PBXShellScriptBuildPhase;
+                     buildActionMask = 2147483647;
+                     files = (
+                     );
+                     name = "CMake PostBuild Rules";
+                     runOnlyForDeploymentPostprocessing = 0;
+                     shellPath = /bin/sh;
+                     shellScript = "make -C /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff -f /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/CMakeScripts/libtiff_postBuildPhase.make$CONFIGURATION all";
+              };
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+              101042D90101042D90101042 /* Sources */ = {
+                     isa = PBXSourcesBuildPhase;
+                     buildActionMask = 2147483647;
+                     files = (
+                            1010DE4701010DE4701010DE /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_aux.c */,
+                            1010D89001010D89001010D8 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_close.c */,
+                            1010D99201010D99201010D9 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_codec.c */,
+                            1010DA9301010DA9301010DA /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_color.c */,
+                            1010DB9501010DB9501010DB /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_compress.c */,
+                            1010DC9401010DC9401010DC /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_dir.c */,
+                            1010E69C01010E69C01010E6 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_dirinfo.c */,
+                            1010E79801010E79801010E7 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_dirread.c */,
+                            1010E3A801010E3A801010E3 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_dirwrite.c */,
+                            1010E4AA01010E4AA01010E4 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_dumpmode.c */,
+                            1010E5BA01010E5BA01010E5 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_error.c */,
+                            1010E08D01010E08D01010E0 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_extension.c */,
+                            1010E18C01010E18C01010E1 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_fax3.c */,
+                            1010DF5801010DF5801010DF /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_fax3sm.c */,
+                            101030E40101030E40101030 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_flush.c */,
+                            101031E30101031E30101031 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_getimage.c */,
+                            101032EB0101032EB0101032 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_jbig.c */,
+                            101033F20101033F20101033 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_jpeg.c */,
+                            1010D6B701010D6B701010D6 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_luv.c */,
+                            1010D7B701010D7B701010D7 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_lzw.c */,
+                            1010D5AA01010D5AA01010D5 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_next.c */,
+                            1010D39101010D39101010D3 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_ojpeg.c */,
+                            1010D49101010D49101010D4 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_open.c */,
+                            1010D28701010D28701010D2 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_packbits.c */,
+                            1010D07401010D07401010D0 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_pixarlog.c */,
+                            1010D17301010D17301010D1 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_predict.c */,
+                            101034CF0101034CF0101034 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_print.c */,
+                            101048EA0101048EA0101048 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_read.c */,
+                            10103DFE010103DFE010103D /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_stream.cxx */,
+                            10103BDC010103BDC010103B /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_strip.c */,
+                            10103CDB010103CDB010103C /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_swab.c */,
+                            10103B13010103B13010103B /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_thunder.c */,
+                            1010397C01010397C0101039 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_tile.c */,
+                            10103A73010103A73010103A /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_version.c */,
+                            1010363C01010363C0101036 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_warning.c */,
+                            10102CCA010102CCA010102C /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_write.c */,
+                            10102DCA010102DCA010102D /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_zip.c */,
+                            1010F9A301010F9A301010F9 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/tif_unix.c */,
+                     );
+                     runOnlyForDeploymentPostprocessing = 0;
+              };
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+              101061B30101061B30101061 /* PBXTargetDependency */ = {
+                     isa = PBXTargetDependency;
+                     target = 101067150101067150101067 /* libtiff */;
+                     targetProxy = 101041F60101041F60101041 /* PBXContainerItemProxy */;
+              };
+              101062990101062990101062 /* PBXTargetDependency */ = {
+                     isa = PBXTargetDependency;
+                     target = 10104ABB010104ABB010104A /* ALL_BUILD */;
+                     targetProxy = 101061F90101061F90101061 /* PBXContainerItemProxy */;
+              };
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+              1010C46201010C46201010C4 /* Debug */ = {
+                     isa = XCBuildConfiguration;
+                     buildSettings = {
+                            ARCHS = "$(ARCHS_STANDARD_32_64_BIT)";
+                            ONLY_ACTIVE_ARCH = YES;
+                            SDKROOT = "/Developer/SDKs/MacOSX10.6.sdk";
+                            SYMROOT = "/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/build";
+                     };
+                     name = Debug;
+              };
+              1010C48801010C48801010C4 /* Release */ = {
+                     isa = XCBuildConfiguration;
+                     buildSettings = {
+                            ARCHS = "$(ARCHS_STANDARD_32_64_BIT)";
+                            ONLY_ACTIVE_ARCH = YES;
+                            SDKROOT = "/Developer/SDKs/MacOSX10.6.sdk";
+                            SYMROOT = "/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/build";
+                     };
+                     name = Release;
+              };
+              1010C4B401010C4B401010C4 /* MinSizeRel */ = {
+                     isa = XCBuildConfiguration;
+                     buildSettings = {
+                            ARCHS = "$(ARCHS_STANDARD_32_64_BIT)";
+                            ONLY_ACTIVE_ARCH = YES;
+                            SDKROOT = "/Developer/SDKs/MacOSX10.6.sdk";
+                            SYMROOT = "/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/build";
+                     };
+                     name = MinSizeRel;
+              };
+              1010C4E301010C4E301010C4 /* RelWithDebInfo */ = {
+                     isa = XCBuildConfiguration;
+                     buildSettings = {
+                            ARCHS = "$(ARCHS_STANDARD_32_64_BIT)";
+                            ONLY_ACTIVE_ARCH = YES;
+                            SDKROOT = "/Developer/SDKs/MacOSX10.6.sdk";
+                            SYMROOT = "/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/build";
+                     };
+                     name = RelWithDebInfo;
+              };
+              101036F70101036F70101036 /* Debug */ = {
+                     isa = XCBuildConfiguration;
+                     buildSettings = {
+                            GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
+                            GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+                            GCC_OPTIMIZATION_LEVEL = 0;
+                            GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)\"'", HAVE_ALLOCA, HAVE_ALLOCA_H, HAVE_LIBPTHREAD, HAVE_UNISTD_H, HAVE_CONFIG_H, "'HAVE_STRING_H=1'", );
+                            GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+                            HEADER_SEARCH_PATHS = ("/Users/jjthrash/Downloads/OpenCV-2.2.0/.", "/Users/jjthrash/Downloads/OpenCV-2.2.0", "/Users/jjthrash/Downloads/OpenCV-2.2.0/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv", "/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff", "/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/../include", );
+                            INSTALL_PATH = "";
+                            OTHER_CFLAGS = "  ";
+                            OTHER_LDFLAGS = "";
+                            OTHER_REZFLAGS = "";
+                            PREBINDING = NO;
+                            PRODUCT_NAME = ALL_BUILD;
+                            SECTORDER_FLAGS = "";
+                            SYMROOT = "/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff";
+                            USE_HEADERMAP = NO;
+                            WARNING_CFLAGS = ("-Wmost", "-Wno-four-char-constants", "-Wno-unknown-pragmas", );
+                     };
+                     name = Debug;
+              };
+              10103F17010103F17010103F /* Release */ = {
+                     isa = XCBuildConfiguration;
+                     buildSettings = {
+                            GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
+                            GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+                            GCC_OPTIMIZATION_LEVEL = 0;
+                            GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)\"'", HAVE_ALLOCA, HAVE_ALLOCA_H, HAVE_LIBPTHREAD, HAVE_UNISTD_H, HAVE_CONFIG_H, "'HAVE_STRING_H=1'", );
+                            GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+                            HEADER_SEARCH_PATHS = ("/Users/jjthrash/Downloads/OpenCV-2.2.0/.", "/Users/jjthrash/Downloads/OpenCV-2.2.0", "/Users/jjthrash/Downloads/OpenCV-2.2.0/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv", "/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff", "/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/../include", );
+                            INSTALL_PATH = "";
+                            OTHER_CFLAGS = "  ";
+                            OTHER_LDFLAGS = "";
+                            OTHER_REZFLAGS = "";
+                            PREBINDING = NO;
+                            PRODUCT_NAME = ALL_BUILD;
+                            SECTORDER_FLAGS = "";
+                            SYMROOT = "/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff";
+                            USE_HEADERMAP = NO;
+                            WARNING_CFLAGS = ("-Wmost", "-Wno-four-char-constants", "-Wno-unknown-pragmas", );
+                     };
+                     name = Release;
+              };
+              10102F7C010102F7C010102F /* MinSizeRel */ = {
+                     isa = XCBuildConfiguration;
+                     buildSettings = {
+                            GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
+                            GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+                            GCC_OPTIMIZATION_LEVEL = 0;
+                            GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)\"'", HAVE_ALLOCA, HAVE_ALLOCA_H, HAVE_LIBPTHREAD, HAVE_UNISTD_H, HAVE_CONFIG_H, "'HAVE_STRING_H=1'", );
+                            GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+                            HEADER_SEARCH_PATHS = ("/Users/jjthrash/Downloads/OpenCV-2.2.0/.", "/Users/jjthrash/Downloads/OpenCV-2.2.0", "/Users/jjthrash/Downloads/OpenCV-2.2.0/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv", "/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff", "/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/../include", );
+                            INSTALL_PATH = "";
+                            OTHER_CFLAGS = "  ";
+                            OTHER_LDFLAGS = "";
+                            OTHER_REZFLAGS = "";
+                            PREBINDING = NO;
+                            PRODUCT_NAME = ALL_BUILD;
+                            SECTORDER_FLAGS = "";
+                            SYMROOT = "/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff";
+                            USE_HEADERMAP = NO;
+                            WARNING_CFLAGS = ("-Wmost", "-Wno-four-char-constants", "-Wno-unknown-pragmas", );
+                     };
+                     name = MinSizeRel;
+              };
+              10104FCF010104FCF010104F /* RelWithDebInfo */ = {
+                     isa = XCBuildConfiguration;
+                     buildSettings = {
+                            GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
+                            GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+                            GCC_OPTIMIZATION_LEVEL = 0;
+                            GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)\"'", HAVE_ALLOCA, HAVE_ALLOCA_H, HAVE_LIBPTHREAD, HAVE_UNISTD_H, HAVE_CONFIG_H, "'HAVE_STRING_H=1'", );
+                            GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+                            HEADER_SEARCH_PATHS = ("/Users/jjthrash/Downloads/OpenCV-2.2.0/.", "/Users/jjthrash/Downloads/OpenCV-2.2.0", "/Users/jjthrash/Downloads/OpenCV-2.2.0/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv", "/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff", "/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/../include", );
+                            INSTALL_PATH = "";
+                            OTHER_CFLAGS = "  ";
+                            OTHER_LDFLAGS = "";
+                            OTHER_REZFLAGS = "";
+                            PREBINDING = NO;
+                            PRODUCT_NAME = ALL_BUILD;
+                            SECTORDER_FLAGS = "";
+                            SYMROOT = "/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff";
+                            USE_HEADERMAP = NO;
+                            WARNING_CFLAGS = ("-Wmost", "-Wno-four-char-constants", "-Wno-unknown-pragmas", );
+                     };
+                     name = RelWithDebInfo;
+              };
+              1010C04301010C04301010C0 /* Debug */ = {
+                     isa = XCBuildConfiguration;
+                     buildSettings = {
+                            GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
+                            GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+                            GCC_OPTIMIZATION_LEVEL = 0;
+                            GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)\"'", HAVE_ALLOCA, HAVE_ALLOCA_H, HAVE_LIBPTHREAD, HAVE_UNISTD_H, HAVE_CONFIG_H, "'HAVE_STRING_H=1'", );
+                            GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+                            HEADER_SEARCH_PATHS = ("/Users/jjthrash/Downloads/OpenCV-2.2.0/.", "/Users/jjthrash/Downloads/OpenCV-2.2.0", "/Users/jjthrash/Downloads/OpenCV-2.2.0/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv", "/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff", "/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/../include", );
+                            INSTALL_PATH = "";
+                            OTHER_CFLAGS = "  ";
+                            OTHER_LDFLAGS = "";
+                            OTHER_REZFLAGS = "";
+                            PREBINDING = NO;
+                            PRODUCT_NAME = RUN_TESTS;
+                            SECTORDER_FLAGS = "";
+                            SYMROOT = "/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff";
+                            USE_HEADERMAP = NO;
+                            WARNING_CFLAGS = ("-Wmost", "-Wno-four-char-constants", "-Wno-unknown-pragmas", );
+                     };
+                     name = Debug;
+              };
+              1010C37501010C37501010C3 /* Release */ = {
+                     isa = XCBuildConfiguration;
+                     buildSettings = {
+                            GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
+                            GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+                            GCC_OPTIMIZATION_LEVEL = 0;
+                            GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)\"'", HAVE_ALLOCA, HAVE_ALLOCA_H, HAVE_LIBPTHREAD, HAVE_UNISTD_H, HAVE_CONFIG_H, "'HAVE_STRING_H=1'", );
+                            GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+                            HEADER_SEARCH_PATHS = ("/Users/jjthrash/Downloads/OpenCV-2.2.0/.", "/Users/jjthrash/Downloads/OpenCV-2.2.0", "/Users/jjthrash/Downloads/OpenCV-2.2.0/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv", "/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff", "/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/../include", );
+                            INSTALL_PATH = "";
+                            OTHER_CFLAGS = "  ";
+                            OTHER_LDFLAGS = "";
+                            OTHER_REZFLAGS = "";
+                            PREBINDING = NO;
+                            PRODUCT_NAME = RUN_TESTS;
+                            SECTORDER_FLAGS = "";
+                            SYMROOT = "/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff";
+                            USE_HEADERMAP = NO;
+                            WARNING_CFLAGS = ("-Wmost", "-Wno-four-char-constants", "-Wno-unknown-pragmas", );
+                     };
+                     name = Release;
+              };
+              1010C85F01010C85F01010C8 /* MinSizeRel */ = {
+                     isa = XCBuildConfiguration;
+                     buildSettings = {
+                            GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
+                            GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+                            GCC_OPTIMIZATION_LEVEL = 0;
+                            GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)\"'", HAVE_ALLOCA, HAVE_ALLOCA_H, HAVE_LIBPTHREAD, HAVE_UNISTD_H, HAVE_CONFIG_H, "'HAVE_STRING_H=1'", );
+                            GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+                            HEADER_SEARCH_PATHS = ("/Users/jjthrash/Downloads/OpenCV-2.2.0/.", "/Users/jjthrash/Downloads/OpenCV-2.2.0", "/Users/jjthrash/Downloads/OpenCV-2.2.0/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv", "/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff", "/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/../include", );
+                            INSTALL_PATH = "";
+                            OTHER_CFLAGS = "  ";
+                            OTHER_LDFLAGS = "";
+                            OTHER_REZFLAGS = "";
+                            PREBINDING = NO;
+                            PRODUCT_NAME = RUN_TESTS;
+                            SECTORDER_FLAGS = "";
+                            SYMROOT = "/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff";
+                            USE_HEADERMAP = NO;
+                            WARNING_CFLAGS = ("-Wmost", "-Wno-four-char-constants", "-Wno-unknown-pragmas", );
+                     };
+                     name = MinSizeRel;
+              };
+              1010ABD801010ABD801010AB /* RelWithDebInfo */ = {
+                     isa = XCBuildConfiguration;
+                     buildSettings = {
+                            GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
+                            GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+                            GCC_OPTIMIZATION_LEVEL = 0;
+                            GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)\"'", HAVE_ALLOCA, HAVE_ALLOCA_H, HAVE_LIBPTHREAD, HAVE_UNISTD_H, HAVE_CONFIG_H, "'HAVE_STRING_H=1'", );
+                            GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+                            HEADER_SEARCH_PATHS = ("/Users/jjthrash/Downloads/OpenCV-2.2.0/.", "/Users/jjthrash/Downloads/OpenCV-2.2.0", "/Users/jjthrash/Downloads/OpenCV-2.2.0/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv", "/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff", "/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/../include", );
+                            INSTALL_PATH = "";
+                            OTHER_CFLAGS = "  ";
+                            OTHER_LDFLAGS = "";
+                            OTHER_REZFLAGS = "";
+                            PREBINDING = NO;
+                            PRODUCT_NAME = RUN_TESTS;
+                            SECTORDER_FLAGS = "";
+                            SYMROOT = "/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff";
+                            USE_HEADERMAP = NO;
+                            WARNING_CFLAGS = ("-Wmost", "-Wno-four-char-constants", "-Wno-unknown-pragmas", );
+                     };
+                     name = RelWithDebInfo;
+              };
+              1010B20D01010B20D01010B2 /* Debug */ = {
+                     isa = XCBuildConfiguration;
+                     buildSettings = {
+                            GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
+                            GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+                            GCC_OPTIMIZATION_LEVEL = 0;
+                            GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)\"'", HAVE_ALLOCA, HAVE_ALLOCA_H, HAVE_LIBPTHREAD, HAVE_UNISTD_H, HAVE_CONFIG_H, "'HAVE_STRING_H=1'", );
+                            GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+                            HEADER_SEARCH_PATHS = ("/Users/jjthrash/Downloads/OpenCV-2.2.0/.", "/Users/jjthrash/Downloads/OpenCV-2.2.0", "/Users/jjthrash/Downloads/OpenCV-2.2.0/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv", "/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff", "/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/../include", );
+                            INSTALL_PATH = "";
+                            OTHER_CFLAGS = "  ";
+                            OTHER_LDFLAGS = "";
+                            OTHER_REZFLAGS = "";
+                            PREBINDING = NO;
+                            PRODUCT_NAME = install;
+                            SECTORDER_FLAGS = "";
+                            SYMROOT = "/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff";
+                            USE_HEADERMAP = NO;
+                            WARNING_CFLAGS = ("-Wmost", "-Wno-four-char-constants", "-Wno-unknown-pragmas", );
+                     };
+                     name = Debug;
+              };
+              1010EADA01010EADA01010EA /* Release */ = {
+                     isa = XCBuildConfiguration;
+                     buildSettings = {
+                            GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
+                            GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+                            GCC_OPTIMIZATION_LEVEL = 0;
+                            GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)\"'", HAVE_ALLOCA, HAVE_ALLOCA_H, HAVE_LIBPTHREAD, HAVE_UNISTD_H, HAVE_CONFIG_H, "'HAVE_STRING_H=1'", );
+                            GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+                            HEADER_SEARCH_PATHS = ("/Users/jjthrash/Downloads/OpenCV-2.2.0/.", "/Users/jjthrash/Downloads/OpenCV-2.2.0", "/Users/jjthrash/Downloads/OpenCV-2.2.0/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv", "/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff", "/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/../include", );
+                            INSTALL_PATH = "";
+                            OTHER_CFLAGS = "  ";
+                            OTHER_LDFLAGS = "";
+                            OTHER_REZFLAGS = "";
+                            PREBINDING = NO;
+                            PRODUCT_NAME = install;
+                            SECTORDER_FLAGS = "";
+                            SYMROOT = "/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff";
+                            USE_HEADERMAP = NO;
+                            WARNING_CFLAGS = ("-Wmost", "-Wno-four-char-constants", "-Wno-unknown-pragmas", );
+                     };
+                     name = Release;
+              };
+              1010BC3901010BC3901010BC /* MinSizeRel */ = {
+                     isa = XCBuildConfiguration;
+                     buildSettings = {
+                            GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
+                            GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+                            GCC_OPTIMIZATION_LEVEL = 0;
+                            GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)\"'", HAVE_ALLOCA, HAVE_ALLOCA_H, HAVE_LIBPTHREAD, HAVE_UNISTD_H, HAVE_CONFIG_H, "'HAVE_STRING_H=1'", );
+                            GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+                            HEADER_SEARCH_PATHS = ("/Users/jjthrash/Downloads/OpenCV-2.2.0/.", "/Users/jjthrash/Downloads/OpenCV-2.2.0", "/Users/jjthrash/Downloads/OpenCV-2.2.0/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv", "/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff", "/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/../include", );
+                            INSTALL_PATH = "";
+                            OTHER_CFLAGS = "  ";
+                            OTHER_LDFLAGS = "";
+                            OTHER_REZFLAGS = "";
+                            PREBINDING = NO;
+                            PRODUCT_NAME = install;
+                            SECTORDER_FLAGS = "";
+                            SYMROOT = "/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff";
+                            USE_HEADERMAP = NO;
+                            WARNING_CFLAGS = ("-Wmost", "-Wno-four-char-constants", "-Wno-unknown-pragmas", );
+                     };
+                     name = MinSizeRel;
+              };
+              1010F51201010F51201010F5 /* RelWithDebInfo */ = {
+                     isa = XCBuildConfiguration;
+                     buildSettings = {
+                            GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
+                            GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+                            GCC_OPTIMIZATION_LEVEL = 0;
+                            GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)\"'", HAVE_ALLOCA, HAVE_ALLOCA_H, HAVE_LIBPTHREAD, HAVE_UNISTD_H, HAVE_CONFIG_H, "'HAVE_STRING_H=1'", );
+                            GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+                            HEADER_SEARCH_PATHS = ("/Users/jjthrash/Downloads/OpenCV-2.2.0/.", "/Users/jjthrash/Downloads/OpenCV-2.2.0", "/Users/jjthrash/Downloads/OpenCV-2.2.0/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv", "/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff", "/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/../include", );
+                            INSTALL_PATH = "";
+                            OTHER_CFLAGS = "  ";
+                            OTHER_LDFLAGS = "";
+                            OTHER_REZFLAGS = "";
+                            PREBINDING = NO;
+                            PRODUCT_NAME = install;
+                            SECTORDER_FLAGS = "";
+                            SYMROOT = "/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff";
+                            USE_HEADERMAP = NO;
+                            WARNING_CFLAGS = ("-Wmost", "-Wno-four-char-constants", "-Wno-unknown-pragmas", );
+                     };
+                     name = RelWithDebInfo;
+              };
+              101067B60101067B60101067 /* Debug */ = {
+                     isa = XCBuildConfiguration;
+                     buildSettings = {
+                            CONFIGURATION_BUILD_DIR = "/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug";
+                            EXECUTABLE_PREFIX = lib;
+                            EXECUTABLE_SUFFIX = ".a";
+                            GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
+                            GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+                            GCC_OPTIMIZATION_LEVEL = 0;
+                            GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)\"'", HAVE_ALLOCA, HAVE_ALLOCA_H, HAVE_LIBPTHREAD, HAVE_UNISTD_H, HAVE_CONFIG_H, "'HAVE_STRING_H=1'", );
+                            GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+                            HEADER_SEARCH_PATHS = ("/Users/jjthrash/Downloads/OpenCV-2.2.0/.", "/Users/jjthrash/Downloads/OpenCV-2.2.0", "/Users/jjthrash/Downloads/OpenCV-2.2.0/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv", "/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff", "/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/../include", );
+                            INSTALL_PATH = "";
+                            LIBRARY_STYLE = STATIC;
+                            OTHER_CFLAGS = "  -Wall -pthread  -fPIC         -ggdb3 -DDEBUG -D_DEBUG   ";
+                            OTHER_CPLUSPLUSFLAGS = "  -Wall -pthread          -ggdb3 -DDEBUG -D_DEBUG   ";
+                            OTHER_LDFLAGS = "";
+                            OTHER_REZFLAGS = "";
+                            PREBINDING = NO;
+                            PRODUCT_NAME = libtiff;
+                            SECTORDER_FLAGS = "";
+                            SYMROOT = "/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff";
+                            USE_HEADERMAP = NO;
+                            WARNING_CFLAGS = ("-Wmost", "-Wno-four-char-constants", "-Wno-unknown-pragmas", );
+                     };
+                     name = Debug;
+              };
+              101067F20101067F20101067 /* Release */ = {
+                     isa = XCBuildConfiguration;
+                     buildSettings = {
+                            CONFIGURATION_BUILD_DIR = "/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Release";
+                            EXECUTABLE_PREFIX = lib;
+                            EXECUTABLE_SUFFIX = ".a";
+                            GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
+                            GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+                            GCC_OPTIMIZATION_LEVEL = 3;
+                            GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)\"'", HAVE_ALLOCA, HAVE_ALLOCA_H, HAVE_LIBPTHREAD, HAVE_UNISTD_H, HAVE_CONFIG_H, "'HAVE_STRING_H=1'", );
+                            GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+                            HEADER_SEARCH_PATHS = ("/Users/jjthrash/Downloads/OpenCV-2.2.0/.", "/Users/jjthrash/Downloads/OpenCV-2.2.0", "/Users/jjthrash/Downloads/OpenCV-2.2.0/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv", "/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff", "/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/../include", );
+                            INSTALL_PATH = "";
+                            LIBRARY_STYLE = STATIC;
+                            OTHER_CFLAGS = "  -Wall -pthread  -fPIC     -DNDEBUG  -fomit-frame-pointer -O3 -ffast-math -DNDEBUG   ";
+                            OTHER_CPLUSPLUSFLAGS = "  -Wall -pthread      -DNDEBUG  -fomit-frame-pointer -O3 -ffast-math -DNDEBUG   ";
+                            OTHER_LDFLAGS = "";
+                            OTHER_REZFLAGS = "";
+                            PREBINDING = NO;
+                            PRODUCT_NAME = libtiff;
+                            SECTORDER_FLAGS = "";
+                            SYMROOT = "/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff";
+                            USE_HEADERMAP = NO;
+                            WARNING_CFLAGS = ("-Wmost", "-Wno-four-char-constants", "-Wno-unknown-pragmas", );
+                     };
+                     name = Release;
+              };
+              101057580101057580101057 /* MinSizeRel */ = {
+                     isa = XCBuildConfiguration;
+                     buildSettings = {
+                            CONFIGURATION_BUILD_DIR = "/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/MinSizeRel";
+                            EXECUTABLE_PREFIX = lib;
+                            EXECUTABLE_SUFFIX = ".a";
+                            GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
+                            GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+                            GCC_OPTIMIZATION_LEVEL = 0;
+                            GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)\"'", HAVE_ALLOCA, HAVE_ALLOCA_H, HAVE_LIBPTHREAD, HAVE_UNISTD_H, HAVE_CONFIG_H, "'HAVE_STRING_H=1'", );
+                            GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+                            HEADER_SEARCH_PATHS = ("/Users/jjthrash/Downloads/OpenCV-2.2.0/.", "/Users/jjthrash/Downloads/OpenCV-2.2.0", "/Users/jjthrash/Downloads/OpenCV-2.2.0/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv", "/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff", "/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/../include", );
+                            INSTALL_PATH = "";
+                            LIBRARY_STYLE = STATIC;
+                            OTHER_CFLAGS = "  -Wall -pthread  -fPIC  ";
+                            OTHER_CPLUSPLUSFLAGS = "  -Wall -pthread   ";
+                            OTHER_LDFLAGS = "";
+                            OTHER_REZFLAGS = "";
+                            PREBINDING = NO;
+                            PRODUCT_NAME = libtiff;
+                            SECTORDER_FLAGS = "";
+                            SYMROOT = "/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff";
+                            USE_HEADERMAP = NO;
+                            WARNING_CFLAGS = ("-Wmost", "-Wno-four-char-constants", "-Wno-unknown-pragmas", );
+                     };
+                     name = MinSizeRel;
+              };
+              10105AEF010105AEF010105A /* RelWithDebInfo */ = {
+                     isa = XCBuildConfiguration;
+                     buildSettings = {
+                            CONFIGURATION_BUILD_DIR = "/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/RelWithDebInfo";
+                            EXECUTABLE_PREFIX = lib;
+                            EXECUTABLE_SUFFIX = ".a";
+                            GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
+                            GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+                            GCC_OPTIMIZATION_LEVEL = 0;
+                            GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)\"'", HAVE_ALLOCA, HAVE_ALLOCA_H, HAVE_LIBPTHREAD, HAVE_UNISTD_H, HAVE_CONFIG_H, "'HAVE_STRING_H=1'", );
+                            GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+                            HEADER_SEARCH_PATHS = ("/Users/jjthrash/Downloads/OpenCV-2.2.0/.", "/Users/jjthrash/Downloads/OpenCV-2.2.0", "/Users/jjthrash/Downloads/OpenCV-2.2.0/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv", "/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff", "/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff/../include", );
+                            INSTALL_PATH = "";
+                            LIBRARY_STYLE = STATIC;
+                            OTHER_CFLAGS = "  -Wall -pthread  -fPIC  ";
+                            OTHER_CPLUSPLUSFLAGS = "  -Wall -pthread   ";
+                            OTHER_LDFLAGS = "";
+                            OTHER_REZFLAGS = "";
+                            PREBINDING = NO;
+                            PRODUCT_NAME = libtiff;
+                            SECTORDER_FLAGS = "";
+                            SYMROOT = "/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libtiff";
+                            USE_HEADERMAP = NO;
+                            WARNING_CFLAGS = ("-Wmost", "-Wno-four-char-constants", "-Wno-unknown-pragmas", );
+                     };
+                     name = RelWithDebInfo;
+              };
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+              1010C42B01010C42B01010C4 /* Build configuration list for PBXProject  "libtiff" */ = {
+                     isa = XCConfigurationList;
+                     buildConfigurations = (
+                            1010C46201010C46201010C4 /* Debug */,
+                            1010C48801010C48801010C4 /* Release */,
+                            1010C4B401010C4B401010C4 /* MinSizeRel */,
+                            1010C4E301010C4E301010C4 /* RelWithDebInfo */,
+                     );
+                     defaultConfigurationIsVisible = 0;
+                     defaultConfigurationName = Debug;
+              };
+              10104C6F010104C6F010104C /* Build configuration list for PBXAggregateTarget "ALL_BUILD" */ = {
+                     isa = XCConfigurationList;
+                     buildConfigurations = (
+                            101036F70101036F70101036 /* Debug */,
+                            10103F17010103F17010103F /* Release */,
+                            10102F7C010102F7C010102F /* MinSizeRel */,
+                            10104FCF010104FCF010104F /* RelWithDebInfo */,
+                     );
+                     defaultConfigurationIsVisible = 0;
+                     defaultConfigurationName = Debug;
+              };
+              1010BFEB01010BFEB01010BF /* Build configuration list for PBXAggregateTarget "RUN_TESTS" */ = {
+                     isa = XCConfigurationList;
+                     buildConfigurations = (
+                            1010C04301010C04301010C0 /* Debug */,
+                            1010C37501010C37501010C3 /* Release */,
+                            1010C85F01010C85F01010C8 /* MinSizeRel */,
+                            1010ABD801010ABD801010AB /* RelWithDebInfo */,
+                     );
+                     defaultConfigurationIsVisible = 0;
+                     defaultConfigurationName = Debug;
+              };
+              1010B1B801010B1B801010B1 /* Build configuration list for PBXAggregateTarget "install" */ = {
+                     isa = XCConfigurationList;
+                     buildConfigurations = (
+                            1010B20D01010B20D01010B2 /* Debug */,
+                            1010EADA01010EADA01010EA /* Release */,
+                            1010BC3901010BC3901010BC /* MinSizeRel */,
+                            1010F51201010F51201010F5 /* RelWithDebInfo */,
+                     );
+                     defaultConfigurationIsVisible = 0;
+                     defaultConfigurationName = Debug;
+              };
+              101067640101067640101067 /* Build configuration list for PBXNativeTarget "libtiff" */ = {
+                     isa = XCConfigurationList;
+                     buildConfigurations = (
+                            101067B60101067B60101067 /* Debug */,
+                            101067F20101067F20101067 /* Release */,
+                            101057580101057580101057 /* MinSizeRel */,
+                            10105AEF010105AEF010105A /* RelWithDebInfo */,
+                     );
+                     defaultConfigurationIsVisible = 0;
+                     defaultConfigurationName = Debug;
+              };
+/* End XCConfigurationList section */
+       };
+       rootObject = 1010C74501010C74501010C7;
+}

@@ -1,0 +1,44 @@
+Topencv_traincascade
+v7
+r1
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/traincascade/OpenCV.build/Release-iphonesimulator/opencv_traincascade.build/Script-10135F42010135F42010135F.sh
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/traincascade/OpenCV.build/Release-iphonesimulator/opencv_traincascade.build/Script-10135FE4010135FE4010135F.sh
+c00000000000000000000000000000000
+t2
+s0
+
+CCompileC modules/traincascade/OpenCV.build/Release-iphonesimulator/opencv_traincascade.build/Objects-normal/i386/boost.o /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/traincascade/boost.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC modules/traincascade/OpenCV.build/Release-iphonesimulator/opencv_traincascade.build/Objects-normal/i386/cascadeclassifier.o /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/traincascade/cascadeclassifier.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC modules/traincascade/OpenCV.build/Release-iphonesimulator/opencv_traincascade.build/Objects-normal/i386/features.o /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/traincascade/features.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC modules/traincascade/OpenCV.build/Release-iphonesimulator/opencv_traincascade.build/Objects-normal/i386/haarfeatures.o /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/traincascade/haarfeatures.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC modules/traincascade/OpenCV.build/Release-iphonesimulator/opencv_traincascade.build/Objects-normal/i386/imagestorage.o /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/traincascade/imagestorage.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC modules/traincascade/OpenCV.build/Release-iphonesimulator/opencv_traincascade.build/Objects-normal/i386/lbpfeatures.o /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/traincascade/lbpfeatures.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC modules/traincascade/OpenCV.build/Release-iphonesimulator/opencv_traincascade.build/Objects-normal/i386/traincascade.o /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/traincascade/traincascade.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+r0
+
+CLd /Users/jjthrash/Downloads/OpenCV-2.2.0/bin/Release/ normal i386
+r0
+
+CPhaseScriptExecution "CMake PostBuild Rules" /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/traincascade/OpenCV.build/Release-iphonesimulator/opencv_traincascade.build/Script-10135FE4010135FE4010135F.sh
+r0
+
+CPhaseScriptExecution "CMake ReRun" /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/traincascade/OpenCV.build/Release-iphonesimulator/opencv_traincascade.build/Script-10135F42010135F42010135F.sh
+r0
+

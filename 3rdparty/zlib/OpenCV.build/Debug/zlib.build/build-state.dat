@@ -1,0 +1,596 @@
+Tzlib
+v7
+r0
+t319992635.925085
+cCheck dependencies
+cPhaseScriptExecution "CMake ReRun" /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/OpenCV.build/Debug/zlib.build/Script-101611E90101611E90101611.sh
+cCompileC 3rdparty/zlib/OpenCV.build/Debug/zlib.build/Objects-normal/x86_64/adler32.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/adler32.c normal x86_64 c com.apple.compilers.gcc.4_2
+cCompileC 3rdparty/zlib/OpenCV.build/Debug/zlib.build/Objects-normal/x86_64/compress.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/compress.c normal x86_64 c com.apple.compilers.gcc.4_2
+cCompileC 3rdparty/zlib/OpenCV.build/Debug/zlib.build/Objects-normal/x86_64/crc32.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/crc32.c normal x86_64 c com.apple.compilers.gcc.4_2
+cCompileC 3rdparty/zlib/OpenCV.build/Debug/zlib.build/Objects-normal/x86_64/deflate.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/deflate.c normal x86_64 c com.apple.compilers.gcc.4_2
+cCompileC 3rdparty/zlib/OpenCV.build/Debug/zlib.build/Objects-normal/x86_64/gzclose.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/gzclose.c normal x86_64 c com.apple.compilers.gcc.4_2
+cCompileC 3rdparty/zlib/OpenCV.build/Debug/zlib.build/Objects-normal/x86_64/gzlib.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/gzlib.c normal x86_64 c com.apple.compilers.gcc.4_2
+cCompileC 3rdparty/zlib/OpenCV.build/Debug/zlib.build/Objects-normal/x86_64/gzread.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/gzread.c normal x86_64 c com.apple.compilers.gcc.4_2
+cCompileC 3rdparty/zlib/OpenCV.build/Debug/zlib.build/Objects-normal/x86_64/gzwrite.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/gzwrite.c normal x86_64 c com.apple.compilers.gcc.4_2
+cCompileC 3rdparty/zlib/OpenCV.build/Debug/zlib.build/Objects-normal/x86_64/infback.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/infback.c normal x86_64 c com.apple.compilers.gcc.4_2
+cCompileC 3rdparty/zlib/OpenCV.build/Debug/zlib.build/Objects-normal/x86_64/inffast.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/inffast.c normal x86_64 c com.apple.compilers.gcc.4_2
+cCompileC 3rdparty/zlib/OpenCV.build/Debug/zlib.build/Objects-normal/x86_64/inflate.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/inflate.c normal x86_64 c com.apple.compilers.gcc.4_2
+cCompileC 3rdparty/zlib/OpenCV.build/Debug/zlib.build/Objects-normal/x86_64/inftrees.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/inftrees.c normal x86_64 c com.apple.compilers.gcc.4_2
+cCompileC 3rdparty/zlib/OpenCV.build/Debug/zlib.build/Objects-normal/x86_64/trees.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/trees.c normal x86_64 c com.apple.compilers.gcc.4_2
+cCompileC 3rdparty/zlib/OpenCV.build/Debug/zlib.build/Objects-normal/x86_64/uncompr.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/uncompr.c normal x86_64 c com.apple.compilers.gcc.4_2
+cCompileC 3rdparty/zlib/OpenCV.build/Debug/zlib.build/Objects-normal/x86_64/zutil.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/zutil.c normal x86_64 c com.apple.compilers.gcc.4_2
+cLibtool /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug/libzlib.a normal x86_64
+cPhaseScriptExecution "CMake PostBuild Rules" /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/OpenCV.build/Debug/zlib.build/Script-1016128B01016128B0101612.sh
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004CAA740B00000000000000EE
+t1286239243
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/ctype.h
+c000000004BBD2CE90000000000002C18
+t1270689001
+s11288
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/errno.h
+c000000004BBD2CE900000000000003EB
+t1270689001
+s1003
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/fcntl.h
+c000000004BBD2CE900000000000003EA
+t1270689001
+s1002
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004BBD2CE90000000000004174
+t1270689001
+s16756
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdlib.h
+c000000004BBD2CE90000000000002DF5
+t1270689001
+s11765
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/string.h
+c000000004BBD2CE90000000000001731
+t1270689001
+s5937
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/sys/types.h
+c000000004C2399480000000000002905
+t1277401416
+s10501
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/unistd.h
+c000000004BBD2CE9000000000000563E
+t1270689001
+s22078
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/limits.h
+c000000004A11EB240000000000000C7E
+t1242688292
+s3198
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/stdarg.h
+c000000004A11EB2400000000000010DD
+t1242688292
+s4317
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/stddef.h
+c000000004A11EB240000000000003197
+t1242688292
+s12695
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/zconf.h
+c000000004CFB087B000000000000343F
+t1291520123
+s13375
+i<windows.h>
+i<sys/types.h>
+i<unistd.h>
+i<unixio.h>
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/zlib.h
+c000000004CFB087B00000000000136CC
+t1291520123
+s79564
+i"zconf.h"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug/libzlib.a
+t1298299835
+s802888
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/OpenCV.build/Debug/zlib.build/Objects-normal/x86_64/adler32.o
+t1298299835
+s42352
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/OpenCV.build/Debug/zlib.build/Objects-normal/x86_64/compress.o
+t1298299835
+s25860
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/OpenCV.build/Debug/zlib.build/Objects-normal/x86_64/crc32.o
+t1298299835
+s67780
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/OpenCV.build/Debug/zlib.build/Objects-normal/x86_64/deflate.o
+t1298299835
+s80736
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/OpenCV.build/Debug/zlib.build/Objects-normal/x86_64/gzclose.o
+t1298299835
+s47304
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/OpenCV.build/Debug/zlib.build/Objects-normal/x86_64/gzlib.o
+t1298299835
+s58860
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/OpenCV.build/Debug/zlib.build/Objects-normal/x86_64/gzread.o
+t1298299835
+s61464
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/OpenCV.build/Debug/zlib.build/Objects-normal/x86_64/gzwrite.o
+t1298299835
+s57696
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/OpenCV.build/Debug/zlib.build/Objects-normal/x86_64/infback.o
+t1298299835
+s57064
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/OpenCV.build/Debug/zlib.build/Objects-normal/x86_64/inffast.o
+t1298299835
+s45204
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/OpenCV.build/Debug/zlib.build/Objects-normal/x86_64/inflate.o
+t1298299835
+s72348
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/OpenCV.build/Debug/zlib.build/Objects-normal/x86_64/inftrees.o
+t1298299835
+s42168
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/OpenCV.build/Debug/zlib.build/Objects-normal/x86_64/trees.o
+t1298299835
+s73412
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/OpenCV.build/Debug/zlib.build/Objects-normal/x86_64/uncompr.o
+t1298299835
+s24952
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/OpenCV.build/Debug/zlib.build/Objects-normal/x86_64/zlib.LinkFileList
+c000000004D627BB700000000000006B6
+t1298299831
+s1718
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/OpenCV.build/Debug/zlib.build/Objects-normal/x86_64/zutil.o
+t1298299835
+s42604
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/OpenCV.build/Debug/zlib.build/Script-101611E90101611E90101611.sh
+c000000004D627BB70000000000000080
+t1298299831
+s128
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/OpenCV.build/Debug/zlib.build/Script-1016128B01016128B0101612.sh
+c000000004D627BB700000000000000B7
+t1298299831
+s183
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/adler32.c
+c000000004CFB087B00000000000013B8
+t1291520123
+s5048
+i"zutil.h"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/compress.c
+c000000004CFB087B00000000000009D8
+t1291520123
+s2520
+i"zlib.h"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/crc32.c
+c000000004CFB087B0000000000003571
+t1291520123
+s13681
+i<stdio.h>
+i"zutil.h"
+i<limits.h>
+i"crc32.h"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/crc32.h
+c000000004CFB087B0000000000007768
+t1291520123
+s30568
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/deflate.c
+c000000004CFB087B0000000000010998
+t1291520123
+s67992
+i"deflate.h"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/deflate.h
+c000000004CFB087B0000000000003180
+t1291520123
+s12672
+i"zutil.h"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/gzclose.c
+c000000004CFB087B00000000000002A6
+t1291520123
+s678
+i"gzguts.h"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/gzguts.h
+c000000004CFB087B0000000000001272
+t1291520123
+s4722
+i<stdio.h>
+i"zutil.h"
+i<string.h>
+i<stdlib.h>
+i<limits.h>
+i<fcntl.h>
+i<io.h>
+i<unistd.h>
+i<windows.h>
+i<errno.h>
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/gzlib.c
+c000000004CFB087B00000000000036F7
+t1291520123
+s14071
+i"gzguts.h"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/gzread.c
+c000000004CFB087B000000000000505E
+t1291520123
+s20574
+i"gzguts.h"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/gzwrite.c
+c000000004CFB087B000000000000390A
+t1291520123
+s14602
+i"gzguts.h"
+i<stdarg.h>
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/infback.c
+c000000004CFB087B000000000000585E
+t1291520123
+s22622
+i"zutil.h"
+i"inftrees.h"
+i"inflate.h"
+i"inffast.h"
+i"inffixed.h"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/inffast.c
+c000000004CFB087B000000000000347F
+t1291520123
+s13439
+i"zutil.h"
+i"inftrees.h"
+i"inflate.h"
+i"inffast.h"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/inffast.h
+c000000004CFB087B00000000000001AB
+t1291520123
+s427
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/inffixed.h
+c000000004CFB087B00000000000018C7
+t1291520123
+s6343
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/inflate.c
+c000000004CFB087B000000000000CD8F
+t1291520123
+s52623
+i"zutil.h"
+i"inftrees.h"
+i"inflate.h"
+i"inffast.h"
+i"inffixed.h"
+i<stdio.h>
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/inflate.h
+c000000004CFB087B00000000000018FF
+t1291520123
+s6399
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/inftrees.c
+c000000004CFB087B00000000000035C9
+t1291520123
+s13769
+i"zutil.h"
+i"inftrees.h"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/inftrees.h
+c000000004CFB087B0000000000000B70
+t1291520123
+s2928
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/trees.c
+c000000004CFB087B000000000000B0BA
+t1291520123
+s45242
+i"deflate.h"
+i<ctype.h>
+i"trees.h"
+i<stdio.h>
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/trees.h
+c000000004CFB087B0000000000002118
+t1291520123
+s8472
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/uncompr.c
+c000000004CFB087B00000000000007CA
+t1291520123
+s1994
+i"zlib.h"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/zutil.c
+c000000004CFB087B0000000000001C92
+t1291520123
+s7314
+i"zutil.h"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/zutil.h
+c000000004CFB087B0000000000001C4D
+t1291520123
+s7245
+i"zlib.h"
+i<stddef.h>
+i<string.h>
+i<stdlib.h>
+i<alloc.h>
+i<malloc.h>
+i<malloc.h>
+i<unix.h>
+i<stdio.h>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies319992631#319992631#0(0"0(0#1#0"8642413792#0"0#
+
+CCompileC 3rdparty/zlib/OpenCV.build/Debug/zlib.build/Objects-normal/x86_64/adler32.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/adler32.c normal x86_64 c com.apple.compilers.gcc.4_2
+s319992635.064487
+e319992635.167469
+r1
+xCompileC
+x3rdparty/zlib/OpenCV.build/Debug/zlib.build/Objects-normal/x86_64/adler32.o
+x/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/adler32.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/adler32.c319992635#319992635#0(0"0(0#0#62"/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/adler32.c8633300192#1305"    cd /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -DCMAKE_INTDIR="Debug" -DHAVE_ALLOCA -DHAVE_ALLOCA_H -DHAVE_LIBPTHREAD -DHAVE_UNISTD_H -DHAVE_CONFIG_H -isysroot /Developer/SDKs/MacOSX10.6.sdk -mmacosx-version-min=10.6 -gdwarf-2 -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/../include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/OpenCV.build/Debug/zlib.build/DerivedSources/x86_64 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/OpenCV.build/Debug/zlib.build/DerivedSources -Wall -pthread -fPIC -ggdb3 -DDEBUG -D_DEBUG -c /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/adler32.c -o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/OpenCV.build/Debug/zlib.build/Objects-normal/x86_64/adler32.o0#
+
+CCompileC 3rdparty/zlib/OpenCV.build/Debug/zlib.build/Objects-normal/x86_64/compress.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/compress.c normal x86_64 c com.apple.compilers.gcc.4_2
+s319992635.065582
+e319992635.139794
+r1
+xCompileC
+x3rdparty/zlib/OpenCV.build/Debug/zlib.build/Objects-normal/x86_64/compress.o
+x/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/compress.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/compress.c319992635#319992635#0(0"0(0#0#63"/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/compress.c8621048448#1307"    cd /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -DCMAKE_INTDIR="Debug" -DHAVE_ALLOCA -DHAVE_ALLOCA_H -DHAVE_LIBPTHREAD -DHAVE_UNISTD_H -DHAVE_CONFIG_H -isysroot /Developer/SDKs/MacOSX10.6.sdk -mmacosx-version-min=10.6 -gdwarf-2 -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/../include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/OpenCV.build/Debug/zlib.build/DerivedSources/x86_64 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/OpenCV.build/Debug/zlib.build/DerivedSources -Wall -pthread -fPIC -ggdb3 -DDEBUG -D_DEBUG -c /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/compress.c -o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/OpenCV.build/Debug/zlib.build/Objects-normal/x86_64/compress.o0#
+
+CCompileC 3rdparty/zlib/OpenCV.build/Debug/zlib.build/Objects-normal/x86_64/crc32.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/crc32.c normal x86_64 c com.apple.compilers.gcc.4_2
+s319992635.068851
+e319992635.208261
+r1
+xCompileC
+x3rdparty/zlib/OpenCV.build/Debug/zlib.build/Objects-normal/x86_64/crc32.o
+x/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/crc32.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/crc32.c319992635#319992635#0(0"0(0#0#60"/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/crc32.c8655135776#1301"    cd /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -DCMAKE_INTDIR="Debug" -DHAVE_ALLOCA -DHAVE_ALLOCA_H -DHAVE_LIBPTHREAD -DHAVE_UNISTD_H -DHAVE_CONFIG_H -isysroot /Developer/SDKs/MacOSX10.6.sdk -mmacosx-version-min=10.6 -gdwarf-2 -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/../include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/OpenCV.build/Debug/zlib.build/DerivedSources/x86_64 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/OpenCV.build/Debug/zlib.build/DerivedSources -Wall -pthread -fPIC -ggdb3 -DDEBUG -D_DEBUG -c /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/crc32.c -o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/OpenCV.build/Debug/zlib.build/Objects-normal/x86_64/crc32.o0#
+
+CCompileC 3rdparty/zlib/OpenCV.build/Debug/zlib.build/Objects-normal/x86_64/deflate.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/deflate.c normal x86_64 c com.apple.compilers.gcc.4_2
+s319992635.070269
+e319992635.411922
+r1
+xCompileC
+x3rdparty/zlib/OpenCV.build/Debug/zlib.build/Objects-normal/x86_64/deflate.o
+x/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/deflate.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/deflate.c319992635#319992635#0(0"0(0#0#62"/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/deflate.c8653544800#1305"    cd /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -DCMAKE_INTDIR="Debug" -DHAVE_ALLOCA -DHAVE_ALLOCA_H -DHAVE_LIBPTHREAD -DHAVE_UNISTD_H -DHAVE_CONFIG_H -isysroot /Developer/SDKs/MacOSX10.6.sdk -mmacosx-version-min=10.6 -gdwarf-2 -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/../include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/OpenCV.build/Debug/zlib.build/DerivedSources/x86_64 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/OpenCV.build/Debug/zlib.build/DerivedSources -Wall -pthread -fPIC -ggdb3 -DDEBUG -D_DEBUG -c /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/deflate.c -o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/OpenCV.build/Debug/zlib.build/Objects-normal/x86_64/deflate.o0#
+
+CCompileC 3rdparty/zlib/OpenCV.build/Debug/zlib.build/Objects-normal/x86_64/gzclose.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/gzclose.c normal x86_64 c com.apple.compilers.gcc.4_2
+s319992635.139946
+e319992635.230756
+r1
+xCompileC
+x3rdparty/zlib/OpenCV.build/Debug/zlib.build/Objects-normal/x86_64/gzclose.o
+x/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/gzclose.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/gzclose.c319992635#319992635#0(0"0(0#0#62"/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/gzclose.c8640203712#1305"    cd /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -DCMAKE_INTDIR="Debug" -DHAVE_ALLOCA -DHAVE_ALLOCA_H -DHAVE_LIBPTHREAD -DHAVE_UNISTD_H -DHAVE_CONFIG_H -isysroot /Developer/SDKs/MacOSX10.6.sdk -mmacosx-version-min=10.6 -gdwarf-2 -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/../include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/OpenCV.build/Debug/zlib.build/DerivedSources/x86_64 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/OpenCV.build/Debug/zlib.build/DerivedSources -Wall -pthread -fPIC -ggdb3 -DDEBUG -D_DEBUG -c /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/gzclose.c -o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/OpenCV.build/Debug/zlib.build/Objects-normal/x86_64/gzclose.o0#
+
+CCompileC 3rdparty/zlib/OpenCV.build/Debug/zlib.build/Objects-normal/x86_64/gzlib.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/gzlib.c normal x86_64 c com.apple.compilers.gcc.4_2
+s319992635.167624
+e319992635.305984
+r1
+xCompileC
+x3rdparty/zlib/OpenCV.build/Debug/zlib.build/Objects-normal/x86_64/gzlib.o
+x/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/gzlib.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/gzlib.c319992635#319992635#0(0"0(0#0#60"/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/gzlib.c8635712736#1301"    cd /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -DCMAKE_INTDIR="Debug" -DHAVE_ALLOCA -DHAVE_ALLOCA_H -DHAVE_LIBPTHREAD -DHAVE_UNISTD_H -DHAVE_CONFIG_H -isysroot /Developer/SDKs/MacOSX10.6.sdk -mmacosx-version-min=10.6 -gdwarf-2 -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/../include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/OpenCV.build/Debug/zlib.build/DerivedSources/x86_64 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/OpenCV.build/Debug/zlib.build/DerivedSources -Wall -pthread -fPIC -ggdb3 -DDEBUG -D_DEBUG -c /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/gzlib.c -o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/OpenCV.build/Debug/zlib.build/Objects-normal/x86_64/gzlib.o0#
+
+CCompileC 3rdparty/zlib/OpenCV.build/Debug/zlib.build/Objects-normal/x86_64/gzread.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/gzread.c normal x86_64 c com.apple.compilers.gcc.4_2
+s319992635.208424
+e319992635.378294
+r1
+xCompileC
+x3rdparty/zlib/OpenCV.build/Debug/zlib.build/Objects-normal/x86_64/gzread.o
+x/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/gzread.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/gzread.c319992635#319992635#0(0"0(0#0#61"/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/gzread.c8630141568#1303"    cd /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -DCMAKE_INTDIR="Debug" -DHAVE_ALLOCA -DHAVE_ALLOCA_H -DHAVE_LIBPTHREAD -DHAVE_UNISTD_H -DHAVE_CONFIG_H -isysroot /Developer/SDKs/MacOSX10.6.sdk -mmacosx-version-min=10.6 -gdwarf-2 -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/../include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/OpenCV.build/Debug/zlib.build/DerivedSources/x86_64 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/OpenCV.build/Debug/zlib.build/DerivedSources -Wall -pthread -fPIC -ggdb3 -DDEBUG -D_DEBUG -c /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/gzread.c -o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/OpenCV.build/Debug/zlib.build/Objects-normal/x86_64/gzread.o0#
+
+CCompileC 3rdparty/zlib/OpenCV.build/Debug/zlib.build/Objects-normal/x86_64/gzwrite.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/gzwrite.c normal x86_64 c com.apple.compilers.gcc.4_2
+s319992635.230906
+e319992635.354417
+r1
+xCompileC
+x3rdparty/zlib/OpenCV.build/Debug/zlib.build/Objects-normal/x86_64/gzwrite.o
+x/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/gzwrite.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/gzwrite.c319992635#319992635#0(0"0(0#0#62"/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/gzwrite.c8619593760#1305"    cd /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -DCMAKE_INTDIR="Debug" -DHAVE_ALLOCA -DHAVE_ALLOCA_H -DHAVE_LIBPTHREAD -DHAVE_UNISTD_H -DHAVE_CONFIG_H -isysroot /Developer/SDKs/MacOSX10.6.sdk -mmacosx-version-min=10.6 -gdwarf-2 -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/../include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/OpenCV.build/Debug/zlib.build/DerivedSources/x86_64 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/OpenCV.build/Debug/zlib.build/DerivedSources -Wall -pthread -fPIC -ggdb3 -DDEBUG -D_DEBUG -c /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/gzwrite.c -o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/OpenCV.build/Debug/zlib.build/Objects-normal/x86_64/gzwrite.o0#
+
+CCompileC 3rdparty/zlib/OpenCV.build/Debug/zlib.build/Objects-normal/x86_64/infback.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/infback.c normal x86_64 c com.apple.compilers.gcc.4_2
+s319992635.306135
+e319992635.481514
+r1
+xCompileC
+x3rdparty/zlib/OpenCV.build/Debug/zlib.build/Objects-normal/x86_64/infback.o
+x/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/infback.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/infback.c319992635#319992635#0(0"0(0#0#62"/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/infback.c8652713440#1305"    cd /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -DCMAKE_INTDIR="Debug" -DHAVE_ALLOCA -DHAVE_ALLOCA_H -DHAVE_LIBPTHREAD -DHAVE_UNISTD_H -DHAVE_CONFIG_H -isysroot /Developer/SDKs/MacOSX10.6.sdk -mmacosx-version-min=10.6 -gdwarf-2 -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/../include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/OpenCV.build/Debug/zlib.build/DerivedSources/x86_64 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/OpenCV.build/Debug/zlib.build/DerivedSources -Wall -pthread -fPIC -ggdb3 -DDEBUG -D_DEBUG -c /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/infback.c -o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/OpenCV.build/Debug/zlib.build/Objects-normal/x86_64/infback.o0#
+
+CCompileC 3rdparty/zlib/OpenCV.build/Debug/zlib.build/Objects-normal/x86_64/inffast.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/inffast.c normal x86_64 c com.apple.compilers.gcc.4_2
+s319992635.354563
+e319992635.458308
+r1
+xCompileC
+x3rdparty/zlib/OpenCV.build/Debug/zlib.build/Objects-normal/x86_64/inffast.o
+x/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/inffast.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/inffast.c319992635#319992635#0(0"0(0#0#62"/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/inffast.c8649908448#1305"    cd /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -DCMAKE_INTDIR="Debug" -DHAVE_ALLOCA -DHAVE_ALLOCA_H -DHAVE_LIBPTHREAD -DHAVE_UNISTD_H -DHAVE_CONFIG_H -isysroot /Developer/SDKs/MacOSX10.6.sdk -mmacosx-version-min=10.6 -gdwarf-2 -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/../include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/OpenCV.build/Debug/zlib.build/DerivedSources/x86_64 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/OpenCV.build/Debug/zlib.build/DerivedSources -Wall -pthread -fPIC -ggdb3 -DDEBUG -D_DEBUG -c /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/inffast.c -o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/OpenCV.build/Debug/zlib.build/Objects-normal/x86_64/inffast.o0#
+
+CCompileC 3rdparty/zlib/OpenCV.build/Debug/zlib.build/Objects-normal/x86_64/inflate.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/inflate.c normal x86_64 c com.apple.compilers.gcc.4_2
+s319992635.378448
+e319992635.718931
+r1
+xCompileC
+x3rdparty/zlib/OpenCV.build/Debug/zlib.build/Objects-normal/x86_64/inflate.o
+x/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/inflate.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/inflate.c319992635#319992635#0(0"0(0#0#62"/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/inflate.c8649375648#1305"    cd /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -DCMAKE_INTDIR="Debug" -DHAVE_ALLOCA -DHAVE_ALLOCA_H -DHAVE_LIBPTHREAD -DHAVE_UNISTD_H -DHAVE_CONFIG_H -isysroot /Developer/SDKs/MacOSX10.6.sdk -mmacosx-version-min=10.6 -gdwarf-2 -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/../include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/OpenCV.build/Debug/zlib.build/DerivedSources/x86_64 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/OpenCV.build/Debug/zlib.build/DerivedSources -Wall -pthread -fPIC -ggdb3 -DDEBUG -D_DEBUG -c /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/inflate.c -o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/OpenCV.build/Debug/zlib.build/Objects-normal/x86_64/inflate.o0#
+
+CCompileC 3rdparty/zlib/OpenCV.build/Debug/zlib.build/Objects-normal/x86_64/inftrees.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/inftrees.c normal x86_64 c com.apple.compilers.gcc.4_2
+s319992635.412110
+e319992635.506757
+r1
+xCompileC
+x3rdparty/zlib/OpenCV.build/Debug/zlib.build/Objects-normal/x86_64/inftrees.o
+x/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/inftrees.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/inftrees.c319992635#319992635#0(0"0(0#0#63"/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/inftrees.c8648635904#1307"    cd /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -DCMAKE_INTDIR="Debug" -DHAVE_ALLOCA -DHAVE_ALLOCA_H -DHAVE_LIBPTHREAD -DHAVE_UNISTD_H -DHAVE_CONFIG_H -isysroot /Developer/SDKs/MacOSX10.6.sdk -mmacosx-version-min=10.6 -gdwarf-2 -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/../include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/OpenCV.build/Debug/zlib.build/DerivedSources/x86_64 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/OpenCV.build/Debug/zlib.build/DerivedSources -Wall -pthread -fPIC -ggdb3 -DDEBUG -D_DEBUG -c /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/inftrees.c -o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/OpenCV.build/Debug/zlib.build/Objects-normal/x86_64/inftrees.o0#
+
+CCompileC 3rdparty/zlib/OpenCV.build/Debug/zlib.build/Objects-normal/x86_64/trees.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/trees.c normal x86_64 c com.apple.compilers.gcc.4_2
+s319992635.458467
+e319992635.785980
+r1
+xCompileC
+x3rdparty/zlib/OpenCV.build/Debug/zlib.build/Objects-normal/x86_64/trees.o
+x/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/trees.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/trees.c319992635#319992635#0(0"0(0#0#60"/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/trees.c8646519488#1301"    cd /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -DCMAKE_INTDIR="Debug" -DHAVE_ALLOCA -DHAVE_ALLOCA_H -DHAVE_LIBPTHREAD -DHAVE_UNISTD_H -DHAVE_CONFIG_H -isysroot /Developer/SDKs/MacOSX10.6.sdk -mmacosx-version-min=10.6 -gdwarf-2 -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/../include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/OpenCV.build/Debug/zlib.build/DerivedSources/x86_64 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/OpenCV.build/Debug/zlib.build/DerivedSources -Wall -pthread -fPIC -ggdb3 -DDEBUG -D_DEBUG -c /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/trees.c -o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/OpenCV.build/Debug/zlib.build/Objects-normal/x86_64/trees.o0#
+
+CCompileC 3rdparty/zlib/OpenCV.build/Debug/zlib.build/Objects-normal/x86_64/uncompr.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/uncompr.c normal x86_64 c com.apple.compilers.gcc.4_2
+s319992635.481654
+e319992635.545310
+r1
+xCompileC
+x3rdparty/zlib/OpenCV.build/Debug/zlib.build/Objects-normal/x86_64/uncompr.o
+x/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/uncompr.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/uncompr.c319992635#319992635#0(0"0(0#0#62"/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/uncompr.c8645791744#1305"    cd /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -DCMAKE_INTDIR="Debug" -DHAVE_ALLOCA -DHAVE_ALLOCA_H -DHAVE_LIBPTHREAD -DHAVE_UNISTD_H -DHAVE_CONFIG_H -isysroot /Developer/SDKs/MacOSX10.6.sdk -mmacosx-version-min=10.6 -gdwarf-2 -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/../include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/OpenCV.build/Debug/zlib.build/DerivedSources/x86_64 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/OpenCV.build/Debug/zlib.build/DerivedSources -Wall -pthread -fPIC -ggdb3 -DDEBUG -D_DEBUG -c /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/uncompr.c -o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/OpenCV.build/Debug/zlib.build/Objects-normal/x86_64/uncompr.o0#
+
+CCompileC 3rdparty/zlib/OpenCV.build/Debug/zlib.build/Objects-normal/x86_64/zutil.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/zutil.c normal x86_64 c com.apple.compilers.gcc.4_2
+s319992635.506917
+e319992635.581106
+r1
+xCompileC
+x3rdparty/zlib/OpenCV.build/Debug/zlib.build/Objects-normal/x86_64/zutil.o
+x/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/zutil.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/zutil.c319992635#319992635#0(0"0(0#0#60"/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/zutil.c8645237952#1301"    cd /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -DCMAKE_INTDIR="Debug" -DHAVE_ALLOCA -DHAVE_ALLOCA_H -DHAVE_LIBPTHREAD -DHAVE_UNISTD_H -DHAVE_CONFIG_H -isysroot /Developer/SDKs/MacOSX10.6.sdk -mmacosx-version-min=10.6 -gdwarf-2 -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/../include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/OpenCV.build/Debug/zlib.build/DerivedSources/x86_64 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/OpenCV.build/Debug/zlib.build/DerivedSources -Wall -pthread -fPIC -ggdb3 -DDEBUG -D_DEBUG -c /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/zutil.c -o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/OpenCV.build/Debug/zlib.build/Objects-normal/x86_64/zutil.o0#
+
+CLibtool /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug/libzlib.a normal x86_64
+s319992635.786148
+e319992635.815343
+r1
+xLibtool
+x/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug/libzlib.a
+xnormal
+xx86_64
+lSLF07#2@50"Libtool 3rdparty/lib/Debug/libzlib.a normal x86_64319992635#319992635#0(0"0(0#0#0"8650314144#451"    cd /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/libtool -static -arch_only x86_64 -syslibroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug -filelist /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/OpenCV.build/Debug/zlib.build/Objects-normal/x86_64/zlib.LinkFileList -o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug/libzlib.a0#
+
+CPhaseScriptExecution "CMake PostBuild Rules" /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/OpenCV.build/Debug/zlib.build/Script-1016128B01016128B0101612.sh
+s319992635.815514
+e319992635.925006
+r1
+xPhaseScriptExecution
+xCMake PostBuild Rules
+x/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/OpenCV.build/Debug/zlib.build/Script-1016128B01016128B0101612.sh
+oecho "Depend check for xcode"
+oDepend check for xcode
+ocd /Users/jjthrash/Downloads/OpenCV-2.2.0 && make -C /Users/jjthrash/Downloads/OpenCV-2.2.0 -f /Users/jjthrash/Downloads/OpenCV-2.2.0/CMakeScripts/XCODE_DEPEND_HELPER.make all.Debug
+o/bin/rm -f /Users/jjthrash/Downloads/OpenCV-2.2.0/bin/Debug/opencv_createsamples
+o/bin/rm -f /Users/jjthrash/Downloads/OpenCV-2.2.0/bin/Debug/opencv_haartraining
+o/bin/rm -f /Users/jjthrash/Downloads/OpenCV-2.2.0/bin/Debug/opencv_performance
+o/bin/rm -f /Users/jjthrash/Downloads/OpenCV-2.2.0/bin/Debug/opencv_traincascade
+o/bin/rm -f /Users/jjthrash/Downloads/OpenCV-2.2.0/bin/Debug/opencv_test
+o/bin/rm -f /Users/jjthrash/Downloads/OpenCV-2.2.0/bin/Debug/opencv_test_core
+o/bin/rm -f /Users/jjthrash/Downloads/OpenCV-2.2.0/bin/Debug/opencv_test_ml
+o/bin/rm -f /Users/jjthrash/Downloads/OpenCV-2.2.0/bin/Debug/opencv_test_gpu
+oecho "Depend check for xcode"
+oDepend check for xcode
+ocd /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib && make -C /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib -f /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/CMakeScripts/XCODE_DEPEND_HELPER.make all.Debug
+omake[1]: Nothing to be done for `all.Debug'.
+lSLF07#2@47"Run custom shell script 'CMake PostBuild Rules'319992635#319992635#0(1177"echo "Depend check for xcode"Depend check for xcodecd /Users/jjthrash/Downloads/OpenCV-2.2.0 && make -C /Users/jjthrash/Downloads/OpenCV-2.2.0 -f /Users/jjthrash/Downloads/OpenCV-2.2.0/CMakeScripts/XCODE_DEPEND_HELPER.make all.Debug/bin/rm -f /Users/jjthrash/Downloads/OpenCV-2.2.0/bin/Debug/opencv_createsamples/bin/rm -f /Users/jjthrash/Downloads/OpenCV-2.2.0/bin/Debug/opencv_haartraining/bin/rm -f /Users/jjthrash/Downloads/OpenCV-2.2.0/bin/Debug/opencv_performance/bin/rm -f /Users/jjthrash/Downloads/OpenCV-2.2.0/bin/Debug/opencv_traincascade/bin/rm -f /Users/jjthrash/Downloads/OpenCV-2.2.0/bin/Debug/opencv_test/bin/rm -f /Users/jjthrash/Downloads/OpenCV-2.2.0/bin/Debug/opencv_test_core/bin/rm -f /Users/jjthrash/Downloads/OpenCV-2.2.0/bin/Debug/opencv_test_ml/bin/rm -f /Users/jjthrash/Downloads/OpenCV-2.2.0/bin/Debug/opencv_test_gpuecho "Depend check for xcode"Depend check for xcodecd /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib && make -C /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib -f /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/CMakeScripts/XCODE_DEPEND_HELPER.make all.Debugmake[1]: Nothing to be done for `all.Debug'.15(13@30"echo "Depend check for xcode"319992635#0#30#0(1@0"0(13@23"Depend check for xcode319992635#30#23#0(1@0"0(13@182"cd /Users/jjthrash/Downloads/OpenCV-2.2.0 && make -C /Users/jjthrash/Downloads/OpenCV-2.2.0 -f /Users/jjthrash/Downloads/OpenCV-2.2.0/CMakeScripts/XCODE_DEPEND_HELPER.make all.Debug319992635#53#182#0(1@0"0(13@81"/bin/rm -f /Users/jjthrash/Downloads/OpenCV-2.2.0/bin/Debug/opencv_createsamples319992635#235#81#0(1@0"0(13@80"/bin/rm -f /Users/jjthrash/Downloads/OpenCV-2.2.0/bin/Debug/opencv_haartraining319992635#316#80#0(1@0"0(13@79"/bin/rm -f /Users/jjthrash/Downloads/OpenCV-2.2.0/bin/Debug/opencv_performance319992635#396#79#0(1@0"0(13@80"/bin/rm -f /Users/jjthrash/Downloads/OpenCV-2.2.0/bin/Debug/opencv_traincascade319992635#475#80#0(1@0"0(13@72"/bin/rm -f /Users/jjthrash/Downloads/OpenCV-2.2.0/bin/Debug/opencv_test319992635#555#72#0(1@0"0(13@77"/bin/rm -f /Users/jjthrash/Downloads/OpenCV-2.2.0/bin/Debug/opencv_test_core319992635#627#77#0(1@0"0(13@75"/bin/rm -f /Users/jjthrash/Downloads/OpenCV-2.2.0/bin/Debug/opencv_test_ml319992635#704#75#0(1@0"0(13@76"/bin/rm -f /Users/jjthrash/Downloads/OpenCV-2.2.0/bin/Debug/opencv_test_gpu319992635#779#76#0(1@0"0(13@30"echo "Depend check for xcode"319992635#855#30#0(1@0"0(13@23"Depend check for xcode319992635#885#23#0(1@0"0(13@224"cd /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib && make -C /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib -f /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/CMakeScripts/XCODE_DEPEND_HELPER.make all.Debug319992635#908#224#0(1@0"0(13@45"make[1]: Nothing to be done for `all.Debug'.319992635#1132#45#0(1@0"0(0#0#0"8648261568#15365"    cd /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv ACTION build    setenv ALTERNATE_GROUP staff    setenv ALTERNATE_MODE u+w,go-w,a+rX    setenv ALTERNATE_OWNER jjthrash    setenv ALWAYS_SEARCH_USER_PATHS YES    setenv APPLE_INTERNAL_DEVELOPER_DIR /AppleInternal/Developer    setenv APPLE_INTERNAL_DIR /AppleInternal    setenv APPLE_INTERNAL_DOCUMENTATION_DIR /AppleInternal/Documentation    setenv APPLE_INTERNAL_LIBRARY_DIR /AppleInternal/Library    setenv APPLE_INTERNAL_TOOLS /AppleInternal/Developer/Tools    setenv APPLY_RULES_IN_COPY_FILES NO    setenv ARCHS x86_64    setenv ARCHS_STANDARD_32_64_BIT "x86_64 i386 ppc"    setenv ARCHS_STANDARD_32_BIT "i386 ppc"    setenv ARCHS_STANDARD_64_BIT x86_64    setenv BUILD_COMPONENTS "headers build"    setenv BUILD_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib    setenv BUILD_ROOT /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib    setenv BUILD_STYLE Debug    setenv BUILD_VARIANTS normal    setenv BUILT_PRODUCTS_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug    setenv CACHE_ROOT /var/folders/j9/j9D8eGkFG60i5wEYUED5B++++TI/-Caches-/com.apple.Xcode.501    setenv CCHROOT /var/folders/j9/j9D8eGkFG60i5wEYUED5B++++TI/-Caches-/com.apple.Xcode.501    setenv CHMOD /bin/chmod    setenv CHOWN /usr/sbin/chown    setenv CLASS_FILE_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/OpenCV.build/Debug/zlib.build/JavaClasses    setenv CLEAN_PRECOMPS YES    setenv CLONE_HEADERS NO    setenv CODESIGNING_FOLDER_PATH /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug/libzlib.a    setenv CODE_SIGNING_ALLOWED NO    setenv COMMAND_MODE legacy    setenv COMPOSITE_SDK_DIRS /var/folders/j9/j9D8eGkFG60i5wEYUED5B++++TI/-Caches-/com.apple.Xcode.501/CompositeSDKs    setenv CONFIGURATION Debug    setenv CONFIGURATION_BUILD_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug    setenv CONFIGURATION_TEMP_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/OpenCV.build/Debug    setenv COPYING_PRESERVES_HFS_DATA NO    setenv COPY_PHASE_STRIP YES    setenv COPY_RESOURCES_FROM_STATIC_FRAMEWORKS YES    setenv CP /bin/cp    setenv CURRENT_ARCH x86_64    setenv CURRENT_VARIANT normal    setenv DEAD_CODE_STRIPPING NO    setenv DEBUGGING_SYMBOLS YES    setenv DEBUG_INFORMATION_FORMAT dwarf    setenv DEPLOYMENT_LOCATION NO    setenv DEPLOYMENT_POSTPROCESSING NO    setenv DERIVED_FILES_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/OpenCV.build/Debug/zlib.build/DerivedSources    setenv DERIVED_FILE_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/OpenCV.build/Debug/zlib.build/DerivedSources    setenv DERIVED_SOURCES_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/OpenCV.build/Debug/zlib.build/DerivedSources    setenv DEVELOPER_APPLICATIONS_DIR /Developer/Applications    setenv DEVELOPER_BIN_DIR /Developer/usr/bin    setenv DEVELOPER_DIR /Developer    setenv DEVELOPER_FRAMEWORKS_DIR /Developer/Library/Frameworks    setenv DEVELOPER_FRAMEWORKS_DIR_QUOTED "\"/Developer/Library/Frameworks\""    setenv DEVELOPER_LIBRARY_DIR /Developer/Library    setenv DEVELOPER_SDK_DIR /Developer/SDKs    setenv DEVELOPER_TOOLS_DIR /Developer/Tools    setenv DEVELOPER_USR_DIR /Developer/usr    setenv DEVELOPMENT_LANGUAGE English    setenv DO_HEADER_SCANNING_IN_JAM NO    setenv DSTROOT /tmp/OpenCV.dst    setenv DWARF_DSYM_FILE_NAME libzlib.a.dSYM    setenv DWARF_DSYM_FOLDER_PATH /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug    setenv ENABLE_HEADER_DEPENDENCIES YES    setenv ENABLE_OPENMP_SUPPORT NO    setenv EXCLUDED_INSTALLSRC_SUBDIRECTORY_PATTERNS ".svn .git CVS"    setenv EXCLUDED_RECURSIVE_SEARCH_PATH_SUBDIRECTORIES "*.nib *.lproj *.framework *.gch (*) CVS .svn .git *.xcodeproj *.xcode *.pbproj *.pbxproj"    setenv EXECUTABLE_EXTENSION a    setenv EXECUTABLE_NAME libzlib.a    setenv EXECUTABLE_PATH libzlib.a    setenv EXECUTABLE_PREFIX lib    setenv EXECUTABLE_SUFFIX .a    setenv FILE_LIST /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/OpenCV.build/Debug/zlib.build/Objects/LinkFileList    setenv FIXED_FILES_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/OpenCV.build/Debug/zlib.build/FixedFiles    setenv FRAMEWORK_FLAG_PREFIX -framework    setenv FRAMEWORK_SEARCH_PATHS "\"/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug\" "    setenv FRAMEWORK_VERSION A    setenv FULL_PRODUCT_NAME libzlib.a    setenv GCC3_VERSION 3.3    setenv GCC_ENABLE_SYMBOL_SEPARATION NO    setenv GCC_GENERATE_DEBUGGING_SYMBOLS YES    setenv GCC_INLINES_ARE_PRIVATE_EXTERN NO    setenv GCC_OPTIMIZATION_LEVEL 0    setenv GCC_PFE_FILE_C_DIALECTS "c objective-c c++ objective-c++"    setenv GCC_PREPROCESSOR_DEFINITIONS "'CMAKE_INTDIR=\"Debug\"' HAVE_ALLOCA HAVE_ALLOCA_H HAVE_LIBPTHREAD HAVE_UNISTD_H HAVE_CONFIG_H"    setenv GCC_SYMBOLS_PRIVATE_EXTERN NO    setenv GCC_TREAT_WARNINGS_AS_ERRORS NO    setenv GCC_VERSION 4.2    setenv GENERATE_MASTER_OBJECT_FILE NO    setenv GENERATE_PKGINFO_FILE NO    setenv GENERATE_PROFILING_CODE NO    setenv GID 20    setenv GROUP staff    setenv HEADERMAP_INCLUDES_FLAT_ENTRIES_FOR_TARGET_BEING_BUILT YES    setenv HEADERMAP_INCLUDES_FRAMEWORK_ENTRIES_FOR_ALL_PRODUCT_TYPES YES    setenv HEADERMAP_INCLUDES_NONPUBLIC_NONPRIVATE_HEADERS YES    setenv HEADERMAP_INCLUDES_PROJECT_HEADERS YES    setenv HEADER_SEARCH_PATHS "\"/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug/include\" /Users/jjthrash/Downloads/OpenCV-2.2.0/. /Users/jjthrash/Downloads/OpenCV-2.2.0 /Users/jjthrash/Downloads/OpenCV-2.2.0/include /Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/../include"    setenv ICONV /usr/bin/iconv    setenv INFOPLIST_EXPAND_BUILD_SETTINGS YES    setenv INFOPLIST_OUTPUT_FORMAT same-as-input    setenv INFOPLIST_PREPROCESS NO    setenv INSTALL_DIR /tmp/OpenCV.dst    setenv INSTALL_GROUP staff    setenv INSTALL_MODE_FLAG u+w,go-w,a+rX    setenv INSTALL_OWNER jjthrash    setenv INSTALL_ROOT /tmp/OpenCV.dst    setenv JAVAC_DEFAULT_FLAGS "-J-Xms64m -J-XX:NewSize=4M -J-Dfile.encoding=UTF8"    setenv JAVA_APP_STUB /System/Library/Frameworks/JavaVM.framework/Resources/MacOS/JavaApplicationStub    setenv JAVA_ARCHIVE_CLASSES YES    setenv JAVA_ARCHIVE_TYPE JAR    setenv JAVA_COMPILER /usr/bin/javac    setenv JAVA_FRAMEWORK_RESOURCES_DIRS Resources    setenv JAVA_JAR_FLAGS cv    setenv JAVA_SOURCE_SUBDIR .    setenv JAVA_USE_DEPENDENCIES YES    setenv JAVA_ZIP_FLAGS -urg    setenv JIKES_DEFAULT_FLAGS "+E +OLDCSO"    setenv KEEP_PRIVATE_EXTERNS NO    setenv LD_GENERATE_MAP_FILE NO    setenv LD_MAP_FILE_PATH /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/OpenCV.build/Debug/zlib.build/zlib-LinkMap-normal-x86_64.txt    setenv LD_OPENMP_FLAGS -fopenmp    setenv LEX /Developer/usr/bin/lex    setenv LIBRARY_FLAG_NOSPACE YES    setenv LIBRARY_FLAG_PREFIX -l    setenv LIBRARY_SEARCH_PATHS "\"/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug\" "    setenv LIBRARY_STYLE STATIC    setenv LINKER_DISPLAYS_MANGLED_NAMES NO    setenv LINK_FILE_LIST_normal_x86_64 /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/OpenCV.build/Debug/zlib.build/Objects-normal/x86_64/zlib.LinkFileList    setenv LINK_WITH_STANDARD_LIBRARIES YES    setenv LOCAL_ADMIN_APPS_DIR /Applications/Utilities    setenv LOCAL_APPS_DIR /Applications    setenv LOCAL_DEVELOPER_DIR /Library/Developer    setenv LOCAL_LIBRARY_DIR /Library    setenv MACH_O_TYPE staticlib    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv MAC_OS_X_VERSION_ACTUAL 1066    setenv MAC_OS_X_VERSION_MAJOR 1060    setenv MAC_OS_X_VERSION_MINOR 0606    setenv NATIVE_ARCH i386    setenv NATIVE_ARCH_32_BIT i386    setenv NATIVE_ARCH_64_BIT x86_64    setenv NATIVE_ARCH_ACTUAL x86_64    setenv NO_COMMON YES    setenv OBJECT_FILE_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/OpenCV.build/Debug/zlib.build/Objects    setenv OBJECT_FILE_DIR_normal /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/OpenCV.build/Debug/zlib.build/Objects-normal    setenv OBJROOT /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib    setenv ONLY_ACTIVE_ARCH YES    setenv OPTIMIZATION_LEVEL 0    setenv OS MACOS    setenv OSAC /usr/bin/osacompile    setenv OTHER_CFLAGS "  -Wall -pthread  -fPIC         -ggdb3 -DDEBUG -D_DEBUG   "    setenv OTHER_CPLUSPLUSFLAGS "  -Wall -pthread  -fPIC         -ggdb3 -DDEBUG -D_DEBUG   "    setenv PACKAGE_TYPE com.apple.package-type.static-library    setenv PASCAL_STRINGS YES    setenv PATH_PREFIXES_EXCLUDED_FROM_HEADER_DEPENDENCIES "/usr/include /usr/local/include /System/Library/Frameworks /System/Library/PrivateFrameworks /Developer/Headers /Developer/SDKs /Developer/Platforms"    setenv PFE_FILE_C_DIALECTS c    setenv PKGINFO_FILE_PATH /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/OpenCV.build/Debug/zlib.build/PkgInfo    setenv PLATFORM_DEVELOPER_APPLICATIONS_DIR /Developer/Applications    setenv PLATFORM_DEVELOPER_BIN_DIR /Developer/usr/bin    setenv PLATFORM_DEVELOPER_LIBRARY_DIR /Developer/Library    setenv PLATFORM_DEVELOPER_SDK_DIR /Developer/SDKs    setenv PLATFORM_DEVELOPER_TOOLS_DIR /Developer/Tools    setenv PLATFORM_DEVELOPER_USR_DIR /Developer/usr    setenv PLATFORM_NAME macosx    setenv PLATFORM_PRODUCT_BUILD_VERSION 10M2423    setenv PLIST_FILE_OUTPUT_FORMAT same-as-input    setenv PREBINDING NO    setenv PRECOMPS_INCLUDE_HEADERS_FROM_BUILT_PRODUCTS_DIR YES    setenv PRECOMP_DESTINATION_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/OpenCV.build/Debug/zlib.build/PrefixHeaders    setenv PRESERVE_DEAD_CODE_INITS_AND_TERMS NO    setenv PRIVATE_HEADERS_FOLDER_PATH /usr/local/include    setenv PRODUCT_NAME zlib    setenv PRODUCT_SETTINGS_PATH     setenv PRODUCT_TYPE com.apple.product-type.library.static    setenv PROFILING_CODE NO    setenv PROJECT OpenCV    setenv PROJECT_DERIVED_FILE_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/OpenCV.build/DerivedSources    setenv PROJECT_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv PROJECT_FILE_PATH /Users/jjthrash/Downloads/OpenCV-2.2.0/OpenCV.xcodeproj    setenv PROJECT_NAME OpenCV    setenv PROJECT_TEMP_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/OpenCV.build    setenv PUBLIC_HEADERS_FOLDER_PATH /usr/local/include    setenv RECURSIVE_SEARCH_PATHS_FOLLOW_SYMLINKS YES    setenv REMOVE_CVS_FROM_RESOURCES YES    setenv REMOVE_GIT_FROM_RESOURCES YES    setenv REMOVE_SVN_FROM_RESOURCES YES    setenv REZ_COLLECTOR_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/OpenCV.build/Debug/zlib.build/ResourceManagerResources    setenv REZ_EXECUTABLE YES    setenv REZ_OBJECTS_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/OpenCV.build/Debug/zlib.build/ResourceManagerResources/Objects    setenv REZ_SEARCH_PATHS "\"/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug\" "    setenv RUN_CLANG_STATIC_ANALYZER NO    setenv SCAN_ALL_SOURCE_FILES_FOR_INCLUDES NO    setenv SCRIPT_INPUT_FILE_COUNT 0    setenv SCRIPT_OUTPUT_FILE_COUNT 0    setenv SDKROOT /Developer/SDKs/MacOSX10.6.sdk    setenv SDK_DIR /Developer/SDKs/MacOSX10.6.sdk    setenv SDK_NAME macosx10.6    setenv SED /usr/bin/sed    setenv SEPARATE_STRIP YES    setenv SEPARATE_SYMBOL_EDIT NO    setenv SET_DIR_MODE_OWNER_GROUP YES    setenv SET_FILE_MODE_OWNER_GROUP NO    setenv SHARED_DERIVED_FILE_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug/DerivedSources    setenv SHARED_PRECOMPS_DIR /var/folders/j9/j9D8eGkFG60i5wEYUED5B++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders    setenv SKIP_INSTALL YES    setenv SOURCE_ROOT /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv SRCROOT /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv STANDARD_C_PLUS_PLUS_LIBRARY_TYPE dynamic    setenv STRINGS_FILE_OUTPUT_ENCODING UTF-16    setenv STRIP_INSTALLED_PRODUCT YES    setenv STRIP_STYLE debugging    setenv SYMBOL_REPOSITORY_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/OpenCV.build/Debug/zlib.build/SymbolRepositories    setenv SYMROOT /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib    setenv SYSTEM_ADMIN_APPS_DIR /Applications/Utilities    setenv SYSTEM_APPS_DIR /Applications    setenv SYSTEM_CORE_SERVICES_DIR /System/Library/CoreServices    setenv SYSTEM_DEMOS_DIR /Applications/Extras    setenv SYSTEM_DEVELOPER_APPS_DIR /Developer/Applications    setenv SYSTEM_DEVELOPER_BIN_DIR /Developer/usr/bin    setenv SYSTEM_DEVELOPER_DEMOS_DIR "/Developer/Applications/Utilities/Built Examples"    setenv SYSTEM_DEVELOPER_DIR /Developer    setenv SYSTEM_DEVELOPER_DOC_DIR "/Developer/ADC Reference Library"    setenv SYSTEM_DEVELOPER_GRAPHICS_TOOLS_DIR "/Developer/Applications/Graphics Tools"    setenv SYSTEM_DEVELOPER_JAVA_TOOLS_DIR "/Developer/Applications/Java Tools"    setenv SYSTEM_DEVELOPER_PERFORMANCE_TOOLS_DIR "/Developer/Applications/Performance Tools"    setenv SYSTEM_DEVELOPER_RELEASENOTES_DIR "/Developer/ADC Reference Library/releasenotes"    setenv SYSTEM_DEVELOPER_TOOLS /Developer/Tools    setenv SYSTEM_DEVELOPER_TOOLS_DOC_DIR "/Developer/ADC Reference Library/documentation/DeveloperTools"    setenv SYSTEM_DEVELOPER_TOOLS_RELEASENOTES_DIR "/Developer/ADC Reference Library/releasenotes/DeveloperTools"    setenv SYSTEM_DEVELOPER_USR_DIR /Developer/usr    setenv SYSTEM_DEVELOPER_UTILITIES_DIR /Developer/Applications/Utilities    setenv SYSTEM_DOCUMENTATION_DIR /Library/Documentation    setenv SYSTEM_LIBRARY_DIR /System/Library    setenv TARGETNAME zlib    setenv TARGET_BUILD_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug    setenv TARGET_NAME zlib    setenv TARGET_TEMP_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/OpenCV.build/Debug/zlib.build    setenv TEMP_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/OpenCV.build/Debug/zlib.build    setenv TEMP_FILES_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/OpenCV.build/Debug/zlib.build    setenv TEMP_FILE_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/OpenCV.build/Debug/zlib.build    setenv TEMP_ROOT /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib    setenv UID 501    setenv UNSTRIPPED_PRODUCT NO    setenv USER jjthrash    setenv USER_APPS_DIR /Users/jjthrash/Applications    setenv USER_LIBRARY_DIR /Users/jjthrash/Library    setenv USE_DYNAMIC_NO_PIC YES    setenv USE_HEADERMAP NO    setenv USE_HEADER_SYMLINKS NO    setenv VALIDATE_PRODUCT NO    setenv VALID_ARCHS "i386 ppc ppc64 ppc7400 ppc970 x86_64"    setenv VERBOSE_PBXCP NO    setenv VERSION_INFO_BUILDER jjthrash    setenv VERSION_INFO_FILE zlib_vers.c    setenv VERSION_INFO_STRING "\"@(#)PROGRAM:zlib  PROJECT:OpenCV-\""    setenv WARNING_CFLAGS "-Wmost -Wno-four-char-constants -Wno-unknown-pragmas"    setenv XCODE_APP_SUPPORT_DIR /Developer/Library/Xcode    setenv XCODE_PRODUCT_BUILD_VERSION 10M2423    setenv XCODE_VERSION_ACTUAL 0325    setenv XCODE_VERSION_MAJOR 0300    setenv XCODE_VERSION_MINOR 0320    setenv YACC /Developer/usr/bin/yacc    setenv _REAL_SDKROOT /Developer/SDKs/MacOSX10.6.sdk    /bin/sh -c /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/OpenCV.build/Debug/zlib.build/Script-1016128B01016128B0101612.sh0#
+
+CPhaseScriptExecution "CMake ReRun" /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/OpenCV.build/Debug/zlib.build/Script-101611E90101611E90101611.sh
+s319992631.537799
+e319992635.063964
+r1
+xPhaseScriptExecution
+xCMake ReRun
+x/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/OpenCV.build/Debug/zlib.build/Script-101611E90101611E90101611.sh
+omake: `CMakeFiles/cmake.check_cache' is up to date.
+lSLF07#2@37"Run custom shell script 'CMake ReRun'319992631#319992635#0(52"make: `CMakeFiles/cmake.check_cache' is up to date.1(13@52"make: `CMakeFiles/cmake.check_cache' is up to date.319992635#0#52#0(1@0"0(0#0#0"8655305184#15365"    cd /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv ACTION build    setenv ALTERNATE_GROUP staff    setenv ALTERNATE_MODE u+w,go-w,a+rX    setenv ALTERNATE_OWNER jjthrash    setenv ALWAYS_SEARCH_USER_PATHS YES    setenv APPLE_INTERNAL_DEVELOPER_DIR /AppleInternal/Developer    setenv APPLE_INTERNAL_DIR /AppleInternal    setenv APPLE_INTERNAL_DOCUMENTATION_DIR /AppleInternal/Documentation    setenv APPLE_INTERNAL_LIBRARY_DIR /AppleInternal/Library    setenv APPLE_INTERNAL_TOOLS /AppleInternal/Developer/Tools    setenv APPLY_RULES_IN_COPY_FILES NO    setenv ARCHS x86_64    setenv ARCHS_STANDARD_32_64_BIT "x86_64 i386 ppc"    setenv ARCHS_STANDARD_32_BIT "i386 ppc"    setenv ARCHS_STANDARD_64_BIT x86_64    setenv BUILD_COMPONENTS "headers build"    setenv BUILD_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib    setenv BUILD_ROOT /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib    setenv BUILD_STYLE Debug    setenv BUILD_VARIANTS normal    setenv BUILT_PRODUCTS_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug    setenv CACHE_ROOT /var/folders/j9/j9D8eGkFG60i5wEYUED5B++++TI/-Caches-/com.apple.Xcode.501    setenv CCHROOT /var/folders/j9/j9D8eGkFG60i5wEYUED5B++++TI/-Caches-/com.apple.Xcode.501    setenv CHMOD /bin/chmod    setenv CHOWN /usr/sbin/chown    setenv CLASS_FILE_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/OpenCV.build/Debug/zlib.build/JavaClasses    setenv CLEAN_PRECOMPS YES    setenv CLONE_HEADERS NO    setenv CODESIGNING_FOLDER_PATH /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug/libzlib.a    setenv CODE_SIGNING_ALLOWED NO    setenv COMMAND_MODE legacy    setenv COMPOSITE_SDK_DIRS /var/folders/j9/j9D8eGkFG60i5wEYUED5B++++TI/-Caches-/com.apple.Xcode.501/CompositeSDKs    setenv CONFIGURATION Debug    setenv CONFIGURATION_BUILD_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug    setenv CONFIGURATION_TEMP_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/OpenCV.build/Debug    setenv COPYING_PRESERVES_HFS_DATA NO    setenv COPY_PHASE_STRIP YES    setenv COPY_RESOURCES_FROM_STATIC_FRAMEWORKS YES    setenv CP /bin/cp    setenv CURRENT_ARCH x86_64    setenv CURRENT_VARIANT normal    setenv DEAD_CODE_STRIPPING NO    setenv DEBUGGING_SYMBOLS YES    setenv DEBUG_INFORMATION_FORMAT dwarf    setenv DEPLOYMENT_LOCATION NO    setenv DEPLOYMENT_POSTPROCESSING NO    setenv DERIVED_FILES_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/OpenCV.build/Debug/zlib.build/DerivedSources    setenv DERIVED_FILE_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/OpenCV.build/Debug/zlib.build/DerivedSources    setenv DERIVED_SOURCES_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/OpenCV.build/Debug/zlib.build/DerivedSources    setenv DEVELOPER_APPLICATIONS_DIR /Developer/Applications    setenv DEVELOPER_BIN_DIR /Developer/usr/bin    setenv DEVELOPER_DIR /Developer    setenv DEVELOPER_FRAMEWORKS_DIR /Developer/Library/Frameworks    setenv DEVELOPER_FRAMEWORKS_DIR_QUOTED "\"/Developer/Library/Frameworks\""    setenv DEVELOPER_LIBRARY_DIR /Developer/Library    setenv DEVELOPER_SDK_DIR /Developer/SDKs    setenv DEVELOPER_TOOLS_DIR /Developer/Tools    setenv DEVELOPER_USR_DIR /Developer/usr    setenv DEVELOPMENT_LANGUAGE English    setenv DO_HEADER_SCANNING_IN_JAM NO    setenv DSTROOT /tmp/OpenCV.dst    setenv DWARF_DSYM_FILE_NAME libzlib.a.dSYM    setenv DWARF_DSYM_FOLDER_PATH /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug    setenv ENABLE_HEADER_DEPENDENCIES YES    setenv ENABLE_OPENMP_SUPPORT NO    setenv EXCLUDED_INSTALLSRC_SUBDIRECTORY_PATTERNS ".svn .git CVS"    setenv EXCLUDED_RECURSIVE_SEARCH_PATH_SUBDIRECTORIES "*.nib *.lproj *.framework *.gch (*) CVS .svn .git *.xcodeproj *.xcode *.pbproj *.pbxproj"    setenv EXECUTABLE_EXTENSION a    setenv EXECUTABLE_NAME libzlib.a    setenv EXECUTABLE_PATH libzlib.a    setenv EXECUTABLE_PREFIX lib    setenv EXECUTABLE_SUFFIX .a    setenv FILE_LIST /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/OpenCV.build/Debug/zlib.build/Objects/LinkFileList    setenv FIXED_FILES_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/OpenCV.build/Debug/zlib.build/FixedFiles    setenv FRAMEWORK_FLAG_PREFIX -framework    setenv FRAMEWORK_SEARCH_PATHS "\"/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug\" "    setenv FRAMEWORK_VERSION A    setenv FULL_PRODUCT_NAME libzlib.a    setenv GCC3_VERSION 3.3    setenv GCC_ENABLE_SYMBOL_SEPARATION NO    setenv GCC_GENERATE_DEBUGGING_SYMBOLS YES    setenv GCC_INLINES_ARE_PRIVATE_EXTERN NO    setenv GCC_OPTIMIZATION_LEVEL 0    setenv GCC_PFE_FILE_C_DIALECTS "c objective-c c++ objective-c++"    setenv GCC_PREPROCESSOR_DEFINITIONS "'CMAKE_INTDIR=\"Debug\"' HAVE_ALLOCA HAVE_ALLOCA_H HAVE_LIBPTHREAD HAVE_UNISTD_H HAVE_CONFIG_H"    setenv GCC_SYMBOLS_PRIVATE_EXTERN NO    setenv GCC_TREAT_WARNINGS_AS_ERRORS NO    setenv GCC_VERSION 4.2    setenv GENERATE_MASTER_OBJECT_FILE NO    setenv GENERATE_PKGINFO_FILE NO    setenv GENERATE_PROFILING_CODE NO    setenv GID 20    setenv GROUP staff    setenv HEADERMAP_INCLUDES_FLAT_ENTRIES_FOR_TARGET_BEING_BUILT YES    setenv HEADERMAP_INCLUDES_FRAMEWORK_ENTRIES_FOR_ALL_PRODUCT_TYPES YES    setenv HEADERMAP_INCLUDES_NONPUBLIC_NONPRIVATE_HEADERS YES    setenv HEADERMAP_INCLUDES_PROJECT_HEADERS YES    setenv HEADER_SEARCH_PATHS "\"/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug/include\" /Users/jjthrash/Downloads/OpenCV-2.2.0/. /Users/jjthrash/Downloads/OpenCV-2.2.0 /Users/jjthrash/Downloads/OpenCV-2.2.0/include /Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/../include"    setenv ICONV /usr/bin/iconv    setenv INFOPLIST_EXPAND_BUILD_SETTINGS YES    setenv INFOPLIST_OUTPUT_FORMAT same-as-input    setenv INFOPLIST_PREPROCESS NO    setenv INSTALL_DIR /tmp/OpenCV.dst    setenv INSTALL_GROUP staff    setenv INSTALL_MODE_FLAG u+w,go-w,a+rX    setenv INSTALL_OWNER jjthrash    setenv INSTALL_ROOT /tmp/OpenCV.dst    setenv JAVAC_DEFAULT_FLAGS "-J-Xms64m -J-XX:NewSize=4M -J-Dfile.encoding=UTF8"    setenv JAVA_APP_STUB /System/Library/Frameworks/JavaVM.framework/Resources/MacOS/JavaApplicationStub    setenv JAVA_ARCHIVE_CLASSES YES    setenv JAVA_ARCHIVE_TYPE JAR    setenv JAVA_COMPILER /usr/bin/javac    setenv JAVA_FRAMEWORK_RESOURCES_DIRS Resources    setenv JAVA_JAR_FLAGS cv    setenv JAVA_SOURCE_SUBDIR .    setenv JAVA_USE_DEPENDENCIES YES    setenv JAVA_ZIP_FLAGS -urg    setenv JIKES_DEFAULT_FLAGS "+E +OLDCSO"    setenv KEEP_PRIVATE_EXTERNS NO    setenv LD_GENERATE_MAP_FILE NO    setenv LD_MAP_FILE_PATH /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/OpenCV.build/Debug/zlib.build/zlib-LinkMap-normal-x86_64.txt    setenv LD_OPENMP_FLAGS -fopenmp    setenv LEX /Developer/usr/bin/lex    setenv LIBRARY_FLAG_NOSPACE YES    setenv LIBRARY_FLAG_PREFIX -l    setenv LIBRARY_SEARCH_PATHS "\"/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug\" "    setenv LIBRARY_STYLE STATIC    setenv LINKER_DISPLAYS_MANGLED_NAMES NO    setenv LINK_FILE_LIST_normal_x86_64 /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/OpenCV.build/Debug/zlib.build/Objects-normal/x86_64/zlib.LinkFileList    setenv LINK_WITH_STANDARD_LIBRARIES YES    setenv LOCAL_ADMIN_APPS_DIR /Applications/Utilities    setenv LOCAL_APPS_DIR /Applications    setenv LOCAL_DEVELOPER_DIR /Library/Developer    setenv LOCAL_LIBRARY_DIR /Library    setenv MACH_O_TYPE staticlib    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv MAC_OS_X_VERSION_ACTUAL 1066    setenv MAC_OS_X_VERSION_MAJOR 1060    setenv MAC_OS_X_VERSION_MINOR 0606    setenv NATIVE_ARCH i386    setenv NATIVE_ARCH_32_BIT i386    setenv NATIVE_ARCH_64_BIT x86_64    setenv NATIVE_ARCH_ACTUAL x86_64    setenv NO_COMMON YES    setenv OBJECT_FILE_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/OpenCV.build/Debug/zlib.build/Objects    setenv OBJECT_FILE_DIR_normal /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/OpenCV.build/Debug/zlib.build/Objects-normal    setenv OBJROOT /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib    setenv ONLY_ACTIVE_ARCH YES    setenv OPTIMIZATION_LEVEL 0    setenv OS MACOS    setenv OSAC /usr/bin/osacompile    setenv OTHER_CFLAGS "  -Wall -pthread  -fPIC         -ggdb3 -DDEBUG -D_DEBUG   "    setenv OTHER_CPLUSPLUSFLAGS "  -Wall -pthread  -fPIC         -ggdb3 -DDEBUG -D_DEBUG   "    setenv PACKAGE_TYPE com.apple.package-type.static-library    setenv PASCAL_STRINGS YES    setenv PATH_PREFIXES_EXCLUDED_FROM_HEADER_DEPENDENCIES "/usr/include /usr/local/include /System/Library/Frameworks /System/Library/PrivateFrameworks /Developer/Headers /Developer/SDKs /Developer/Platforms"    setenv PFE_FILE_C_DIALECTS c    setenv PKGINFO_FILE_PATH /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/OpenCV.build/Debug/zlib.build/PkgInfo    setenv PLATFORM_DEVELOPER_APPLICATIONS_DIR /Developer/Applications    setenv PLATFORM_DEVELOPER_BIN_DIR /Developer/usr/bin    setenv PLATFORM_DEVELOPER_LIBRARY_DIR /Developer/Library    setenv PLATFORM_DEVELOPER_SDK_DIR /Developer/SDKs    setenv PLATFORM_DEVELOPER_TOOLS_DIR /Developer/Tools    setenv PLATFORM_DEVELOPER_USR_DIR /Developer/usr    setenv PLATFORM_NAME macosx    setenv PLATFORM_PRODUCT_BUILD_VERSION 10M2423    setenv PLIST_FILE_OUTPUT_FORMAT same-as-input    setenv PREBINDING NO    setenv PRECOMPS_INCLUDE_HEADERS_FROM_BUILT_PRODUCTS_DIR YES    setenv PRECOMP_DESTINATION_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/OpenCV.build/Debug/zlib.build/PrefixHeaders    setenv PRESERVE_DEAD_CODE_INITS_AND_TERMS NO    setenv PRIVATE_HEADERS_FOLDER_PATH /usr/local/include    setenv PRODUCT_NAME zlib    setenv PRODUCT_SETTINGS_PATH     setenv PRODUCT_TYPE com.apple.product-type.library.static    setenv PROFILING_CODE NO    setenv PROJECT OpenCV    setenv PROJECT_DERIVED_FILE_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/OpenCV.build/DerivedSources    setenv PROJECT_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv PROJECT_FILE_PATH /Users/jjthrash/Downloads/OpenCV-2.2.0/OpenCV.xcodeproj    setenv PROJECT_NAME OpenCV    setenv PROJECT_TEMP_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/OpenCV.build    setenv PUBLIC_HEADERS_FOLDER_PATH /usr/local/include    setenv RECURSIVE_SEARCH_PATHS_FOLLOW_SYMLINKS YES    setenv REMOVE_CVS_FROM_RESOURCES YES    setenv REMOVE_GIT_FROM_RESOURCES YES    setenv REMOVE_SVN_FROM_RESOURCES YES    setenv REZ_COLLECTOR_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/OpenCV.build/Debug/zlib.build/ResourceManagerResources    setenv REZ_EXECUTABLE YES    setenv REZ_OBJECTS_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/OpenCV.build/Debug/zlib.build/ResourceManagerResources/Objects    setenv REZ_SEARCH_PATHS "\"/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug\" "    setenv RUN_CLANG_STATIC_ANALYZER NO    setenv SCAN_ALL_SOURCE_FILES_FOR_INCLUDES NO    setenv SCRIPT_INPUT_FILE_COUNT 0    setenv SCRIPT_OUTPUT_FILE_COUNT 0    setenv SDKROOT /Developer/SDKs/MacOSX10.6.sdk    setenv SDK_DIR /Developer/SDKs/MacOSX10.6.sdk    setenv SDK_NAME macosx10.6    setenv SED /usr/bin/sed    setenv SEPARATE_STRIP YES    setenv SEPARATE_SYMBOL_EDIT NO    setenv SET_DIR_MODE_OWNER_GROUP YES    setenv SET_FILE_MODE_OWNER_GROUP NO    setenv SHARED_DERIVED_FILE_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug/DerivedSources    setenv SHARED_PRECOMPS_DIR /var/folders/j9/j9D8eGkFG60i5wEYUED5B++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders    setenv SKIP_INSTALL YES    setenv SOURCE_ROOT /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv SRCROOT /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv STANDARD_C_PLUS_PLUS_LIBRARY_TYPE dynamic    setenv STRINGS_FILE_OUTPUT_ENCODING UTF-16    setenv STRIP_INSTALLED_PRODUCT YES    setenv STRIP_STYLE debugging    setenv SYMBOL_REPOSITORY_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/OpenCV.build/Debug/zlib.build/SymbolRepositories    setenv SYMROOT /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib    setenv SYSTEM_ADMIN_APPS_DIR /Applications/Utilities    setenv SYSTEM_APPS_DIR /Applications    setenv SYSTEM_CORE_SERVICES_DIR /System/Library/CoreServices    setenv SYSTEM_DEMOS_DIR /Applications/Extras    setenv SYSTEM_DEVELOPER_APPS_DIR /Developer/Applications    setenv SYSTEM_DEVELOPER_BIN_DIR /Developer/usr/bin    setenv SYSTEM_DEVELOPER_DEMOS_DIR "/Developer/Applications/Utilities/Built Examples"    setenv SYSTEM_DEVELOPER_DIR /Developer    setenv SYSTEM_DEVELOPER_DOC_DIR "/Developer/ADC Reference Library"    setenv SYSTEM_DEVELOPER_GRAPHICS_TOOLS_DIR "/Developer/Applications/Graphics Tools"    setenv SYSTEM_DEVELOPER_JAVA_TOOLS_DIR "/Developer/Applications/Java Tools"    setenv SYSTEM_DEVELOPER_PERFORMANCE_TOOLS_DIR "/Developer/Applications/Performance Tools"    setenv SYSTEM_DEVELOPER_RELEASENOTES_DIR "/Developer/ADC Reference Library/releasenotes"    setenv SYSTEM_DEVELOPER_TOOLS /Developer/Tools    setenv SYSTEM_DEVELOPER_TOOLS_DOC_DIR "/Developer/ADC Reference Library/documentation/DeveloperTools"    setenv SYSTEM_DEVELOPER_TOOLS_RELEASENOTES_DIR "/Developer/ADC Reference Library/releasenotes/DeveloperTools"    setenv SYSTEM_DEVELOPER_USR_DIR /Developer/usr    setenv SYSTEM_DEVELOPER_UTILITIES_DIR /Developer/Applications/Utilities    setenv SYSTEM_DOCUMENTATION_DIR /Library/Documentation    setenv SYSTEM_LIBRARY_DIR /System/Library    setenv TARGETNAME zlib    setenv TARGET_BUILD_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug    setenv TARGET_NAME zlib    setenv TARGET_TEMP_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/OpenCV.build/Debug/zlib.build    setenv TEMP_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/OpenCV.build/Debug/zlib.build    setenv TEMP_FILES_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/OpenCV.build/Debug/zlib.build    setenv TEMP_FILE_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/OpenCV.build/Debug/zlib.build    setenv TEMP_ROOT /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib    setenv UID 501    setenv UNSTRIPPED_PRODUCT NO    setenv USER jjthrash    setenv USER_APPS_DIR /Users/jjthrash/Applications    setenv USER_LIBRARY_DIR /Users/jjthrash/Library    setenv USE_DYNAMIC_NO_PIC YES    setenv USE_HEADERMAP NO    setenv USE_HEADER_SYMLINKS NO    setenv VALIDATE_PRODUCT NO    setenv VALID_ARCHS "i386 ppc ppc64 ppc7400 ppc970 x86_64"    setenv VERBOSE_PBXCP NO    setenv VERSION_INFO_BUILDER jjthrash    setenv VERSION_INFO_FILE zlib_vers.c    setenv VERSION_INFO_STRING "\"@(#)PROGRAM:zlib  PROJECT:OpenCV-\""    setenv WARNING_CFLAGS "-Wmost -Wno-four-char-constants -Wno-unknown-pragmas"    setenv XCODE_APP_SUPPORT_DIR /Developer/Library/Xcode    setenv XCODE_PRODUCT_BUILD_VERSION 10M2423    setenv XCODE_VERSION_ACTUAL 0325    setenv XCODE_VERSION_MAJOR 0300    setenv XCODE_VERSION_MINOR 0320    setenv YACC /Developer/usr/bin/yacc    setenv _REAL_SDKROOT /Developer/SDKs/MacOSX10.6.sdk    /bin/sh -c /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/zlib/OpenCV.build/Debug/zlib.build/Script-101611E90101611E90101611.sh0#
+

@@ -1,0 +1,1619 @@
+Tlibjasper
+v7
+r0
+t319992775.812335
+cCheck dependencies
+cPhaseScriptExecution "CMake ReRun" /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Script-101673370101673370101673.sh
+cCompileC 3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jas_cm.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_cm.c normal i386 c com.apple.compilers.gcc.4_2
+cCompileC 3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jas_debug.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_debug.c normal i386 c com.apple.compilers.gcc.4_2
+cCompileC 3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jas_getopt.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_getopt.c normal i386 c com.apple.compilers.gcc.4_2
+cCompileC 3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jas_icc.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_icc.c normal i386 c com.apple.compilers.gcc.4_2
+cCompileC 3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jas_iccdata.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_iccdata.c normal i386 c com.apple.compilers.gcc.4_2
+cCompileC 3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jas_image.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_image.c normal i386 c com.apple.compilers.gcc.4_2
+cCompileC 3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jas_init.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_init.c normal i386 c com.apple.compilers.gcc.4_2
+cCompileC 3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jas_malloc.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_malloc.c normal i386 c com.apple.compilers.gcc.4_2
+cCompileC 3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jas_seq.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_seq.c normal i386 c com.apple.compilers.gcc.4_2
+cCompileC 3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jas_stream.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_stream.c normal i386 c com.apple.compilers.gcc.4_2
+cCompileC 3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jas_string.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_string.c normal i386 c com.apple.compilers.gcc.4_2
+cCompileC 3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jas_tmr.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_tmr.c normal i386 c com.apple.compilers.gcc.4_2
+cCompileC 3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jas_tvp.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_tvp.c normal i386 c com.apple.compilers.gcc.4_2
+cCompileC 3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jas_version.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_version.c normal i386 c com.apple.compilers.gcc.4_2
+cCompileC 3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jp2_cod.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jp2_cod.c normal i386 c com.apple.compilers.gcc.4_2
+cCompileC 3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jp2_dec.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jp2_dec.c normal i386 c com.apple.compilers.gcc.4_2
+cCompileC 3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jp2_enc.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jp2_enc.c normal i386 c com.apple.compilers.gcc.4_2
+cCompileC 3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jpc_bs.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_bs.c normal i386 c com.apple.compilers.gcc.4_2
+cCompileC 3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jpc_cs.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_cs.c normal i386 c com.apple.compilers.gcc.4_2
+cCompileC 3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jpc_dec.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_dec.c normal i386 c com.apple.compilers.gcc.4_2
+cCompileC 3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jpc_enc.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_enc.c normal i386 c com.apple.compilers.gcc.4_2
+cCompileC 3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jpc_math.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_math.c normal i386 c com.apple.compilers.gcc.4_2
+cCompileC 3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jpc_mct.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_mct.c normal i386 c com.apple.compilers.gcc.4_2
+cCompileC 3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jpc_mqcod.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_mqcod.c normal i386 c com.apple.compilers.gcc.4_2
+cCompileC 3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jpc_mqdec.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_mqdec.c normal i386 c com.apple.compilers.gcc.4_2
+cCompileC 3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jpc_mqenc.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_mqenc.c normal i386 c com.apple.compilers.gcc.4_2
+cCompileC 3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jpc_qmfb.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_qmfb.c normal i386 c com.apple.compilers.gcc.4_2
+cCompileC 3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jpc_t1cod.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_t1cod.c normal i386 c com.apple.compilers.gcc.4_2
+cCompileC 3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jpc_t1dec.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_t1dec.c normal i386 c com.apple.compilers.gcc.4_2
+cCompileC 3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jpc_t1enc.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_t1enc.c normal i386 c com.apple.compilers.gcc.4_2
+cCompileC 3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jpc_t2cod.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_t2cod.c normal i386 c com.apple.compilers.gcc.4_2
+cCompileC 3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jpc_t2dec.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_t2dec.c normal i386 c com.apple.compilers.gcc.4_2
+cCompileC 3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jpc_t2enc.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_t2enc.c normal i386 c com.apple.compilers.gcc.4_2
+cCompileC 3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jpc_tagtree.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_tagtree.c normal i386 c com.apple.compilers.gcc.4_2
+cCompileC 3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jpc_tsfb.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_tsfb.c normal i386 c com.apple.compilers.gcc.4_2
+cCompileC 3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jpc_util.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_util.c normal i386 c com.apple.compilers.gcc.4_2
+cLibtool /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug/liblibjasper.a normal i386
+cPhaseScriptExecution "CMake PostBuild Rules" /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Script-101673DB0101673DB0101673.sh
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/assert.h
+c000000004CB3E4860000000000000DCB
+t1286857862
+s3531
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/ctype.h
+c000000004CB3E4860000000000002C18
+t1286857862
+s11288
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/fcntl.h
+c000000004CB3E48600000000000003EA
+t1286857862
+s1002
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/math.h
+c000000004A5C14A000000000000004F1
+t1247548576
+s1265
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/stdio.h
+c000000004CB3E48600000000000040AC
+t1286857862
+s16556
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/stdlib.h
+c000000004CB3E4860000000000002DF5
+t1286857862
+s11765
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/string.h
+c000000004CB3E4860000000000001731
+t1286857862
+s5937
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/sys/time.h
+c000000004CBFACAC0000000000001E17
+t1287629996
+s7703
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/sys/types.h
+c000000004CBFACAC0000000000002905
+t1287629996
+s10501
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/time.h
+c000000004CB3E486000000000000178E
+t1286857862
+s6030
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/unistd.h
+c000000004CB3E486000000000000563E
+t1286857862
+s22078
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/float.h
+c000000004A1198340000000000001538
+t1242667060
+s5432
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/limits.h
+c000000004A1198340000000000000C7E
+t1242667060
+s3198
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/stdarg.h
+c000000004A11983400000000000010DD
+t1242667060
+s4317
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/stdbool.h
+c000000004A1198340000000000000644
+t1242667060
+s1604
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/stddef.h
+c000000004A1198340000000000003197
+t1242667060
+s12695
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/stdint.h
+c000000004A11A512000000000000190C
+t1242670354
+s6412
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/jasper/jas_cm.h
+c000000004CFB087B0000000000001FA9
+t1291520123
+s8105
+i<jasper/jas_config.h>
+i<jasper/jas_icc.h>
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/jasper/jas_config.h
+c000000004CFB087B000000000000128F
+t1291520123
+s4751
+i<jasper/jas_config2.h>
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/jasper/jas_config2.h
+c000000004CFB087B0000000000000F69
+t1291520123
+s3945
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/jasper/jas_debug.h
+c000000004CFB087B00000000000010C0
+t1291520123
+s4288
+i<stdio.h>
+i<jasper/jas_config.h>
+i"jasper/jas_types.h"
+i"jasper/jas_debug.h"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/jasper/jas_fix.h
+c000000004CFB087B0000000000003400
+t1291520123
+s13312
+i<stdio.h>
+i<stdlib.h>
+i<math.h>
+i<jasper/jas_config.h>
+i<jasper/jas_types.h>
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/jasper/jas_getopt.h
+c000000004CFB087B0000000000001245
+t1291520123
+s4677
+i<jasper/jas_config.h>
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/jasper/jas_icc.h
+c000000004CFB087B0000000000003BC9
+t1291520123
+s15305
+i<jasper/jas_config.h>
+i<jasper/jas_types.h>
+i<jasper/jas_stream.h>
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/jasper/jas_image.h
+c000000004CFB087B00000000000048DC
+t1291520123
+s18652
+i<jasper/jas_config.h>
+i<jasper/jas_stream.h>
+i<jasper/jas_seq.h>
+i<jasper/jas_cm.h>
+i<stdio.h>
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/jasper/jas_init.h
+c000000004CFB087B0000000000000D57
+t1291520123
+s3415
+i<jasper/jas_config.h>
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/jasper/jas_malloc.h
+c000000004CFB087B00000000000011F9
+t1291520123
+s4601
+i<jasper/jas_config.h>
+i<stdlib.h>
+i<stdio.h>
+i"../../../../local/src/memalloc.h"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/jasper/jas_math.h
+c000000004CFB087B0000000000001132
+t1291520123
+s4402
+i<jasper/jas_config.h>
+i<assert.h>
+i<stdio.h>
+i<string.h>
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/jasper/jas_seq.h
+c000000004CFB087B00000000000027F9
+t1291520123
+s10233
+i<jasper/jas_config.h>
+i<jasper/jas_stream.h>
+i<jasper/jas_types.h>
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/jasper/jas_stream.h
+c000000004CFB087B0000000000003A1C
+t1291520123
+s14876
+i<jasper/jas_config.h>
+i<stdio.h>
+i<fcntl.h>
+i<string.h>
+i<unistd.h>
+i<jasper/jas_types.h>
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/jasper/jas_string.h
+c000000004CFB087B0000000000000EE6
+t1291520123
+s3814
+i<jasper/jas_config.h>
+i<string.h>
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/jasper/jas_tmr.h
+c000000004CFB087B0000000000000E25
+t1291520123
+s3621
+i<time.h>
+i<jasper/jas_config.h>
+i<sys/time.h>
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/jasper/jas_tvp.h
+c000000004CFB087B00000000000014C7
+t1291520123
+s5319
+i<jasper/jas_config.h>
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/jasper/jas_types.h
+c000000004CFB087B0000000000001A46
+t1291520123
+s6726
+i<jasper/jas_config.h>
+i<windows.h>
+i<stdlib.h>
+i<stddef.h>
+i<sys/types.h>
+i<stdbool.h>
+i<stdint.h>
+i<limits.h>
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/jasper/jas_version.h
+c000000004CFB087B0000000000001337
+t1291520123
+s4919
+i<jasper/jas_config.h>
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug/liblibjasper.a
+t1298299975
+s2679432
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jas_cm.o
+t1298299973
+s98476
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jas_debug.o
+t1298299973
+s34784
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jas_getopt.o
+t1298299973
+s16460
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jas_icc.o
+t1298299973
+s114188
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jas_iccdata.o
+t1298299973
+s33208
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jas_image.o
+t1298299973
+s102840
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jas_init.o
+t1298299973
+s63948
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jas_malloc.o
+t1298299973
+s30820
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jas_seq.o
+t1298299973
+s68292
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jas_stream.o
+t1298299974
+s80340
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jas_string.o
+t1298299974
+s29748
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jas_tmr.o
+t1298299974
+s31252
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jas_tvp.o
+t1298299974
+s36880
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jas_version.o
+t1298299974
+s6924
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jp2_cod.o
+t1298299974
+s75720
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jp2_dec.o
+t1298299974
+s76496
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jp2_enc.o
+t1298299974
+s72124
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jpc_bs.o
+t1298299974
+s59540
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jpc_cs.o
+t1298299974
+s112304
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jpc_dec.o
+t1298299974
+s148944
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jpc_enc.o
+t1298299974
+s153384
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jpc_math.o
+t1298299974
+s37472
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jpc_mct.o
+t1298299974
+s66616
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jpc_mqcod.o
+t1298299974
+s34616
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jpc_mqdec.o
+t1298299974
+s57844
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jpc_mqenc.o
+t1298299974
+s61784
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jpc_qmfb.o
+t1298299975
+s101876
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jpc_t1cod.o
+t1298299975
+s92956
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jpc_t1dec.o
+t1298299975
+s128068
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jpc_t1enc.o
+t1298299975
+s130856
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jpc_t2cod.o
+t1298299975
+s76748
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jpc_t2dec.o
+t1298299975
+s107088
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jpc_t2enc.o
+t1298299975
+s107952
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jpc_tagtree.o
+t1298299975
+s59636
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jpc_tsfb.o
+t1298299975
+s78076
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jpc_util.o
+t1298299975
+s76740
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/libjasper.LinkFileList
+c000000004D627C4500000000000013BC
+t1298299973
+s5052
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Script-101673370101673370101673.sh
+c000000004D627C450000000000000080
+t1298299973
+s128
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Script-101673DB0101673DB0101673.sh
+c000000004D627C4400000000000000C6
+t1298299972
+s198
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_cm.c
+c000000004CFB087B000000000000880D
+t1291520123
+s34829
+i<jasper/jas_config.h>
+i<math.h>
+i<stdlib.h>
+i<assert.h>
+i<jasper/jas_cm.h>
+i<jasper/jas_icc.h>
+i<jasper/jas_init.h>
+i<jasper/jas_stream.h>
+i<jasper/jas_malloc.h>
+i<jasper/jas_math.h>
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_debug.c
+c000000004CFB087B00000000000012C8
+t1291520123
+s4808
+i<stdarg.h>
+i<stdio.h>
+i"jasper/jas_types.h"
+i"jasper/jas_debug.h"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_getopt.c
+c000000004CFB087B00000000000015FF
+t1291520123
+s5631
+i<stdio.h>
+i<string.h>
+i"jasper/jas_getopt.h"
+i"jasper/jas_math.h"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_icc.c
+c000000004CFB087B000000000000BB5C
+t1291520123
+s47964
+i<assert.h>
+i<jasper/jas_config.h>
+i<jasper/jas_types.h>
+i<jasper/jas_malloc.h>
+i<jasper/jas_debug.h>
+i<jasper/jas_icc.h>
+i<jasper/jas_cm.h>
+i<jasper/jas_stream.h>
+i<jasper/jas_string.h>
+i<stdlib.h>
+i<ctype.h>
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_iccdata.c
+c000000004CFB087B000000000000618F
+t1291520123
+s24975
+i<jasper/jas_config.h>
+i<jasper/jas_types.h>
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_image.c
+c000000004CFB087B000000000000944F
+t1291520123
+s37967
+i<stdlib.h>
+i<stdio.h>
+i<string.h>
+i<assert.h>
+i<ctype.h>
+i"jasper/jas_math.h"
+i"jasper/jas_image.h"
+i"jasper/jas_malloc.h"
+i"jasper/jas_string.h"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_init.c
+c000000004CFB087B00000000000016E2
+t1291520123
+s5858
+i"jasper/jas_types.h"
+i"jasper/jas_image.h"
+i"jasper/jas_init.h"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_malloc.c
+c000000004CFB087B000000000000112C
+t1291520123
+s4396
+i<stdio.h>
+i<stdlib.h>
+i<string.h>
+i"jasper/jas_malloc.h"
+i"../../../local/src/memalloc.c"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_seq.c
+c000000004CFB087B0000000000002EA0
+t1291520123
+s11936
+i<stdlib.h>
+i<assert.h>
+i<math.h>
+i"jasper/jas_seq.h"
+i"jasper/jas_malloc.h"
+i"jasper/jas_math.h"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_stream.c
+c000000004CFB087B0000000000007214
+t1291520123
+s29204
+i<assert.h>
+i<fcntl.h>
+i<stdlib.h>
+i<stdarg.h>
+i<stdio.h>
+i<ctype.h>
+i<unistd.h>
+i<io.h>
+i"jasper/jas_types.h"
+i"jasper/jas_stream.h"
+i"jasper/jas_malloc.h"
+i"jasper/jas_math.h"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_string.c
+c000000004CFB087B0000000000000F67
+t1291520123
+s3943
+i<string.h>
+i"jasper/jas_malloc.h"
+i"jasper/jas_string.h"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_tmr.c
+c000000004CFB087B0000000000001280
+t1291520123
+s4736
+i<stdio.h>
+i<stdlib.h>
+i<time.h>
+i"jasper/jas_tmr.h"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_tvp.c
+c000000004CFB087B0000000000001B10
+t1291520123
+s6928
+i<assert.h>
+i<stdio.h>
+i<ctype.h>
+i<stdlib.h>
+i"jasper/jas_malloc.h"
+i"jasper/jas_string.h"
+i"jasper/jas_tvp.h"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_version.c
+c000000004CFB087B0000000000000C3D
+t1291520123
+s3133
+i"jasper/jas_version.h"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jp2_cod.c
+c000000004CFB087B0000000000005C22
+t1291520123
+s23586
+i<assert.h>
+i<stdlib.h>
+i"jasper/jas_stream.h"
+i"jasper/jas_malloc.h"
+i"jasper/jas_debug.h"
+i"jp2_cod.h"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jp2_cod.h
+c000000004CFB087B00000000000022AF
+t1291520123
+s8879
+i"jasper/jas_types.h"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jp2_dec.c
+c000000004CFB087B0000000000003FCE
+t1291520123
+s16334
+i"jasper/jas_image.h"
+i"jasper/jas_stream.h"
+i"jasper/jas_math.h"
+i"jasper/jas_debug.h"
+i"jasper/jas_malloc.h"
+i"jasper/jas_version.h"
+i"jp2_cod.h"
+i"jp2_dec.h"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jp2_dec.h
+c000000004CFB087B0000000000000D99
+t1291520123
+s3481
+i"jasper/jas_image.h"
+i"jasper/jas_stream.h"
+i"jp2_cod.h"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jp2_enc.c
+c000000004CFB087B0000000000002D51
+t1291520123
+s11601
+i<assert.h>
+i"jasper/jas_malloc.h"
+i"jasper/jas_image.h"
+i"jasper/jas_stream.h"
+i"jasper/jas_cm.h"
+i"jasper/jas_icc.h"
+i"jp2_cod.h"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_bs.c
+c000000004CFB087B00000000000032F1
+t1291520123
+s13041
+i<assert.h>
+i<stdlib.h>
+i<stdarg.h>
+i"jasper/jas_malloc.h"
+i"jasper/jas_math.h"
+i"jasper/jas_debug.h"
+i"jpc_bs.h"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_bs.h
+c000000004CFB087B00000000000021EA
+t1291520123
+s8682
+i<stdio.h>
+i"jasper/jas_types.h"
+i"jasper/jas_stream.h"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_cod.h
+c000000004CFB087B0000000000000DAA
+t1291520123
+s3498
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_cs.c
+c000000004CFB087B000000000000B49D
+t1291520123
+s46237
+i<stdlib.h>
+i<assert.h>
+i<ctype.h>
+i"jasper/jas_malloc.h"
+i"jasper/jas_debug.h"
+i"jpc_cs.h"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_cs.h
+c000000004CFB087B0000000000004CEC
+t1291520123
+s19692
+i"jasper/jas_image.h"
+i"jasper/jas_stream.h"
+i"jpc_cod.h"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_dec.c
+c000000004CFB087B000000000000EA04
+t1291520123
+s59908
+i<stdio.h>
+i<stdlib.h>
+i<assert.h>
+i"jasper/jas_types.h"
+i"jasper/jas_math.h"
+i"jasper/jas_tvp.h"
+i"jasper/jas_malloc.h"
+i"jasper/jas_debug.h"
+i"jpc_fix.h"
+i"jpc_dec.h"
+i"jpc_cs.h"
+i"jpc_mct.h"
+i"jpc_t2dec.h"
+i"jpc_t1dec.h"
+i"jpc_math.h"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_dec.h
+c000000004CFB087B0000000000004602
+t1291520123
+s17922
+i"jasper/jas_stream.h"
+i"jpc_tsfb.h"
+i"jpc_bs.h"
+i"jpc_tagtree.h"
+i"jpc_cs.h"
+i"jpc_cod.h"
+i"jpc_mqdec.h"
+i"jpc_t2cod.h"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_enc.c
+c000000004CFB087B0000000000011268
+t1291520123
+s70248
+i<stdio.h>
+i<stdlib.h>
+i<assert.h>
+i<math.h>
+i<float.h>
+i"jasper/jas_types.h"
+i"jasper/jas_string.h"
+i"jasper/jas_malloc.h"
+i"jasper/jas_image.h"
+i"jasper/jas_fix.h"
+i"jasper/jas_tvp.h"
+i"jasper/jas_version.h"
+i"jasper/jas_math.h"
+i"jasper/jas_debug.h"
+i"jpc_flt.h"
+i"jpc_fix.h"
+i"jpc_tagtree.h"
+i"jpc_enc.h"
+i"jpc_cs.h"
+i"jpc_mct.h"
+i"jpc_tsfb.h"
+i"jpc_qmfb.h"
+i"jpc_t1enc.h"
+i"jpc_t2enc.h"
+i"jpc_cod.h"
+i"jpc_math.h"
+i"jpc_util.h"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_enc.h
+c000000004CFB087B0000000000004219
+t1291520123
+s16921
+i"jasper/jas_seq.h"
+i"jpc_t2cod.h"
+i"jpc_mqenc.h"
+i"jpc_cod.h"
+i"jpc_tagtree.h"
+i"jpc_cs.h"
+i"jpc_flt.h"
+i"jpc_tsfb.h"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_fix.h
+c000000004CFB087B0000000000001A4B
+t1291520123
+s6731
+i"jasper/jas_types.h"
+i"jasper/jas_fix.h"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_flt.h
+c000000004CFB087B0000000000000DA6
+t1291520123
+s3494
+i<float.h>
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_math.c
+c000000004CFB087B00000000000010E6
+t1291520123
+s4326
+i<assert.h>
+i<stdio.h>
+i<string.h>
+i<math.h>
+i<stdlib.h>
+i<stdarg.h>
+i"jpc_math.h"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_math.h
+c000000004CFB087B000000000000109D
+t1291520123
+s4253
+i<assert.h>
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_mct.c
+c000000004CFB087B0000000000002048
+t1291520123
+s8264
+i<assert.h>
+i"jasper/jas_seq.h"
+i"jpc_fix.h"
+i"jpc_mct.h"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_mct.h
+c000000004CFB087B00000000000011A0
+t1291520123
+s4512
+i"jasper/jas_seq.h"
+i"jasper/jas_fix.h"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_mqcod.c
+c000000004CFB087B0000000000002197
+t1291520123
+s8599
+i"jasper/jas_malloc.h"
+i"jpc_mqcod.h"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_mqcod.h
+c000000004CFB087B00000000000010F2
+t1291520123
+s4338
+i"jasper/jas_types.h"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_mqdec.c
+c000000004CFB087B000000000000253B
+t1291520123
+s9531
+i<assert.h>
+i<stdlib.h>
+i<stdarg.h>
+i"jasper/jas_types.h"
+i"jasper/jas_malloc.h"
+i"jasper/jas_math.h"
+i"jasper/jas_debug.h"
+i"jpc_mqdec.h"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_mqdec.h
+c000000004CFB087B0000000000002263
+t1291520123
+s8803
+i"jasper/jas_types.h"
+i"jasper/jas_stream.h"
+i"jpc_mqcod.h"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_mqenc.c
+c000000004CFB087B0000000000002C19
+t1291520123
+s11289
+i<assert.h>
+i<stdlib.h>
+i"jasper/jas_stream.h"
+i"jasper/jas_malloc.h"
+i"jasper/jas_math.h"
+i"jasper/jas_debug.h"
+i"jpc_mqenc.h"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_mqenc.h
+c000000004CFB087B0000000000002020
+t1291520123
+s8224
+i"jasper/jas_types.h"
+i"jasper/jas_stream.h"
+i"jpc_mqcod.h"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_qmfb.c
+c000000004CFB087B0000000000011077
+t1291520123
+s69751
+i<assert.h>
+i"jasper/jas_fix.h"
+i"jasper/jas_malloc.h"
+i"jasper/jas_math.h"
+i"jpc_qmfb.h"
+i"jpc_tsfb.h"
+i"jpc_math.h"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_qmfb.h
+c000000004CFB087B0000000000001257
+t1291520123
+s4695
+i"jasper/jas_seq.h"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_t1cod.c
+c000000004CFB087B0000000000002EAA
+t1291520123
+s11946
+i<stdio.h>
+i<stdlib.h>
+i<assert.h>
+i<math.h>
+i"jasper/jas_types.h"
+i"jasper/jas_math.h"
+i"jpc_bs.h"
+i"jpc_dec.h"
+i"jpc_cs.h"
+i"jpc_mqcod.h"
+i"jpc_t1cod.h"
+i"jpc_tsfb.h"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_t1cod.h
+c000000004CFB087B0000000000002A77
+t1291520123
+s10871
+i"jasper/jas_fix.h"
+i"jasper/jas_math.h"
+i"jpc_mqcod.h"
+i"jpc_tsfb.h"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_t1dec.c
+c000000004CFB087B00000000000063E0
+t1291520123
+s25568
+i<stdio.h>
+i<stdlib.h>
+i<assert.h>
+i"jasper/jas_fix.h"
+i"jasper/jas_stream.h"
+i"jasper/jas_math.h"
+i"jpc_bs.h"
+i"jpc_mqdec.h"
+i"jpc_t1dec.h"
+i"jpc_t1cod.h"
+i"jpc_dec.h"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_t1dec.h
+c000000004CFB087B0000000000000EE5
+t1291520123
+s3813
+i"jpc_dec.h"
+i"jpc_mqdec.h"
+i"jpc_t1cod.h"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_t1enc.c
+c000000004CFB087B00000000000064A9
+t1291520123
+s25769
+i<stdio.h>
+i<stdlib.h>
+i<assert.h>
+i"jasper/jas_fix.h"
+i"jasper/jas_malloc.h"
+i"jasper/jas_math.h"
+i"jpc_t1enc.h"
+i"jpc_t1cod.h"
+i"jpc_enc.h"
+i"jpc_cod.h"
+i"jpc_math.h"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_t1enc.h
+c000000004CFB087B0000000000000F5C
+t1291520123
+s3932
+i"jasper/jas_seq.h"
+i"jpc_enc.h"
+i"jpc_t1cod.h"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_t2cod.c
+c000000004CFB087B0000000000004B1F
+t1291520123
+s19231
+i"jasper/jas_math.h"
+i"jasper/jas_malloc.h"
+i"jasper/jas_math.h"
+i"jpc_cs.h"
+i"jpc_t2cod.h"
+i"jpc_math.h"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_t2cod.h
+c000000004CFB087B00000000000023A7
+t1291520123
+s9127
+i"jpc_cs.h"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_t2dec.c
+c000000004CFB087B0000000000003E00
+t1291520123
+s15872
+i<stdio.h>
+i<stdlib.h>
+i<assert.h>
+i"jasper/jas_types.h"
+i"jasper/jas_fix.h"
+i"jasper/jas_malloc.h"
+i"jasper/jas_math.h"
+i"jasper/jas_stream.h"
+i"jasper/jas_debug.h"
+i"jpc_bs.h"
+i"jpc_dec.h"
+i"jpc_cs.h"
+i"jpc_mqdec.h"
+i"jpc_t2dec.h"
+i"jpc_t1cod.h"
+i"jpc_math.h"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_t2dec.h
+c000000004CFB087B0000000000000F9A
+t1291520123
+s3994
+i"jasper/jas_fix.h"
+i"jasper/jas_stream.h"
+i"jpc_bs.h"
+i"jpc_dec.h"
+i"jpc_mqdec.h"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_t2enc.c
+c000000004CFB087B00000000000044F6
+t1291520123
+s17654
+i<stdio.h>
+i<stdlib.h>
+i<assert.h>
+i"jasper/jas_fix.h"
+i"jasper/jas_malloc.h"
+i"jasper/jas_math.h"
+i"jasper/jas_debug.h"
+i"jpc_flt.h"
+i"jpc_t2enc.h"
+i"jpc_t2cod.h"
+i"jpc_tagtree.h"
+i"jpc_enc.h"
+i"jpc_math.h"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_t2enc.h
+c000000004CFB087B00000000000010D2
+t1291520123
+s4306
+i<stdio.h>
+i<stdlib.h>
+i<assert.h>
+i"jpc_enc.h"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_tagtree.c
+c000000004CFB087B0000000000002777
+t1291520123
+s10103
+i<limits.h>
+i<stdlib.h>
+i<assert.h>
+i<stdio.h>
+i"jasper/jas_malloc.h"
+i"jpc_tagtree.h"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_tagtree.h
+c000000004CFB087B00000000000016D1
+t1291520123
+s5841
+i<limits.h>
+i<stdio.h>
+i"jpc_bs.h"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_tsfb.c
+c000000004CFB087B00000000000025B7
+t1291520123
+s9655
+i<assert.h>
+i"jasper/jas_malloc.h"
+i"jasper/jas_seq.h"
+i"jpc_tsfb.h"
+i"jpc_cod.h"
+i"jpc_cs.h"
+i"jpc_util.h"
+i"jpc_math.h"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_tsfb.h
+c000000004CFB087B00000000000013AD
+t1291520123
+s5037
+i"jasper/jas_seq.h"
+i"jpc_fix.h"
+i"jpc_qmfb.h"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_util.c
+c000000004CFB087B0000000000001677
+t1291520123
+s5751
+i<assert.h>
+i<stdio.h>
+i<string.h>
+i<math.h>
+i<stdlib.h>
+i<stdarg.h>
+i"jasper/jas_math.h"
+i"jasper/jas_malloc.h"
+i"jpc_fix.h"
+i"jpc_cs.h"
+i"jpc_flt.h"
+i"jpc_util.h"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_util.h
+c000000004CFB087B0000000000000D92
+t1291520123
+s3474
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies319992772#319992773#0(0"0(0#1#0"8658251200#0"0#
+
+CCompileC 3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jas_cm.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_cm.c normal i386 c com.apple.compilers.gcc.4_2
+s319992773.080368
+e319992773.348024
+r1
+xCompileC
+x3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jas_cm.o
+x/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_cm.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_cm.c319992773#319992773#0(0"0(0#0#66"/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_cm.c8635640128#1852"    cd /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -DCMAKE_INTDIR="Debug" -DHAVE_ALLOCA -DHAVE_ALLOCA_H -DHAVE_LIBPTHREAD -DHAVE_UNISTD_H -DHAVE_CONFIG_H -DEXCLUDE_MIF_SUPPORT -DEXCLUDE_PNM_SUPPORT -DEXCLUDE_BMP_SUPPORT -DEXCLUDE_RAS_SUPPORT -DEXCLUDE_JPG_SUPPORT -DEXCLUDE_PGX_SUPPORT -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/../include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/DerivedSources/i386 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/DerivedSources -Wall -pthread -fPIC -Wno-implicit-function-declaration -Wno-unused -ggdb3 -DDEBUG -D_DEBUG -c /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_cm.c -o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jas_cm.o0#
+
+CCompileC 3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jas_debug.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_debug.c normal i386 c com.apple.compilers.gcc.4_2
+s319992773.120583
+e319992773.205174
+r1
+xCompileC
+x3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jas_debug.o
+x/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_debug.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+o/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_debug.c: In function 'jas_memdump':
+o/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_debug.c:128: warning: format '%04x' expects type 'unsigned int', but argument 3 has type 'size_t'
+lSLF07#2@77"Compile /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_debug.c319992773#319992773#0(258"/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_debug.c: In function 'jas_memdump':/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_debug.c:128: warning: format '%04x' expects type 'unsigned int', but argument 3 has type 'size_t'1(22@75"Format '%04x' expects type 'unsigned int', but argument 3 has type 'size_t'319992773#98#160#0(6@69"/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_debug.c313212923#128#0#128#0#56"format '*' expects type '*', but argument * has type '*'0(0#0#69"/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_debug.c8663263072#1858"    cd /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -DCMAKE_INTDIR="Debug" -DHAVE_ALLOCA -DHAVE_ALLOCA_H -DHAVE_LIBPTHREAD -DHAVE_UNISTD_H -DHAVE_CONFIG_H -DEXCLUDE_MIF_SUPPORT -DEXCLUDE_PNM_SUPPORT -DEXCLUDE_BMP_SUPPORT -DEXCLUDE_RAS_SUPPORT -DEXCLUDE_JPG_SUPPORT -DEXCLUDE_PGX_SUPPORT -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/../include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/DerivedSources/i386 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/DerivedSources -Wall -pthread -fPIC -Wno-implicit-function-declaration -Wno-unused -ggdb3 -DDEBUG -D_DEBUG -c /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_debug.c -o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jas_debug.o0#
+
+CCompileC 3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jas_getopt.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_getopt.c normal i386 c com.apple.compilers.gcc.4_2
+s319992773.205707
+e319992773.276756
+r1
+xCompileC
+x3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jas_getopt.o
+x/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_getopt.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_getopt.c319992773#319992773#0(0"0(0#0#70"/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_getopt.c8646135072#1860"    cd /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -DCMAKE_INTDIR="Debug" -DHAVE_ALLOCA -DHAVE_ALLOCA_H -DHAVE_LIBPTHREAD -DHAVE_UNISTD_H -DHAVE_CONFIG_H -DEXCLUDE_MIF_SUPPORT -DEXCLUDE_PNM_SUPPORT -DEXCLUDE_BMP_SUPPORT -DEXCLUDE_RAS_SUPPORT -DEXCLUDE_JPG_SUPPORT -DEXCLUDE_PGX_SUPPORT -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/../include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/DerivedSources/i386 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/DerivedSources -Wall -pthread -fPIC -Wno-implicit-function-declaration -Wno-unused -ggdb3 -DDEBUG -D_DEBUG -c /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_getopt.c -o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jas_getopt.o0#
+
+CCompileC 3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jas_icc.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_icc.c normal i386 c com.apple.compilers.gcc.4_2
+s319992773.277901
+e319992773.746584
+r1
+xCompileC
+x3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jas_icc.o
+x/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_icc.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_icc.c319992773#319992773#0(0"0(0#0#67"/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_icc.c8648931776#1854"    cd /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -DCMAKE_INTDIR="Debug" -DHAVE_ALLOCA -DHAVE_ALLOCA_H -DHAVE_LIBPTHREAD -DHAVE_UNISTD_H -DHAVE_CONFIG_H -DEXCLUDE_MIF_SUPPORT -DEXCLUDE_PNM_SUPPORT -DEXCLUDE_BMP_SUPPORT -DEXCLUDE_RAS_SUPPORT -DEXCLUDE_JPG_SUPPORT -DEXCLUDE_PGX_SUPPORT -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/../include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/DerivedSources/i386 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/DerivedSources -Wall -pthread -fPIC -Wno-implicit-function-declaration -Wno-unused -ggdb3 -DDEBUG -D_DEBUG -c /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_icc.c -o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jas_icc.o0#
+
+CCompileC 3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jas_iccdata.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_iccdata.c normal i386 c com.apple.compilers.gcc.4_2
+s319992773.345615
+e319992773.425583
+r1
+xCompileC
+x3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jas_iccdata.o
+x/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_iccdata.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_iccdata.c319992773#319992773#0(0"0(0#0#71"/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_iccdata.c8661901184#1862"    cd /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -DCMAKE_INTDIR="Debug" -DHAVE_ALLOCA -DHAVE_ALLOCA_H -DHAVE_LIBPTHREAD -DHAVE_UNISTD_H -DHAVE_CONFIG_H -DEXCLUDE_MIF_SUPPORT -DEXCLUDE_PNM_SUPPORT -DEXCLUDE_BMP_SUPPORT -DEXCLUDE_RAS_SUPPORT -DEXCLUDE_JPG_SUPPORT -DEXCLUDE_PGX_SUPPORT -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/../include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/DerivedSources/i386 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/DerivedSources -Wall -pthread -fPIC -Wno-implicit-function-declaration -Wno-unused -ggdb3 -DDEBUG -D_DEBUG -c /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_iccdata.c -o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jas_iccdata.o0#
+
+CCompileC 3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jas_image.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_image.c normal i386 c com.apple.compilers.gcc.4_2
+s319992773.348194
+e319992773.671505
+r1
+xCompileC
+x3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jas_image.o
+x/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_image.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_image.c319992773#319992773#0(0"0(0#0#69"/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_image.c8659250912#1858"    cd /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -DCMAKE_INTDIR="Debug" -DHAVE_ALLOCA -DHAVE_ALLOCA_H -DHAVE_LIBPTHREAD -DHAVE_UNISTD_H -DHAVE_CONFIG_H -DEXCLUDE_MIF_SUPPORT -DEXCLUDE_PNM_SUPPORT -DEXCLUDE_BMP_SUPPORT -DEXCLUDE_RAS_SUPPORT -DEXCLUDE_JPG_SUPPORT -DEXCLUDE_PGX_SUPPORT -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/../include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/DerivedSources/i386 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/DerivedSources -Wall -pthread -fPIC -Wno-implicit-function-declaration -Wno-unused -ggdb3 -DDEBUG -D_DEBUG -c /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_image.c -o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jas_image.o0#
+
+CCompileC 3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jas_init.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_init.c normal i386 c com.apple.compilers.gcc.4_2
+s319992773.426197
+e319992773.558428
+r1
+xCompileC
+x3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jas_init.o
+x/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_init.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_init.c319992773#319992773#0(0"0(0#0#68"/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_init.c8638820864#1856"    cd /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -DCMAKE_INTDIR="Debug" -DHAVE_ALLOCA -DHAVE_ALLOCA_H -DHAVE_LIBPTHREAD -DHAVE_UNISTD_H -DHAVE_CONFIG_H -DEXCLUDE_MIF_SUPPORT -DEXCLUDE_PNM_SUPPORT -DEXCLUDE_BMP_SUPPORT -DEXCLUDE_RAS_SUPPORT -DEXCLUDE_JPG_SUPPORT -DEXCLUDE_PGX_SUPPORT -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/../include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/DerivedSources/i386 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/DerivedSources -Wall -pthread -fPIC -Wno-implicit-function-declaration -Wno-unused -ggdb3 -DDEBUG -D_DEBUG -c /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_init.c -o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jas_init.o0#
+
+CCompileC 3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jas_malloc.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_malloc.c normal i386 c com.apple.compilers.gcc.4_2
+s319992773.558660
+e319992773.652070
+r1
+xCompileC
+x3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jas_malloc.o
+x/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_malloc.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_malloc.c319992773#319992773#0(0"0(0#0#70"/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_malloc.c8645257376#1860"    cd /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -DCMAKE_INTDIR="Debug" -DHAVE_ALLOCA -DHAVE_ALLOCA_H -DHAVE_LIBPTHREAD -DHAVE_UNISTD_H -DHAVE_CONFIG_H -DEXCLUDE_MIF_SUPPORT -DEXCLUDE_PNM_SUPPORT -DEXCLUDE_BMP_SUPPORT -DEXCLUDE_RAS_SUPPORT -DEXCLUDE_JPG_SUPPORT -DEXCLUDE_PGX_SUPPORT -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/../include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/DerivedSources/i386 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/DerivedSources -Wall -pthread -fPIC -Wno-implicit-function-declaration -Wno-unused -ggdb3 -DDEBUG -D_DEBUG -c /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_malloc.c -o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jas_malloc.o0#
+
+CCompileC 3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jas_seq.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_seq.c normal i386 c com.apple.compilers.gcc.4_2
+s319992773.652311
+e319992773.808270
+r1
+xCompileC
+x3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jas_seq.o
+x/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_seq.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_seq.c319992773#319992773#0(0"0(0#0#67"/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_seq.c8664127040#1854"    cd /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -DCMAKE_INTDIR="Debug" -DHAVE_ALLOCA -DHAVE_ALLOCA_H -DHAVE_LIBPTHREAD -DHAVE_UNISTD_H -DHAVE_CONFIG_H -DEXCLUDE_MIF_SUPPORT -DEXCLUDE_PNM_SUPPORT -DEXCLUDE_BMP_SUPPORT -DEXCLUDE_RAS_SUPPORT -DEXCLUDE_JPG_SUPPORT -DEXCLUDE_PGX_SUPPORT -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/../include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/DerivedSources/i386 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/DerivedSources -Wall -pthread -fPIC -Wno-implicit-function-declaration -Wno-unused -ggdb3 -DDEBUG -D_DEBUG -c /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_seq.c -o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jas_seq.o0#
+
+CCompileC 3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jas_stream.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_stream.c normal i386 c com.apple.compilers.gcc.4_2
+s319992773.671683
+e319992774.055467
+r1
+xCompileC
+x3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jas_stream.o
+x/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_stream.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_stream.c319992773#319992774#0(0"0(0#0#70"/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_stream.c8662381504#1860"    cd /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -DCMAKE_INTDIR="Debug" -DHAVE_ALLOCA -DHAVE_ALLOCA_H -DHAVE_LIBPTHREAD -DHAVE_UNISTD_H -DHAVE_CONFIG_H -DEXCLUDE_MIF_SUPPORT -DEXCLUDE_PNM_SUPPORT -DEXCLUDE_BMP_SUPPORT -DEXCLUDE_RAS_SUPPORT -DEXCLUDE_JPG_SUPPORT -DEXCLUDE_PGX_SUPPORT -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/../include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/DerivedSources/i386 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/DerivedSources -Wall -pthread -fPIC -Wno-implicit-function-declaration -Wno-unused -ggdb3 -DDEBUG -D_DEBUG -c /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_stream.c -o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jas_stream.o0#
+
+CCompileC 3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jas_string.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_string.c normal i386 c com.apple.compilers.gcc.4_2
+s319992773.746756
+e319992774.052947
+r1
+xCompileC
+x3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jas_string.o
+x/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_string.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_string.c319992773#319992774#0(0"0(0#0#70"/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_string.c8656690368#1860"    cd /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -DCMAKE_INTDIR="Debug" -DHAVE_ALLOCA -DHAVE_ALLOCA_H -DHAVE_LIBPTHREAD -DHAVE_UNISTD_H -DHAVE_CONFIG_H -DEXCLUDE_MIF_SUPPORT -DEXCLUDE_PNM_SUPPORT -DEXCLUDE_BMP_SUPPORT -DEXCLUDE_RAS_SUPPORT -DEXCLUDE_JPG_SUPPORT -DEXCLUDE_PGX_SUPPORT -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/../include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/DerivedSources/i386 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/DerivedSources -Wall -pthread -fPIC -Wno-implicit-function-declaration -Wno-unused -ggdb3 -DDEBUG -D_DEBUG -c /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_string.c -o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jas_string.o0#
+
+CCompileC 3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jas_tmr.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_tmr.c normal i386 c com.apple.compilers.gcc.4_2
+s319992773.808428
+e319992774.099765
+r1
+xCompileC
+x3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jas_tmr.o
+x/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_tmr.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_tmr.c319992773#319992774#0(0"0(0#0#67"/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_tmr.c8662028384#1854"    cd /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -DCMAKE_INTDIR="Debug" -DHAVE_ALLOCA -DHAVE_ALLOCA_H -DHAVE_LIBPTHREAD -DHAVE_UNISTD_H -DHAVE_CONFIG_H -DEXCLUDE_MIF_SUPPORT -DEXCLUDE_PNM_SUPPORT -DEXCLUDE_BMP_SUPPORT -DEXCLUDE_RAS_SUPPORT -DEXCLUDE_JPG_SUPPORT -DEXCLUDE_PGX_SUPPORT -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/../include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/DerivedSources/i386 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/DerivedSources -Wall -pthread -fPIC -Wno-implicit-function-declaration -Wno-unused -ggdb3 -DDEBUG -D_DEBUG -c /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_tmr.c -o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jas_tmr.o0#
+
+CCompileC 3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jas_tvp.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_tvp.c normal i386 c com.apple.compilers.gcc.4_2
+s319992774.053133
+e319992774.130766
+r1
+xCompileC
+x3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jas_tvp.o
+x/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_tvp.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_tvp.c319992774#319992774#0(0"0(0#0#67"/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_tvp.c8644876672#1854"    cd /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -DCMAKE_INTDIR="Debug" -DHAVE_ALLOCA -DHAVE_ALLOCA_H -DHAVE_LIBPTHREAD -DHAVE_UNISTD_H -DHAVE_CONFIG_H -DEXCLUDE_MIF_SUPPORT -DEXCLUDE_PNM_SUPPORT -DEXCLUDE_BMP_SUPPORT -DEXCLUDE_RAS_SUPPORT -DEXCLUDE_JPG_SUPPORT -DEXCLUDE_PGX_SUPPORT -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/../include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/DerivedSources/i386 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/DerivedSources -Wall -pthread -fPIC -Wno-implicit-function-declaration -Wno-unused -ggdb3 -DDEBUG -D_DEBUG -c /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_tvp.c -o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jas_tvp.o0#
+
+CCompileC 3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jas_version.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_version.c normal i386 c com.apple.compilers.gcc.4_2
+s319992774.055640
+e319992774.103901
+r1
+xCompileC
+x3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jas_version.o
+x/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_version.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_version.c319992774#319992774#0(0"0(0#0#71"/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_version.c8642168128#1862"    cd /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -DCMAKE_INTDIR="Debug" -DHAVE_ALLOCA -DHAVE_ALLOCA_H -DHAVE_LIBPTHREAD -DHAVE_UNISTD_H -DHAVE_CONFIG_H -DEXCLUDE_MIF_SUPPORT -DEXCLUDE_PNM_SUPPORT -DEXCLUDE_BMP_SUPPORT -DEXCLUDE_RAS_SUPPORT -DEXCLUDE_JPG_SUPPORT -DEXCLUDE_PGX_SUPPORT -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/../include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/DerivedSources/i386 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/DerivedSources -Wall -pthread -fPIC -Wno-implicit-function-declaration -Wno-unused -ggdb3 -DDEBUG -D_DEBUG -c /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_version.c -o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jas_version.o0#
+
+CCompileC 3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jp2_cod.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jp2_cod.c normal i386 c com.apple.compilers.gcc.4_2
+s319992774.099949
+e319992774.299682
+r1
+xCompileC
+x3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jp2_cod.o
+x/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jp2_cod.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+o/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jp2_cod.c: In function 'jp2_box_put':
+o/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jp2_cod.c:493: warning: comparison is always false due to limited range of data type
+lSLF07#2@75"Compile /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jp2_cod.c319992774#319992774#0(239"/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jp2_cod.c: In function 'jp2_box_put':/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jp2_cod.c:493: warning: comparison is always false due to limited range of data type1(22@60"Comparison is always false due to limited range of data type319992774#96#143#0(6@67"/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jp2_cod.c313212923#493#0#493#0#0"0(0#0#67"/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jp2_cod.c8664095904#1854"    cd /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -DCMAKE_INTDIR="Debug" -DHAVE_ALLOCA -DHAVE_ALLOCA_H -DHAVE_LIBPTHREAD -DHAVE_UNISTD_H -DHAVE_CONFIG_H -DEXCLUDE_MIF_SUPPORT -DEXCLUDE_PNM_SUPPORT -DEXCLUDE_BMP_SUPPORT -DEXCLUDE_RAS_SUPPORT -DEXCLUDE_JPG_SUPPORT -DEXCLUDE_PGX_SUPPORT -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/../include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/DerivedSources/i386 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/DerivedSources -Wall -pthread -fPIC -Wno-implicit-function-declaration -Wno-unused -ggdb3 -DDEBUG -D_DEBUG -c /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jp2_cod.c -o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jp2_cod.o0#
+
+CCompileC 3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jp2_dec.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jp2_dec.c normal i386 c com.apple.compilers.gcc.4_2
+s319992774.104087
+e319992774.241088
+r1
+xCompileC
+x3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jp2_dec.o
+x/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jp2_dec.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jp2_dec.c319992774#319992774#0(0"0(0#0#67"/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jp2_dec.c8661313856#1854"    cd /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -DCMAKE_INTDIR="Debug" -DHAVE_ALLOCA -DHAVE_ALLOCA_H -DHAVE_LIBPTHREAD -DHAVE_UNISTD_H -DHAVE_CONFIG_H -DEXCLUDE_MIF_SUPPORT -DEXCLUDE_PNM_SUPPORT -DEXCLUDE_BMP_SUPPORT -DEXCLUDE_RAS_SUPPORT -DEXCLUDE_JPG_SUPPORT -DEXCLUDE_PGX_SUPPORT -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/../include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/DerivedSources/i386 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/DerivedSources -Wall -pthread -fPIC -Wno-implicit-function-declaration -Wno-unused -ggdb3 -DDEBUG -D_DEBUG -c /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jp2_dec.c -o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jp2_dec.o0#
+
+CCompileC 3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jp2_enc.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jp2_enc.c normal i386 c com.apple.compilers.gcc.4_2
+s319992774.131029
+e319992774.257950
+r1
+xCompileC
+x3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jp2_enc.o
+x/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jp2_enc.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jp2_enc.c319992774#319992774#0(0"0(0#0#67"/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jp2_enc.c8658309536#1854"    cd /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -DCMAKE_INTDIR="Debug" -DHAVE_ALLOCA -DHAVE_ALLOCA_H -DHAVE_LIBPTHREAD -DHAVE_UNISTD_H -DHAVE_CONFIG_H -DEXCLUDE_MIF_SUPPORT -DEXCLUDE_PNM_SUPPORT -DEXCLUDE_BMP_SUPPORT -DEXCLUDE_RAS_SUPPORT -DEXCLUDE_JPG_SUPPORT -DEXCLUDE_PGX_SUPPORT -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/../include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/DerivedSources/i386 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/DerivedSources -Wall -pthread -fPIC -Wno-implicit-function-declaration -Wno-unused -ggdb3 -DDEBUG -D_DEBUG -c /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jp2_enc.c -o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jp2_enc.o0#
+
+CCompileC 3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jpc_bs.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_bs.c normal i386 c com.apple.compilers.gcc.4_2
+s319992774.241283
+e319992774.370331
+r1
+xCompileC
+x3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jpc_bs.o
+x/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_bs.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_bs.c319992774#319992774#0(0"0(0#0#66"/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_bs.c8655349888#1852"    cd /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -DCMAKE_INTDIR="Debug" -DHAVE_ALLOCA -DHAVE_ALLOCA_H -DHAVE_LIBPTHREAD -DHAVE_UNISTD_H -DHAVE_CONFIG_H -DEXCLUDE_MIF_SUPPORT -DEXCLUDE_PNM_SUPPORT -DEXCLUDE_BMP_SUPPORT -DEXCLUDE_RAS_SUPPORT -DEXCLUDE_JPG_SUPPORT -DEXCLUDE_PGX_SUPPORT -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/../include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/DerivedSources/i386 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/DerivedSources -Wall -pthread -fPIC -Wno-implicit-function-declaration -Wno-unused -ggdb3 -DDEBUG -D_DEBUG -c /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_bs.c -o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jpc_bs.o0#
+
+CCompileC 3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jpc_cs.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_cs.c normal i386 c com.apple.compilers.gcc.4_2
+s319992774.258132
+e319992774.547030
+r1
+xCompileC
+x3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jpc_cs.o
+x/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_cs.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+o/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_cs.c: In function 'jpc_getms':
+o/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_cs.c:244: warning: comparison is always false due to limited range of data type
+lSLF07#2@74"Compile /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_cs.c319992774#319992774#0(235"/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_cs.c: In function 'jpc_getms':/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_cs.c:244: warning: comparison is always false due to limited range of data type1(22@60"Comparison is always false due to limited range of data type319992774#93#142#0(6@66"/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_cs.c313212923#244#0#244#0#0"0(0#0#66"/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_cs.c8652049248#1852"    cd /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -DCMAKE_INTDIR="Debug" -DHAVE_ALLOCA -DHAVE_ALLOCA_H -DHAVE_LIBPTHREAD -DHAVE_UNISTD_H -DHAVE_CONFIG_H -DEXCLUDE_MIF_SUPPORT -DEXCLUDE_PNM_SUPPORT -DEXCLUDE_BMP_SUPPORT -DEXCLUDE_RAS_SUPPORT -DEXCLUDE_JPG_SUPPORT -DEXCLUDE_PGX_SUPPORT -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/../include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/DerivedSources/i386 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/DerivedSources -Wall -pthread -fPIC -Wno-implicit-function-declaration -Wno-unused -ggdb3 -DDEBUG -D_DEBUG -c /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_cs.c -o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jpc_cs.o0#
+
+CCompileC 3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jpc_dec.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_dec.c normal i386 c com.apple.compilers.gcc.4_2
+s319992774.299880
+e319992774.819329
+r1
+xCompileC
+x3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jpc_dec.o
+x/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_dec.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_dec.c319992774#319992774#0(0"0(0#0#67"/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_dec.c8642768768#1854"    cd /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -DCMAKE_INTDIR="Debug" -DHAVE_ALLOCA -DHAVE_ALLOCA_H -DHAVE_LIBPTHREAD -DHAVE_UNISTD_H -DHAVE_CONFIG_H -DEXCLUDE_MIF_SUPPORT -DEXCLUDE_PNM_SUPPORT -DEXCLUDE_BMP_SUPPORT -DEXCLUDE_RAS_SUPPORT -DEXCLUDE_JPG_SUPPORT -DEXCLUDE_PGX_SUPPORT -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/../include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/DerivedSources/i386 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/DerivedSources -Wall -pthread -fPIC -Wno-implicit-function-declaration -Wno-unused -ggdb3 -DDEBUG -D_DEBUG -c /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_dec.c -o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jpc_dec.o0#
+
+CCompileC 3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jpc_enc.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_enc.c normal i386 c com.apple.compilers.gcc.4_2
+s319992774.370504
+e319992774.908346
+r1
+xCompileC
+x3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jpc_enc.o
+x/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_enc.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_enc.c319992774#319992774#0(0"0(0#0#67"/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_enc.c8663173120#1854"    cd /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -DCMAKE_INTDIR="Debug" -DHAVE_ALLOCA -DHAVE_ALLOCA_H -DHAVE_LIBPTHREAD -DHAVE_UNISTD_H -DHAVE_CONFIG_H -DEXCLUDE_MIF_SUPPORT -DEXCLUDE_PNM_SUPPORT -DEXCLUDE_BMP_SUPPORT -DEXCLUDE_RAS_SUPPORT -DEXCLUDE_JPG_SUPPORT -DEXCLUDE_PGX_SUPPORT -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/../include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/DerivedSources/i386 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/DerivedSources -Wall -pthread -fPIC -Wno-implicit-function-declaration -Wno-unused -ggdb3 -DDEBUG -D_DEBUG -c /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_enc.c -o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jpc_enc.o0#
+
+CCompileC 3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jpc_math.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_math.c normal i386 c com.apple.compilers.gcc.4_2
+s319992774.547221
+e319992774.615531
+r1
+xCompileC
+x3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jpc_math.o
+x/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_math.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_math.c319992774#319992774#0(0"0(0#0#68"/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_math.c8658447072#1856"    cd /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -DCMAKE_INTDIR="Debug" -DHAVE_ALLOCA -DHAVE_ALLOCA_H -DHAVE_LIBPTHREAD -DHAVE_UNISTD_H -DHAVE_CONFIG_H -DEXCLUDE_MIF_SUPPORT -DEXCLUDE_PNM_SUPPORT -DEXCLUDE_BMP_SUPPORT -DEXCLUDE_RAS_SUPPORT -DEXCLUDE_JPG_SUPPORT -DEXCLUDE_PGX_SUPPORT -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/../include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/DerivedSources/i386 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/DerivedSources -Wall -pthread -fPIC -Wno-implicit-function-declaration -Wno-unused -ggdb3 -DDEBUG -D_DEBUG -c /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_math.c -o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jpc_math.o0#
+
+CCompileC 3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jpc_mct.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_mct.c normal i386 c com.apple.compilers.gcc.4_2
+s319992774.615705
+e319992774.748705
+r1
+xCompileC
+x3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jpc_mct.o
+x/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_mct.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_mct.c319992774#319992774#0(0"0(0#0#67"/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_mct.c8652059456#1854"    cd /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -DCMAKE_INTDIR="Debug" -DHAVE_ALLOCA -DHAVE_ALLOCA_H -DHAVE_LIBPTHREAD -DHAVE_UNISTD_H -DHAVE_CONFIG_H -DEXCLUDE_MIF_SUPPORT -DEXCLUDE_PNM_SUPPORT -DEXCLUDE_BMP_SUPPORT -DEXCLUDE_RAS_SUPPORT -DEXCLUDE_JPG_SUPPORT -DEXCLUDE_PGX_SUPPORT -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/../include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/DerivedSources/i386 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/DerivedSources -Wall -pthread -fPIC -Wno-implicit-function-declaration -Wno-unused -ggdb3 -DDEBUG -D_DEBUG -c /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_mct.c -o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jpc_mct.o0#
+
+CCompileC 3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jpc_mqcod.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_mqcod.c normal i386 c com.apple.compilers.gcc.4_2
+s319992774.749096
+e319992774.809323
+r1
+xCompileC
+x3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jpc_mqcod.o
+x/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_mqcod.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_mqcod.c319992774#319992774#0(0"0(0#0#69"/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_mqcod.c8663210848#1858"    cd /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -DCMAKE_INTDIR="Debug" -DHAVE_ALLOCA -DHAVE_ALLOCA_H -DHAVE_LIBPTHREAD -DHAVE_UNISTD_H -DHAVE_CONFIG_H -DEXCLUDE_MIF_SUPPORT -DEXCLUDE_PNM_SUPPORT -DEXCLUDE_BMP_SUPPORT -DEXCLUDE_RAS_SUPPORT -DEXCLUDE_JPG_SUPPORT -DEXCLUDE_PGX_SUPPORT -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/../include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/DerivedSources/i386 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/DerivedSources -Wall -pthread -fPIC -Wno-implicit-function-declaration -Wno-unused -ggdb3 -DDEBUG -D_DEBUG -c /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_mqcod.c -o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jpc_mqcod.o0#
+
+CCompileC 3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jpc_mqdec.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_mqdec.c normal i386 c com.apple.compilers.gcc.4_2
+s319992774.809520
+e319992774.921625
+r1
+xCompileC
+x3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jpc_mqdec.o
+x/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_mqdec.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_mqdec.c319992774#319992774#0(0"0(0#0#69"/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_mqdec.c8659420416#1858"    cd /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -DCMAKE_INTDIR="Debug" -DHAVE_ALLOCA -DHAVE_ALLOCA_H -DHAVE_LIBPTHREAD -DHAVE_UNISTD_H -DHAVE_CONFIG_H -DEXCLUDE_MIF_SUPPORT -DEXCLUDE_PNM_SUPPORT -DEXCLUDE_BMP_SUPPORT -DEXCLUDE_RAS_SUPPORT -DEXCLUDE_JPG_SUPPORT -DEXCLUDE_PGX_SUPPORT -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/../include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/DerivedSources/i386 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/DerivedSources -Wall -pthread -fPIC -Wno-implicit-function-declaration -Wno-unused -ggdb3 -DDEBUG -D_DEBUG -c /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_mqdec.c -o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jpc_mqdec.o0#
+
+CCompileC 3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jpc_mqenc.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_mqenc.c normal i386 c com.apple.compilers.gcc.4_2
+s319992774.819522
+e319992774.982362
+r1
+xCompileC
+x3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jpc_mqenc.o
+x/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_mqenc.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_mqenc.c319992774#319992774#0(0"0(0#0#69"/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_mqenc.c8658286976#1858"    cd /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -DCMAKE_INTDIR="Debug" -DHAVE_ALLOCA -DHAVE_ALLOCA_H -DHAVE_LIBPTHREAD -DHAVE_UNISTD_H -DHAVE_CONFIG_H -DEXCLUDE_MIF_SUPPORT -DEXCLUDE_PNM_SUPPORT -DEXCLUDE_BMP_SUPPORT -DEXCLUDE_RAS_SUPPORT -DEXCLUDE_JPG_SUPPORT -DEXCLUDE_PGX_SUPPORT -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/../include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/DerivedSources/i386 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/DerivedSources -Wall -pthread -fPIC -Wno-implicit-function-declaration -Wno-unused -ggdb3 -DDEBUG -D_DEBUG -c /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_mqenc.c -o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jpc_mqenc.o0#
+
+CCompileC 3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jpc_qmfb.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_qmfb.c normal i386 c com.apple.compilers.gcc.4_2
+s319992774.908523
+e319992775.317815
+r1
+xCompileC
+x3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jpc_qmfb.o
+x/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_qmfb.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_qmfb.c319992774#319992775#0(0"0(0#0#68"/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_qmfb.c8649444192#1856"    cd /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -DCMAKE_INTDIR="Debug" -DHAVE_ALLOCA -DHAVE_ALLOCA_H -DHAVE_LIBPTHREAD -DHAVE_UNISTD_H -DHAVE_CONFIG_H -DEXCLUDE_MIF_SUPPORT -DEXCLUDE_PNM_SUPPORT -DEXCLUDE_BMP_SUPPORT -DEXCLUDE_RAS_SUPPORT -DEXCLUDE_JPG_SUPPORT -DEXCLUDE_PGX_SUPPORT -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/../include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/DerivedSources/i386 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/DerivedSources -Wall -pthread -fPIC -Wno-implicit-function-declaration -Wno-unused -ggdb3 -DDEBUG -D_DEBUG -c /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_qmfb.c -o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jpc_qmfb.o0#
+
+CCompileC 3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jpc_t1cod.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_t1cod.c normal i386 c com.apple.compilers.gcc.4_2
+s319992774.921834
+e319992775.085021
+r1
+xCompileC
+x3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jpc_t1cod.o
+x/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_t1cod.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_t1cod.c319992774#319992775#0(0"0(0#0#69"/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_t1cod.c8645845760#1858"    cd /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -DCMAKE_INTDIR="Debug" -DHAVE_ALLOCA -DHAVE_ALLOCA_H -DHAVE_LIBPTHREAD -DHAVE_UNISTD_H -DHAVE_CONFIG_H -DEXCLUDE_MIF_SUPPORT -DEXCLUDE_PNM_SUPPORT -DEXCLUDE_BMP_SUPPORT -DEXCLUDE_RAS_SUPPORT -DEXCLUDE_JPG_SUPPORT -DEXCLUDE_PGX_SUPPORT -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/../include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/DerivedSources/i386 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/DerivedSources -Wall -pthread -fPIC -Wno-implicit-function-declaration -Wno-unused -ggdb3 -DDEBUG -D_DEBUG -c /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_t1cod.c -o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jpc_t1cod.o0#
+
+CCompileC 3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jpc_t1dec.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_t1dec.c normal i386 c com.apple.compilers.gcc.4_2
+s319992774.982697
+e319992775.294162
+r1
+xCompileC
+x3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jpc_t1dec.o
+x/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_t1dec.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_t1dec.c319992774#319992775#0(0"0(0#0#69"/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_t1dec.c8642991552#1858"    cd /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -DCMAKE_INTDIR="Debug" -DHAVE_ALLOCA -DHAVE_ALLOCA_H -DHAVE_LIBPTHREAD -DHAVE_UNISTD_H -DHAVE_CONFIG_H -DEXCLUDE_MIF_SUPPORT -DEXCLUDE_PNM_SUPPORT -DEXCLUDE_BMP_SUPPORT -DEXCLUDE_RAS_SUPPORT -DEXCLUDE_JPG_SUPPORT -DEXCLUDE_PGX_SUPPORT -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/../include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/DerivedSources/i386 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/DerivedSources -Wall -pthread -fPIC -Wno-implicit-function-declaration -Wno-unused -ggdb3 -DDEBUG -D_DEBUG -c /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_t1dec.c -o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jpc_t1dec.o0#
+
+CCompileC 3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jpc_t1enc.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_t1enc.c normal i386 c com.apple.compilers.gcc.4_2
+s319992775.085192
+e319992775.434918
+r1
+xCompileC
+x3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jpc_t1enc.o
+x/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_t1enc.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_t1enc.c319992775#319992775#0(0"0(0#0#69"/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_t1enc.c8661083904#1858"    cd /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -DCMAKE_INTDIR="Debug" -DHAVE_ALLOCA -DHAVE_ALLOCA_H -DHAVE_LIBPTHREAD -DHAVE_UNISTD_H -DHAVE_CONFIG_H -DEXCLUDE_MIF_SUPPORT -DEXCLUDE_PNM_SUPPORT -DEXCLUDE_BMP_SUPPORT -DEXCLUDE_RAS_SUPPORT -DEXCLUDE_JPG_SUPPORT -DEXCLUDE_PGX_SUPPORT -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/../include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/DerivedSources/i386 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/DerivedSources -Wall -pthread -fPIC -Wno-implicit-function-declaration -Wno-unused -ggdb3 -DDEBUG -D_DEBUG -c /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_t1enc.c -o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jpc_t1enc.o0#
+
+CCompileC 3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jpc_t2cod.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_t2cod.c normal i386 c com.apple.compilers.gcc.4_2
+s319992775.294342
+e319992775.462969
+r1
+xCompileC
+x3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jpc_t2cod.o
+x/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_t2cod.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_t2cod.c319992775#319992775#0(0"0(0#0#69"/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_t2cod.c8655529856#1858"    cd /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -DCMAKE_INTDIR="Debug" -DHAVE_ALLOCA -DHAVE_ALLOCA_H -DHAVE_LIBPTHREAD -DHAVE_UNISTD_H -DHAVE_CONFIG_H -DEXCLUDE_MIF_SUPPORT -DEXCLUDE_PNM_SUPPORT -DEXCLUDE_BMP_SUPPORT -DEXCLUDE_RAS_SUPPORT -DEXCLUDE_JPG_SUPPORT -DEXCLUDE_PGX_SUPPORT -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/../include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/DerivedSources/i386 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/DerivedSources -Wall -pthread -fPIC -Wno-implicit-function-declaration -Wno-unused -ggdb3 -DDEBUG -D_DEBUG -c /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_t2cod.c -o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jpc_t2cod.o0#
+
+CCompileC 3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jpc_t2dec.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_t2dec.c normal i386 c com.apple.compilers.gcc.4_2
+s319992775.317997
+e319992775.473420
+r1
+xCompileC
+x3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jpc_t2dec.o
+x/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_t2dec.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+o/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_t2dec.c: In function 'jpc_dec_lookahead':
+o/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_t2dec.c:577: warning: comparison is always true due to limited range of data type
+lSLF07#2@77"Compile /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_t2dec.c319992775#319992775#0(248"/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_t2dec.c: In function 'jpc_dec_lookahead':/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_t2dec.c:577: warning: comparison is always true due to limited range of data type1(22@59"Comparison is always true due to limited range of data type319992775#104#144#0(6@69"/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_t2dec.c313212923#577#0#577#0#59"comparison is always true due to limited range of data type0(0#0#69"/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_t2dec.c8650336320#1858"    cd /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -DCMAKE_INTDIR="Debug" -DHAVE_ALLOCA -DHAVE_ALLOCA_H -DHAVE_LIBPTHREAD -DHAVE_UNISTD_H -DHAVE_CONFIG_H -DEXCLUDE_MIF_SUPPORT -DEXCLUDE_PNM_SUPPORT -DEXCLUDE_BMP_SUPPORT -DEXCLUDE_RAS_SUPPORT -DEXCLUDE_JPG_SUPPORT -DEXCLUDE_PGX_SUPPORT -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/../include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/DerivedSources/i386 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/DerivedSources -Wall -pthread -fPIC -Wno-implicit-function-declaration -Wno-unused -ggdb3 -DDEBUG -D_DEBUG -c /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_t2dec.c -o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jpc_t2dec.o0#
+
+CCompileC 3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jpc_t2enc.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_t2enc.c normal i386 c com.apple.compilers.gcc.4_2
+s319992775.435104
+e319992775.619528
+r1
+xCompileC
+x3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jpc_t2enc.o
+x/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_t2enc.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_t2enc.c319992775#319992775#0(0"0(0#0#69"/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_t2enc.c8658761184#1858"    cd /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -DCMAKE_INTDIR="Debug" -DHAVE_ALLOCA -DHAVE_ALLOCA_H -DHAVE_LIBPTHREAD -DHAVE_UNISTD_H -DHAVE_CONFIG_H -DEXCLUDE_MIF_SUPPORT -DEXCLUDE_PNM_SUPPORT -DEXCLUDE_BMP_SUPPORT -DEXCLUDE_RAS_SUPPORT -DEXCLUDE_JPG_SUPPORT -DEXCLUDE_PGX_SUPPORT -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/../include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/DerivedSources/i386 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/DerivedSources -Wall -pthread -fPIC -Wno-implicit-function-declaration -Wno-unused -ggdb3 -DDEBUG -D_DEBUG -c /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_t2enc.c -o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jpc_t2enc.o0#
+
+CCompileC 3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jpc_tagtree.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_tagtree.c normal i386 c com.apple.compilers.gcc.4_2
+s319992775.463145
+e319992775.553501
+r1
+xCompileC
+x3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jpc_tagtree.o
+x/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_tagtree.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_tagtree.c319992775#319992775#0(0"0(0#0#71"/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_tagtree.c8656470176#1862"    cd /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -DCMAKE_INTDIR="Debug" -DHAVE_ALLOCA -DHAVE_ALLOCA_H -DHAVE_LIBPTHREAD -DHAVE_UNISTD_H -DHAVE_CONFIG_H -DEXCLUDE_MIF_SUPPORT -DEXCLUDE_PNM_SUPPORT -DEXCLUDE_BMP_SUPPORT -DEXCLUDE_RAS_SUPPORT -DEXCLUDE_JPG_SUPPORT -DEXCLUDE_PGX_SUPPORT -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/../include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/DerivedSources/i386 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/DerivedSources -Wall -pthread -fPIC -Wno-implicit-function-declaration -Wno-unused -ggdb3 -DDEBUG -D_DEBUG -c /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_tagtree.c -o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jpc_tagtree.o0#
+
+CCompileC 3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jpc_tsfb.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_tsfb.c normal i386 c com.apple.compilers.gcc.4_2
+s319992775.473599
+e319992775.624055
+r1
+xCompileC
+x3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jpc_tsfb.o
+x/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_tsfb.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_tsfb.c319992775#319992775#0(0"0(0#0#68"/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_tsfb.c8653160992#1856"    cd /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -DCMAKE_INTDIR="Debug" -DHAVE_ALLOCA -DHAVE_ALLOCA_H -DHAVE_LIBPTHREAD -DHAVE_UNISTD_H -DHAVE_CONFIG_H -DEXCLUDE_MIF_SUPPORT -DEXCLUDE_PNM_SUPPORT -DEXCLUDE_BMP_SUPPORT -DEXCLUDE_RAS_SUPPORT -DEXCLUDE_JPG_SUPPORT -DEXCLUDE_PGX_SUPPORT -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/../include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/DerivedSources/i386 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/DerivedSources -Wall -pthread -fPIC -Wno-implicit-function-declaration -Wno-unused -ggdb3 -DDEBUG -D_DEBUG -c /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_tsfb.c -o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jpc_tsfb.o0#
+
+CCompileC 3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jpc_util.o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_util.c normal i386 c com.apple.compilers.gcc.4_2
+s319992775.553696
+e319992775.655258
+r1
+xCompileC
+x3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jpc_util.o
+x/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_util.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_util.c319992775#319992775#0(0"0(0#0#68"/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_util.c8648802496#1856"    cd /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -DCMAKE_INTDIR="Debug" -DHAVE_ALLOCA -DHAVE_ALLOCA_H -DHAVE_LIBPTHREAD -DHAVE_UNISTD_H -DHAVE_CONFIG_H -DEXCLUDE_MIF_SUPPORT -DEXCLUDE_PNM_SUPPORT -DEXCLUDE_BMP_SUPPORT -DEXCLUDE_RAS_SUPPORT -DEXCLUDE_JPG_SUPPORT -DEXCLUDE_PGX_SUPPORT -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/../include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/DerivedSources/i386 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/DerivedSources -Wall -pthread -fPIC -Wno-implicit-function-declaration -Wno-unused -ggdb3 -DDEBUG -D_DEBUG -c /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_util.c -o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/jpc_util.o0#
+
+CLibtool /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug/liblibjasper.a normal i386
+s319992775.655449
+e319992775.705372
+r1
+xLibtool
+x/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug/liblibjasper.a
+xnormal
+xi386
+lSLF07#2@53"Libtool 3rdparty/lib/Debug/liblibjasper.a normal i386319992775#319992775#0(0"0(0#0#0"8661621824#712"    cd /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/libtool -static -arch_only i386 -syslibroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug -filelist /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/libjasper.LinkFileList -o /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug/liblibjasper.a0#
+
+CPhaseScriptExecution "CMake PostBuild Rules" /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Script-101673DB0101673DB0101673.sh
+s319992775.705687
+e319992775.812169
+r1
+xPhaseScriptExecution
+xCMake PostBuild Rules
+x/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Script-101673DB0101673DB0101673.sh
+oecho "Depend check for xcode"
+oDepend check for xcode
+ocd /Users/jjthrash/Downloads/OpenCV-2.2.0 && make -C /Users/jjthrash/Downloads/OpenCV-2.2.0 -f /Users/jjthrash/Downloads/OpenCV-2.2.0/CMakeScripts/XCODE_DEPEND_HELPER.make all.Debug
+o/bin/rm -f /Users/jjthrash/Downloads/OpenCV-2.2.0/bin/Debug/opencv_createsamples
+o/bin/rm -f /Users/jjthrash/Downloads/OpenCV-2.2.0/bin/Debug/opencv_haartraining
+o/bin/rm -f /Users/jjthrash/Downloads/OpenCV-2.2.0/bin/Debug/opencv_performance
+o/bin/rm -f /Users/jjthrash/Downloads/OpenCV-2.2.0/bin/Debug/opencv_traincascade
+o/bin/rm -f /Users/jjthrash/Downloads/OpenCV-2.2.0/bin/Debug/opencv_test
+o/bin/rm -f /Users/jjthrash/Downloads/OpenCV-2.2.0/bin/Debug/opencv_test_core
+o/bin/rm -f /Users/jjthrash/Downloads/OpenCV-2.2.0/bin/Debug/opencv_test_ml
+o/bin/rm -f /Users/jjthrash/Downloads/OpenCV-2.2.0/bin/Debug/opencv_test_gpu
+oecho "Depend check for xcode"
+oDepend check for xcode
+ocd /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper && make -C /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper -f /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/CMakeScripts/XCODE_DEPEND_HELPER.make all.Debug
+omake[1]: Nothing to be done for `all.Debug'.
+lSLF07#2@47"Run custom shell script 'CMake PostBuild Rules'319992775#319992775#0(1192"echo "Depend check for xcode"Depend check for xcodecd /Users/jjthrash/Downloads/OpenCV-2.2.0 && make -C /Users/jjthrash/Downloads/OpenCV-2.2.0 -f /Users/jjthrash/Downloads/OpenCV-2.2.0/CMakeScripts/XCODE_DEPEND_HELPER.make all.Debug/bin/rm -f /Users/jjthrash/Downloads/OpenCV-2.2.0/bin/Debug/opencv_createsamples/bin/rm -f /Users/jjthrash/Downloads/OpenCV-2.2.0/bin/Debug/opencv_haartraining/bin/rm -f /Users/jjthrash/Downloads/OpenCV-2.2.0/bin/Debug/opencv_performance/bin/rm -f /Users/jjthrash/Downloads/OpenCV-2.2.0/bin/Debug/opencv_traincascade/bin/rm -f /Users/jjthrash/Downloads/OpenCV-2.2.0/bin/Debug/opencv_test/bin/rm -f /Users/jjthrash/Downloads/OpenCV-2.2.0/bin/Debug/opencv_test_core/bin/rm -f /Users/jjthrash/Downloads/OpenCV-2.2.0/bin/Debug/opencv_test_ml/bin/rm -f /Users/jjthrash/Downloads/OpenCV-2.2.0/bin/Debug/opencv_test_gpuecho "Depend check for xcode"Depend check for xcodecd /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper && make -C /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper -f /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/CMakeScripts/XCODE_DEPEND_HELPER.make all.Debugmake[1]: Nothing to be done for `all.Debug'.15(13@30"echo "Depend check for xcode"319992775#0#30#0(1@0"0(13@23"Depend check for xcode319992775#30#23#0(1@0"0(13@182"cd /Users/jjthrash/Downloads/OpenCV-2.2.0 && make -C /Users/jjthrash/Downloads/OpenCV-2.2.0 -f /Users/jjthrash/Downloads/OpenCV-2.2.0/CMakeScripts/XCODE_DEPEND_HELPER.make all.Debug319992775#53#182#0(1@0"0(13@81"/bin/rm -f /Users/jjthrash/Downloads/OpenCV-2.2.0/bin/Debug/opencv_createsamples319992775#235#81#0(1@0"0(13@80"/bin/rm -f /Users/jjthrash/Downloads/OpenCV-2.2.0/bin/Debug/opencv_haartraining319992775#316#80#0(1@0"0(13@79"/bin/rm -f /Users/jjthrash/Downloads/OpenCV-2.2.0/bin/Debug/opencv_performance319992775#396#79#0(1@0"0(13@80"/bin/rm -f /Users/jjthrash/Downloads/OpenCV-2.2.0/bin/Debug/opencv_traincascade319992775#475#80#0(1@0"0(13@72"/bin/rm -f /Users/jjthrash/Downloads/OpenCV-2.2.0/bin/Debug/opencv_test319992775#555#72#0(1@0"0(13@77"/bin/rm -f /Users/jjthrash/Downloads/OpenCV-2.2.0/bin/Debug/opencv_test_core319992775#627#77#0(1@0"0(13@75"/bin/rm -f /Users/jjthrash/Downloads/OpenCV-2.2.0/bin/Debug/opencv_test_ml319992775#704#75#0(1@0"0(13@76"/bin/rm -f /Users/jjthrash/Downloads/OpenCV-2.2.0/bin/Debug/opencv_test_gpu319992775#779#76#0(1@0"0(13@30"echo "Depend check for xcode"319992775#855#30#0(1@0"0(13@23"Depend check for xcode319992775#885#23#0(1@0"0(13@239"cd /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper && make -C /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper -f /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/CMakeScripts/XCODE_DEPEND_HELPER.make all.Debug319992775#908#239#0(1@0"0(13@45"make[1]: Nothing to be done for `all.Debug'.319992775#1147#45#0(1@0"0(0#0#0"8655243104#17111"    cd /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv ACTION build    setenv ALTERNATE_GROUP staff    setenv ALTERNATE_MODE u+w,go-w,a+rX    setenv ALTERNATE_OWNER jjthrash    setenv ALWAYS_SEARCH_USER_PATHS YES    setenv APPLE_INTERNAL_DEVELOPER_DIR /AppleInternal/Developer    setenv APPLE_INTERNAL_DIR /AppleInternal    setenv APPLE_INTERNAL_DOCUMENTATION_DIR /AppleInternal/Documentation    setenv APPLE_INTERNAL_LIBRARY_DIR /AppleInternal/Library    setenv APPLE_INTERNAL_TOOLS /AppleInternal/Developer/Tools    setenv APPLY_RULES_IN_COPY_FILES NO    setenv ARCHS i386    setenv ARCHS_STANDARD_32_BIT i386    setenv ARCHS_UNIVERSAL_IPHONE_OS i386    setenv BUILD_COMPONENTS "headers build"    setenv BUILD_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper    setenv BUILD_ROOT /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper    setenv BUILD_STYLE Debug    setenv BUILD_VARIANTS normal    setenv BUILT_PRODUCTS_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug    setenv CACHE_ROOT /var/folders/j9/j9D8eGkFG60i5wEYUED5B++++TI/-Caches-/com.apple.Xcode.501    setenv CCHROOT /var/folders/j9/j9D8eGkFG60i5wEYUED5B++++TI/-Caches-/com.apple.Xcode.501    setenv CHMOD /bin/chmod    setenv CHOWN /usr/sbin/chown    setenv CLASS_FILE_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/JavaClasses    setenv CLEAN_PRECOMPS YES    setenv CLONE_HEADERS NO    setenv CODESIGNING_FOLDER_PATH /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug/liblibjasper.a    setenv CODE_SIGN_CONTEXT_CLASS XCCodeSignContext    setenv COMMAND_MODE legacy    setenv COMPOSITE_SDK_DIRS /var/folders/j9/j9D8eGkFG60i5wEYUED5B++++TI/-Caches-/com.apple.Xcode.501/CompositeSDKs    setenv COMPRESS_PNG_FILES YES    setenv CONFIGURATION Debug    setenv CONFIGURATION_BUILD_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug    setenv CONFIGURATION_TEMP_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator    setenv COPYING_PRESERVES_HFS_DATA NO    setenv COPY_PHASE_STRIP YES    setenv COPY_RESOURCES_FROM_STATIC_FRAMEWORKS YES    setenv CP /bin/cp    setenv CURRENT_ARCH i386    setenv CURRENT_VARIANT normal    setenv DEAD_CODE_STRIPPING NO    setenv DEBUGGING_SYMBOLS YES    setenv DEBUG_INFORMATION_FORMAT dwarf-with-dsym    setenv DEPLOYMENT_LOCATION NO    setenv DEPLOYMENT_POSTPROCESSING NO    setenv DERIVED_FILES_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/DerivedSources    setenv DERIVED_FILE_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/DerivedSources    setenv DERIVED_SOURCES_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/DerivedSources    setenv DEVELOPER_APPLICATIONS_DIR /Developer/Applications    setenv DEVELOPER_BIN_DIR /Developer/usr/bin    setenv DEVELOPER_DIR /Developer    setenv DEVELOPER_FRAMEWORKS_DIR /Developer/Library/Frameworks    setenv DEVELOPER_FRAMEWORKS_DIR_QUOTED "\"/Developer/Library/Frameworks\""    setenv DEVELOPER_LIBRARY_DIR /Developer/Library    setenv DEVELOPER_SDK_DIR /Developer/SDKs    setenv DEVELOPER_TOOLS_DIR /Developer/Tools    setenv DEVELOPER_USR_DIR /Developer/usr    setenv DEVELOPMENT_LANGUAGE English    setenv DO_HEADER_SCANNING_IN_JAM NO    setenv DSTROOT /tmp/OpenCV.dst    setenv DWARF_DSYM_FILE_NAME liblibjasper.a.dSYM    setenv DWARF_DSYM_FOLDER_PATH /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug    setenv EFFECTIVE_PLATFORM_NAME -iphonesimulator    setenv ENABLE_HEADER_DEPENDENCIES YES    setenv ENABLE_OPENMP_SUPPORT NO    setenv EXCLUDED_INSTALLSRC_SUBDIRECTORY_PATTERNS ".svn .git CVS"    setenv EXCLUDED_RECURSIVE_SEARCH_PATH_SUBDIRECTORIES "*.nib *.lproj *.framework *.gch (*) CVS .svn .git *.xcodeproj *.xcode *.pbproj *.pbxproj"    setenv EXECUTABLE_EXTENSION a    setenv EXECUTABLE_NAME liblibjasper.a    setenv EXECUTABLE_PATH liblibjasper.a    setenv EXECUTABLE_PREFIX lib    setenv EXECUTABLE_SUFFIX .a    setenv FILE_LIST /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects/LinkFileList    setenv FIXED_FILES_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/FixedFiles    setenv FRAMEWORK_FLAG_PREFIX -framework    setenv FRAMEWORK_SEARCH_PATHS "\"/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug\" "    setenv FRAMEWORK_VERSION A    setenv FULL_PRODUCT_NAME liblibjasper.a    setenv GCC3_VERSION 3.3    setenv GCC_ENABLE_SYMBOL_SEPARATION NO    setenv GCC_GENERATE_DEBUGGING_SYMBOLS YES    setenv GCC_INLINES_ARE_PRIVATE_EXTERN NO    setenv GCC_OBJC_LEGACY_DISPATCH YES    setenv GCC_OPTIMIZATION_LEVEL 0    setenv GCC_PFE_FILE_C_DIALECTS "c objective-c c++ objective-c++"    setenv GCC_PREPROCESSOR_DEFINITIONS "'CMAKE_INTDIR=\"Debug\"' HAVE_ALLOCA HAVE_ALLOCA_H HAVE_LIBPTHREAD HAVE_UNISTD_H HAVE_CONFIG_H EXCLUDE_MIF_SUPPORT EXCLUDE_PNM_SUPPORT EXCLUDE_BMP_SUPPORT EXCLUDE_RAS_SUPPORT EXCLUDE_JPG_SUPPORT EXCLUDE_PGX_SUPPORT"    setenv GCC_SYMBOLS_PRIVATE_EXTERN NO    setenv GCC_THUMB_SUPPORT YES    setenv GCC_TREAT_WARNINGS_AS_ERRORS NO    setenv GCC_VERSION 4.2    setenv GCC_VERSION_IDENTIFIER __2    setenv GENERATE_MASTER_OBJECT_FILE NO    setenv GENERATE_PKGINFO_FILE NO    setenv GENERATE_PROFILING_CODE NO    setenv GID 20    setenv GROUP staff    setenv HEADERMAP_INCLUDES_FLAT_ENTRIES_FOR_TARGET_BEING_BUILT YES    setenv HEADERMAP_INCLUDES_FRAMEWORK_ENTRIES_FOR_ALL_PRODUCT_TYPES YES    setenv HEADERMAP_INCLUDES_NONPUBLIC_NONPRIVATE_HEADERS YES    setenv HEADERMAP_INCLUDES_PROJECT_HEADERS YES    setenv HEADER_SEARCH_PATHS "\"/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug/include\" /Users/jjthrash/Downloads/OpenCV-2.2.0/. /Users/jjthrash/Downloads/OpenCV-2.2.0 /Users/jjthrash/Downloads/OpenCV-2.2.0/include /Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/../include"    setenv ICONV /usr/bin/iconv    setenv INFOPLIST_EXPAND_BUILD_SETTINGS YES    setenv INFOPLIST_OUTPUT_FORMAT binary    setenv INFOPLIST_PREPROCESS NO    setenv INSTALL_DIR /tmp/OpenCV.dst    setenv INSTALL_GROUP staff    setenv INSTALL_MODE_FLAG u+w,go-w,a+rX    setenv INSTALL_OWNER jjthrash    setenv INSTALL_ROOT /tmp/OpenCV.dst    setenv IPHONEOS_DEPLOYMENT_TARGET 4.2    setenv JAVAC_DEFAULT_FLAGS "-J-Xms64m -J-XX:NewSize=4M -J-Dfile.encoding=UTF8"    setenv JAVA_APP_STUB /System/Library/Frameworks/JavaVM.framework/Resources/MacOS/JavaApplicationStub    setenv JAVA_ARCHIVE_CLASSES YES    setenv JAVA_ARCHIVE_TYPE JAR    setenv JAVA_COMPILER /usr/bin/javac    setenv JAVA_FRAMEWORK_RESOURCES_DIRS Resources    setenv JAVA_JAR_FLAGS cv    setenv JAVA_SOURCE_SUBDIR .    setenv JAVA_USE_DEPENDENCIES YES    setenv JAVA_ZIP_FLAGS -urg    setenv JIKES_DEFAULT_FLAGS "+E +OLDCSO"    setenv KEEP_PRIVATE_EXTERNS NO    setenv LD_GENERATE_MAP_FILE NO    setenv LD_MAP_FILE_PATH /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/libjasper-LinkMap-normal-i386.txt    setenv LD_OPENMP_FLAGS -fopenmp    setenv LEX /Developer/usr/bin/lex    setenv LIBRARY_FLAG_NOSPACE YES    setenv LIBRARY_FLAG_PREFIX -l    setenv LIBRARY_SEARCH_PATHS "\"/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug\" "    setenv LIBRARY_STYLE STATIC    setenv LINKER_DISPLAYS_MANGLED_NAMES NO    setenv LINK_FILE_LIST_normal_i386 /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/libjasper.LinkFileList    setenv LINK_WITH_STANDARD_LIBRARIES YES    setenv LOCAL_ADMIN_APPS_DIR /Applications/Utilities    setenv LOCAL_APPS_DIR /Applications    setenv LOCAL_DEVELOPER_DIR /Library/Developer    setenv LOCAL_LIBRARY_DIR /Library    setenv MACH_O_TYPE staticlib    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv MAC_OS_X_VERSION_ACTUAL 1066    setenv MAC_OS_X_VERSION_MAJOR 1060    setenv MAC_OS_X_VERSION_MINOR 0606    setenv NATIVE_ARCH i386    setenv NATIVE_ARCH_32_BIT i386    setenv NATIVE_ARCH_64_BIT x86_64    setenv NATIVE_ARCH_ACTUAL x86_64    setenv NO_COMMON YES    setenv OBJC_ABI_VERSION 2    setenv OBJECT_FILE_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects    setenv OBJECT_FILE_DIR_normal /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal    setenv OBJROOT /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper    setenv ONLY_ACTIVE_ARCH YES    setenv OPTIMIZATION_LEVEL 0    setenv OS MACOS    setenv OSAC /usr/bin/osacompile    setenv OTHER_CFLAGS "  -Wall -pthread  -fPIC -Wno-implicit-function-declaration -Wno-unused         -ggdb3 -DDEBUG -D_DEBUG   "    setenv OTHER_CPLUSPLUSFLAGS "  -Wall -pthread  -fPIC -Wno-implicit-function-declaration -Wno-unused         -ggdb3 -DDEBUG -D_DEBUG   "    setenv PACKAGE_TYPE com.apple.package-type.static-library    setenv PASCAL_STRINGS YES    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv PATH_PREFIXES_EXCLUDED_FROM_HEADER_DEPENDENCIES "/usr/include /usr/local/include /System/Library/Frameworks /System/Library/PrivateFrameworks /Developer/Headers /Developer/SDKs /Developer/Platforms"    setenv PFE_FILE_C_DIALECTS c    setenv PKGINFO_FILE_PATH /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/PkgInfo    setenv PLATFORM_DEVELOPER_APPLICATIONS_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/Applications    setenv PLATFORM_DEVELOPER_BIN_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin    setenv PLATFORM_DEVELOPER_LIBRARY_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/Library    setenv PLATFORM_DEVELOPER_SDK_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs    setenv PLATFORM_DEVELOPER_TOOLS_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/Tools    setenv PLATFORM_DEVELOPER_USR_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/usr    setenv PLATFORM_DIR /Developer/Platforms/iPhoneSimulator.platform    setenv PLATFORM_NAME iphonesimulator    setenv PLATFORM_PRODUCT_BUILD_VERSION 8C134    setenv PLATFORM_VERSION_AVAILABILITY_H_FORMAT 40200    setenv PLIST_FILE_OUTPUT_FORMAT binary    setenv PREBINDING NO    setenv PRECOMPS_INCLUDE_HEADERS_FROM_BUILT_PRODUCTS_DIR YES    setenv PRECOMP_DESTINATION_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/PrefixHeaders    setenv PRESERVE_DEAD_CODE_INITS_AND_TERMS NO    setenv PRIVATE_HEADERS_FOLDER_PATH /usr/local/include    setenv PRODUCT_NAME libjasper    setenv PRODUCT_SETTINGS_PATH     setenv PRODUCT_TYPE com.apple.product-type.library.static    setenv PROFILING_CODE NO    setenv PROJECT OpenCV    setenv PROJECT_DERIVED_FILE_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/DerivedSources    setenv PROJECT_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv PROJECT_FILE_PATH /Users/jjthrash/Downloads/OpenCV-2.2.0/OpenCV.xcodeproj    setenv PROJECT_NAME OpenCV    setenv PROJECT_TEMP_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build    setenv PUBLIC_HEADERS_FOLDER_PATH /usr/local/include    setenv RECURSIVE_SEARCH_PATHS_FOLLOW_SYMLINKS YES    setenv REMOVE_CVS_FROM_RESOURCES YES    setenv REMOVE_GIT_FROM_RESOURCES YES    setenv REMOVE_SVN_FROM_RESOURCES YES    setenv REZ_COLLECTOR_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/ResourceManagerResources    setenv REZ_EXECUTABLE YES    setenv REZ_OBJECTS_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/ResourceManagerResources/Objects    setenv REZ_SEARCH_PATHS "\"/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug\" "    setenv RUN_CLANG_STATIC_ANALYZER NO    setenv SCAN_ALL_SOURCE_FILES_FOR_INCLUDES NO    setenv SCRIPT_INPUT_FILE_COUNT 0    setenv SCRIPT_OUTPUT_FILE_COUNT 0    setenv SDKROOT /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk    setenv SDK_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk    setenv SDK_NAME iphonesimulator4.2    setenv SED /usr/bin/sed    setenv SEPARATE_STRIP YES    setenv SEPARATE_SYMBOL_EDIT NO    setenv SET_DIR_MODE_OWNER_GROUP YES    setenv SET_FILE_MODE_OWNER_GROUP NO    setenv SHARED_DERIVED_FILE_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug/DerivedSources    setenv SHARED_PRECOMPS_DIR /var/folders/j9/j9D8eGkFG60i5wEYUED5B++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders    setenv SKIP_INSTALL YES    setenv SOURCE_ROOT /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv SRCROOT /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv STANDARD_C_PLUS_PLUS_LIBRARY_TYPE dynamic    setenv STRINGS_FILE_OUTPUT_ENCODING binary    setenv STRIP_INSTALLED_PRODUCT YES    setenv STRIP_STYLE debugging    setenv SUPPORTED_DEVICE_FAMILIES "1 2"    setenv SYMBOL_REPOSITORY_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/SymbolRepositories    setenv SYMROOT /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper    setenv SYSTEM_ADMIN_APPS_DIR /Applications/Utilities    setenv SYSTEM_APPS_DIR /Applications    setenv SYSTEM_CORE_SERVICES_DIR /System/Library/CoreServices    setenv SYSTEM_DEMOS_DIR /Applications/Extras    setenv SYSTEM_DEVELOPER_APPS_DIR /Developer/Applications    setenv SYSTEM_DEVELOPER_BIN_DIR /Developer/usr/bin    setenv SYSTEM_DEVELOPER_DEMOS_DIR "/Developer/Applications/Utilities/Built Examples"    setenv SYSTEM_DEVELOPER_DIR /Developer    setenv SYSTEM_DEVELOPER_DOC_DIR "/Developer/ADC Reference Library"    setenv SYSTEM_DEVELOPER_GRAPHICS_TOOLS_DIR "/Developer/Applications/Graphics Tools"    setenv SYSTEM_DEVELOPER_JAVA_TOOLS_DIR "/Developer/Applications/Java Tools"    setenv SYSTEM_DEVELOPER_PERFORMANCE_TOOLS_DIR "/Developer/Applications/Performance Tools"    setenv SYSTEM_DEVELOPER_RELEASENOTES_DIR "/Developer/ADC Reference Library/releasenotes"    setenv SYSTEM_DEVELOPER_TOOLS /Developer/Tools    setenv SYSTEM_DEVELOPER_TOOLS_DOC_DIR "/Developer/ADC Reference Library/documentation/DeveloperTools"    setenv SYSTEM_DEVELOPER_TOOLS_RELEASENOTES_DIR "/Developer/ADC Reference Library/releasenotes/DeveloperTools"    setenv SYSTEM_DEVELOPER_USR_DIR /Developer/usr    setenv SYSTEM_DEVELOPER_UTILITIES_DIR /Developer/Applications/Utilities    setenv SYSTEM_DOCUMENTATION_DIR /Library/Documentation    setenv SYSTEM_LIBRARY_DIR /System/Library    setenv TARGETED_DEVICE_FAMILY 1    setenv TARGETNAME libjasper    setenv TARGET_BUILD_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug    setenv TARGET_NAME libjasper    setenv TARGET_TEMP_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build    setenv TEMP_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build    setenv TEMP_FILES_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build    setenv TEMP_FILE_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build    setenv TEMP_ROOT /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper    setenv UID 501    setenv UNSTRIPPED_PRODUCT NO    setenv USER jjthrash    setenv USER_APPS_DIR /Users/jjthrash/Applications    setenv USER_LIBRARY_DIR /Users/jjthrash/Library    setenv USE_DYNAMIC_NO_PIC YES    setenv USE_HEADERMAP NO    setenv USE_HEADER_SYMLINKS NO    setenv VALIDATE_PRODUCT NO    setenv VALID_ARCHS i386    setenv VERBOSE_PBXCP NO    setenv VERSION_INFO_BUILDER jjthrash    setenv VERSION_INFO_FILE libjasper_vers.c    setenv VERSION_INFO_STRING "\"@(#)PROGRAM:libjasper  PROJECT:OpenCV-\""    setenv WARNING_CFLAGS "-Wmost -Wno-four-char-constants -Wno-unknown-pragmas"    setenv XCODE_APP_SUPPORT_DIR /Developer/Library/Xcode    setenv XCODE_PRODUCT_BUILD_VERSION 10M2423    setenv XCODE_VERSION_ACTUAL 0325    setenv XCODE_VERSION_MAJOR 0300    setenv XCODE_VERSION_MINOR 0320    setenv YACC /Developer/usr/bin/yacc    setenv _REAL_SDKROOT iphoneos    /bin/sh -c /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Script-101673DB0101673DB0101673.sh0#
+
+CPhaseScriptExecution "CMake ReRun" /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Script-101673370101673370101673.sh
+s319992773.011657
+e319992773.080174
+r1
+xPhaseScriptExecution
+xCMake ReRun
+x/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Script-101673370101673370101673.sh
+omake: `CMakeFiles/cmake.check_cache' is up to date.
+lSLF07#2@37"Run custom shell script 'CMake ReRun'319992773#319992773#0(52"make: `CMakeFiles/cmake.check_cache' is up to date.1(13@52"make: `CMakeFiles/cmake.check_cache' is up to date.319992773#0#52#0(1@0"0(0#0#0"8660902336#17111"    cd /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv ACTION build    setenv ALTERNATE_GROUP staff    setenv ALTERNATE_MODE u+w,go-w,a+rX    setenv ALTERNATE_OWNER jjthrash    setenv ALWAYS_SEARCH_USER_PATHS YES    setenv APPLE_INTERNAL_DEVELOPER_DIR /AppleInternal/Developer    setenv APPLE_INTERNAL_DIR /AppleInternal    setenv APPLE_INTERNAL_DOCUMENTATION_DIR /AppleInternal/Documentation    setenv APPLE_INTERNAL_LIBRARY_DIR /AppleInternal/Library    setenv APPLE_INTERNAL_TOOLS /AppleInternal/Developer/Tools    setenv APPLY_RULES_IN_COPY_FILES NO    setenv ARCHS i386    setenv ARCHS_STANDARD_32_BIT i386    setenv ARCHS_UNIVERSAL_IPHONE_OS i386    setenv BUILD_COMPONENTS "headers build"    setenv BUILD_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper    setenv BUILD_ROOT /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper    setenv BUILD_STYLE Debug    setenv BUILD_VARIANTS normal    setenv BUILT_PRODUCTS_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug    setenv CACHE_ROOT /var/folders/j9/j9D8eGkFG60i5wEYUED5B++++TI/-Caches-/com.apple.Xcode.501    setenv CCHROOT /var/folders/j9/j9D8eGkFG60i5wEYUED5B++++TI/-Caches-/com.apple.Xcode.501    setenv CHMOD /bin/chmod    setenv CHOWN /usr/sbin/chown    setenv CLASS_FILE_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/JavaClasses    setenv CLEAN_PRECOMPS YES    setenv CLONE_HEADERS NO    setenv CODESIGNING_FOLDER_PATH /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug/liblibjasper.a    setenv CODE_SIGN_CONTEXT_CLASS XCCodeSignContext    setenv COMMAND_MODE legacy    setenv COMPOSITE_SDK_DIRS /var/folders/j9/j9D8eGkFG60i5wEYUED5B++++TI/-Caches-/com.apple.Xcode.501/CompositeSDKs    setenv COMPRESS_PNG_FILES YES    setenv CONFIGURATION Debug    setenv CONFIGURATION_BUILD_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug    setenv CONFIGURATION_TEMP_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator    setenv COPYING_PRESERVES_HFS_DATA NO    setenv COPY_PHASE_STRIP YES    setenv COPY_RESOURCES_FROM_STATIC_FRAMEWORKS YES    setenv CP /bin/cp    setenv CURRENT_ARCH i386    setenv CURRENT_VARIANT normal    setenv DEAD_CODE_STRIPPING NO    setenv DEBUGGING_SYMBOLS YES    setenv DEBUG_INFORMATION_FORMAT dwarf-with-dsym    setenv DEPLOYMENT_LOCATION NO    setenv DEPLOYMENT_POSTPROCESSING NO    setenv DERIVED_FILES_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/DerivedSources    setenv DERIVED_FILE_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/DerivedSources    setenv DERIVED_SOURCES_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/DerivedSources    setenv DEVELOPER_APPLICATIONS_DIR /Developer/Applications    setenv DEVELOPER_BIN_DIR /Developer/usr/bin    setenv DEVELOPER_DIR /Developer    setenv DEVELOPER_FRAMEWORKS_DIR /Developer/Library/Frameworks    setenv DEVELOPER_FRAMEWORKS_DIR_QUOTED "\"/Developer/Library/Frameworks\""    setenv DEVELOPER_LIBRARY_DIR /Developer/Library    setenv DEVELOPER_SDK_DIR /Developer/SDKs    setenv DEVELOPER_TOOLS_DIR /Developer/Tools    setenv DEVELOPER_USR_DIR /Developer/usr    setenv DEVELOPMENT_LANGUAGE English    setenv DO_HEADER_SCANNING_IN_JAM NO    setenv DSTROOT /tmp/OpenCV.dst    setenv DWARF_DSYM_FILE_NAME liblibjasper.a.dSYM    setenv DWARF_DSYM_FOLDER_PATH /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug    setenv EFFECTIVE_PLATFORM_NAME -iphonesimulator    setenv ENABLE_HEADER_DEPENDENCIES YES    setenv ENABLE_OPENMP_SUPPORT NO    setenv EXCLUDED_INSTALLSRC_SUBDIRECTORY_PATTERNS ".svn .git CVS"    setenv EXCLUDED_RECURSIVE_SEARCH_PATH_SUBDIRECTORIES "*.nib *.lproj *.framework *.gch (*) CVS .svn .git *.xcodeproj *.xcode *.pbproj *.pbxproj"    setenv EXECUTABLE_EXTENSION a    setenv EXECUTABLE_NAME liblibjasper.a    setenv EXECUTABLE_PATH liblibjasper.a    setenv EXECUTABLE_PREFIX lib    setenv EXECUTABLE_SUFFIX .a    setenv FILE_LIST /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects/LinkFileList    setenv FIXED_FILES_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/FixedFiles    setenv FRAMEWORK_FLAG_PREFIX -framework    setenv FRAMEWORK_SEARCH_PATHS "\"/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug\" "    setenv FRAMEWORK_VERSION A    setenv FULL_PRODUCT_NAME liblibjasper.a    setenv GCC3_VERSION 3.3    setenv GCC_ENABLE_SYMBOL_SEPARATION NO    setenv GCC_GENERATE_DEBUGGING_SYMBOLS YES    setenv GCC_INLINES_ARE_PRIVATE_EXTERN NO    setenv GCC_OBJC_LEGACY_DISPATCH YES    setenv GCC_OPTIMIZATION_LEVEL 0    setenv GCC_PFE_FILE_C_DIALECTS "c objective-c c++ objective-c++"    setenv GCC_PREPROCESSOR_DEFINITIONS "'CMAKE_INTDIR=\"Debug\"' HAVE_ALLOCA HAVE_ALLOCA_H HAVE_LIBPTHREAD HAVE_UNISTD_H HAVE_CONFIG_H EXCLUDE_MIF_SUPPORT EXCLUDE_PNM_SUPPORT EXCLUDE_BMP_SUPPORT EXCLUDE_RAS_SUPPORT EXCLUDE_JPG_SUPPORT EXCLUDE_PGX_SUPPORT"    setenv GCC_SYMBOLS_PRIVATE_EXTERN NO    setenv GCC_THUMB_SUPPORT YES    setenv GCC_TREAT_WARNINGS_AS_ERRORS NO    setenv GCC_VERSION 4.2    setenv GCC_VERSION_IDENTIFIER __2    setenv GENERATE_MASTER_OBJECT_FILE NO    setenv GENERATE_PKGINFO_FILE NO    setenv GENERATE_PROFILING_CODE NO    setenv GID 20    setenv GROUP staff    setenv HEADERMAP_INCLUDES_FLAT_ENTRIES_FOR_TARGET_BEING_BUILT YES    setenv HEADERMAP_INCLUDES_FRAMEWORK_ENTRIES_FOR_ALL_PRODUCT_TYPES YES    setenv HEADERMAP_INCLUDES_NONPUBLIC_NONPRIVATE_HEADERS YES    setenv HEADERMAP_INCLUDES_PROJECT_HEADERS YES    setenv HEADER_SEARCH_PATHS "\"/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug/include\" /Users/jjthrash/Downloads/OpenCV-2.2.0/. /Users/jjthrash/Downloads/OpenCV-2.2.0 /Users/jjthrash/Downloads/OpenCV-2.2.0/include /Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/../include"    setenv ICONV /usr/bin/iconv    setenv INFOPLIST_EXPAND_BUILD_SETTINGS YES    setenv INFOPLIST_OUTPUT_FORMAT binary    setenv INFOPLIST_PREPROCESS NO    setenv INSTALL_DIR /tmp/OpenCV.dst    setenv INSTALL_GROUP staff    setenv INSTALL_MODE_FLAG u+w,go-w,a+rX    setenv INSTALL_OWNER jjthrash    setenv INSTALL_ROOT /tmp/OpenCV.dst    setenv IPHONEOS_DEPLOYMENT_TARGET 4.2    setenv JAVAC_DEFAULT_FLAGS "-J-Xms64m -J-XX:NewSize=4M -J-Dfile.encoding=UTF8"    setenv JAVA_APP_STUB /System/Library/Frameworks/JavaVM.framework/Resources/MacOS/JavaApplicationStub    setenv JAVA_ARCHIVE_CLASSES YES    setenv JAVA_ARCHIVE_TYPE JAR    setenv JAVA_COMPILER /usr/bin/javac    setenv JAVA_FRAMEWORK_RESOURCES_DIRS Resources    setenv JAVA_JAR_FLAGS cv    setenv JAVA_SOURCE_SUBDIR .    setenv JAVA_USE_DEPENDENCIES YES    setenv JAVA_ZIP_FLAGS -urg    setenv JIKES_DEFAULT_FLAGS "+E +OLDCSO"    setenv KEEP_PRIVATE_EXTERNS NO    setenv LD_GENERATE_MAP_FILE NO    setenv LD_MAP_FILE_PATH /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/libjasper-LinkMap-normal-i386.txt    setenv LD_OPENMP_FLAGS -fopenmp    setenv LEX /Developer/usr/bin/lex    setenv LIBRARY_FLAG_NOSPACE YES    setenv LIBRARY_FLAG_PREFIX -l    setenv LIBRARY_SEARCH_PATHS "\"/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug\" "    setenv LIBRARY_STYLE STATIC    setenv LINKER_DISPLAYS_MANGLED_NAMES NO    setenv LINK_FILE_LIST_normal_i386 /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal/i386/libjasper.LinkFileList    setenv LINK_WITH_STANDARD_LIBRARIES YES    setenv LOCAL_ADMIN_APPS_DIR /Applications/Utilities    setenv LOCAL_APPS_DIR /Applications    setenv LOCAL_DEVELOPER_DIR /Library/Developer    setenv LOCAL_LIBRARY_DIR /Library    setenv MACH_O_TYPE staticlib    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv MAC_OS_X_VERSION_ACTUAL 1066    setenv MAC_OS_X_VERSION_MAJOR 1060    setenv MAC_OS_X_VERSION_MINOR 0606    setenv NATIVE_ARCH i386    setenv NATIVE_ARCH_32_BIT i386    setenv NATIVE_ARCH_64_BIT x86_64    setenv NATIVE_ARCH_ACTUAL x86_64    setenv NO_COMMON YES    setenv OBJC_ABI_VERSION 2    setenv OBJECT_FILE_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects    setenv OBJECT_FILE_DIR_normal /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Objects-normal    setenv OBJROOT /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper    setenv ONLY_ACTIVE_ARCH YES    setenv OPTIMIZATION_LEVEL 0    setenv OS MACOS    setenv OSAC /usr/bin/osacompile    setenv OTHER_CFLAGS "  -Wall -pthread  -fPIC -Wno-implicit-function-declaration -Wno-unused         -ggdb3 -DDEBUG -D_DEBUG   "    setenv OTHER_CPLUSPLUSFLAGS "  -Wall -pthread  -fPIC -Wno-implicit-function-declaration -Wno-unused         -ggdb3 -DDEBUG -D_DEBUG   "    setenv PACKAGE_TYPE com.apple.package-type.static-library    setenv PASCAL_STRINGS YES    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv PATH_PREFIXES_EXCLUDED_FROM_HEADER_DEPENDENCIES "/usr/include /usr/local/include /System/Library/Frameworks /System/Library/PrivateFrameworks /Developer/Headers /Developer/SDKs /Developer/Platforms"    setenv PFE_FILE_C_DIALECTS c    setenv PKGINFO_FILE_PATH /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/PkgInfo    setenv PLATFORM_DEVELOPER_APPLICATIONS_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/Applications    setenv PLATFORM_DEVELOPER_BIN_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin    setenv PLATFORM_DEVELOPER_LIBRARY_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/Library    setenv PLATFORM_DEVELOPER_SDK_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs    setenv PLATFORM_DEVELOPER_TOOLS_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/Tools    setenv PLATFORM_DEVELOPER_USR_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/usr    setenv PLATFORM_DIR /Developer/Platforms/iPhoneSimulator.platform    setenv PLATFORM_NAME iphonesimulator    setenv PLATFORM_PRODUCT_BUILD_VERSION 8C134    setenv PLATFORM_VERSION_AVAILABILITY_H_FORMAT 40200    setenv PLIST_FILE_OUTPUT_FORMAT binary    setenv PREBINDING NO    setenv PRECOMPS_INCLUDE_HEADERS_FROM_BUILT_PRODUCTS_DIR YES    setenv PRECOMP_DESTINATION_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/PrefixHeaders    setenv PRESERVE_DEAD_CODE_INITS_AND_TERMS NO    setenv PRIVATE_HEADERS_FOLDER_PATH /usr/local/include    setenv PRODUCT_NAME libjasper    setenv PRODUCT_SETTINGS_PATH     setenv PRODUCT_TYPE com.apple.product-type.library.static    setenv PROFILING_CODE NO    setenv PROJECT OpenCV    setenv PROJECT_DERIVED_FILE_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/DerivedSources    setenv PROJECT_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv PROJECT_FILE_PATH /Users/jjthrash/Downloads/OpenCV-2.2.0/OpenCV.xcodeproj    setenv PROJECT_NAME OpenCV    setenv PROJECT_TEMP_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build    setenv PUBLIC_HEADERS_FOLDER_PATH /usr/local/include    setenv RECURSIVE_SEARCH_PATHS_FOLLOW_SYMLINKS YES    setenv REMOVE_CVS_FROM_RESOURCES YES    setenv REMOVE_GIT_FROM_RESOURCES YES    setenv REMOVE_SVN_FROM_RESOURCES YES    setenv REZ_COLLECTOR_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/ResourceManagerResources    setenv REZ_EXECUTABLE YES    setenv REZ_OBJECTS_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/ResourceManagerResources/Objects    setenv REZ_SEARCH_PATHS "\"/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug\" "    setenv RUN_CLANG_STATIC_ANALYZER NO    setenv SCAN_ALL_SOURCE_FILES_FOR_INCLUDES NO    setenv SCRIPT_INPUT_FILE_COUNT 0    setenv SCRIPT_OUTPUT_FILE_COUNT 0    setenv SDKROOT /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk    setenv SDK_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk    setenv SDK_NAME iphonesimulator4.2    setenv SED /usr/bin/sed    setenv SEPARATE_STRIP YES    setenv SEPARATE_SYMBOL_EDIT NO    setenv SET_DIR_MODE_OWNER_GROUP YES    setenv SET_FILE_MODE_OWNER_GROUP NO    setenv SHARED_DERIVED_FILE_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug/DerivedSources    setenv SHARED_PRECOMPS_DIR /var/folders/j9/j9D8eGkFG60i5wEYUED5B++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders    setenv SKIP_INSTALL YES    setenv SOURCE_ROOT /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv SRCROOT /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv STANDARD_C_PLUS_PLUS_LIBRARY_TYPE dynamic    setenv STRINGS_FILE_OUTPUT_ENCODING binary    setenv STRIP_INSTALLED_PRODUCT YES    setenv STRIP_STYLE debugging    setenv SUPPORTED_DEVICE_FAMILIES "1 2"    setenv SYMBOL_REPOSITORY_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/SymbolRepositories    setenv SYMROOT /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper    setenv SYSTEM_ADMIN_APPS_DIR /Applications/Utilities    setenv SYSTEM_APPS_DIR /Applications    setenv SYSTEM_CORE_SERVICES_DIR /System/Library/CoreServices    setenv SYSTEM_DEMOS_DIR /Applications/Extras    setenv SYSTEM_DEVELOPER_APPS_DIR /Developer/Applications    setenv SYSTEM_DEVELOPER_BIN_DIR /Developer/usr/bin    setenv SYSTEM_DEVELOPER_DEMOS_DIR "/Developer/Applications/Utilities/Built Examples"    setenv SYSTEM_DEVELOPER_DIR /Developer    setenv SYSTEM_DEVELOPER_DOC_DIR "/Developer/ADC Reference Library"    setenv SYSTEM_DEVELOPER_GRAPHICS_TOOLS_DIR "/Developer/Applications/Graphics Tools"    setenv SYSTEM_DEVELOPER_JAVA_TOOLS_DIR "/Developer/Applications/Java Tools"    setenv SYSTEM_DEVELOPER_PERFORMANCE_TOOLS_DIR "/Developer/Applications/Performance Tools"    setenv SYSTEM_DEVELOPER_RELEASENOTES_DIR "/Developer/ADC Reference Library/releasenotes"    setenv SYSTEM_DEVELOPER_TOOLS /Developer/Tools    setenv SYSTEM_DEVELOPER_TOOLS_DOC_DIR "/Developer/ADC Reference Library/documentation/DeveloperTools"    setenv SYSTEM_DEVELOPER_TOOLS_RELEASENOTES_DIR "/Developer/ADC Reference Library/releasenotes/DeveloperTools"    setenv SYSTEM_DEVELOPER_USR_DIR /Developer/usr    setenv SYSTEM_DEVELOPER_UTILITIES_DIR /Developer/Applications/Utilities    setenv SYSTEM_DOCUMENTATION_DIR /Library/Documentation    setenv SYSTEM_LIBRARY_DIR /System/Library    setenv TARGETED_DEVICE_FAMILY 1    setenv TARGETNAME libjasper    setenv TARGET_BUILD_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug    setenv TARGET_NAME libjasper    setenv TARGET_TEMP_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build    setenv TEMP_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build    setenv TEMP_FILES_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build    setenv TEMP_FILE_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build    setenv TEMP_ROOT /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper    setenv UID 501    setenv UNSTRIPPED_PRODUCT NO    setenv USER jjthrash    setenv USER_APPS_DIR /Users/jjthrash/Applications    setenv USER_LIBRARY_DIR /Users/jjthrash/Library    setenv USE_DYNAMIC_NO_PIC YES    setenv USE_HEADERMAP NO    setenv USE_HEADER_SYMLINKS NO    setenv VALIDATE_PRODUCT NO    setenv VALID_ARCHS i386    setenv VERBOSE_PBXCP NO    setenv VERSION_INFO_BUILDER jjthrash    setenv VERSION_INFO_FILE libjasper_vers.c    setenv VERSION_INFO_STRING "\"@(#)PROGRAM:libjasper  PROJECT:OpenCV-\""    setenv WARNING_CFLAGS "-Wmost -Wno-four-char-constants -Wno-unknown-pragmas"    setenv XCODE_APP_SUPPORT_DIR /Developer/Library/Xcode    setenv XCODE_PRODUCT_BUILD_VERSION 10M2423    setenv XCODE_VERSION_ACTUAL 0325    setenv XCODE_VERSION_MAJOR 0300    setenv XCODE_VERSION_MINOR 0320    setenv YACC /Developer/usr/bin/yacc    setenv _REAL_SDKROOT iphoneos    /bin/sh -c /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/OpenCV.build/Debug-iphonesimulator/libjasper.build/Script-101673370101673370101673.sh0#
+

@@ -1,0 +1,8 @@
+.*.sw?
+*.o
+lib/
+bin/
+build/
+*.mode1v3
+*.pbxuser
+.DS_Store

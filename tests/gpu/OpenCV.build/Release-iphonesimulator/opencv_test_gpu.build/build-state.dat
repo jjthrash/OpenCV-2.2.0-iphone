@@ -1,0 +1,74 @@
+Topencv_test_gpu
+v7
+r1
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/tests/gpu/OpenCV.build/Release-iphonesimulator/opencv_test_gpu.build/Script-101492F30101492F30101492.sh
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/tests/gpu/OpenCV.build/Release-iphonesimulator/opencv_test_gpu.build/Script-101493950101493950101493.sh
+c00000000000000000000000000000000
+t2
+s0
+
+CCompileC tests/gpu/OpenCV.build/Release-iphonesimulator/opencv_test_gpu.build/Objects-normal/i386/arithm.o /Users/jjthrash/Downloads/OpenCV-2.2.0/tests/gpu/src/arithm.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC tests/gpu/OpenCV.build/Release-iphonesimulator/opencv_test_gpu.build/Objects-normal/i386/bitwise_oper.o /Users/jjthrash/Downloads/OpenCV-2.2.0/tests/gpu/src/bitwise_oper.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC tests/gpu/OpenCV.build/Release-iphonesimulator/opencv_test_gpu.build/Objects-normal/i386/filters.o /Users/jjthrash/Downloads/OpenCV-2.2.0/tests/gpu/src/filters.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC tests/gpu/OpenCV.build/Release-iphonesimulator/opencv_test_gpu.build/Objects-normal/i386/gputest_main.o /Users/jjthrash/Downloads/OpenCV-2.2.0/tests/gpu/src/gputest_main.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC tests/gpu/OpenCV.build/Release-iphonesimulator/opencv_test_gpu.build/Objects-normal/i386/hog.o /Users/jjthrash/Downloads/OpenCV-2.2.0/tests/gpu/src/hog.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC tests/gpu/OpenCV.build/Release-iphonesimulator/opencv_test_gpu.build/Objects-normal/i386/imgproc_gpu.o /Users/jjthrash/Downloads/OpenCV-2.2.0/tests/gpu/src/imgproc_gpu.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC tests/gpu/OpenCV.build/Release-iphonesimulator/opencv_test_gpu.build/Objects-normal/i386/meanshift.o /Users/jjthrash/Downloads/OpenCV-2.2.0/tests/gpu/src/meanshift.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC tests/gpu/OpenCV.build/Release-iphonesimulator/opencv_test_gpu.build/Objects-normal/i386/mssegmentation.o /Users/jjthrash/Downloads/OpenCV-2.2.0/tests/gpu/src/mssegmentation.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC tests/gpu/OpenCV.build/Release-iphonesimulator/opencv_test_gpu.build/Objects-normal/i386/operator_async_call.o /Users/jjthrash/Downloads/OpenCV-2.2.0/tests/gpu/src/operator_async_call.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC tests/gpu/OpenCV.build/Release-iphonesimulator/opencv_test_gpu.build/Objects-normal/i386/operator_convert_to.o /Users/jjthrash/Downloads/OpenCV-2.2.0/tests/gpu/src/operator_convert_to.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC tests/gpu/OpenCV.build/Release-iphonesimulator/opencv_test_gpu.build/Objects-normal/i386/operator_copy_to.o /Users/jjthrash/Downloads/OpenCV-2.2.0/tests/gpu/src/operator_copy_to.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC tests/gpu/OpenCV.build/Release-iphonesimulator/opencv_test_gpu.build/Objects-normal/i386/operator_set_to.o /Users/jjthrash/Downloads/OpenCV-2.2.0/tests/gpu/src/operator_set_to.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC tests/gpu/OpenCV.build/Release-iphonesimulator/opencv_test_gpu.build/Objects-normal/i386/split_merge.o /Users/jjthrash/Downloads/OpenCV-2.2.0/tests/gpu/src/split_merge.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC tests/gpu/OpenCV.build/Release-iphonesimulator/opencv_test_gpu.build/Objects-normal/i386/stereo_bm.o /Users/jjthrash/Downloads/OpenCV-2.2.0/tests/gpu/src/stereo_bm.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC tests/gpu/OpenCV.build/Release-iphonesimulator/opencv_test_gpu.build/Objects-normal/i386/stereo_bm_async.o /Users/jjthrash/Downloads/OpenCV-2.2.0/tests/gpu/src/stereo_bm_async.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC tests/gpu/OpenCV.build/Release-iphonesimulator/opencv_test_gpu.build/Objects-normal/i386/stereo_bp.o /Users/jjthrash/Downloads/OpenCV-2.2.0/tests/gpu/src/stereo_bp.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC tests/gpu/OpenCV.build/Release-iphonesimulator/opencv_test_gpu.build/Objects-normal/i386/stereo_csbp.o /Users/jjthrash/Downloads/OpenCV-2.2.0/tests/gpu/src/stereo_csbp.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+r0
+
+CLd /Users/jjthrash/Downloads/OpenCV-2.2.0/bin/Release/ normal i386
+r0
+
+CPhaseScriptExecution "CMake PostBuild Rules" /Users/jjthrash/Downloads/OpenCV-2.2.0/tests/gpu/OpenCV.build/Release-iphonesimulator/opencv_test_gpu.build/Script-101493950101493950101493.sh
+r0
+
+CPhaseScriptExecution "CMake ReRun" /Users/jjthrash/Downloads/OpenCV-2.2.0/tests/gpu/OpenCV.build/Release-iphonesimulator/opencv_test_gpu.build/Script-101492F30101492F30101492.sh
+r0
+

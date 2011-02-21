@@ -1,0 +1,20 @@
+Tinstall
+v7
+r1
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/OpenCV.build/Release-iphoneos/install.build/Script-10108BE8010108BE8010108B.sh
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/OpenCV.build/Release-iphoneos/install.build/Script-10108C8B010108C8B010108C.sh
+c00000000000000000000000000000000
+t2
+s0
+
+CPhaseScriptExecution "CMake PostBuild Rules" /Users/jjthrash/Downloads/OpenCV-2.2.0/OpenCV.build/Release-iphoneos/install.build/Script-10108C8B010108C8B010108C.sh
+r0
+
+CPhaseScriptExecution "CMake ReRun" /Users/jjthrash/Downloads/OpenCV-2.2.0/OpenCV.build/Release-iphoneos/install.build/Script-10108BE8010108BE8010108B.sh
+r0
+

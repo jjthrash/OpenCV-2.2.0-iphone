@@ -1,0 +1,950 @@
+// !$*UTF8*$!
+{
+       archiveVersion = 1;
+       classes = {
+       };
+       objectVersion = 45;
+       objects = {
+
+/* Begin PBXAggregateTarget section */
+              1010D50C01010D50C01010D5 /* ALL_BUILD */ = {
+                     isa = PBXAggregateTarget;
+                     buildConfigurationList = 1010B94D01010B94D01010B9 /* Build configuration list for PBXAggregateTarget "ALL_BUILD" */;
+                     buildPhases = (
+                            101047CE0101047CE0101047 /* CMake ReRun */,
+                            10109C8A010109C8A010109C /* CMake Rules */,
+                     );
+                     dependencies = (
+                            101022F90101022F90101022 /* PBXTargetDependency */,
+                     );
+                     name = ALL_BUILD;
+                     productName = ALL_BUILD;
+              };
+              1010D28901010D28901010D2 /* RUN_TESTS */ = {
+                     isa = PBXAggregateTarget;
+                     buildConfigurationList = 101043A10101043A10101043 /* Build configuration list for PBXAggregateTarget "RUN_TESTS" */;
+                     buildPhases = (
+                            1010C8BD01010C8BD01010C8 /* CMake ReRun */,
+                            1010CFBB01010CFBB01010CF /* CMake PostBuild Rules */,
+                     );
+                     dependencies = (
+                     );
+                     name = RUN_TESTS;
+                     productName = RUN_TESTS;
+              };
+              1010F2EC01010F2EC01010F2 /* install */ = {
+                     isa = PBXAggregateTarget;
+                     buildConfigurationList = 101058C70101058C70101058 /* Build configuration list for PBXAggregateTarget "install" */;
+                     buildPhases = (
+                            1010F2FC01010F2FC01010F2 /* CMake ReRun */,
+                            1010C81701010C81701010C8 /* CMake PostBuild Rules */,
+                     );
+                     dependencies = (
+                            101090ED0101090ED0101090 /* PBXTargetDependency */,
+                     );
+                     name = install;
+                     productName = install;
+              };
+/* End PBXAggregateTarget section */
+
+/* Begin PBXBuildFile section */
+10104A39010104A39010104A /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/src/cascadedetect.cpp */ = {isa = PBXBuildFile; fileRef = 10104BFD010104BFD010104B /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/src/cascadedetect.cpp */; settings = { COMPILER_FLAGS = ""; }; };
+101075130101075130101075 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/src/distancetransform.cpp */ = {isa = PBXBuildFile; fileRef = 1010579A01010579A0101057 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/src/distancetransform.cpp */; settings = { COMPILER_FLAGS = ""; }; };
+101074020101074020101074 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/src/featurepyramid.cpp */ = {isa = PBXBuildFile; fileRef = 1010755E01010755E0101075 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/src/featurepyramid.cpp */; settings = { COMPILER_FLAGS = ""; }; };
+1010241F01010241F0101024 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/src/fft.cpp */ = {isa = PBXBuildFile; fileRef = 101074550101074550101074 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/src/fft.cpp */; settings = { COMPILER_FLAGS = ""; }; };
+101025210101025210101025 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/src/haar.cpp */ = {isa = PBXBuildFile; fileRef = 101024720101024720101024 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/src/haar.cpp */; settings = { COMPILER_FLAGS = ""; }; };
+1010261C01010261C0101026 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/src/hog.cpp */ = {isa = PBXBuildFile; fileRef = 101025750101025750101025 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/src/hog.cpp */; settings = { COMPILER_FLAGS = ""; }; };
+1010A35F01010A35F01010A3 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/src/latentsvm.cpp */ = {isa = PBXBuildFile; fileRef = 101026700101026700101026 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/src/latentsvm.cpp */; settings = { COMPILER_FLAGS = ""; }; };
+1010A45D01010A45D01010A4 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/src/latentsvmdetector.cpp */ = {isa = PBXBuildFile; fileRef = 1010A3AA01010A3AA01010A3 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/src/latentsvmdetector.cpp */; settings = { COMPILER_FLAGS = ""; }; };
+1010A55B01010A55B01010A5 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/src/lsvmparser.cpp */ = {isa = PBXBuildFile; fileRef = 1010A4AB01010A4AB01010A4 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/src/lsvmparser.cpp */; settings = { COMPILER_FLAGS = ""; }; };
+101092240101092240101092 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/src/matching.cpp */ = {isa = PBXBuildFile; fileRef = 1010917C01010917C0101091 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/src/matching.cpp */; settings = { COMPILER_FLAGS = ""; }; };
+101093250101093250101093 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/src/precomp.cpp */ = {isa = PBXBuildFile; fileRef = 101092760101092760101092 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/src/precomp.cpp */; settings = { COMPILER_FLAGS = ""; }; };
+101076380101076380101076 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/src/resizeimg.cpp */ = {isa = PBXBuildFile; fileRef = 101093770101093770101093 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/src/resizeimg.cpp */; settings = { COMPILER_FLAGS = ""; }; };
+10108EE1010108EE1010108E /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/src/routine.cpp */ = {isa = PBXBuildFile; fileRef = 1010768A01010768A0101076 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/src/routine.cpp */; settings = { COMPILER_FLAGS = ""; }; };
+10108FF0010108FF0010108F /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/include/opencv2/objdetect/objdetect.hpp */ = {isa = PBXBuildFile; fileRef = 10108F34010108F34010108F /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/include/opencv2/objdetect/objdetect.hpp */; settings = { COMPILER_FLAGS = ""; }; };
+101081960101081960101081 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/src/_latentsvm.h */ = {isa = PBXBuildFile; fileRef = 1010903B01010903B0101090 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/src/_latentsvm.h */; settings = { COMPILER_FLAGS = ""; }; };
+101080620101080620101080 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/src/_lsvm_distancetransform.h */ = {isa = PBXBuildFile; fileRef = 10107FAF010107FAF010107F /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/src/_lsvm_distancetransform.h */; settings = { COMPILER_FLAGS = ""; }; };
+101076C10101076C10101076 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/src/_lsvm_error.h */ = {isa = PBXBuildFile; fileRef = 101080AD0101080AD0101080 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/src/_lsvm_error.h */; settings = { COMPILER_FLAGS = ""; }; };
+101077C90101077C90101077 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/src/_lsvm_fft.h */ = {isa = PBXBuildFile; fileRef = 101077110101077110101077 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/src/_lsvm_fft.h */; settings = { COMPILER_FLAGS = ""; }; };
+10106CBF010106CBF010106C /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/src/_lsvm_matching.h */ = {isa = PBXBuildFile; fileRef = 101078200101078200101078 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/src/_lsvm_matching.h */; settings = { COMPILER_FLAGS = ""; }; };
+10106DC3010106DC3010106D /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/src/_lsvm_resizeimg.h */ = {isa = PBXBuildFile; fileRef = 10106D0E010106D0E010106D /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/src/_lsvm_resizeimg.h */; settings = { COMPILER_FLAGS = ""; }; };
+10106EC2010106EC2010106E /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/src/_lsvm_routine.h */ = {isa = PBXBuildFile; fileRef = 10106E13010106E13010106E /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/src/_lsvm_routine.h */; settings = { COMPILER_FLAGS = ""; }; };
+10106F4D010106F4D010106F /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/src/_lsvm_types.h */ = {isa = PBXBuildFile; fileRef = 10106C14010106C14010106C /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/src/_lsvm_types.h */; settings = { COMPILER_FLAGS = ""; }; };
+1010730B01010730B0101073 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/src/_lsvmparser.h */ = {isa = PBXBuildFile; fileRef = 10108DEF010108DEF010108D /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/src/_lsvmparser.h */; settings = { COMPILER_FLAGS = ""; }; };
+10108C89010108C89010108C /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/src/precomp.hpp */ = {isa = PBXBuildFile; fileRef = 10108D0F010108D0F010108D /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/src/precomp.hpp */; settings = { COMPILER_FLAGS = ""; }; };
+1010FB8301010FB8301010FB /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/CMakeLists.txt */ = {isa = PBXBuildFile; fileRef = 10103CEA010103CEA010103C /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/CMakeLists.txt */; settings = { COMPILER_FLAGS = ""; }; };
+/* End PBXBuildFile section */
+
+/* Begin PBXBuildStyle section */
+              1010E1CD01010E1CD01010E1 /*  */ = {
+                     isa = PBXBuildStyle;
+              };
+              101056FA0101056FA0101056 /* Debug */ = {
+                     isa = PBXBuildStyle;
+                     buildSettings = {
+                            COPY_PHASE_STRIP = NO;
+                     };
+                     name = Debug;
+              };
+              101093B40101093B40101093 /* Release */ = {
+                     isa = PBXBuildStyle;
+                     buildSettings = {
+                            COPY_PHASE_STRIP = NO;
+                     };
+                     name = Release;
+              };
+              1010C9CF01010C9CF01010C9 /* MinSizeRel */ = {
+                     isa = PBXBuildStyle;
+                     buildSettings = {
+                            COPY_PHASE_STRIP = NO;
+                     };
+                     name = MinSizeRel;
+              };
+              1010B85C01010B85C01010B8 /* RelWithDebInfo */ = {
+                     isa = PBXBuildStyle;
+                     buildSettings = {
+                            COPY_PHASE_STRIP = NO;
+                     };
+                     name = RelWithDebInfo;
+              };
+/* End PBXBuildStyle section */
+
+/* Begin PBXContainerItemProxy section */
+              101022880101022880101022 /* PBXContainerItemProxy */ = {
+                     isa = PBXContainerItemProxy;
+                     containerPortal = 10103F4F010103F4F010103F /* Project object */;
+                     proxyType = 1;
+                     remoteGlobalIDString = 10109E37010109E37010109E;
+                     remoteInfo = opencv_objdetect;
+              };
+              101023690101023690101023 /* PBXContainerItemProxy */ = {
+                     isa = PBXContainerItemProxy;
+                     containerPortal = 10103F4F010103F4F010103F /* Project object */;
+                     proxyType = 1;
+                     remoteGlobalIDString = 1010D50C01010D50C01010D5;
+                     remoteInfo = ALL_BUILD;
+              };
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+10103CEA010103CEA010103C /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/CMakeLists.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.text"; name = "CMakeLists.txt"; path = "CMakeLists.txt"; sourceTree = SOURCE_ROOT; };
+10104BFD010104BFD010104B /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/src/cascadedetect.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.cpp.cpp"; name = "cascadedetect.cpp"; path = "src/cascadedetect.cpp"; sourceTree = SOURCE_ROOT; };
+1010579A01010579A0101057 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/src/distancetransform.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.cpp.cpp"; name = "distancetransform.cpp"; path = "src/distancetransform.cpp"; sourceTree = SOURCE_ROOT; };
+1010755E01010755E0101075 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/src/featurepyramid.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.cpp.cpp"; name = "featurepyramid.cpp"; path = "src/featurepyramid.cpp"; sourceTree = SOURCE_ROOT; };
+101074550101074550101074 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/src/fft.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.cpp.cpp"; name = "fft.cpp"; path = "src/fft.cpp"; sourceTree = SOURCE_ROOT; };
+101024720101024720101024 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/src/haar.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.cpp.cpp"; name = "haar.cpp"; path = "src/haar.cpp"; sourceTree = SOURCE_ROOT; };
+101025750101025750101025 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/src/hog.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.cpp.cpp"; name = "hog.cpp"; path = "src/hog.cpp"; sourceTree = SOURCE_ROOT; };
+101026700101026700101026 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/src/latentsvm.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.cpp.cpp"; name = "latentsvm.cpp"; path = "src/latentsvm.cpp"; sourceTree = SOURCE_ROOT; };
+1010A3AA01010A3AA01010A3 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/src/latentsvmdetector.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.cpp.cpp"; name = "latentsvmdetector.cpp"; path = "src/latentsvmdetector.cpp"; sourceTree = SOURCE_ROOT; };
+1010A4AB01010A4AB01010A4 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/src/lsvmparser.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.cpp.cpp"; name = "lsvmparser.cpp"; path = "src/lsvmparser.cpp"; sourceTree = SOURCE_ROOT; };
+1010917C01010917C0101091 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/src/matching.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.cpp.cpp"; name = "matching.cpp"; path = "src/matching.cpp"; sourceTree = SOURCE_ROOT; };
+101092760101092760101092 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/src/precomp.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.cpp.cpp"; name = "precomp.cpp"; path = "src/precomp.cpp"; sourceTree = SOURCE_ROOT; };
+101093770101093770101093 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/src/resizeimg.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.cpp.cpp"; name = "resizeimg.cpp"; path = "src/resizeimg.cpp"; sourceTree = SOURCE_ROOT; };
+1010768A01010768A0101076 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/src/routine.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.cpp.cpp"; name = "routine.cpp"; path = "src/routine.cpp"; sourceTree = SOURCE_ROOT; };
+10108F34010108F34010108F /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/include/opencv2/objdetect/objdetect.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.cpp.h"; name = "objdetect.hpp"; path = "include/opencv2/objdetect/objdetect.hpp"; sourceTree = SOURCE_ROOT; };
+1010903B01010903B0101090 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/src/_latentsvm.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.c.h"; name = "_latentsvm.h"; path = "src/_latentsvm.h"; sourceTree = SOURCE_ROOT; };
+10107FAF010107FAF010107F /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/src/_lsvm_distancetransform.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.c.h"; name = "_lsvm_distancetransform.h"; path = "src/_lsvm_distancetransform.h"; sourceTree = SOURCE_ROOT; };
+101080AD0101080AD0101080 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/src/_lsvm_error.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.c.h"; name = "_lsvm_error.h"; path = "src/_lsvm_error.h"; sourceTree = SOURCE_ROOT; };
+101077110101077110101077 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/src/_lsvm_fft.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.c.h"; name = "_lsvm_fft.h"; path = "src/_lsvm_fft.h"; sourceTree = SOURCE_ROOT; };
+101078200101078200101078 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/src/_lsvm_matching.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.c.h"; name = "_lsvm_matching.h"; path = "src/_lsvm_matching.h"; sourceTree = SOURCE_ROOT; };
+10106D0E010106D0E010106D /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/src/_lsvm_resizeimg.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.c.h"; name = "_lsvm_resizeimg.h"; path = "src/_lsvm_resizeimg.h"; sourceTree = SOURCE_ROOT; };
+10106E13010106E13010106E /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/src/_lsvm_routine.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.c.h"; name = "_lsvm_routine.h"; path = "src/_lsvm_routine.h"; sourceTree = SOURCE_ROOT; };
+10106C14010106C14010106C /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/src/_lsvm_types.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.c.h"; name = "_lsvm_types.h"; path = "src/_lsvm_types.h"; sourceTree = SOURCE_ROOT; };
+10108DEF010108DEF010108D /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/src/_lsvmparser.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.c.h"; name = "_lsvmparser.h"; path = "src/_lsvmparser.h"; sourceTree = SOURCE_ROOT; };
+10108D0F010108D0F010108D /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/src/precomp.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.cpp.h"; name = "precomp.hpp"; path = "src/precomp.hpp"; sourceTree = SOURCE_ROOT; };
+1010F84B01010F84B01010F8 /* opencv_objdetect */ = {isa = PBXFileReference; explicitFileType = "archive.ar"; path = "libopencv_objdetect.a"; refType = 0; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+              1010BD3501010BD3501010BD  = {
+                     isa = PBXGroup;
+                     children = (
+                            1010EE9D01010EE9D01010EE /* Sources */,
+                            101047350101047350101047 /* Resources */,
+                            101048A60101048A60101048 /* Products */,
+                     );
+                     sourceTree = "<group>";
+              };
+              1010EE9D01010EE9D01010EE /* Sources */ = {
+                     isa = PBXGroup;
+                     children = (
+                            101042CD0101042CD0101042 /* ALL_BUILD */,
+                            101066390101066390101066 /* opencv_objdetect */,
+                     );
+                     name = Sources;
+                     sourceTree = "<group>";
+              };
+              101047350101047350101047 /* Resources */ = {
+                     isa = PBXGroup;
+                     children = (
+                     );
+                     name = Resources;
+                     sourceTree = "<group>";
+              };
+              101042CD0101042CD0101042 /* ALL_BUILD */ = {
+                     isa = PBXGroup;
+                     children = (
+                            1010BB0401010BB0401010BB /* CMake Rules */,
+                            10103CEA010103CEA010103C /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/CMakeLists.txt */,
+                     );
+                     name = ALL_BUILD;
+                     sourceTree = "<group>";
+              };
+              1010BB0401010BB0401010BB /* CMake Rules */ = {
+                     isa = PBXGroup;
+                     children = (
+                     );
+                     name = "CMake Rules";
+                     sourceTree = "<group>";
+              };
+              101066390101066390101066 /* opencv_objdetect */ = {
+                     isa = PBXGroup;
+                     children = (
+                            101061E10101061E10101061 /* Src */,
+                            1010F03701010F03701010F0 /* Include */,
+                            10103CEA010103CEA010103C /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/CMakeLists.txt */,
+                     );
+                     name = opencv_objdetect;
+                     sourceTree = "<group>";
+              };
+              101061E10101061E10101061 /* Src */ = {
+                     isa = PBXGroup;
+                     children = (
+                            10104BFD010104BFD010104B /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/src/cascadedetect.cpp */,
+                            1010579A01010579A0101057 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/src/distancetransform.cpp */,
+                            1010755E01010755E0101075 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/src/featurepyramid.cpp */,
+                            101074550101074550101074 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/src/fft.cpp */,
+                            101024720101024720101024 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/src/haar.cpp */,
+                            101025750101025750101025 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/src/hog.cpp */,
+                            101026700101026700101026 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/src/latentsvm.cpp */,
+                            1010A3AA01010A3AA01010A3 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/src/latentsvmdetector.cpp */,
+                            1010A4AB01010A4AB01010A4 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/src/lsvmparser.cpp */,
+                            1010917C01010917C0101091 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/src/matching.cpp */,
+                            101092760101092760101092 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/src/precomp.cpp */,
+                            101093770101093770101093 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/src/resizeimg.cpp */,
+                            1010768A01010768A0101076 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/src/routine.cpp */,
+                            1010903B01010903B0101090 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/src/_latentsvm.h */,
+                            10107FAF010107FAF010107F /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/src/_lsvm_distancetransform.h */,
+                            101080AD0101080AD0101080 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/src/_lsvm_error.h */,
+                            101077110101077110101077 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/src/_lsvm_fft.h */,
+                            101078200101078200101078 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/src/_lsvm_matching.h */,
+                            10106D0E010106D0E010106D /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/src/_lsvm_resizeimg.h */,
+                            10106E13010106E13010106E /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/src/_lsvm_routine.h */,
+                            10106C14010106C14010106C /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/src/_lsvm_types.h */,
+                            10108DEF010108DEF010108D /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/src/_lsvmparser.h */,
+                            10108D0F010108D0F010108D /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/src/precomp.hpp */,
+                     );
+                     name = Src;
+                     sourceTree = "<group>";
+              };
+              1010F03701010F03701010F0 /* Include */ = {
+                     isa = PBXGroup;
+                     children = (
+                            10108F34010108F34010108F /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/include/opencv2/objdetect/objdetect.hpp */,
+                     );
+                     name = Include;
+                     sourceTree = "<group>";
+              };
+              101048A60101048A60101048 /* Products */ = {
+                     isa = PBXGroup;
+                     children = (
+                            1010F84B01010F84B01010F8 /* opencv_objdetect */,
+                     );
+                     name = Products;
+                     sourceTree = "<group>";
+              };
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+              10109E37010109E37010109E /* opencv_objdetect */ = {
+                     isa = PBXNativeTarget;
+                     buildConfigurationList = 10109E14010109E14010109E /* Build configuration list for PBXNativeTarget "opencv_objdetect" */;
+                     buildPhases = (
+                            1010A5CC01010A5CC01010A5 /* CMake ReRun */,
+                            1010FBC701010FBC701010FB /* Sources */,
+                            10109D3E010109D3E010109D /* CMake PostBuild Rules */,
+                     );
+                     buildRules = (
+                     );
+                     dependencies = (
+                     );
+                     name = opencv_objdetect;
+                     productName = opencv_objdetect;
+                     productReference = 1010F84B01010F84B01010F8 /* opencv_objdetect */;
+                     productType = "com.apple.product-type.library.static";
+              };
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+              10103F4F010103F4F010103F /* Project object */ = {
+                     isa = PBXProject;
+                     attributes = {
+                            BuildIndependentTargetsInParallel = YES;
+                     };
+                     buildConfigurationList = 101044700101044700101044 /* Build configuration list for PBXProject  "opencv_objdetect" */;
+                     buildSettings = {
+                     };
+                     buildStyles = (
+                            101056FA0101056FA0101056 /* Debug */,
+                            101093B40101093B40101093 /* Release */,
+                            1010C9CF01010C9CF01010C9 /* MinSizeRel */,
+                            1010B85C01010B85C01010B8 /* RelWithDebInfo */,
+                     );
+                     compatibilityVersion = "Xcode 3.1";
+                     hasScannedForEncodings = 0;
+                     mainGroup = 1010BD3501010BD3501010BD;
+                     projectDirPath = ".";
+                     projectRoot = "";
+                     targets = (
+                            1010D50C01010D50C01010D5 /* ALL_BUILD */,
+                            1010D28901010D28901010D2 /* RUN_TESTS */,
+                            1010F2EC01010F2EC01010F2 /* install */,
+                            10109E37010109E37010109E /* opencv_objdetect */,
+                     );
+              };
+/* End PBXProject section */
+
+/* Begin PBXShellScriptBuildPhase section */
+              101063490101063490101063 /*  */ = {
+                     isa = PBXShellScriptBuildPhase;
+                     buildActionMask = 2147483647;
+                     files = (
+                     );
+                     inputPaths = (
+                     );
+                     outputPaths = (
+                     );
+                     runOnlyForDeploymentPostprocessing = 0;
+                     shellPath = /bin/sh;
+                     shellScript = "# shell script goes here
+exit 0";
+              };
+              101047CE0101047CE0101047 /* CMake ReRun */ = {
+                     isa = PBXShellScriptBuildPhase;
+                     buildActionMask = 2147483647;
+                     files = (
+                     );
+                     name = "CMake ReRun";
+                     runOnlyForDeploymentPostprocessing = 0;
+                     shellPath = /bin/sh;
+                     shellScript = "make -C /Users/jjthrash/Downloads/OpenCV-2.2.0 -f /Users/jjthrash/Downloads/OpenCV-2.2.0/CMakeScripts/ReRunCMake.make";
+              };
+              10109C8A010109C8A010109C /* CMake Rules */ = {
+                     isa = PBXShellScriptBuildPhase;
+                     buildActionMask = 2147483647;
+                     files = (
+                     );
+                     name = "CMake Rules";
+                     runOnlyForDeploymentPostprocessing = 0;
+                     shellPath = /bin/sh;
+                     shellScript = "make -C /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect -f /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/CMakeScripts/ALL_BUILD_cmakeRulesBuildPhase.make$CONFIGURATION all";
+              };
+              10102F18010102F18010102F /*  */ = {
+                     isa = PBXShellScriptBuildPhase;
+                     buildActionMask = 2147483647;
+                     files = (
+                     );
+                     inputPaths = (
+                     );
+                     outputPaths = (
+                     );
+                     runOnlyForDeploymentPostprocessing = 0;
+                     shellPath = /bin/sh;
+                     shellScript = "# shell script goes here
+exit 0";
+              };
+              1010C8BD01010C8BD01010C8 /* CMake ReRun */ = {
+                     isa = PBXShellScriptBuildPhase;
+                     buildActionMask = 2147483647;
+                     files = (
+                     );
+                     name = "CMake ReRun";
+                     runOnlyForDeploymentPostprocessing = 0;
+                     shellPath = /bin/sh;
+                     shellScript = "make -C /Users/jjthrash/Downloads/OpenCV-2.2.0 -f /Users/jjthrash/Downloads/OpenCV-2.2.0/CMakeScripts/ReRunCMake.make";
+              };
+              1010CFBB01010CFBB01010CF /* CMake PostBuild Rules */ = {
+                     isa = PBXShellScriptBuildPhase;
+                     buildActionMask = 2147483647;
+                     files = (
+                     );
+                     name = "CMake PostBuild Rules";
+                     runOnlyForDeploymentPostprocessing = 0;
+                     shellPath = /bin/sh;
+                     shellScript = "make -C /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect -f /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/CMakeScripts/RUN_TESTS_postBuildPhase.make$CONFIGURATION all";
+              };
+              1010ECD901010ECD901010EC /*  */ = {
+                     isa = PBXShellScriptBuildPhase;
+                     buildActionMask = 2147483647;
+                     files = (
+                     );
+                     inputPaths = (
+                     );
+                     outputPaths = (
+                     );
+                     runOnlyForDeploymentPostprocessing = 0;
+                     shellPath = /bin/sh;
+                     shellScript = "# shell script goes here
+exit 0";
+              };
+              1010F2FC01010F2FC01010F2 /* CMake ReRun */ = {
+                     isa = PBXShellScriptBuildPhase;
+                     buildActionMask = 2147483647;
+                     files = (
+                     );
+                     name = "CMake ReRun";
+                     runOnlyForDeploymentPostprocessing = 0;
+                     shellPath = /bin/sh;
+                     shellScript = "make -C /Users/jjthrash/Downloads/OpenCV-2.2.0 -f /Users/jjthrash/Downloads/OpenCV-2.2.0/CMakeScripts/ReRunCMake.make";
+              };
+              1010C81701010C81701010C8 /* CMake PostBuild Rules */ = {
+                     isa = PBXShellScriptBuildPhase;
+                     buildActionMask = 2147483647;
+                     files = (
+                     );
+                     name = "CMake PostBuild Rules";
+                     runOnlyForDeploymentPostprocessing = 0;
+                     shellPath = /bin/sh;
+                     shellScript = "make -C /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect -f /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/CMakeScripts/install_postBuildPhase.make$CONFIGURATION all";
+              };
+              1010A5CC01010A5CC01010A5 /* CMake ReRun */ = {
+                     isa = PBXShellScriptBuildPhase;
+                     buildActionMask = 2147483647;
+                     files = (
+                     );
+                     name = "CMake ReRun";
+                     runOnlyForDeploymentPostprocessing = 0;
+                     shellPath = /bin/sh;
+                     shellScript = "make -C /Users/jjthrash/Downloads/OpenCV-2.2.0 -f /Users/jjthrash/Downloads/OpenCV-2.2.0/CMakeScripts/ReRunCMake.make";
+              };
+              10109D3E010109D3E010109D /* CMake PostBuild Rules */ = {
+                     isa = PBXShellScriptBuildPhase;
+                     buildActionMask = 2147483647;
+                     files = (
+                     );
+                     name = "CMake PostBuild Rules";
+                     runOnlyForDeploymentPostprocessing = 0;
+                     shellPath = /bin/sh;
+                     shellScript = "make -C /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect -f /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/CMakeScripts/opencv_objdetect_postBuildPhase.make$CONFIGURATION all";
+              };
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+              1010FBC701010FBC701010FB /* Sources */ = {
+                     isa = PBXSourcesBuildPhase;
+                     buildActionMask = 2147483647;
+                     files = (
+                            10104A39010104A39010104A /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/src/cascadedetect.cpp */,
+                            101075130101075130101075 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/src/distancetransform.cpp */,
+                            101074020101074020101074 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/src/featurepyramid.cpp */,
+                            1010241F01010241F0101024 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/src/fft.cpp */,
+                            101025210101025210101025 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/src/haar.cpp */,
+                            1010261C01010261C0101026 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/src/hog.cpp */,
+                            1010A35F01010A35F01010A3 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/src/latentsvm.cpp */,
+                            1010A45D01010A45D01010A4 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/src/latentsvmdetector.cpp */,
+                            1010A55B01010A55B01010A5 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/src/lsvmparser.cpp */,
+                            101092240101092240101092 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/src/matching.cpp */,
+                            101093250101093250101093 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/src/precomp.cpp */,
+                            101076380101076380101076 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/src/resizeimg.cpp */,
+                            10108EE1010108EE1010108E /* /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/src/routine.cpp */,
+                     );
+                     runOnlyForDeploymentPostprocessing = 0;
+              };
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+              101022F90101022F90101022 /* PBXTargetDependency */ = {
+                     isa = PBXTargetDependency;
+                     target = 10109E37010109E37010109E /* opencv_objdetect */;
+                     targetProxy = 101022880101022880101022 /* PBXContainerItemProxy */;
+              };
+              101090ED0101090ED0101090 /* PBXTargetDependency */ = {
+                     isa = PBXTargetDependency;
+                     target = 1010D50C01010D50C01010D5 /* ALL_BUILD */;
+                     targetProxy = 101023690101023690101023 /* PBXContainerItemProxy */;
+              };
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+              1010E1F401010E1F401010E1 /* Debug */ = {
+                     isa = XCBuildConfiguration;
+                     buildSettings = {
+                            ARCHS = "$(ARCHS_STANDARD_32_64_BIT)";
+                            ONLY_ACTIVE_ARCH = YES;
+                            SDKROOT = "/Developer/SDKs/MacOSX10.6.sdk";
+                            SYMROOT = "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/build";
+                     };
+                     name = Debug;
+              };
+              1010B00301010B00301010B0 /* Release */ = {
+                     isa = XCBuildConfiguration;
+                     buildSettings = {
+                            ARCHS = "$(ARCHS_STANDARD_32_64_BIT)";
+                            ONLY_ACTIVE_ARCH = YES;
+                            SDKROOT = "/Developer/SDKs/MacOSX10.6.sdk";
+                            SYMROOT = "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/build";
+                     };
+                     name = Release;
+              };
+              1010F7AC01010F7AC01010F7 /* MinSizeRel */ = {
+                     isa = XCBuildConfiguration;
+                     buildSettings = {
+                            ARCHS = "$(ARCHS_STANDARD_32_64_BIT)";
+                            ONLY_ACTIVE_ARCH = YES;
+                            SDKROOT = "/Developer/SDKs/MacOSX10.6.sdk";
+                            SYMROOT = "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/build";
+                     };
+                     name = MinSizeRel;
+              };
+              1010D53901010D53901010D5 /* RelWithDebInfo */ = {
+                     isa = XCBuildConfiguration;
+                     buildSettings = {
+                            ARCHS = "$(ARCHS_STANDARD_32_64_BIT)";
+                            ONLY_ACTIVE_ARCH = YES;
+                            SDKROOT = "/Developer/SDKs/MacOSX10.6.sdk";
+                            SYMROOT = "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/build";
+                     };
+                     name = RelWithDebInfo;
+              };
+              1010AB0B01010AB0B01010AB /* Debug */ = {
+                     isa = XCBuildConfiguration;
+                     buildSettings = {
+                            GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
+                            GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+                            GCC_OPTIMIZATION_LEVEL = 0;
+                            GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)\"'", HAVE_ALLOCA, HAVE_ALLOCA_H, HAVE_LIBPTHREAD, HAVE_UNISTD_H, HAVE_CONFIG_H, CVAPI_EXPORTS, );
+                            GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+                            HEADER_SEARCH_PATHS = ("/Users/jjthrash/Downloads/OpenCV-2.2.0/.", "/Users/jjthrash/Downloads/OpenCV-2.2.0", "/Users/jjthrash/Downloads/OpenCV-2.2.0/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/src", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/../core/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/../imgproc/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/../highgui/include", );
+                            INSTALL_PATH = "";
+                            OTHER_CFLAGS = "  ";
+                            OTHER_LDFLAGS = "";
+                            OTHER_REZFLAGS = "";
+                            PREBINDING = NO;
+                            PRODUCT_NAME = ALL_BUILD;
+                            SECTORDER_FLAGS = "";
+                            SYMROOT = "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect";
+                            USE_HEADERMAP = NO;
+                            WARNING_CFLAGS = ("-Wmost", "-Wno-four-char-constants", "-Wno-unknown-pragmas", );
+                     };
+                     name = Debug;
+              };
+              101010070101010070101010 /* Release */ = {
+                     isa = XCBuildConfiguration;
+                     buildSettings = {
+                            GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
+                            GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+                            GCC_OPTIMIZATION_LEVEL = 0;
+                            GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)\"'", HAVE_ALLOCA, HAVE_ALLOCA_H, HAVE_LIBPTHREAD, HAVE_UNISTD_H, HAVE_CONFIG_H, CVAPI_EXPORTS, );
+                            GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+                            HEADER_SEARCH_PATHS = ("/Users/jjthrash/Downloads/OpenCV-2.2.0/.", "/Users/jjthrash/Downloads/OpenCV-2.2.0", "/Users/jjthrash/Downloads/OpenCV-2.2.0/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/src", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/../core/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/../imgproc/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/../highgui/include", );
+                            INSTALL_PATH = "";
+                            OTHER_CFLAGS = "  ";
+                            OTHER_LDFLAGS = "";
+                            OTHER_REZFLAGS = "";
+                            PREBINDING = NO;
+                            PRODUCT_NAME = ALL_BUILD;
+                            SECTORDER_FLAGS = "";
+                            SYMROOT = "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect";
+                            USE_HEADERMAP = NO;
+                            WARNING_CFLAGS = ("-Wmost", "-Wno-four-char-constants", "-Wno-unknown-pragmas", );
+                     };
+                     name = Release;
+              };
+              1010AAD801010AAD801010AA /* MinSizeRel */ = {
+                     isa = XCBuildConfiguration;
+                     buildSettings = {
+                            GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
+                            GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+                            GCC_OPTIMIZATION_LEVEL = 0;
+                            GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)\"'", HAVE_ALLOCA, HAVE_ALLOCA_H, HAVE_LIBPTHREAD, HAVE_UNISTD_H, HAVE_CONFIG_H, CVAPI_EXPORTS, );
+                            GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+                            HEADER_SEARCH_PATHS = ("/Users/jjthrash/Downloads/OpenCV-2.2.0/.", "/Users/jjthrash/Downloads/OpenCV-2.2.0", "/Users/jjthrash/Downloads/OpenCV-2.2.0/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/src", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/../core/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/../imgproc/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/../highgui/include", );
+                            INSTALL_PATH = "";
+                            OTHER_CFLAGS = "  ";
+                            OTHER_LDFLAGS = "";
+                            OTHER_REZFLAGS = "";
+                            PREBINDING = NO;
+                            PRODUCT_NAME = ALL_BUILD;
+                            SECTORDER_FLAGS = "";
+                            SYMROOT = "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect";
+                            USE_HEADERMAP = NO;
+                            WARNING_CFLAGS = ("-Wmost", "-Wno-four-char-constants", "-Wno-unknown-pragmas", );
+                     };
+                     name = MinSizeRel;
+              };
+              1010C3BC01010C3BC01010C3 /* RelWithDebInfo */ = {
+                     isa = XCBuildConfiguration;
+                     buildSettings = {
+                            GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
+                            GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+                            GCC_OPTIMIZATION_LEVEL = 0;
+                            GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)\"'", HAVE_ALLOCA, HAVE_ALLOCA_H, HAVE_LIBPTHREAD, HAVE_UNISTD_H, HAVE_CONFIG_H, CVAPI_EXPORTS, );
+                            GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+                            HEADER_SEARCH_PATHS = ("/Users/jjthrash/Downloads/OpenCV-2.2.0/.", "/Users/jjthrash/Downloads/OpenCV-2.2.0", "/Users/jjthrash/Downloads/OpenCV-2.2.0/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/src", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/../core/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/../imgproc/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/../highgui/include", );
+                            INSTALL_PATH = "";
+                            OTHER_CFLAGS = "  ";
+                            OTHER_LDFLAGS = "";
+                            OTHER_REZFLAGS = "";
+                            PREBINDING = NO;
+                            PRODUCT_NAME = ALL_BUILD;
+                            SECTORDER_FLAGS = "";
+                            SYMROOT = "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect";
+                            USE_HEADERMAP = NO;
+                            WARNING_CFLAGS = ("-Wmost", "-Wno-four-char-constants", "-Wno-unknown-pragmas", );
+                     };
+                     name = RelWithDebInfo;
+              };
+              101088010101088010101088 /* Debug */ = {
+                     isa = XCBuildConfiguration;
+                     buildSettings = {
+                            GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
+                            GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+                            GCC_OPTIMIZATION_LEVEL = 0;
+                            GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)\"'", HAVE_ALLOCA, HAVE_ALLOCA_H, HAVE_LIBPTHREAD, HAVE_UNISTD_H, HAVE_CONFIG_H, CVAPI_EXPORTS, );
+                            GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+                            HEADER_SEARCH_PATHS = ("/Users/jjthrash/Downloads/OpenCV-2.2.0/.", "/Users/jjthrash/Downloads/OpenCV-2.2.0", "/Users/jjthrash/Downloads/OpenCV-2.2.0/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/src", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/../core/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/../imgproc/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/../highgui/include", );
+                            INSTALL_PATH = "";
+                            OTHER_CFLAGS = "  ";
+                            OTHER_LDFLAGS = "";
+                            OTHER_REZFLAGS = "";
+                            PREBINDING = NO;
+                            PRODUCT_NAME = RUN_TESTS;
+                            SECTORDER_FLAGS = "";
+                            SYMROOT = "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect";
+                            USE_HEADERMAP = NO;
+                            WARNING_CFLAGS = ("-Wmost", "-Wno-four-char-constants", "-Wno-unknown-pragmas", );
+                     };
+                     name = Debug;
+              };
+              10108B97010108B97010108B /* Release */ = {
+                     isa = XCBuildConfiguration;
+                     buildSettings = {
+                            GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
+                            GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+                            GCC_OPTIMIZATION_LEVEL = 0;
+                            GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)\"'", HAVE_ALLOCA, HAVE_ALLOCA_H, HAVE_LIBPTHREAD, HAVE_UNISTD_H, HAVE_CONFIG_H, CVAPI_EXPORTS, );
+                            GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+                            HEADER_SEARCH_PATHS = ("/Users/jjthrash/Downloads/OpenCV-2.2.0/.", "/Users/jjthrash/Downloads/OpenCV-2.2.0", "/Users/jjthrash/Downloads/OpenCV-2.2.0/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/src", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/../core/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/../imgproc/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/../highgui/include", );
+                            INSTALL_PATH = "";
+                            OTHER_CFLAGS = "  ";
+                            OTHER_LDFLAGS = "";
+                            OTHER_REZFLAGS = "";
+                            PREBINDING = NO;
+                            PRODUCT_NAME = RUN_TESTS;
+                            SECTORDER_FLAGS = "";
+                            SYMROOT = "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect";
+                            USE_HEADERMAP = NO;
+                            WARNING_CFLAGS = ("-Wmost", "-Wno-four-char-constants", "-Wno-unknown-pragmas", );
+                     };
+                     name = Release;
+              };
+              1010E81D01010E81D01010E8 /* MinSizeRel */ = {
+                     isa = XCBuildConfiguration;
+                     buildSettings = {
+                            GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
+                            GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+                            GCC_OPTIMIZATION_LEVEL = 0;
+                            GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)\"'", HAVE_ALLOCA, HAVE_ALLOCA_H, HAVE_LIBPTHREAD, HAVE_UNISTD_H, HAVE_CONFIG_H, CVAPI_EXPORTS, );
+                            GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+                            HEADER_SEARCH_PATHS = ("/Users/jjthrash/Downloads/OpenCV-2.2.0/.", "/Users/jjthrash/Downloads/OpenCV-2.2.0", "/Users/jjthrash/Downloads/OpenCV-2.2.0/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/src", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/../core/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/../imgproc/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/../highgui/include", );
+                            INSTALL_PATH = "";
+                            OTHER_CFLAGS = "  ";
+                            OTHER_LDFLAGS = "";
+                            OTHER_REZFLAGS = "";
+                            PREBINDING = NO;
+                            PRODUCT_NAME = RUN_TESTS;
+                            SECTORDER_FLAGS = "";
+                            SYMROOT = "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect";
+                            USE_HEADERMAP = NO;
+                            WARNING_CFLAGS = ("-Wmost", "-Wno-four-char-constants", "-Wno-unknown-pragmas", );
+                     };
+                     name = MinSizeRel;
+              };
+              1010AEA201010AEA201010AE /* RelWithDebInfo */ = {
+                     isa = XCBuildConfiguration;
+                     buildSettings = {
+                            GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
+                            GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+                            GCC_OPTIMIZATION_LEVEL = 0;
+                            GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)\"'", HAVE_ALLOCA, HAVE_ALLOCA_H, HAVE_LIBPTHREAD, HAVE_UNISTD_H, HAVE_CONFIG_H, CVAPI_EXPORTS, );
+                            GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+                            HEADER_SEARCH_PATHS = ("/Users/jjthrash/Downloads/OpenCV-2.2.0/.", "/Users/jjthrash/Downloads/OpenCV-2.2.0", "/Users/jjthrash/Downloads/OpenCV-2.2.0/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/src", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/../core/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/../imgproc/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/../highgui/include", );
+                            INSTALL_PATH = "";
+                            OTHER_CFLAGS = "  ";
+                            OTHER_LDFLAGS = "";
+                            OTHER_REZFLAGS = "";
+                            PREBINDING = NO;
+                            PRODUCT_NAME = RUN_TESTS;
+                            SECTORDER_FLAGS = "";
+                            SYMROOT = "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect";
+                            USE_HEADERMAP = NO;
+                            WARNING_CFLAGS = ("-Wmost", "-Wno-four-char-constants", "-Wno-unknown-pragmas", );
+                     };
+                     name = RelWithDebInfo;
+              };
+              101059490101059490101059 /* Debug */ = {
+                     isa = XCBuildConfiguration;
+                     buildSettings = {
+                            GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
+                            GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+                            GCC_OPTIMIZATION_LEVEL = 0;
+                            GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)\"'", HAVE_ALLOCA, HAVE_ALLOCA_H, HAVE_LIBPTHREAD, HAVE_UNISTD_H, HAVE_CONFIG_H, CVAPI_EXPORTS, );
+                            GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+                            HEADER_SEARCH_PATHS = ("/Users/jjthrash/Downloads/OpenCV-2.2.0/.", "/Users/jjthrash/Downloads/OpenCV-2.2.0", "/Users/jjthrash/Downloads/OpenCV-2.2.0/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/src", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/../core/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/../imgproc/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/../highgui/include", );
+                            INSTALL_PATH = "";
+                            OTHER_CFLAGS = "  ";
+                            OTHER_LDFLAGS = "";
+                            OTHER_REZFLAGS = "";
+                            PREBINDING = NO;
+                            PRODUCT_NAME = install;
+                            SECTORDER_FLAGS = "";
+                            SYMROOT = "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect";
+                            USE_HEADERMAP = NO;
+                            WARNING_CFLAGS = ("-Wmost", "-Wno-four-char-constants", "-Wno-unknown-pragmas", );
+                     };
+                     name = Debug;
+              };
+              1010E86701010E86701010E8 /* Release */ = {
+                     isa = XCBuildConfiguration;
+                     buildSettings = {
+                            GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
+                            GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+                            GCC_OPTIMIZATION_LEVEL = 0;
+                            GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)\"'", HAVE_ALLOCA, HAVE_ALLOCA_H, HAVE_LIBPTHREAD, HAVE_UNISTD_H, HAVE_CONFIG_H, CVAPI_EXPORTS, );
+                            GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+                            HEADER_SEARCH_PATHS = ("/Users/jjthrash/Downloads/OpenCV-2.2.0/.", "/Users/jjthrash/Downloads/OpenCV-2.2.0", "/Users/jjthrash/Downloads/OpenCV-2.2.0/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/src", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/../core/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/../imgproc/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/../highgui/include", );
+                            INSTALL_PATH = "";
+                            OTHER_CFLAGS = "  ";
+                            OTHER_LDFLAGS = "";
+                            OTHER_REZFLAGS = "";
+                            PREBINDING = NO;
+                            PRODUCT_NAME = install;
+                            SECTORDER_FLAGS = "";
+                            SYMROOT = "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect";
+                            USE_HEADERMAP = NO;
+                            WARNING_CFLAGS = ("-Wmost", "-Wno-four-char-constants", "-Wno-unknown-pragmas", );
+                     };
+                     name = Release;
+              };
+              101035120101035120101035 /* MinSizeRel */ = {
+                     isa = XCBuildConfiguration;
+                     buildSettings = {
+                            GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
+                            GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+                            GCC_OPTIMIZATION_LEVEL = 0;
+                            GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)\"'", HAVE_ALLOCA, HAVE_ALLOCA_H, HAVE_LIBPTHREAD, HAVE_UNISTD_H, HAVE_CONFIG_H, CVAPI_EXPORTS, );
+                            GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+                            HEADER_SEARCH_PATHS = ("/Users/jjthrash/Downloads/OpenCV-2.2.0/.", "/Users/jjthrash/Downloads/OpenCV-2.2.0", "/Users/jjthrash/Downloads/OpenCV-2.2.0/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/src", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/../core/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/../imgproc/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/../highgui/include", );
+                            INSTALL_PATH = "";
+                            OTHER_CFLAGS = "  ";
+                            OTHER_LDFLAGS = "";
+                            OTHER_REZFLAGS = "";
+                            PREBINDING = NO;
+                            PRODUCT_NAME = install;
+                            SECTORDER_FLAGS = "";
+                            SYMROOT = "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect";
+                            USE_HEADERMAP = NO;
+                            WARNING_CFLAGS = ("-Wmost", "-Wno-four-char-constants", "-Wno-unknown-pragmas", );
+                     };
+                     name = MinSizeRel;
+              };
+              1010D68401010D68401010D6 /* RelWithDebInfo */ = {
+                     isa = XCBuildConfiguration;
+                     buildSettings = {
+                            GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
+                            GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+                            GCC_OPTIMIZATION_LEVEL = 0;
+                            GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)\"'", HAVE_ALLOCA, HAVE_ALLOCA_H, HAVE_LIBPTHREAD, HAVE_UNISTD_H, HAVE_CONFIG_H, CVAPI_EXPORTS, );
+                            GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+                            HEADER_SEARCH_PATHS = ("/Users/jjthrash/Downloads/OpenCV-2.2.0/.", "/Users/jjthrash/Downloads/OpenCV-2.2.0", "/Users/jjthrash/Downloads/OpenCV-2.2.0/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/src", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/../core/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/../imgproc/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/../highgui/include", );
+                            INSTALL_PATH = "";
+                            OTHER_CFLAGS = "  ";
+                            OTHER_LDFLAGS = "";
+                            OTHER_REZFLAGS = "";
+                            PREBINDING = NO;
+                            PRODUCT_NAME = install;
+                            SECTORDER_FLAGS = "";
+                            SYMROOT = "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect";
+                            USE_HEADERMAP = NO;
+                            WARNING_CFLAGS = ("-Wmost", "-Wno-four-char-constants", "-Wno-unknown-pragmas", );
+                     };
+                     name = RelWithDebInfo;
+              };
+              10109E9E010109E9E010109E /* Debug */ = {
+                     isa = XCBuildConfiguration;
+                     buildSettings = {
+                            CONFIGURATION_BUILD_DIR = "/Users/jjthrash/Downloads/OpenCV-2.2.0/lib/Debug";
+                            EXECUTABLE_PREFIX = lib;
+                            EXECUTABLE_SUFFIX = ".a";
+                            GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
+                            GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+                            GCC_OPTIMIZATION_LEVEL = 0;
+                            GCC_PRECOMPILE_PREFIX_HEADER = YES;
+                            GCC_PREFIX_HEADER = "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/src/precomp.hpp";
+                            GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)\"'", HAVE_ALLOCA, HAVE_ALLOCA_H, HAVE_LIBPTHREAD, HAVE_UNISTD_H, HAVE_CONFIG_H, CVAPI_EXPORTS, );
+                            GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+                            HEADER_SEARCH_PATHS = ("/Users/jjthrash/Downloads/OpenCV-2.2.0/.", "/Users/jjthrash/Downloads/OpenCV-2.2.0", "/Users/jjthrash/Downloads/OpenCV-2.2.0/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/src", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/../core/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/../imgproc/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/../highgui/include", );
+                            INSTALL_PATH = "";
+                            LIBRARY_STYLE = STATIC;
+                            OTHER_CFLAGS = "  -Wall -pthread          -ggdb3 -DDEBUG -D_DEBUG   ";
+                            OTHER_CPLUSPLUSFLAGS = "  -Wall -pthread          -ggdb3 -DDEBUG -D_DEBUG   ";
+                            OTHER_LDFLAGS = "";
+                            OTHER_REZFLAGS = "";
+                            PREBINDING = NO;
+                            PRODUCT_NAME = opencv_objdetect;
+                            SECTORDER_FLAGS = "";
+                            SYMROOT = "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect";
+                            USE_HEADERMAP = NO;
+                            WARNING_CFLAGS = ("-Wmost", "-Wno-four-char-constants", "-Wno-unknown-pragmas", );
+                     };
+                     name = Debug;
+              };
+              10109ED7010109ED7010109E /* Release */ = {
+                     isa = XCBuildConfiguration;
+                     buildSettings = {
+                            CONFIGURATION_BUILD_DIR = "/Users/jjthrash/Downloads/OpenCV-2.2.0/lib/Release";
+                            EXECUTABLE_PREFIX = lib;
+                            EXECUTABLE_SUFFIX = ".a";
+                            GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
+                            GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+                            GCC_OPTIMIZATION_LEVEL = 3;
+                            GCC_PRECOMPILE_PREFIX_HEADER = YES;
+                            GCC_PREFIX_HEADER = "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/src/precomp.hpp";
+                            GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)\"'", HAVE_ALLOCA, HAVE_ALLOCA_H, HAVE_LIBPTHREAD, HAVE_UNISTD_H, HAVE_CONFIG_H, CVAPI_EXPORTS, );
+                            GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+                            HEADER_SEARCH_PATHS = ("/Users/jjthrash/Downloads/OpenCV-2.2.0/.", "/Users/jjthrash/Downloads/OpenCV-2.2.0", "/Users/jjthrash/Downloads/OpenCV-2.2.0/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/src", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/../core/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/../imgproc/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/../highgui/include", );
+                            INSTALL_PATH = "";
+                            LIBRARY_STYLE = STATIC;
+                            OTHER_CFLAGS = "  -Wall -pthread      -DNDEBUG  -fomit-frame-pointer -O3 -ffast-math -DNDEBUG   ";
+                            OTHER_CPLUSPLUSFLAGS = "  -Wall -pthread      -DNDEBUG  -fomit-frame-pointer -O3 -ffast-math -DNDEBUG   ";
+                            OTHER_LDFLAGS = "";
+                            OTHER_REZFLAGS = "";
+                            PREBINDING = NO;
+                            PRODUCT_NAME = opencv_objdetect;
+                            SECTORDER_FLAGS = "";
+                            SYMROOT = "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect";
+                            USE_HEADERMAP = NO;
+                            WARNING_CFLAGS = ("-Wmost", "-Wno-four-char-constants", "-Wno-unknown-pragmas", );
+                     };
+                     name = Release;
+              };
+              101026D20101026D20101026 /* MinSizeRel */ = {
+                     isa = XCBuildConfiguration;
+                     buildSettings = {
+                            CONFIGURATION_BUILD_DIR = "/Users/jjthrash/Downloads/OpenCV-2.2.0/lib/MinSizeRel";
+                            EXECUTABLE_PREFIX = lib;
+                            EXECUTABLE_SUFFIX = ".a";
+                            GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
+                            GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+                            GCC_OPTIMIZATION_LEVEL = 0;
+                            GCC_PRECOMPILE_PREFIX_HEADER = YES;
+                            GCC_PREFIX_HEADER = "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/src/precomp.hpp";
+                            GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)\"'", HAVE_ALLOCA, HAVE_ALLOCA_H, HAVE_LIBPTHREAD, HAVE_UNISTD_H, HAVE_CONFIG_H, CVAPI_EXPORTS, );
+                            GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+                            HEADER_SEARCH_PATHS = ("/Users/jjthrash/Downloads/OpenCV-2.2.0/.", "/Users/jjthrash/Downloads/OpenCV-2.2.0", "/Users/jjthrash/Downloads/OpenCV-2.2.0/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/src", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/../core/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/../imgproc/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/../highgui/include", );
+                            INSTALL_PATH = "";
+                            LIBRARY_STYLE = STATIC;
+                            OTHER_CFLAGS = "  -Wall -pthread   ";
+                            OTHER_CPLUSPLUSFLAGS = "  -Wall -pthread   ";
+                            OTHER_LDFLAGS = "";
+                            OTHER_REZFLAGS = "";
+                            PREBINDING = NO;
+                            PRODUCT_NAME = opencv_objdetect;
+                            SECTORDER_FLAGS = "";
+                            SYMROOT = "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect";
+                            USE_HEADERMAP = NO;
+                            WARNING_CFLAGS = ("-Wmost", "-Wno-four-char-constants", "-Wno-unknown-pragmas", );
+                     };
+                     name = MinSizeRel;
+              };
+              10101AF5010101AF5010101A /* RelWithDebInfo */ = {
+                     isa = XCBuildConfiguration;
+                     buildSettings = {
+                            CONFIGURATION_BUILD_DIR = "/Users/jjthrash/Downloads/OpenCV-2.2.0/lib/RelWithDebInfo";
+                            EXECUTABLE_PREFIX = lib;
+                            EXECUTABLE_SUFFIX = ".a";
+                            GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
+                            GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+                            GCC_OPTIMIZATION_LEVEL = 0;
+                            GCC_PRECOMPILE_PREFIX_HEADER = YES;
+                            GCC_PREFIX_HEADER = "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/src/precomp.hpp";
+                            GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)\"'", HAVE_ALLOCA, HAVE_ALLOCA_H, HAVE_LIBPTHREAD, HAVE_UNISTD_H, HAVE_CONFIG_H, CVAPI_EXPORTS, );
+                            GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+                            HEADER_SEARCH_PATHS = ("/Users/jjthrash/Downloads/OpenCV-2.2.0/.", "/Users/jjthrash/Downloads/OpenCV-2.2.0", "/Users/jjthrash/Downloads/OpenCV-2.2.0/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/src", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/../core/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/../imgproc/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/../highgui/include", );
+                            INSTALL_PATH = "";
+                            LIBRARY_STYLE = STATIC;
+                            OTHER_CFLAGS = "  -Wall -pthread   ";
+                            OTHER_CPLUSPLUSFLAGS = "  -Wall -pthread   ";
+                            OTHER_LDFLAGS = "";
+                            OTHER_REZFLAGS = "";
+                            PREBINDING = NO;
+                            PRODUCT_NAME = opencv_objdetect;
+                            SECTORDER_FLAGS = "";
+                            SYMROOT = "/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect";
+                            USE_HEADERMAP = NO;
+                            WARNING_CFLAGS = ("-Wmost", "-Wno-four-char-constants", "-Wno-unknown-pragmas", );
+                     };
+                     name = RelWithDebInfo;
+              };
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+              101044700101044700101044 /* Build configuration list for PBXProject  "opencv_objdetect" */ = {
+                     isa = XCConfigurationList;
+                     buildConfigurations = (
+                            1010E1F401010E1F401010E1 /* Debug */,
+                            1010B00301010B00301010B0 /* Release */,
+                            1010F7AC01010F7AC01010F7 /* MinSizeRel */,
+                            1010D53901010D53901010D5 /* RelWithDebInfo */,
+                     );
+                     defaultConfigurationIsVisible = 0;
+                     defaultConfigurationName = Debug;
+              };
+              1010B94D01010B94D01010B9 /* Build configuration list for PBXAggregateTarget "ALL_BUILD" */ = {
+                     isa = XCConfigurationList;
+                     buildConfigurations = (
+                            1010AB0B01010AB0B01010AB /* Debug */,
+                            101010070101010070101010 /* Release */,
+                            1010AAD801010AAD801010AA /* MinSizeRel */,
+                            1010C3BC01010C3BC01010C3 /* RelWithDebInfo */,
+                     );
+                     defaultConfigurationIsVisible = 0;
+                     defaultConfigurationName = Debug;
+              };
+              101043A10101043A10101043 /* Build configuration list for PBXAggregateTarget "RUN_TESTS" */ = {
+                     isa = XCConfigurationList;
+                     buildConfigurations = (
+                            101088010101088010101088 /* Debug */,
+                            10108B97010108B97010108B /* Release */,
+                            1010E81D01010E81D01010E8 /* MinSizeRel */,
+                            1010AEA201010AEA201010AE /* RelWithDebInfo */,
+                     );
+                     defaultConfigurationIsVisible = 0;
+                     defaultConfigurationName = Debug;
+              };
+              101058C70101058C70101058 /* Build configuration list for PBXAggregateTarget "install" */ = {
+                     isa = XCConfigurationList;
+                     buildConfigurations = (
+                            101059490101059490101059 /* Debug */,
+                            1010E86701010E86701010E8 /* Release */,
+                            101035120101035120101035 /* MinSizeRel */,
+                            1010D68401010D68401010D6 /* RelWithDebInfo */,
+                     );
+                     defaultConfigurationIsVisible = 0;
+                     defaultConfigurationName = Debug;
+              };
+              10109E14010109E14010109E /* Build configuration list for PBXNativeTarget "opencv_objdetect" */ = {
+                     isa = XCConfigurationList;
+                     buildConfigurations = (
+                            10109E9E010109E9E010109E /* Debug */,
+                            10109ED7010109ED7010109E /* Release */,
+                            101026D20101026D20101026 /* MinSizeRel */,
+                            10101AF5010101AF5010101A /* RelWithDebInfo */,
+                     );
+                     defaultConfigurationIsVisible = 0;
+                     defaultConfigurationName = Debug;
+              };
+/* End XCConfigurationList section */
+       };
+       rootObject = 10103F4F010103F4F010103F;
+}

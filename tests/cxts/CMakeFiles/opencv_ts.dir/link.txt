@@ -1,0 +1,2 @@
+/usr/bin/ar cr ../../lib/libopencv_ts.a  CMakeFiles/opencv_ts.dir/cxts.o CMakeFiles/opencv_ts.dir/cxts_arrtest.o CMakeFiles/opencv_ts.dir/cxts_math.o CMakeFiles/opencv_ts.dir/precomp.o
+/usr/bin/ranlib ../../lib/libopencv_ts.a

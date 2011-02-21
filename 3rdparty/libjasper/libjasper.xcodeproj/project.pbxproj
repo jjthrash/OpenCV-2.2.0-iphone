@@ -1,0 +1,1126 @@
+// !$*UTF8*$!
+{
+       archiveVersion = 1;
+       classes = {
+       };
+       objectVersion = 45;
+       objects = {
+
+/* Begin PBXAggregateTarget section */
+              1010F90F01010F90F01010F9 /* ALL_BUILD */ = {
+                     isa = PBXAggregateTarget;
+                     buildConfigurationList = 1010FA8E01010FA8E01010FA /* Build configuration list for PBXAggregateTarget "ALL_BUILD" */;
+                     buildPhases = (
+                            1010F94401010F94401010F9 /* CMake ReRun */,
+                            1010F9E201010F9E201010F9 /* CMake Rules */,
+                     );
+                     dependencies = (
+                            10102DC8010102DC8010102D /* PBXTargetDependency */,
+                     );
+                     name = ALL_BUILD;
+                     productName = ALL_BUILD;
+              };
+              1010B0D601010B0D601010B0 /* RUN_TESTS */ = {
+                     isa = PBXAggregateTarget;
+                     buildConfigurationList = 1010B23E01010B23E01010B2 /* Build configuration list for PBXAggregateTarget "RUN_TESTS" */;
+                     buildPhases = (
+                            1010B10101010B10101010B1 /* CMake ReRun */,
+                            1010B19F01010B19F01010B1 /* CMake PostBuild Rules */,
+                     );
+                     dependencies = (
+                     );
+                     name = RUN_TESTS;
+                     productName = RUN_TESTS;
+              };
+              1010C23401010C23401010C2 /* install */ = {
+                     isa = PBXAggregateTarget;
+                     buildConfigurationList = 1010C39A01010C39A01010C3 /* Build configuration list for PBXAggregateTarget "install" */;
+                     buildPhases = (
+                            1010C25F01010C25F01010C2 /* CMake ReRun */,
+                            1010C2FB01010C2FB01010C2 /* CMake PostBuild Rules */,
+                     );
+                     dependencies = (
+                            10102AD4010102AD4010102A /* PBXTargetDependency */,
+                     );
+                     name = install;
+                     productName = install;
+              };
+/* End PBXAggregateTarget section */
+
+/* Begin PBXBuildFile section */
+1010D38501010D38501010D3 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_cm.c */ = {isa = PBXBuildFile; fileRef = 1010D2D901010D2D901010D2 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_cm.c */; settings = { COMPILER_FLAGS = ""; }; };
+1010D48301010D48301010D4 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_debug.c */ = {isa = PBXBuildFile; fileRef = 1010D3D401010D3D401010D3 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_debug.c */; settings = { COMPILER_FLAGS = ""; }; };
+1010D58601010D58601010D5 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_getopt.c */ = {isa = PBXBuildFile; fileRef = 1010D4D401010D4D401010D4 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_getopt.c */; settings = { COMPILER_FLAGS = ""; }; };
+1010D68501010D68501010D6 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_icc.c */ = {isa = PBXBuildFile; fileRef = 1010D5D601010D5D601010D5 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_icc.c */; settings = { COMPILER_FLAGS = ""; }; };
+1010D78801010D78801010D7 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_iccdata.c */ = {isa = PBXBuildFile; fileRef = 1010D6D601010D6D601010D6 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_iccdata.c */; settings = { COMPILER_FLAGS = ""; }; };
+1010D88501010D88501010D8 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_image.c */ = {isa = PBXBuildFile; fileRef = 1010D7D901010D7D901010D7 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_image.c */; settings = { COMPILER_FLAGS = ""; }; };
+1010D98301010D98301010D9 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_init.c */ = {isa = PBXBuildFile; fileRef = 1010D8D401010D8D401010D8 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_init.c */; settings = { COMPILER_FLAGS = ""; }; };
+1010DA8301010DA8301010DA /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_malloc.c */ = {isa = PBXBuildFile; fileRef = 1010D9D401010D9D401010D9 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_malloc.c */; settings = { COMPILER_FLAGS = ""; }; };
+1010DB8801010DB8801010DB /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_seq.c */ = {isa = PBXBuildFile; fileRef = 1010DAD401010DAD401010DA /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_seq.c */; settings = { COMPILER_FLAGS = ""; }; };
+1010DC8701010DC8701010DC /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_stream.c */ = {isa = PBXBuildFile; fileRef = 1010DBE001010DBE001010DB /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_stream.c */; settings = { COMPILER_FLAGS = ""; }; };
+1010DD8701010DD8701010DD /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_string.c */ = {isa = PBXBuildFile; fileRef = 1010DCD801010DCD801010DC /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_string.c */; settings = { COMPILER_FLAGS = ""; }; };
+1010DE8701010DE8701010DE /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_tmr.c */ = {isa = PBXBuildFile; fileRef = 1010DDD801010DDD801010DD /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_tmr.c */; settings = { COMPILER_FLAGS = ""; }; };
+1010DF8701010DF8701010DF /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_tvp.c */ = {isa = PBXBuildFile; fileRef = 1010DED801010DED801010DE /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_tvp.c */; settings = { COMPILER_FLAGS = ""; }; };
+1010E08701010E08701010E0 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_version.c */ = {isa = PBXBuildFile; fileRef = 1010DFD801010DFD801010DF /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_version.c */; settings = { COMPILER_FLAGS = ""; }; };
+1010E18701010E18701010E1 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jp2_cod.c */ = {isa = PBXBuildFile; fileRef = 1010E0D801010E0D801010E0 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jp2_cod.c */; settings = { COMPILER_FLAGS = ""; }; };
+1010E28701010E28701010E2 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jp2_dec.c */ = {isa = PBXBuildFile; fileRef = 1010E1D801010E1D801010E1 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jp2_dec.c */; settings = { COMPILER_FLAGS = ""; }; };
+1010E38E01010E38E01010E3 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jp2_enc.c */ = {isa = PBXBuildFile; fileRef = 1010E2D801010E2D801010E2 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jp2_enc.c */; settings = { COMPILER_FLAGS = ""; }; };
+1010E49501010E49501010E4 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_bs.c */ = {isa = PBXBuildFile; fileRef = 1010E3EB01010E3EB01010E3 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_bs.c */; settings = { COMPILER_FLAGS = ""; }; };
+1010E59501010E59501010E5 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_cs.c */ = {isa = PBXBuildFile; fileRef = 1010E4E601010E4E601010E4 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_cs.c */; settings = { COMPILER_FLAGS = ""; }; };
+1010E69501010E69501010E6 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_dec.c */ = {isa = PBXBuildFile; fileRef = 1010E5E601010E5E601010E5 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_dec.c */; settings = { COMPILER_FLAGS = ""; }; };
+1010E79501010E79501010E7 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_enc.c */ = {isa = PBXBuildFile; fileRef = 1010E6E601010E6E601010E6 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_enc.c */; settings = { COMPILER_FLAGS = ""; }; };
+1010E89501010E89501010E8 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_math.c */ = {isa = PBXBuildFile; fileRef = 1010E7E601010E7E601010E7 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_math.c */; settings = { COMPILER_FLAGS = ""; }; };
+1010E99501010E99501010E9 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_mct.c */ = {isa = PBXBuildFile; fileRef = 1010E8E601010E8E601010E8 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_mct.c */; settings = { COMPILER_FLAGS = ""; }; };
+1010EA9501010EA9501010EA /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_mqcod.c */ = {isa = PBXBuildFile; fileRef = 1010E9E601010E9E601010E9 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_mqcod.c */; settings = { COMPILER_FLAGS = ""; }; };
+1010EB9501010EB9501010EB /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_mqdec.c */ = {isa = PBXBuildFile; fileRef = 1010EAE601010EAE601010EA /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_mqdec.c */; settings = { COMPILER_FLAGS = ""; }; };
+1010EC9501010EC9501010EC /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_mqenc.c */ = {isa = PBXBuildFile; fileRef = 1010EBE601010EBE601010EB /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_mqenc.c */; settings = { COMPILER_FLAGS = ""; }; };
+1010ED9501010ED9501010ED /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_qmfb.c */ = {isa = PBXBuildFile; fileRef = 1010ECE601010ECE601010EC /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_qmfb.c */; settings = { COMPILER_FLAGS = ""; }; };
+1010EE9501010EE9501010EE /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_t1cod.c */ = {isa = PBXBuildFile; fileRef = 1010EDE601010EDE601010ED /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_t1cod.c */; settings = { COMPILER_FLAGS = ""; }; };
+1010EF9501010EF9501010EF /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_t1dec.c */ = {isa = PBXBuildFile; fileRef = 1010EEE601010EEE601010EE /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_t1dec.c */; settings = { COMPILER_FLAGS = ""; }; };
+1010F09501010F09501010F0 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_t1enc.c */ = {isa = PBXBuildFile; fileRef = 1010EFE601010EFE601010EF /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_t1enc.c */; settings = { COMPILER_FLAGS = ""; }; };
+1010F19501010F19501010F1 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_t2cod.c */ = {isa = PBXBuildFile; fileRef = 1010F0E601010F0E601010F0 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_t2cod.c */; settings = { COMPILER_FLAGS = ""; }; };
+1010F29501010F29501010F2 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_t2dec.c */ = {isa = PBXBuildFile; fileRef = 1010F1E601010F1E601010F1 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_t2dec.c */; settings = { COMPILER_FLAGS = ""; }; };
+1010F3A601010F3A601010F3 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_t2enc.c */ = {isa = PBXBuildFile; fileRef = 1010F2E601010F2E601010F2 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_t2enc.c */; settings = { COMPILER_FLAGS = ""; }; };
+1010F4B201010F4B201010F4 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_tagtree.c */ = {isa = PBXBuildFile; fileRef = 1010F41001010F41001010F4 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_tagtree.c */; settings = { COMPILER_FLAGS = ""; }; };
+1010F5B001010F5B001010F5 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_tsfb.c */ = {isa = PBXBuildFile; fileRef = 1010F50101010F50101010F5 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_tsfb.c */; settings = { COMPILER_FLAGS = ""; }; };
+1010F6B001010F6B001010F6 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_util.c */ = {isa = PBXBuildFile; fileRef = 1010F60101010F60101010F6 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_util.c */; settings = { COMPILER_FLAGS = ""; }; };
+101054AA0101054AA0101054 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jp2_cod.h */ = {isa = PBXBuildFile; fileRef = 1010F70101010F70101010F7 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jp2_cod.h */; settings = { COMPILER_FLAGS = ""; }; };
+101055AB0101055AB0101055 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jp2_dec.h */ = {isa = PBXBuildFile; fileRef = 101054FC0101054FC0101054 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jp2_dec.h */; settings = { COMPILER_FLAGS = ""; }; };
+101056AE0101056AE0101056 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_bs.h */ = {isa = PBXBuildFile; fileRef = 101055FC0101055FC0101055 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_bs.h */; settings = { COMPILER_FLAGS = ""; }; };
+101057AD0101057AD0101057 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_cod.h */ = {isa = PBXBuildFile; fileRef = 101056FE0101056FE0101056 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_cod.h */; settings = { COMPILER_FLAGS = ""; }; };
+101058B00101058B00101058 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_cs.h */ = {isa = PBXBuildFile; fileRef = 101057FE0101057FE0101057 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_cs.h */; settings = { COMPILER_FLAGS = ""; }; };
+101059AE0101059AE0101059 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_dec.h */ = {isa = PBXBuildFile; fileRef = 101059020101059020101059 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_dec.h */; settings = { COMPILER_FLAGS = ""; }; };
+10105AAC010105AAC010105A /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_enc.h */ = {isa = PBXBuildFile; fileRef = 101059FD0101059FD0101059 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_enc.h */; settings = { COMPILER_FLAGS = ""; }; };
+10105BAC010105BAC010105B /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_fix.h */ = {isa = PBXBuildFile; fileRef = 10105AFD010105AFD010105A /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_fix.h */; settings = { COMPILER_FLAGS = ""; }; };
+10105CB1010105CB1010105C /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_flt.h */ = {isa = PBXBuildFile; fileRef = 10105BFD010105BFD010105B /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_flt.h */; settings = { COMPILER_FLAGS = ""; }; };
+10105DB1010105DB1010105D /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_math.h */ = {isa = PBXBuildFile; fileRef = 10105D07010105D07010105D /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_math.h */; settings = { COMPILER_FLAGS = ""; }; };
+10105EAF010105EAF010105E /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_mct.h */ = {isa = PBXBuildFile; fileRef = 10105E00010105E00010105E /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_mct.h */; settings = { COMPILER_FLAGS = ""; }; };
+10105FAF010105FAF010105F /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_mqcod.h */ = {isa = PBXBuildFile; fileRef = 10105F00010105F00010105F /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_mqcod.h */; settings = { COMPILER_FLAGS = ""; }; };
+101060AF0101060AF0101060 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_mqdec.h */ = {isa = PBXBuildFile; fileRef = 101060000101060000101060 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_mqdec.h */; settings = { COMPILER_FLAGS = ""; }; };
+101061AF0101061AF0101061 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_mqenc.h */ = {isa = PBXBuildFile; fileRef = 101061000101061000101061 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_mqenc.h */; settings = { COMPILER_FLAGS = ""; }; };
+101062AF0101062AF0101062 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_qmfb.h */ = {isa = PBXBuildFile; fileRef = 101062000101062000101062 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_qmfb.h */; settings = { COMPILER_FLAGS = ""; }; };
+101063AF0101063AF0101063 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_t1cod.h */ = {isa = PBXBuildFile; fileRef = 101063000101063000101063 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_t1cod.h */; settings = { COMPILER_FLAGS = ""; }; };
+101064B60101064B60101064 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_t1dec.h */ = {isa = PBXBuildFile; fileRef = 101064000101064000101064 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_t1dec.h */; settings = { COMPILER_FLAGS = ""; }; };
+101065BD0101065BD0101065 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_t1enc.h */ = {isa = PBXBuildFile; fileRef = 101065110101065110101065 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_t1enc.h */; settings = { COMPILER_FLAGS = ""; }; };
+101066BB0101066BB0101066 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_t2cod.h */ = {isa = PBXBuildFile; fileRef = 1010660C01010660C0101066 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_t2cod.h */; settings = { COMPILER_FLAGS = ""; }; };
+101067BB0101067BB0101067 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_t2dec.h */ = {isa = PBXBuildFile; fileRef = 1010670C01010670C0101067 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_t2dec.h */; settings = { COMPILER_FLAGS = ""; }; };
+101068BB0101068BB0101068 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_t2enc.h */ = {isa = PBXBuildFile; fileRef = 1010680C01010680C0101068 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_t2enc.h */; settings = { COMPILER_FLAGS = ""; }; };
+101069BB0101069BB0101069 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_tagtree.h */ = {isa = PBXBuildFile; fileRef = 1010690C01010690C0101069 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_tagtree.h */; settings = { COMPILER_FLAGS = ""; }; };
+10106ABB010106ABB010106A /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_tsfb.h */ = {isa = PBXBuildFile; fileRef = 10106A0C010106A0C010106A /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_tsfb.h */; settings = { COMPILER_FLAGS = ""; }; };
+10106BBB010106BBB010106B /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_util.h */ = {isa = PBXBuildFile; fileRef = 10106B0C010106B0C010106B /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_util.h */; settings = { COMPILER_FLAGS = ""; }; };
+101042660101042660101042 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/jasper/jas_cm.h */ = {isa = PBXBuildFile; fileRef = 101041BE0101041BE0101041 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/jasper/jas_cm.h */; settings = { COMPILER_FLAGS = ""; }; };
+1010436D01010436D0101043 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/jasper/jas_config.h */ = {isa = PBXBuildFile; fileRef = 101042B80101042B80101042 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/jasper/jas_config.h */; settings = { COMPILER_FLAGS = ""; }; };
+101044710101044710101044 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/jasper/jas_config2.h */ = {isa = PBXBuildFile; fileRef = 101043B80101043B80101043 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/jasper/jas_config2.h */; settings = { COMPILER_FLAGS = ""; }; };
+101045750101045750101045 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/jasper/jas_debug.h */ = {isa = PBXBuildFile; fileRef = 101044BC0101044BC0101044 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/jasper/jas_debug.h */; settings = { COMPILER_FLAGS = ""; }; };
+101046790101046790101046 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/jasper/jas_fix.h */ = {isa = PBXBuildFile; fileRef = 101045C00101045C00101045 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/jasper/jas_fix.h */; settings = { COMPILER_FLAGS = ""; }; };
+1010477D01010477D0101047 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/jasper/jas_getopt.h */ = {isa = PBXBuildFile; fileRef = 101046C40101046C40101046 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/jasper/jas_getopt.h */; settings = { COMPILER_FLAGS = ""; }; };
+101052020101052020101052 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/jasper/jas_icc.h */ = {isa = PBXBuildFile; fileRef = 101047C80101047C80101047 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/jasper/jas_icc.h */; settings = { COMPILER_FLAGS = ""; }; };
+101053060101053060101053 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/jasper/jas_image.h */ = {isa = PBXBuildFile; fileRef = 1010524D01010524D0101052 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/jasper/jas_image.h */; settings = { COMPILER_FLAGS = ""; }; };
+1010541A01010541A0101054 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/jasper/jas_init.h */ = {isa = PBXBuildFile; fileRef = 101053510101053510101053 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/jasper/jas_init.h */; settings = { COMPILER_FLAGS = ""; }; };
+101051510101051510101051 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/jasper/jas_malloc.h */ = {isa = PBXBuildFile; fileRef = 101050A20101050A20101050 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/jasper/jas_malloc.h */; settings = { COMPILER_FLAGS = ""; }; };
+10104E71010104E71010104E /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/jasper/jas_math.h */ = {isa = PBXBuildFile; fileRef = 10104DB8010104DB8010104D /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/jasper/jas_math.h */; settings = { COMPILER_FLAGS = ""; }; };
+10104F75010104F75010104F /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/jasper/jas_seq.h */ = {isa = PBXBuildFile; fileRef = 10104EBC010104EBC010104E /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/jasper/jas_seq.h */; settings = { COMPILER_FLAGS = ""; }; };
+10104CA0010104CA0010104C /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/jasper/jas_stream.h */ = {isa = PBXBuildFile; fileRef = 10104FC0010104FC0010104F /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/jasper/jas_stream.h */; settings = { COMPILER_FLAGS = ""; }; };
+101049C60101049C60101049 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/jasper/jas_string.h */ = {isa = PBXBuildFile; fileRef = 10104CEB010104CEB010104C /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/jasper/jas_string.h */; settings = { COMPILER_FLAGS = ""; }; };
+10104AC6010104AC6010104A /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/jasper/jas_tmr.h */ = {isa = PBXBuildFile; fileRef = 10104A11010104A11010104A /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/jasper/jas_tmr.h */; settings = { COMPILER_FLAGS = ""; }; };
+10104BCA010104BCA010104B /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/jasper/jas_tvp.h */ = {isa = PBXBuildFile; fileRef = 10104B11010104B11010104B /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/jasper/jas_tvp.h */; settings = { COMPILER_FLAGS = ""; }; };
+101048F90101048F90101048 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/jasper/jas_types.h */ = {isa = PBXBuildFile; fileRef = 10104C15010104C15010104C /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/jasper/jas_types.h */; settings = { COMPILER_FLAGS = ""; }; };
+1010484B01010484B0101048 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/jasper/jas_version.h */ = {isa = PBXBuildFile; fileRef = 101049440101049440101049 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/jasper/jas_version.h */; settings = { COMPILER_FLAGS = ""; }; };
+10102E90010102E90010102E /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/jasper/jasper.h */ = {isa = PBXBuildFile; fileRef = 1010355F01010355F0101035 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/jasper/jasper.h */; settings = { COMPILER_FLAGS = ""; }; };
+10102F48010102F48010102F /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/CMakeLists.txt */ = {isa = PBXBuildFile; fileRef = 1010AF7E01010AF7E01010AF /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/CMakeLists.txt */; settings = { COMPILER_FLAGS = ""; }; };
+/* End PBXBuildFile section */
+
+/* Begin PBXBuildStyle section */
+              10109CB6010109CB6010109C /*  */ = {
+                     isa = PBXBuildStyle;
+              };
+              101011A70101011A70101011 /* Debug */ = {
+                     isa = PBXBuildStyle;
+                     buildSettings = {
+                            COPY_PHASE_STRIP = NO;
+                     };
+                     name = Debug;
+              };
+              1010F7B801010F7B801010F7 /* Release */ = {
+                     isa = PBXBuildStyle;
+                     buildSettings = {
+                            COPY_PHASE_STRIP = NO;
+                     };
+                     name = Release;
+              };
+              10109C96010109C96010109C /* MinSizeRel */ = {
+                     isa = PBXBuildStyle;
+                     buildSettings = {
+                            COPY_PHASE_STRIP = NO;
+                     };
+                     name = MinSizeRel;
+              };
+              1010160D01010160D0101016 /* RelWithDebInfo */ = {
+                     isa = PBXBuildStyle;
+                     buildSettings = {
+                            COPY_PHASE_STRIP = NO;
+                     };
+                     name = RelWithDebInfo;
+              };
+/* End PBXBuildStyle section */
+
+/* Begin PBXContainerItemProxy section */
+              101050820101050820101050 /* PBXContainerItemProxy */ = {
+                     isa = PBXContainerItemProxy;
+                     containerPortal = 10101BEF010101BEF010101B /* Project object */;
+                     proxyType = 1;
+                     remoteGlobalIDString = 1010318C01010318C0101031;
+                     remoteInfo = libjasper;
+              };
+              10102E0E010102E0E010102E /* PBXContainerItemProxy */ = {
+                     isa = PBXContainerItemProxy;
+                     containerPortal = 10101BEF010101BEF010101B /* Project object */;
+                     proxyType = 1;
+                     remoteGlobalIDString = 1010F90F01010F90F01010F9;
+                     remoteInfo = ALL_BUILD;
+              };
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+1010AF7E01010AF7E01010AF /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/CMakeLists.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.text"; name = "CMakeLists.txt"; path = "CMakeLists.txt"; sourceTree = SOURCE_ROOT; };
+1010D2D901010D2D901010D2 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_cm.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.c.c"; name = "jas_cm.c"; path = "jas_cm.c"; sourceTree = SOURCE_ROOT; };
+1010D3D401010D3D401010D3 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_debug.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.c.c"; name = "jas_debug.c"; path = "jas_debug.c"; sourceTree = SOURCE_ROOT; };
+1010D4D401010D4D401010D4 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_getopt.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.c.c"; name = "jas_getopt.c"; path = "jas_getopt.c"; sourceTree = SOURCE_ROOT; };
+1010D5D601010D5D601010D5 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_icc.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.c.c"; name = "jas_icc.c"; path = "jas_icc.c"; sourceTree = SOURCE_ROOT; };
+1010D6D601010D6D601010D6 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_iccdata.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.c.c"; name = "jas_iccdata.c"; path = "jas_iccdata.c"; sourceTree = SOURCE_ROOT; };
+1010D7D901010D7D901010D7 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_image.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.c.c"; name = "jas_image.c"; path = "jas_image.c"; sourceTree = SOURCE_ROOT; };
+1010D8D401010D8D401010D8 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_init.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.c.c"; name = "jas_init.c"; path = "jas_init.c"; sourceTree = SOURCE_ROOT; };
+1010D9D401010D9D401010D9 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_malloc.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.c.c"; name = "jas_malloc.c"; path = "jas_malloc.c"; sourceTree = SOURCE_ROOT; };
+1010DAD401010DAD401010DA /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_seq.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.c.c"; name = "jas_seq.c"; path = "jas_seq.c"; sourceTree = SOURCE_ROOT; };
+1010DBE001010DBE001010DB /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_stream.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.c.c"; name = "jas_stream.c"; path = "jas_stream.c"; sourceTree = SOURCE_ROOT; };
+1010DCD801010DCD801010DC /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_string.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.c.c"; name = "jas_string.c"; path = "jas_string.c"; sourceTree = SOURCE_ROOT; };
+1010DDD801010DDD801010DD /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_tmr.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.c.c"; name = "jas_tmr.c"; path = "jas_tmr.c"; sourceTree = SOURCE_ROOT; };
+1010DED801010DED801010DE /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_tvp.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.c.c"; name = "jas_tvp.c"; path = "jas_tvp.c"; sourceTree = SOURCE_ROOT; };
+1010DFD801010DFD801010DF /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_version.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.c.c"; name = "jas_version.c"; path = "jas_version.c"; sourceTree = SOURCE_ROOT; };
+1010E0D801010E0D801010E0 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jp2_cod.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.c.c"; name = "jp2_cod.c"; path = "jp2_cod.c"; sourceTree = SOURCE_ROOT; };
+1010E1D801010E1D801010E1 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jp2_dec.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.c.c"; name = "jp2_dec.c"; path = "jp2_dec.c"; sourceTree = SOURCE_ROOT; };
+1010E2D801010E2D801010E2 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jp2_enc.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.c.c"; name = "jp2_enc.c"; path = "jp2_enc.c"; sourceTree = SOURCE_ROOT; };
+1010E3EB01010E3EB01010E3 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_bs.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.c.c"; name = "jpc_bs.c"; path = "jpc_bs.c"; sourceTree = SOURCE_ROOT; };
+1010E4E601010E4E601010E4 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_cs.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.c.c"; name = "jpc_cs.c"; path = "jpc_cs.c"; sourceTree = SOURCE_ROOT; };
+1010E5E601010E5E601010E5 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_dec.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.c.c"; name = "jpc_dec.c"; path = "jpc_dec.c"; sourceTree = SOURCE_ROOT; };
+1010E6E601010E6E601010E6 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_enc.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.c.c"; name = "jpc_enc.c"; path = "jpc_enc.c"; sourceTree = SOURCE_ROOT; };
+1010E7E601010E7E601010E7 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_math.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.c.c"; name = "jpc_math.c"; path = "jpc_math.c"; sourceTree = SOURCE_ROOT; };
+1010E8E601010E8E601010E8 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_mct.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.c.c"; name = "jpc_mct.c"; path = "jpc_mct.c"; sourceTree = SOURCE_ROOT; };
+1010E9E601010E9E601010E9 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_mqcod.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.c.c"; name = "jpc_mqcod.c"; path = "jpc_mqcod.c"; sourceTree = SOURCE_ROOT; };
+1010EAE601010EAE601010EA /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_mqdec.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.c.c"; name = "jpc_mqdec.c"; path = "jpc_mqdec.c"; sourceTree = SOURCE_ROOT; };
+1010EBE601010EBE601010EB /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_mqenc.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.c.c"; name = "jpc_mqenc.c"; path = "jpc_mqenc.c"; sourceTree = SOURCE_ROOT; };
+1010ECE601010ECE601010EC /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_qmfb.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.c.c"; name = "jpc_qmfb.c"; path = "jpc_qmfb.c"; sourceTree = SOURCE_ROOT; };
+1010EDE601010EDE601010ED /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_t1cod.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.c.c"; name = "jpc_t1cod.c"; path = "jpc_t1cod.c"; sourceTree = SOURCE_ROOT; };
+1010EEE601010EEE601010EE /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_t1dec.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.c.c"; name = "jpc_t1dec.c"; path = "jpc_t1dec.c"; sourceTree = SOURCE_ROOT; };
+1010EFE601010EFE601010EF /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_t1enc.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.c.c"; name = "jpc_t1enc.c"; path = "jpc_t1enc.c"; sourceTree = SOURCE_ROOT; };
+1010F0E601010F0E601010F0 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_t2cod.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.c.c"; name = "jpc_t2cod.c"; path = "jpc_t2cod.c"; sourceTree = SOURCE_ROOT; };
+1010F1E601010F1E601010F1 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_t2dec.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.c.c"; name = "jpc_t2dec.c"; path = "jpc_t2dec.c"; sourceTree = SOURCE_ROOT; };
+1010F2E601010F2E601010F2 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_t2enc.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.c.c"; name = "jpc_t2enc.c"; path = "jpc_t2enc.c"; sourceTree = SOURCE_ROOT; };
+1010F41001010F41001010F4 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_tagtree.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.c.c"; name = "jpc_tagtree.c"; path = "jpc_tagtree.c"; sourceTree = SOURCE_ROOT; };
+1010F50101010F50101010F5 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_tsfb.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.c.c"; name = "jpc_tsfb.c"; path = "jpc_tsfb.c"; sourceTree = SOURCE_ROOT; };
+1010F60101010F60101010F6 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_util.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.c.c"; name = "jpc_util.c"; path = "jpc_util.c"; sourceTree = SOURCE_ROOT; };
+1010F70101010F70101010F7 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jp2_cod.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.c.h"; name = "jp2_cod.h"; path = "jp2_cod.h"; sourceTree = SOURCE_ROOT; };
+101054FC0101054FC0101054 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jp2_dec.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.c.h"; name = "jp2_dec.h"; path = "jp2_dec.h"; sourceTree = SOURCE_ROOT; };
+101055FC0101055FC0101055 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_bs.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.c.h"; name = "jpc_bs.h"; path = "jpc_bs.h"; sourceTree = SOURCE_ROOT; };
+101056FE0101056FE0101056 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_cod.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.c.h"; name = "jpc_cod.h"; path = "jpc_cod.h"; sourceTree = SOURCE_ROOT; };
+101057FE0101057FE0101057 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_cs.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.c.h"; name = "jpc_cs.h"; path = "jpc_cs.h"; sourceTree = SOURCE_ROOT; };
+101059020101059020101059 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_dec.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.c.h"; name = "jpc_dec.h"; path = "jpc_dec.h"; sourceTree = SOURCE_ROOT; };
+101059FD0101059FD0101059 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_enc.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.c.h"; name = "jpc_enc.h"; path = "jpc_enc.h"; sourceTree = SOURCE_ROOT; };
+10105AFD010105AFD010105A /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_fix.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.c.h"; name = "jpc_fix.h"; path = "jpc_fix.h"; sourceTree = SOURCE_ROOT; };
+10105BFD010105BFD010105B /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_flt.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.c.h"; name = "jpc_flt.h"; path = "jpc_flt.h"; sourceTree = SOURCE_ROOT; };
+10105D07010105D07010105D /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_math.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.c.h"; name = "jpc_math.h"; path = "jpc_math.h"; sourceTree = SOURCE_ROOT; };
+10105E00010105E00010105E /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_mct.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.c.h"; name = "jpc_mct.h"; path = "jpc_mct.h"; sourceTree = SOURCE_ROOT; };
+10105F00010105F00010105F /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_mqcod.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.c.h"; name = "jpc_mqcod.h"; path = "jpc_mqcod.h"; sourceTree = SOURCE_ROOT; };
+101060000101060000101060 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_mqdec.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.c.h"; name = "jpc_mqdec.h"; path = "jpc_mqdec.h"; sourceTree = SOURCE_ROOT; };
+101061000101061000101061 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_mqenc.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.c.h"; name = "jpc_mqenc.h"; path = "jpc_mqenc.h"; sourceTree = SOURCE_ROOT; };
+101062000101062000101062 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_qmfb.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.c.h"; name = "jpc_qmfb.h"; path = "jpc_qmfb.h"; sourceTree = SOURCE_ROOT; };
+101063000101063000101063 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_t1cod.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.c.h"; name = "jpc_t1cod.h"; path = "jpc_t1cod.h"; sourceTree = SOURCE_ROOT; };
+101064000101064000101064 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_t1dec.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.c.h"; name = "jpc_t1dec.h"; path = "jpc_t1dec.h"; sourceTree = SOURCE_ROOT; };
+101065110101065110101065 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_t1enc.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.c.h"; name = "jpc_t1enc.h"; path = "jpc_t1enc.h"; sourceTree = SOURCE_ROOT; };
+1010660C01010660C0101066 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_t2cod.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.c.h"; name = "jpc_t2cod.h"; path = "jpc_t2cod.h"; sourceTree = SOURCE_ROOT; };
+1010670C01010670C0101067 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_t2dec.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.c.h"; name = "jpc_t2dec.h"; path = "jpc_t2dec.h"; sourceTree = SOURCE_ROOT; };
+1010680C01010680C0101068 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_t2enc.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.c.h"; name = "jpc_t2enc.h"; path = "jpc_t2enc.h"; sourceTree = SOURCE_ROOT; };
+1010690C01010690C0101069 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_tagtree.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.c.h"; name = "jpc_tagtree.h"; path = "jpc_tagtree.h"; sourceTree = SOURCE_ROOT; };
+10106A0C010106A0C010106A /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_tsfb.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.c.h"; name = "jpc_tsfb.h"; path = "jpc_tsfb.h"; sourceTree = SOURCE_ROOT; };
+10106B0C010106B0C010106B /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_util.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.c.h"; name = "jpc_util.h"; path = "jpc_util.h"; sourceTree = SOURCE_ROOT; };
+101041BE0101041BE0101041 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/jasper/jas_cm.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.c.h"; name = "jas_cm.h"; path = "../include/jasper/jas_cm.h"; sourceTree = SOURCE_ROOT; };
+101042B80101042B80101042 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/jasper/jas_config.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.c.h"; name = "jas_config.h"; path = "../include/jasper/jas_config.h"; sourceTree = SOURCE_ROOT; };
+101043B80101043B80101043 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/jasper/jas_config2.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.c.h"; name = "jas_config2.h"; path = "../include/jasper/jas_config2.h"; sourceTree = SOURCE_ROOT; };
+101044BC0101044BC0101044 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/jasper/jas_debug.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.c.h"; name = "jas_debug.h"; path = "../include/jasper/jas_debug.h"; sourceTree = SOURCE_ROOT; };
+101045C00101045C00101045 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/jasper/jas_fix.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.c.h"; name = "jas_fix.h"; path = "../include/jasper/jas_fix.h"; sourceTree = SOURCE_ROOT; };
+101046C40101046C40101046 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/jasper/jas_getopt.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.c.h"; name = "jas_getopt.h"; path = "../include/jasper/jas_getopt.h"; sourceTree = SOURCE_ROOT; };
+101047C80101047C80101047 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/jasper/jas_icc.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.c.h"; name = "jas_icc.h"; path = "../include/jasper/jas_icc.h"; sourceTree = SOURCE_ROOT; };
+1010524D01010524D0101052 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/jasper/jas_image.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.c.h"; name = "jas_image.h"; path = "../include/jasper/jas_image.h"; sourceTree = SOURCE_ROOT; };
+101053510101053510101053 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/jasper/jas_init.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.c.h"; name = "jas_init.h"; path = "../include/jasper/jas_init.h"; sourceTree = SOURCE_ROOT; };
+101050A20101050A20101050 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/jasper/jas_malloc.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.c.h"; name = "jas_malloc.h"; path = "../include/jasper/jas_malloc.h"; sourceTree = SOURCE_ROOT; };
+10104DB8010104DB8010104D /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/jasper/jas_math.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.c.h"; name = "jas_math.h"; path = "../include/jasper/jas_math.h"; sourceTree = SOURCE_ROOT; };
+10104EBC010104EBC010104E /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/jasper/jas_seq.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.c.h"; name = "jas_seq.h"; path = "../include/jasper/jas_seq.h"; sourceTree = SOURCE_ROOT; };
+10104FC0010104FC0010104F /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/jasper/jas_stream.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.c.h"; name = "jas_stream.h"; path = "../include/jasper/jas_stream.h"; sourceTree = SOURCE_ROOT; };
+10104CEB010104CEB010104C /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/jasper/jas_string.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.c.h"; name = "jas_string.h"; path = "../include/jasper/jas_string.h"; sourceTree = SOURCE_ROOT; };
+10104A11010104A11010104A /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/jasper/jas_tmr.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.c.h"; name = "jas_tmr.h"; path = "../include/jasper/jas_tmr.h"; sourceTree = SOURCE_ROOT; };
+10104B11010104B11010104B /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/jasper/jas_tvp.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.c.h"; name = "jas_tvp.h"; path = "../include/jasper/jas_tvp.h"; sourceTree = SOURCE_ROOT; };
+10104C15010104C15010104C /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/jasper/jas_types.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.c.h"; name = "jas_types.h"; path = "../include/jasper/jas_types.h"; sourceTree = SOURCE_ROOT; };
+101049440101049440101049 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/jasper/jas_version.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.c.h"; name = "jas_version.h"; path = "../include/jasper/jas_version.h"; sourceTree = SOURCE_ROOT; };
+1010355F01010355F0101035 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/jasper/jasper.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.c.h"; name = "jasper.h"; path = "../include/jasper/jasper.h"; sourceTree = SOURCE_ROOT; };
+10102CEA010102CEA010102C /* libjasper */ = {isa = PBXFileReference; explicitFileType = "archive.ar"; path = "liblibjasper.a"; refType = 0; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+              100464240100464240100464  = {
+                     isa = PBXGroup;
+                     children = (
+                            10100E3C010100E3C010100E /* Sources */,
+                            101010190101010190101010 /* Resources */,
+                            1010F8A201010F8A201010F8 /* Products */,
+                     );
+                     sourceTree = "<group>";
+              };
+              10100E3C010100E3C010100E /* Sources */ = {
+                     isa = PBXGroup;
+                     children = (
+                            101015A60101015A60101015 /* ALL_BUILD */,
+                            101017700101017700101017 /* libjasper */,
+                     );
+                     name = Sources;
+                     sourceTree = "<group>";
+              };
+              101010190101010190101010 /* Resources */ = {
+                     isa = PBXGroup;
+                     children = (
+                     );
+                     name = Resources;
+                     sourceTree = "<group>";
+              };
+              101015A60101015A60101015 /* ALL_BUILD */ = {
+                     isa = PBXGroup;
+                     children = (
+                            101016DE0101016DE0101016 /* CMake Rules */,
+                            1010AF7E01010AF7E01010AF /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/CMakeLists.txt */,
+                     );
+                     name = ALL_BUILD;
+                     sourceTree = "<group>";
+              };
+              101016DE0101016DE0101016 /* CMake Rules */ = {
+                     isa = PBXGroup;
+                     children = (
+                     );
+                     name = "CMake Rules";
+                     sourceTree = "<group>";
+              };
+              101017700101017700101017 /* libjasper */ = {
+                     isa = PBXGroup;
+                     children = (
+                            101017CD0101017CD0101017 /* Source Files */,
+                            101019AD0101019AD0101019 /* Header Files */,
+                            1010AF7E01010AF7E01010AF /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/CMakeLists.txt */,
+                     );
+                     name = libjasper;
+                     sourceTree = "<group>";
+              };
+              101017CD0101017CD0101017 /* Source Files */ = {
+                     isa = PBXGroup;
+                     children = (
+                            1010D2D901010D2D901010D2 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_cm.c */,
+                            1010D3D401010D3D401010D3 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_debug.c */,
+                            1010D4D401010D4D401010D4 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_getopt.c */,
+                            1010D5D601010D5D601010D5 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_icc.c */,
+                            1010D6D601010D6D601010D6 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_iccdata.c */,
+                            1010D7D901010D7D901010D7 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_image.c */,
+                            1010D8D401010D8D401010D8 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_init.c */,
+                            1010D9D401010D9D401010D9 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_malloc.c */,
+                            1010DAD401010DAD401010DA /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_seq.c */,
+                            1010DBE001010DBE001010DB /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_stream.c */,
+                            1010DCD801010DCD801010DC /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_string.c */,
+                            1010DDD801010DDD801010DD /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_tmr.c */,
+                            1010DED801010DED801010DE /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_tvp.c */,
+                            1010DFD801010DFD801010DF /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_version.c */,
+                            1010E0D801010E0D801010E0 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jp2_cod.c */,
+                            1010E1D801010E1D801010E1 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jp2_dec.c */,
+                            1010E2D801010E2D801010E2 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jp2_enc.c */,
+                            1010E3EB01010E3EB01010E3 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_bs.c */,
+                            1010E4E601010E4E601010E4 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_cs.c */,
+                            1010E5E601010E5E601010E5 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_dec.c */,
+                            1010E6E601010E6E601010E6 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_enc.c */,
+                            1010E7E601010E7E601010E7 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_math.c */,
+                            1010E8E601010E8E601010E8 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_mct.c */,
+                            1010E9E601010E9E601010E9 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_mqcod.c */,
+                            1010EAE601010EAE601010EA /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_mqdec.c */,
+                            1010EBE601010EBE601010EB /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_mqenc.c */,
+                            1010ECE601010ECE601010EC /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_qmfb.c */,
+                            1010EDE601010EDE601010ED /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_t1cod.c */,
+                            1010EEE601010EEE601010EE /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_t1dec.c */,
+                            1010EFE601010EFE601010EF /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_t1enc.c */,
+                            1010F0E601010F0E601010F0 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_t2cod.c */,
+                            1010F1E601010F1E601010F1 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_t2dec.c */,
+                            1010F2E601010F2E601010F2 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_t2enc.c */,
+                            1010F41001010F41001010F4 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_tagtree.c */,
+                            1010F50101010F50101010F5 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_tsfb.c */,
+                            1010F60101010F60101010F6 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_util.c */,
+                     );
+                     name = "Source Files";
+                     sourceTree = "<group>";
+              };
+              101019AD0101019AD0101019 /* Header Files */ = {
+                     isa = PBXGroup;
+                     children = (
+                            1010F70101010F70101010F7 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jp2_cod.h */,
+                            101054FC0101054FC0101054 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jp2_dec.h */,
+                            101055FC0101055FC0101055 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_bs.h */,
+                            101056FE0101056FE0101056 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_cod.h */,
+                            101057FE0101057FE0101057 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_cs.h */,
+                            101059020101059020101059 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_dec.h */,
+                            101059FD0101059FD0101059 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_enc.h */,
+                            10105AFD010105AFD010105A /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_fix.h */,
+                            10105BFD010105BFD010105B /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_flt.h */,
+                            10105D07010105D07010105D /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_math.h */,
+                            10105E00010105E00010105E /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_mct.h */,
+                            10105F00010105F00010105F /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_mqcod.h */,
+                            101060000101060000101060 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_mqdec.h */,
+                            101061000101061000101061 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_mqenc.h */,
+                            101062000101062000101062 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_qmfb.h */,
+                            101063000101063000101063 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_t1cod.h */,
+                            101064000101064000101064 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_t1dec.h */,
+                            101065110101065110101065 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_t1enc.h */,
+                            1010660C01010660C0101066 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_t2cod.h */,
+                            1010670C01010670C0101067 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_t2dec.h */,
+                            1010680C01010680C0101068 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_t2enc.h */,
+                            1010690C01010690C0101069 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_tagtree.h */,
+                            10106A0C010106A0C010106A /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_tsfb.h */,
+                            10106B0C010106B0C010106B /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_util.h */,
+                            101041BE0101041BE0101041 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/jasper/jas_cm.h */,
+                            101042B80101042B80101042 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/jasper/jas_config.h */,
+                            101043B80101043B80101043 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/jasper/jas_config2.h */,
+                            101044BC0101044BC0101044 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/jasper/jas_debug.h */,
+                            101045C00101045C00101045 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/jasper/jas_fix.h */,
+                            101046C40101046C40101046 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/jasper/jas_getopt.h */,
+                            101047C80101047C80101047 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/jasper/jas_icc.h */,
+                            1010524D01010524D0101052 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/jasper/jas_image.h */,
+                            101053510101053510101053 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/jasper/jas_init.h */,
+                            101050A20101050A20101050 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/jasper/jas_malloc.h */,
+                            10104DB8010104DB8010104D /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/jasper/jas_math.h */,
+                            10104EBC010104EBC010104E /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/jasper/jas_seq.h */,
+                            10104FC0010104FC0010104F /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/jasper/jas_stream.h */,
+                            10104CEB010104CEB010104C /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/jasper/jas_string.h */,
+                            10104A11010104A11010104A /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/jasper/jas_tmr.h */,
+                            10104B11010104B11010104B /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/jasper/jas_tvp.h */,
+                            10104C15010104C15010104C /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/jasper/jas_types.h */,
+                            101049440101049440101049 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/jasper/jas_version.h */,
+                            1010355F01010355F0101035 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/jasper/jasper.h */,
+                     );
+                     name = "Header Files";
+                     sourceTree = "<group>";
+              };
+              1010F8A201010F8A201010F8 /* Products */ = {
+                     isa = PBXGroup;
+                     children = (
+                            10102CEA010102CEA010102C /* libjasper */,
+                     );
+                     name = Products;
+                     sourceTree = "<group>";
+              };
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+              1010318C01010318C0101031 /* libjasper */ = {
+                     isa = PBXNativeTarget;
+                     buildConfigurationList = 101031BA0101031BA0101031 /* Build configuration list for PBXNativeTarget "libjasper" */;
+                     buildPhases = (
+                            1010301F01010301F0101030 /* CMake ReRun */,
+                            10102F8F010102F8F010102F /* Sources */,
+                            101030BD0101030BD0101030 /* CMake PostBuild Rules */,
+                     );
+                     buildRules = (
+                     );
+                     dependencies = (
+                     );
+                     name = libjasper;
+                     productName = libjasper;
+                     productReference = 10102CEA010102CEA010102C /* libjasper */;
+                     productType = "com.apple.product-type.library.static";
+              };
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+              10101BEF010101BEF010101B /* Project object */ = {
+                     isa = PBXProject;
+                     attributes = {
+                            BuildIndependentTargetsInParallel = YES;
+                     };
+                     buildConfigurationList = 10101CCA010101CCA010101C /* Build configuration list for PBXProject  "libjasper" */;
+                     buildSettings = {
+                     };
+                     buildStyles = (
+                            101011A70101011A70101011 /* Debug */,
+                            1010F7B801010F7B801010F7 /* Release */,
+                            10109C96010109C96010109C /* MinSizeRel */,
+                            1010160D01010160D0101016 /* RelWithDebInfo */,
+                     );
+                     compatibilityVersion = "Xcode 3.1";
+                     hasScannedForEncodings = 0;
+                     mainGroup = 100464240100464240100464;
+                     projectDirPath = ".";
+                     projectRoot = "";
+                     targets = (
+                            1010F90F01010F90F01010F9 /* ALL_BUILD */,
+                            1010B0D601010B0D601010B0 /* RUN_TESTS */,
+                            1010C23401010C23401010C2 /* install */,
+                            1010318C01010318C0101031 /* libjasper */,
+                     );
+              };
+/* End PBXProject section */
+
+/* Begin PBXShellScriptBuildPhase section */
+              1010F86901010F86901010F8 /*  */ = {
+                     isa = PBXShellScriptBuildPhase;
+                     buildActionMask = 2147483647;
+                     files = (
+                     );
+                     inputPaths = (
+                     );
+                     outputPaths = (
+                     );
+                     runOnlyForDeploymentPostprocessing = 0;
+                     shellPath = /bin/sh;
+                     shellScript = "# shell script goes here
+exit 0";
+              };
+              1010F94401010F94401010F9 /* CMake ReRun */ = {
+                     isa = PBXShellScriptBuildPhase;
+                     buildActionMask = 2147483647;
+                     files = (
+                     );
+                     name = "CMake ReRun";
+                     runOnlyForDeploymentPostprocessing = 0;
+                     shellPath = /bin/sh;
+                     shellScript = "make -C /Users/jjthrash/Downloads/OpenCV-2.2.0 -f /Users/jjthrash/Downloads/OpenCV-2.2.0/CMakeScripts/ReRunCMake.make";
+              };
+              1010F9E201010F9E201010F9 /* CMake Rules */ = {
+                     isa = PBXShellScriptBuildPhase;
+                     buildActionMask = 2147483647;
+                     files = (
+                     );
+                     name = "CMake Rules";
+                     runOnlyForDeploymentPostprocessing = 0;
+                     shellPath = /bin/sh;
+                     shellScript = "make -C /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper -f /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/CMakeScripts/ALL_BUILD_cmakeRulesBuildPhase.make$CONFIGURATION all";
+              };
+              1010B02A01010B02A01010B0 /*  */ = {
+                     isa = PBXShellScriptBuildPhase;
+                     buildActionMask = 2147483647;
+                     files = (
+                     );
+                     inputPaths = (
+                     );
+                     outputPaths = (
+                     );
+                     runOnlyForDeploymentPostprocessing = 0;
+                     shellPath = /bin/sh;
+                     shellScript = "# shell script goes here
+exit 0";
+              };
+              1010B10101010B10101010B1 /* CMake ReRun */ = {
+                     isa = PBXShellScriptBuildPhase;
+                     buildActionMask = 2147483647;
+                     files = (
+                     );
+                     name = "CMake ReRun";
+                     runOnlyForDeploymentPostprocessing = 0;
+                     shellPath = /bin/sh;
+                     shellScript = "make -C /Users/jjthrash/Downloads/OpenCV-2.2.0 -f /Users/jjthrash/Downloads/OpenCV-2.2.0/CMakeScripts/ReRunCMake.make";
+              };
+              1010B19F01010B19F01010B1 /* CMake PostBuild Rules */ = {
+                     isa = PBXShellScriptBuildPhase;
+                     buildActionMask = 2147483647;
+                     files = (
+                     );
+                     name = "CMake PostBuild Rules";
+                     runOnlyForDeploymentPostprocessing = 0;
+                     shellPath = /bin/sh;
+                     shellScript = "make -C /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper -f /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/CMakeScripts/RUN_TESTS_postBuildPhase.make$CONFIGURATION all";
+              };
+              1010C17B01010C17B01010C1 /*  */ = {
+                     isa = PBXShellScriptBuildPhase;
+                     buildActionMask = 2147483647;
+                     files = (
+                     );
+                     inputPaths = (
+                     );
+                     outputPaths = (
+                     );
+                     runOnlyForDeploymentPostprocessing = 0;
+                     shellPath = /bin/sh;
+                     shellScript = "# shell script goes here
+exit 0";
+              };
+              1010C25F01010C25F01010C2 /* CMake ReRun */ = {
+                     isa = PBXShellScriptBuildPhase;
+                     buildActionMask = 2147483647;
+                     files = (
+                     );
+                     name = "CMake ReRun";
+                     runOnlyForDeploymentPostprocessing = 0;
+                     shellPath = /bin/sh;
+                     shellScript = "make -C /Users/jjthrash/Downloads/OpenCV-2.2.0 -f /Users/jjthrash/Downloads/OpenCV-2.2.0/CMakeScripts/ReRunCMake.make";
+              };
+              1010C2FB01010C2FB01010C2 /* CMake PostBuild Rules */ = {
+                     isa = PBXShellScriptBuildPhase;
+                     buildActionMask = 2147483647;
+                     files = (
+                     );
+                     name = "CMake PostBuild Rules";
+                     runOnlyForDeploymentPostprocessing = 0;
+                     shellPath = /bin/sh;
+                     shellScript = "make -C /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper -f /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/CMakeScripts/install_postBuildPhase.make$CONFIGURATION all";
+              };
+              1010301F01010301F0101030 /* CMake ReRun */ = {
+                     isa = PBXShellScriptBuildPhase;
+                     buildActionMask = 2147483647;
+                     files = (
+                     );
+                     name = "CMake ReRun";
+                     runOnlyForDeploymentPostprocessing = 0;
+                     shellPath = /bin/sh;
+                     shellScript = "make -C /Users/jjthrash/Downloads/OpenCV-2.2.0 -f /Users/jjthrash/Downloads/OpenCV-2.2.0/CMakeScripts/ReRunCMake.make";
+              };
+              101030BD0101030BD0101030 /* CMake PostBuild Rules */ = {
+                     isa = PBXShellScriptBuildPhase;
+                     buildActionMask = 2147483647;
+                     files = (
+                     );
+                     name = "CMake PostBuild Rules";
+                     runOnlyForDeploymentPostprocessing = 0;
+                     shellPath = /bin/sh;
+                     shellScript = "make -C /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper -f /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/CMakeScripts/libjasper_postBuildPhase.make$CONFIGURATION all";
+              };
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+              10102F8F010102F8F010102F /* Sources */ = {
+                     isa = PBXSourcesBuildPhase;
+                     buildActionMask = 2147483647;
+                     files = (
+                            1010D38501010D38501010D3 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_cm.c */,
+                            1010D48301010D48301010D4 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_debug.c */,
+                            1010D58601010D58601010D5 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_getopt.c */,
+                            1010D68501010D68501010D6 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_icc.c */,
+                            1010D78801010D78801010D7 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_iccdata.c */,
+                            1010D88501010D88501010D8 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_image.c */,
+                            1010D98301010D98301010D9 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_init.c */,
+                            1010DA8301010DA8301010DA /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_malloc.c */,
+                            1010DB8801010DB8801010DB /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_seq.c */,
+                            1010DC8701010DC8701010DC /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_stream.c */,
+                            1010DD8701010DD8701010DD /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_string.c */,
+                            1010DE8701010DE8701010DE /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_tmr.c */,
+                            1010DF8701010DF8701010DF /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_tvp.c */,
+                            1010E08701010E08701010E0 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jas_version.c */,
+                            1010E18701010E18701010E1 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jp2_cod.c */,
+                            1010E28701010E28701010E2 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jp2_dec.c */,
+                            1010E38E01010E38E01010E3 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jp2_enc.c */,
+                            1010E49501010E49501010E4 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_bs.c */,
+                            1010E59501010E59501010E5 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_cs.c */,
+                            1010E69501010E69501010E6 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_dec.c */,
+                            1010E79501010E79501010E7 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_enc.c */,
+                            1010E89501010E89501010E8 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_math.c */,
+                            1010E99501010E99501010E9 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_mct.c */,
+                            1010EA9501010EA9501010EA /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_mqcod.c */,
+                            1010EB9501010EB9501010EB /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_mqdec.c */,
+                            1010EC9501010EC9501010EC /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_mqenc.c */,
+                            1010ED9501010ED9501010ED /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_qmfb.c */,
+                            1010EE9501010EE9501010EE /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_t1cod.c */,
+                            1010EF9501010EF9501010EF /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_t1dec.c */,
+                            1010F09501010F09501010F0 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_t1enc.c */,
+                            1010F19501010F19501010F1 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_t2cod.c */,
+                            1010F29501010F29501010F2 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_t2dec.c */,
+                            1010F3A601010F3A601010F3 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_t2enc.c */,
+                            1010F4B201010F4B201010F4 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_tagtree.c */,
+                            1010F5B001010F5B001010F5 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_tsfb.c */,
+                            1010F6B001010F6B001010F6 /* /Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/jpc_util.c */,
+                     );
+                     runOnlyForDeploymentPostprocessing = 0;
+              };
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+              10102DC8010102DC8010102D /* PBXTargetDependency */ = {
+                     isa = PBXTargetDependency;
+                     target = 1010318C01010318C0101031 /* libjasper */;
+                     targetProxy = 101050820101050820101050 /* PBXContainerItemProxy */;
+              };
+              10102AD4010102AD4010102A /* PBXTargetDependency */ = {
+                     isa = PBXTargetDependency;
+                     target = 1010F90F01010F90F01010F9 /* ALL_BUILD */;
+                     targetProxy = 10102E0E010102E0E010102E /* PBXContainerItemProxy */;
+              };
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+              10101CEE010101CEE010101C /* Debug */ = {
+                     isa = XCBuildConfiguration;
+                     buildSettings = {
+                            ARCHS = "$(ARCHS_STANDARD_32_64_BIT)";
+                            ONLY_ACTIVE_ARCH = YES;
+                            SDKROOT = "/Developer/SDKs/MacOSX10.6.sdk";
+                            SYMROOT = "/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/build";
+                     };
+                     name = Debug;
+              };
+              10101D1A010101D1A010101D /* Release */ = {
+                     isa = XCBuildConfiguration;
+                     buildSettings = {
+                            ARCHS = "$(ARCHS_STANDARD_32_64_BIT)";
+                            ONLY_ACTIVE_ARCH = YES;
+                            SDKROOT = "/Developer/SDKs/MacOSX10.6.sdk";
+                            SYMROOT = "/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/build";
+                     };
+                     name = Release;
+              };
+              10101D46010101D46010101D /* MinSizeRel */ = {
+                     isa = XCBuildConfiguration;
+                     buildSettings = {
+                            ARCHS = "$(ARCHS_STANDARD_32_64_BIT)";
+                            ONLY_ACTIVE_ARCH = YES;
+                            SDKROOT = "/Developer/SDKs/MacOSX10.6.sdk";
+                            SYMROOT = "/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/build";
+                     };
+                     name = MinSizeRel;
+              };
+              10101D75010101D75010101D /* RelWithDebInfo */ = {
+                     isa = XCBuildConfiguration;
+                     buildSettings = {
+                            ARCHS = "$(ARCHS_STANDARD_32_64_BIT)";
+                            ONLY_ACTIVE_ARCH = YES;
+                            SDKROOT = "/Developer/SDKs/MacOSX10.6.sdk";
+                            SYMROOT = "/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/build";
+                     };
+                     name = RelWithDebInfo;
+              };
+              1010FAFD01010FAFD01010FA /* Debug */ = {
+                     isa = XCBuildConfiguration;
+                     buildSettings = {
+                            GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
+                            GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+                            GCC_OPTIMIZATION_LEVEL = 0;
+                            GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)\"'", HAVE_ALLOCA, HAVE_ALLOCA_H, HAVE_LIBPTHREAD, HAVE_UNISTD_H, HAVE_CONFIG_H, EXCLUDE_MIF_SUPPORT, EXCLUDE_PNM_SUPPORT, EXCLUDE_BMP_SUPPORT, EXCLUDE_RAS_SUPPORT, EXCLUDE_JPG_SUPPORT, EXCLUDE_PGX_SUPPORT, );
+                            GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+                            HEADER_SEARCH_PATHS = ("/Users/jjthrash/Downloads/OpenCV-2.2.0/.", "/Users/jjthrash/Downloads/OpenCV-2.2.0", "/Users/jjthrash/Downloads/OpenCV-2.2.0/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv", "/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper", "/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/../include", );
+                            INSTALL_PATH = "";
+                            OTHER_CFLAGS = "  ";
+                            OTHER_LDFLAGS = "";
+                            OTHER_REZFLAGS = "";
+                            PREBINDING = NO;
+                            PRODUCT_NAME = ALL_BUILD;
+                            SECTORDER_FLAGS = "";
+                            SYMROOT = "/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper";
+                            USE_HEADERMAP = NO;
+                            WARNING_CFLAGS = ("-Wmost", "-Wno-four-char-constants", "-Wno-unknown-pragmas", );
+                     };
+                     name = Debug;
+              };
+              101020D80101020D80101020 /* Release */ = {
+                     isa = XCBuildConfiguration;
+                     buildSettings = {
+                            GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
+                            GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+                            GCC_OPTIMIZATION_LEVEL = 0;
+                            GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)\"'", HAVE_ALLOCA, HAVE_ALLOCA_H, HAVE_LIBPTHREAD, HAVE_UNISTD_H, HAVE_CONFIG_H, EXCLUDE_MIF_SUPPORT, EXCLUDE_PNM_SUPPORT, EXCLUDE_BMP_SUPPORT, EXCLUDE_RAS_SUPPORT, EXCLUDE_JPG_SUPPORT, EXCLUDE_PGX_SUPPORT, );
+                            GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+                            HEADER_SEARCH_PATHS = ("/Users/jjthrash/Downloads/OpenCV-2.2.0/.", "/Users/jjthrash/Downloads/OpenCV-2.2.0", "/Users/jjthrash/Downloads/OpenCV-2.2.0/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv", "/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper", "/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/../include", );
+                            INSTALL_PATH = "";
+                            OTHER_CFLAGS = "  ";
+                            OTHER_LDFLAGS = "";
+                            OTHER_REZFLAGS = "";
+                            PREBINDING = NO;
+                            PRODUCT_NAME = ALL_BUILD;
+                            SECTORDER_FLAGS = "";
+                            SYMROOT = "/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper";
+                            USE_HEADERMAP = NO;
+                            WARNING_CFLAGS = ("-Wmost", "-Wno-four-char-constants", "-Wno-unknown-pragmas", );
+                     };
+                     name = Release;
+              };
+              1010A7EE01010A7EE01010A7 /* MinSizeRel */ = {
+                     isa = XCBuildConfiguration;
+                     buildSettings = {
+                            GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
+                            GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+                            GCC_OPTIMIZATION_LEVEL = 0;
+                            GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)\"'", HAVE_ALLOCA, HAVE_ALLOCA_H, HAVE_LIBPTHREAD, HAVE_UNISTD_H, HAVE_CONFIG_H, EXCLUDE_MIF_SUPPORT, EXCLUDE_PNM_SUPPORT, EXCLUDE_BMP_SUPPORT, EXCLUDE_RAS_SUPPORT, EXCLUDE_JPG_SUPPORT, EXCLUDE_PGX_SUPPORT, );
+                            GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+                            HEADER_SEARCH_PATHS = ("/Users/jjthrash/Downloads/OpenCV-2.2.0/.", "/Users/jjthrash/Downloads/OpenCV-2.2.0", "/Users/jjthrash/Downloads/OpenCV-2.2.0/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv", "/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper", "/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/../include", );
+                            INSTALL_PATH = "";
+                            OTHER_CFLAGS = "  ";
+                            OTHER_LDFLAGS = "";
+                            OTHER_REZFLAGS = "";
+                            PREBINDING = NO;
+                            PRODUCT_NAME = ALL_BUILD;
+                            SECTORDER_FLAGS = "";
+                            SYMROOT = "/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper";
+                            USE_HEADERMAP = NO;
+                            WARNING_CFLAGS = ("-Wmost", "-Wno-four-char-constants", "-Wno-unknown-pragmas", );
+                     };
+                     name = MinSizeRel;
+              };
+              1010AB8501010AB8501010AB /* RelWithDebInfo */ = {
+                     isa = XCBuildConfiguration;
+                     buildSettings = {
+                            GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
+                            GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+                            GCC_OPTIMIZATION_LEVEL = 0;
+                            GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)\"'", HAVE_ALLOCA, HAVE_ALLOCA_H, HAVE_LIBPTHREAD, HAVE_UNISTD_H, HAVE_CONFIG_H, EXCLUDE_MIF_SUPPORT, EXCLUDE_PNM_SUPPORT, EXCLUDE_BMP_SUPPORT, EXCLUDE_RAS_SUPPORT, EXCLUDE_JPG_SUPPORT, EXCLUDE_PGX_SUPPORT, );
+                            GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+                            HEADER_SEARCH_PATHS = ("/Users/jjthrash/Downloads/OpenCV-2.2.0/.", "/Users/jjthrash/Downloads/OpenCV-2.2.0", "/Users/jjthrash/Downloads/OpenCV-2.2.0/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv", "/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper", "/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/../include", );
+                            INSTALL_PATH = "";
+                            OTHER_CFLAGS = "  ";
+                            OTHER_LDFLAGS = "";
+                            OTHER_REZFLAGS = "";
+                            PREBINDING = NO;
+                            PRODUCT_NAME = ALL_BUILD;
+                            SECTORDER_FLAGS = "";
+                            SYMROOT = "/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper";
+                            USE_HEADERMAP = NO;
+                            WARNING_CFLAGS = ("-Wmost", "-Wno-four-char-constants", "-Wno-unknown-pragmas", );
+                     };
+                     name = RelWithDebInfo;
+              };
+              1010B2C501010B2C501010B2 /* Debug */ = {
+                     isa = XCBuildConfiguration;
+                     buildSettings = {
+                            GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
+                            GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+                            GCC_OPTIMIZATION_LEVEL = 0;
+                            GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)\"'", HAVE_ALLOCA, HAVE_ALLOCA_H, HAVE_LIBPTHREAD, HAVE_UNISTD_H, HAVE_CONFIG_H, EXCLUDE_MIF_SUPPORT, EXCLUDE_PNM_SUPPORT, EXCLUDE_BMP_SUPPORT, EXCLUDE_RAS_SUPPORT, EXCLUDE_JPG_SUPPORT, EXCLUDE_PGX_SUPPORT, );
+                            GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+                            HEADER_SEARCH_PATHS = ("/Users/jjthrash/Downloads/OpenCV-2.2.0/.", "/Users/jjthrash/Downloads/OpenCV-2.2.0", "/Users/jjthrash/Downloads/OpenCV-2.2.0/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv", "/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper", "/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/../include", );
+                            INSTALL_PATH = "";
+                            OTHER_CFLAGS = "  ";
+                            OTHER_LDFLAGS = "";
+                            OTHER_REZFLAGS = "";
+                            PREBINDING = NO;
+                            PRODUCT_NAME = RUN_TESTS;
+                            SECTORDER_FLAGS = "";
+                            SYMROOT = "/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper";
+                            USE_HEADERMAP = NO;
+                            WARNING_CFLAGS = ("-Wmost", "-Wno-four-char-constants", "-Wno-unknown-pragmas", );
+                     };
+                     name = Debug;
+              };
+              1010B65F01010B65F01010B6 /* Release */ = {
+                     isa = XCBuildConfiguration;
+                     buildSettings = {
+                            GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
+                            GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+                            GCC_OPTIMIZATION_LEVEL = 0;
+                            GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)\"'", HAVE_ALLOCA, HAVE_ALLOCA_H, HAVE_LIBPTHREAD, HAVE_UNISTD_H, HAVE_CONFIG_H, EXCLUDE_MIF_SUPPORT, EXCLUDE_PNM_SUPPORT, EXCLUDE_BMP_SUPPORT, EXCLUDE_RAS_SUPPORT, EXCLUDE_JPG_SUPPORT, EXCLUDE_PGX_SUPPORT, );
+                            GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+                            HEADER_SEARCH_PATHS = ("/Users/jjthrash/Downloads/OpenCV-2.2.0/.", "/Users/jjthrash/Downloads/OpenCV-2.2.0", "/Users/jjthrash/Downloads/OpenCV-2.2.0/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv", "/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper", "/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/../include", );
+                            INSTALL_PATH = "";
+                            OTHER_CFLAGS = "  ";
+                            OTHER_LDFLAGS = "";
+                            OTHER_REZFLAGS = "";
+                            PREBINDING = NO;
+                            PRODUCT_NAME = RUN_TESTS;
+                            SECTORDER_FLAGS = "";
+                            SYMROOT = "/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper";
+                            USE_HEADERMAP = NO;
+                            WARNING_CFLAGS = ("-Wmost", "-Wno-four-char-constants", "-Wno-unknown-pragmas", );
+                     };
+                     name = Release;
+              };
+              1010B9F001010B9F001010B9 /* MinSizeRel */ = {
+                     isa = XCBuildConfiguration;
+                     buildSettings = {
+                            GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
+                            GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+                            GCC_OPTIMIZATION_LEVEL = 0;
+                            GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)\"'", HAVE_ALLOCA, HAVE_ALLOCA_H, HAVE_LIBPTHREAD, HAVE_UNISTD_H, HAVE_CONFIG_H, EXCLUDE_MIF_SUPPORT, EXCLUDE_PNM_SUPPORT, EXCLUDE_BMP_SUPPORT, EXCLUDE_RAS_SUPPORT, EXCLUDE_JPG_SUPPORT, EXCLUDE_PGX_SUPPORT, );
+                            GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+                            HEADER_SEARCH_PATHS = ("/Users/jjthrash/Downloads/OpenCV-2.2.0/.", "/Users/jjthrash/Downloads/OpenCV-2.2.0", "/Users/jjthrash/Downloads/OpenCV-2.2.0/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv", "/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper", "/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/../include", );
+                            INSTALL_PATH = "";
+                            OTHER_CFLAGS = "  ";
+                            OTHER_LDFLAGS = "";
+                            OTHER_REZFLAGS = "";
+                            PREBINDING = NO;
+                            PRODUCT_NAME = RUN_TESTS;
+                            SECTORDER_FLAGS = "";
+                            SYMROOT = "/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper";
+                            USE_HEADERMAP = NO;
+                            WARNING_CFLAGS = ("-Wmost", "-Wno-four-char-constants", "-Wno-unknown-pragmas", );
+                     };
+                     name = MinSizeRel;
+              };
+              1010BD8401010BD8401010BD /* RelWithDebInfo */ = {
+                     isa = XCBuildConfiguration;
+                     buildSettings = {
+                            GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
+                            GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+                            GCC_OPTIMIZATION_LEVEL = 0;
+                            GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)\"'", HAVE_ALLOCA, HAVE_ALLOCA_H, HAVE_LIBPTHREAD, HAVE_UNISTD_H, HAVE_CONFIG_H, EXCLUDE_MIF_SUPPORT, EXCLUDE_PNM_SUPPORT, EXCLUDE_BMP_SUPPORT, EXCLUDE_RAS_SUPPORT, EXCLUDE_JPG_SUPPORT, EXCLUDE_PGX_SUPPORT, );
+                            GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+                            HEADER_SEARCH_PATHS = ("/Users/jjthrash/Downloads/OpenCV-2.2.0/.", "/Users/jjthrash/Downloads/OpenCV-2.2.0", "/Users/jjthrash/Downloads/OpenCV-2.2.0/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv", "/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper", "/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/../include", );
+                            INSTALL_PATH = "";
+                            OTHER_CFLAGS = "  ";
+                            OTHER_LDFLAGS = "";
+                            OTHER_REZFLAGS = "";
+                            PREBINDING = NO;
+                            PRODUCT_NAME = RUN_TESTS;
+                            SECTORDER_FLAGS = "";
+                            SYMROOT = "/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper";
+                            USE_HEADERMAP = NO;
+                            WARNING_CFLAGS = ("-Wmost", "-Wno-four-char-constants", "-Wno-unknown-pragmas", );
+                     };
+                     name = RelWithDebInfo;
+              };
+              1010C41E01010C41E01010C4 /* Debug */ = {
+                     isa = XCBuildConfiguration;
+                     buildSettings = {
+                            GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
+                            GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+                            GCC_OPTIMIZATION_LEVEL = 0;
+                            GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)\"'", HAVE_ALLOCA, HAVE_ALLOCA_H, HAVE_LIBPTHREAD, HAVE_UNISTD_H, HAVE_CONFIG_H, EXCLUDE_MIF_SUPPORT, EXCLUDE_PNM_SUPPORT, EXCLUDE_BMP_SUPPORT, EXCLUDE_RAS_SUPPORT, EXCLUDE_JPG_SUPPORT, EXCLUDE_PGX_SUPPORT, );
+                            GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+                            HEADER_SEARCH_PATHS = ("/Users/jjthrash/Downloads/OpenCV-2.2.0/.", "/Users/jjthrash/Downloads/OpenCV-2.2.0", "/Users/jjthrash/Downloads/OpenCV-2.2.0/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv", "/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper", "/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/../include", );
+                            INSTALL_PATH = "";
+                            OTHER_CFLAGS = "  ";
+                            OTHER_LDFLAGS = "";
+                            OTHER_REZFLAGS = "";
+                            PREBINDING = NO;
+                            PRODUCT_NAME = install;
+                            SECTORDER_FLAGS = "";
+                            SYMROOT = "/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper";
+                            USE_HEADERMAP = NO;
+                            WARNING_CFLAGS = ("-Wmost", "-Wno-four-char-constants", "-Wno-unknown-pragmas", );
+                     };
+                     name = Debug;
+              };
+              1010C7B601010C7B601010C7 /* Release */ = {
+                     isa = XCBuildConfiguration;
+                     buildSettings = {
+                            GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
+                            GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+                            GCC_OPTIMIZATION_LEVEL = 0;
+                            GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)\"'", HAVE_ALLOCA, HAVE_ALLOCA_H, HAVE_LIBPTHREAD, HAVE_UNISTD_H, HAVE_CONFIG_H, EXCLUDE_MIF_SUPPORT, EXCLUDE_PNM_SUPPORT, EXCLUDE_BMP_SUPPORT, EXCLUDE_RAS_SUPPORT, EXCLUDE_JPG_SUPPORT, EXCLUDE_PGX_SUPPORT, );
+                            GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+                            HEADER_SEARCH_PATHS = ("/Users/jjthrash/Downloads/OpenCV-2.2.0/.", "/Users/jjthrash/Downloads/OpenCV-2.2.0", "/Users/jjthrash/Downloads/OpenCV-2.2.0/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv", "/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper", "/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/../include", );
+                            INSTALL_PATH = "";
+                            OTHER_CFLAGS = "  ";
+                            OTHER_LDFLAGS = "";
+                            OTHER_REZFLAGS = "";
+                            PREBINDING = NO;
+                            PRODUCT_NAME = install;
+                            SECTORDER_FLAGS = "";
+                            SYMROOT = "/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper";
+                            USE_HEADERMAP = NO;
+                            WARNING_CFLAGS = ("-Wmost", "-Wno-four-char-constants", "-Wno-unknown-pragmas", );
+                     };
+                     name = Release;
+              };
+              1010CB4801010CB4801010CB /* MinSizeRel */ = {
+                     isa = XCBuildConfiguration;
+                     buildSettings = {
+                            GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
+                            GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+                            GCC_OPTIMIZATION_LEVEL = 0;
+                            GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)\"'", HAVE_ALLOCA, HAVE_ALLOCA_H, HAVE_LIBPTHREAD, HAVE_UNISTD_H, HAVE_CONFIG_H, EXCLUDE_MIF_SUPPORT, EXCLUDE_PNM_SUPPORT, EXCLUDE_BMP_SUPPORT, EXCLUDE_RAS_SUPPORT, EXCLUDE_JPG_SUPPORT, EXCLUDE_PGX_SUPPORT, );
+                            GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+                            HEADER_SEARCH_PATHS = ("/Users/jjthrash/Downloads/OpenCV-2.2.0/.", "/Users/jjthrash/Downloads/OpenCV-2.2.0", "/Users/jjthrash/Downloads/OpenCV-2.2.0/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv", "/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper", "/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/../include", );
+                            INSTALL_PATH = "";
+                            OTHER_CFLAGS = "  ";
+                            OTHER_LDFLAGS = "";
+                            OTHER_REZFLAGS = "";
+                            PREBINDING = NO;
+                            PRODUCT_NAME = install;
+                            SECTORDER_FLAGS = "";
+                            SYMROOT = "/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper";
+                            USE_HEADERMAP = NO;
+                            WARNING_CFLAGS = ("-Wmost", "-Wno-four-char-constants", "-Wno-unknown-pragmas", );
+                     };
+                     name = MinSizeRel;
+              };
+              1010CEDB01010CEDB01010CE /* RelWithDebInfo */ = {
+                     isa = XCBuildConfiguration;
+                     buildSettings = {
+                            GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
+                            GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+                            GCC_OPTIMIZATION_LEVEL = 0;
+                            GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)\"'", HAVE_ALLOCA, HAVE_ALLOCA_H, HAVE_LIBPTHREAD, HAVE_UNISTD_H, HAVE_CONFIG_H, EXCLUDE_MIF_SUPPORT, EXCLUDE_PNM_SUPPORT, EXCLUDE_BMP_SUPPORT, EXCLUDE_RAS_SUPPORT, EXCLUDE_JPG_SUPPORT, EXCLUDE_PGX_SUPPORT, );
+                            GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+                            HEADER_SEARCH_PATHS = ("/Users/jjthrash/Downloads/OpenCV-2.2.0/.", "/Users/jjthrash/Downloads/OpenCV-2.2.0", "/Users/jjthrash/Downloads/OpenCV-2.2.0/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv", "/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper", "/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/../include", );
+                            INSTALL_PATH = "";
+                            OTHER_CFLAGS = "  ";
+                            OTHER_LDFLAGS = "";
+                            OTHER_REZFLAGS = "";
+                            PREBINDING = NO;
+                            PRODUCT_NAME = install;
+                            SECTORDER_FLAGS = "";
+                            SYMROOT = "/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper";
+                            USE_HEADERMAP = NO;
+                            WARNING_CFLAGS = ("-Wmost", "-Wno-four-char-constants", "-Wno-unknown-pragmas", );
+                     };
+                     name = RelWithDebInfo;
+              };
+              1010320D01010320D0101032 /* Debug */ = {
+                     isa = XCBuildConfiguration;
+                     buildSettings = {
+                            CONFIGURATION_BUILD_DIR = "/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Debug";
+                            EXECUTABLE_PREFIX = lib;
+                            EXECUTABLE_SUFFIX = ".a";
+                            GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
+                            GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+                            GCC_OPTIMIZATION_LEVEL = 0;
+                            GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)\"'", HAVE_ALLOCA, HAVE_ALLOCA_H, HAVE_LIBPTHREAD, HAVE_UNISTD_H, HAVE_CONFIG_H, EXCLUDE_MIF_SUPPORT, EXCLUDE_PNM_SUPPORT, EXCLUDE_BMP_SUPPORT, EXCLUDE_RAS_SUPPORT, EXCLUDE_JPG_SUPPORT, EXCLUDE_PGX_SUPPORT, );
+                            GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+                            HEADER_SEARCH_PATHS = ("/Users/jjthrash/Downloads/OpenCV-2.2.0/.", "/Users/jjthrash/Downloads/OpenCV-2.2.0", "/Users/jjthrash/Downloads/OpenCV-2.2.0/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv", "/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper", "/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/../include", );
+                            INSTALL_PATH = "";
+                            LIBRARY_STYLE = STATIC;
+                            OTHER_CFLAGS = "  -Wall -pthread  -fPIC -Wno-implicit-function-declaration -Wno-unused         -ggdb3 -DDEBUG -D_DEBUG   ";
+                            OTHER_LDFLAGS = "";
+                            OTHER_REZFLAGS = "";
+                            PREBINDING = NO;
+                            PRODUCT_NAME = libjasper;
+                            SECTORDER_FLAGS = "";
+                            SYMROOT = "/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper";
+                            USE_HEADERMAP = NO;
+                            WARNING_CFLAGS = ("-Wmost", "-Wno-four-char-constants", "-Wno-unknown-pragmas", );
+                     };
+                     name = Debug;
+              };
+              10103F9F010103F9F010103F /* Release */ = {
+                     isa = XCBuildConfiguration;
+                     buildSettings = {
+                            CONFIGURATION_BUILD_DIR = "/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/Release";
+                            EXECUTABLE_PREFIX = lib;
+                            EXECUTABLE_SUFFIX = ".a";
+                            GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
+                            GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+                            GCC_OPTIMIZATION_LEVEL = 3;
+                            GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)\"'", HAVE_ALLOCA, HAVE_ALLOCA_H, HAVE_LIBPTHREAD, HAVE_UNISTD_H, HAVE_CONFIG_H, EXCLUDE_MIF_SUPPORT, EXCLUDE_PNM_SUPPORT, EXCLUDE_BMP_SUPPORT, EXCLUDE_RAS_SUPPORT, EXCLUDE_JPG_SUPPORT, EXCLUDE_PGX_SUPPORT, );
+                            GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+                            HEADER_SEARCH_PATHS = ("/Users/jjthrash/Downloads/OpenCV-2.2.0/.", "/Users/jjthrash/Downloads/OpenCV-2.2.0", "/Users/jjthrash/Downloads/OpenCV-2.2.0/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv", "/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper", "/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/../include", );
+                            INSTALL_PATH = "";
+                            LIBRARY_STYLE = STATIC;
+                            OTHER_CFLAGS = "  -Wall -pthread  -fPIC -Wno-implicit-function-declaration -Wno-unused     -DNDEBUG  -fomit-frame-pointer -O3 -ffast-math -DNDEBUG   ";
+                            OTHER_LDFLAGS = "";
+                            OTHER_REZFLAGS = "";
+                            PREBINDING = NO;
+                            PRODUCT_NAME = libjasper;
+                            SECTORDER_FLAGS = "";
+                            SYMROOT = "/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper";
+                            USE_HEADERMAP = NO;
+                            WARNING_CFLAGS = ("-Wmost", "-Wno-four-char-constants", "-Wno-unknown-pragmas", );
+                     };
+                     name = Release;
+              };
+              10103B75010103B75010103B /* MinSizeRel */ = {
+                     isa = XCBuildConfiguration;
+                     buildSettings = {
+                            CONFIGURATION_BUILD_DIR = "/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/MinSizeRel";
+                            EXECUTABLE_PREFIX = lib;
+                            EXECUTABLE_SUFFIX = ".a";
+                            GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
+                            GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+                            GCC_OPTIMIZATION_LEVEL = 0;
+                            GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)\"'", HAVE_ALLOCA, HAVE_ALLOCA_H, HAVE_LIBPTHREAD, HAVE_UNISTD_H, HAVE_CONFIG_H, EXCLUDE_MIF_SUPPORT, EXCLUDE_PNM_SUPPORT, EXCLUDE_BMP_SUPPORT, EXCLUDE_RAS_SUPPORT, EXCLUDE_JPG_SUPPORT, EXCLUDE_PGX_SUPPORT, );
+                            GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+                            HEADER_SEARCH_PATHS = ("/Users/jjthrash/Downloads/OpenCV-2.2.0/.", "/Users/jjthrash/Downloads/OpenCV-2.2.0", "/Users/jjthrash/Downloads/OpenCV-2.2.0/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv", "/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper", "/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/../include", );
+                            INSTALL_PATH = "";
+                            LIBRARY_STYLE = STATIC;
+                            OTHER_CFLAGS = "  -Wall -pthread  -fPIC -Wno-implicit-function-declaration -Wno-unused  ";
+                            OTHER_LDFLAGS = "";
+                            OTHER_REZFLAGS = "";
+                            PREBINDING = NO;
+                            PRODUCT_NAME = libjasper;
+                            SECTORDER_FLAGS = "";
+                            SYMROOT = "/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper";
+                            USE_HEADERMAP = NO;
+                            WARNING_CFLAGS = ("-Wmost", "-Wno-four-char-constants", "-Wno-unknown-pragmas", );
+                     };
+                     name = MinSizeRel;
+              };
+              101038680101038680101038 /* RelWithDebInfo */ = {
+                     isa = XCBuildConfiguration;
+                     buildSettings = {
+                            CONFIGURATION_BUILD_DIR = "/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/lib/RelWithDebInfo";
+                            EXECUTABLE_PREFIX = lib;
+                            EXECUTABLE_SUFFIX = ".a";
+                            GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
+                            GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+                            GCC_OPTIMIZATION_LEVEL = 0;
+                            GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)\"'", HAVE_ALLOCA, HAVE_ALLOCA_H, HAVE_LIBPTHREAD, HAVE_UNISTD_H, HAVE_CONFIG_H, EXCLUDE_MIF_SUPPORT, EXCLUDE_PNM_SUPPORT, EXCLUDE_BMP_SUPPORT, EXCLUDE_RAS_SUPPORT, EXCLUDE_JPG_SUPPORT, EXCLUDE_PGX_SUPPORT, );
+                            GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+                            HEADER_SEARCH_PATHS = ("/Users/jjthrash/Downloads/OpenCV-2.2.0/.", "/Users/jjthrash/Downloads/OpenCV-2.2.0", "/Users/jjthrash/Downloads/OpenCV-2.2.0/include", "/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv", "/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper", "/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper/../include", );
+                            INSTALL_PATH = "";
+                            LIBRARY_STYLE = STATIC;
+                            OTHER_CFLAGS = "  -Wall -pthread  -fPIC -Wno-implicit-function-declaration -Wno-unused  ";
+                            OTHER_LDFLAGS = "";
+                            OTHER_REZFLAGS = "";
+                            PREBINDING = NO;
+                            PRODUCT_NAME = libjasper;
+                            SECTORDER_FLAGS = "";
+                            SYMROOT = "/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/libjasper";
+                            USE_HEADERMAP = NO;
+                            WARNING_CFLAGS = ("-Wmost", "-Wno-four-char-constants", "-Wno-unknown-pragmas", );
+                     };
+                     name = RelWithDebInfo;
+              };
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+              10101CCA010101CCA010101C /* Build configuration list for PBXProject  "libjasper" */ = {
+                     isa = XCConfigurationList;
+                     buildConfigurations = (
+                            10101CEE010101CEE010101C /* Debug */,
+                            10101D1A010101D1A010101D /* Release */,
+                            10101D46010101D46010101D /* MinSizeRel */,
+                            10101D75010101D75010101D /* RelWithDebInfo */,
+                     );
+                     defaultConfigurationIsVisible = 0;
+                     defaultConfigurationName = Debug;
+              };
+              1010FA8E01010FA8E01010FA /* Build configuration list for PBXAggregateTarget "ALL_BUILD" */ = {
+                     isa = XCConfigurationList;
+                     buildConfigurations = (
+                            1010FAFD01010FAFD01010FA /* Debug */,
+                            101020D80101020D80101020 /* Release */,
+                            1010A7EE01010A7EE01010A7 /* MinSizeRel */,
+                            1010AB8501010AB8501010AB /* RelWithDebInfo */,
+                     );
+                     defaultConfigurationIsVisible = 0;
+                     defaultConfigurationName = Debug;
+              };
+              1010B23E01010B23E01010B2 /* Build configuration list for PBXAggregateTarget "RUN_TESTS" */ = {
+                     isa = XCConfigurationList;
+                     buildConfigurations = (
+                            1010B2C501010B2C501010B2 /* Debug */,
+                            1010B65F01010B65F01010B6 /* Release */,
+                            1010B9F001010B9F001010B9 /* MinSizeRel */,
+                            1010BD8401010BD8401010BD /* RelWithDebInfo */,
+                     );
+                     defaultConfigurationIsVisible = 0;
+                     defaultConfigurationName = Debug;
+              };
+              1010C39A01010C39A01010C3 /* Build configuration list for PBXAggregateTarget "install" */ = {
+                     isa = XCConfigurationList;
+                     buildConfigurations = (
+                            1010C41E01010C41E01010C4 /* Debug */,
+                            1010C7B601010C7B601010C7 /* Release */,
+                            1010CB4801010CB4801010CB /* MinSizeRel */,
+                            1010CEDB01010CEDB01010CE /* RelWithDebInfo */,
+                     );
+                     defaultConfigurationIsVisible = 0;
+                     defaultConfigurationName = Debug;
+              };
+              101031BA0101031BA0101031 /* Build configuration list for PBXNativeTarget "libjasper" */ = {
+                     isa = XCConfigurationList;
+                     buildConfigurations = (
+                            1010320D01010320D0101032 /* Debug */,
+                            10103F9F010103F9F010103F /* Release */,
+                            10103B75010103B75010103B /* MinSizeRel */,
+                            101038680101038680101038 /* RelWithDebInfo */,
+                     );
+                     defaultConfigurationIsVisible = 0;
+                     defaultConfigurationName = Debug;
+              };
+/* End XCConfigurationList section */
+       };
+       rootObject = 10101BEF010101BEF010101B;
+}

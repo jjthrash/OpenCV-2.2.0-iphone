@@ -1,0 +1,20 @@
+Tuninstall
+v7
+r1
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/OpenCV.build/Release-iphoneos/uninstall.build/Script-10109AC8010109AC8010109A.sh
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/OpenCV.build/Release-iphoneos/uninstall.build/Script-10109B66010109B66010109B.sh
+c00000000000000000000000000000000
+t2
+s0
+
+CPhaseScriptExecution "CMake ReRun" /Users/jjthrash/Downloads/OpenCV-2.2.0/OpenCV.build/Release-iphoneos/uninstall.build/Script-10109AC8010109AC8010109A.sh
+r0
+
+CPhaseScriptExecution "CMake Rules" /Users/jjthrash/Downloads/OpenCV-2.2.0/OpenCV.build/Release-iphoneos/uninstall.build/Script-10109B66010109B66010109B.sh
+r0
+

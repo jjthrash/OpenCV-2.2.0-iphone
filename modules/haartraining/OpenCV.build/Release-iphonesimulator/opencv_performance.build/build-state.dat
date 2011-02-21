@@ -1,0 +1,26 @@
+Topencv_performance
+v7
+r1
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining/OpenCV.build/Release-iphonesimulator/opencv_performance.build/Script-10133CB7010133CB7010133C.sh
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining/OpenCV.build/Release-iphonesimulator/opencv_performance.build/Script-10133D50010133D50010133D.sh
+c00000000000000000000000000000000
+t2
+s0
+
+CCompileC modules/haartraining/OpenCV.build/Release-iphonesimulator/opencv_performance.build/Objects-normal/i386/performance.o /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining/performance.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+r0
+
+CLd /Users/jjthrash/Downloads/OpenCV-2.2.0/bin/Release/ normal i386
+r0
+
+CPhaseScriptExecution "CMake PostBuild Rules" /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining/OpenCV.build/Release-iphonesimulator/opencv_performance.build/Script-10133D50010133D50010133D.sh
+r0
+
+CPhaseScriptExecution "CMake ReRun" /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining/OpenCV.build/Release-iphonesimulator/opencv_performance.build/Script-10133CB7010133CB7010133C.sh
+r0
+

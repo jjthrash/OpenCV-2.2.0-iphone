@@ -1,0 +1,764 @@
+Topencv_haartraining_engine
+v7
+r0
+t319993550.988532
+cCheck dependencies
+cPhaseScriptExecution "CMake ReRun" /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining/OpenCV.build/Debug-iphonesimulator/opencv_haartraining_engine.build/Script-101325FF0101325FF0101325.sh
+cCompileC modules/haartraining/OpenCV.build/Debug-iphonesimulator/opencv_haartraining_engine.build/Objects-normal/i386/cvboost.o /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining/cvboost.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC modules/haartraining/OpenCV.build/Debug-iphonesimulator/opencv_haartraining_engine.build/Objects-normal/i386/cvcommon.o /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining/cvcommon.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC modules/haartraining/OpenCV.build/Debug-iphonesimulator/opencv_haartraining_engine.build/Objects-normal/i386/cvhaarclassifier.o /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining/cvhaarclassifier.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC modules/haartraining/OpenCV.build/Debug-iphonesimulator/opencv_haartraining_engine.build/Objects-normal/i386/cvhaartraining.o /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining/cvhaartraining.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC modules/haartraining/OpenCV.build/Debug-iphonesimulator/opencv_haartraining_engine.build/Objects-normal/i386/cvsamples.o /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining/cvsamples.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cLibtool /Users/jjthrash/Downloads/OpenCV-2.2.0/lib/Debug/libopencv_haartraining_engine.a normal i386
+cPhaseScriptExecution "CMake PostBuild Rules" /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining/OpenCV.build/Debug-iphonesimulator/opencv_haartraining_engine.build/Script-101326A50101326A50101326.sh
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/alloca.h
+c000000004CB3E4860000000000000588
+t1286857862
+s1416
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/assert.h
+c000000004CB3E4860000000000000DCB
+t1286857862
+s3531
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/math.h
+c000000004A5C14A000000000000004F1
+t1247548576
+s1265
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/memory.h
+c000000004CB3E4860000000000000765
+t1286857862
+s1893
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/pthread.h
+c000000004CB3E48600000000000038F0
+t1286857862
+s14576
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/stdio.h
+c000000004CB3E48600000000000040AC
+t1286857862
+s16556
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/stdlib.h
+c000000004CB3E4860000000000002DF5
+t1286857862
+s11765
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/string.h
+c000000004CB3E4860000000000001731
+t1286857862
+s5937
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/sys/mman.h
+c000000004CBFACAB00000000000020EC
+t1287629995
+s8428
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/sys/stat.h
+c000000004CBFACAC0000000000004A1D
+t1287629996
+s18973
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/sys/types.h
+c000000004CBFACAC0000000000002905
+t1287629996
+s10501
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/time.h
+c000000004CB3E486000000000000178E
+t1286857862
+s6030
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/emmintrin.h
+c000000004A119834000000000000EA8F
+t1242667060
+s60047
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/float.h
+c000000004A1198340000000000001538
+t1242667060
+s5432
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/limits.h
+c000000004A1198340000000000000C7E
+t1242667060
+s3198
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/omp.h
+c000000004A1199040000000000000AE9
+t1242667268
+s2793
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/pmmintrin.h
+c000000004A119834000000000000155D
+t1242667060
+s5469
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/stdarg.h
+c000000004A11983400000000000010DD
+t1242667060
+s4317
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/stdint.h
+c000000004A11A512000000000000190C
+t1242670354
+s6412
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/cvconfig.h
+c000000004D627BA10000000000001083
+t1298299809
+s4227
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv/cv.h
+c000000004CFB087C0000000000000D55
+t1291520124
+s3413
+i"opencv2/core/core_c.h"
+i"opencv2/core/core.hpp"
+i"opencv2/imgproc/imgproc_c.h"
+i"opencv2/imgproc/imgproc.hpp"
+i"opencv2/video/tracking.hpp"
+i"opencv2/features2d/features2d.hpp"
+i"opencv2/flann/flann.hpp"
+i"opencv2/calib3d/calib3d.hpp"
+i"opencv2/objdetect/objdetect.hpp"
+i"opencv2/legacy/compat.hpp"
+i"opencv2/core/internal.hpp"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv/cxcore.h
+c000000004CFB087C00000000000009D6
+t1291520124
+s2518
+i"opencv2/core/core_c.h"
+i"opencv2/core/core.hpp"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv/cxmisc.h
+c000000004CFB087C000000000000006E
+t1291520124
+s110
+i"opencv2/core/internal.hpp"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv/highgui.h
+c000000004CFB087C0000000000000902
+t1291520124
+s2306
+i"opencv2/core/core_c.h"
+i"opencv2/core/core.hpp"
+i"opencv2/highgui/highgui_c.h"
+i"opencv2/highgui/highgui.hpp"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/lib/Debug/libopencv_haartraining_engine.a
+t1298300583
+s1229624
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/include/opencv2/calib3d/calib3d.hpp
+c000000004CFB087C000000000000938A
+t1291520124
+s37770
+i"opencv2/core/core.hpp"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/core/include/opencv2/core/core.hpp
+c000000004CFB087C000000000002729D
+t1291520124
+s160413
+i"opencv2/core/types_c.h"
+i"opencv2/core/version.hpp"
+i<limits.h>
+i<algorithm>
+i<cmath>
+i<complex>
+i<map>
+i<new>
+i<string>
+i<vector>
+i"opencv2/core/operations.hpp"
+i"opencv2/core/mat.hpp"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/core/include/opencv2/core/core_c.h
+c000000004CFB087C00000000000132CE
+t1291520124
+s78542
+i"opencv2/core/types_c.h"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/core/include/opencv2/core/eigen.hpp
+c000000004CFB087C000000000000193E
+t1291520124
+s6462
+i"cxcore.h"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/core/include/opencv2/core/internal.hpp
+c000000004CFB087C00000000000079C6
+t1291520124
+s31174
+i<vector>
+i<windows.h>
+i<pthread.h>
+i<sys/mman.h>
+i"ipp.h"
+i"emmintrin.h"
+i"pmmintrin.h"
+i"tbb/tbb_stddef.h"
+i"tbb/tbb.h"
+i<Eigen/Core>
+i"opencv2/core/eigen.hpp"
+i<malloc.h>
+i<alloca.h>
+i<stdlib.h>
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/core/include/opencv2/core/mat.hpp
+c000000004CFB087C0000000000012822
+t1291520124
+s75810
+i<limits.h>
+i<string.h>
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/core/include/opencv2/core/operations.hpp
+c000000004CFB087C000000000001C7C1
+t1291520124
+s116673
+i<string.h>
+i<limits.h>
+i<ext/atomicity.h>
+i<bits/atomicity.h>
+i"windows.h"
+i<limits>
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/core/include/opencv2/core/types_c.h
+c000000004CFB087C000000000000DD3A
+t1291520124
+s56634
+i<assert.h>
+i<stdlib.h>
+i<string.h>
+i<float.h>
+i<stdint.h>
+i<intrin.h>
+i<emmintrin.h>
+i<fastmath.h>
+i<math.h>
+i<ipl.h>
+i<ipl/ipl.h>
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/core/include/opencv2/core/version.hpp
+c000000004CFB087C00000000000009EA
+t1291520124
+s2538
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/features2d/include/opencv2/features2d/features2d.hpp
+c000000004CFB087C000000000001B707
+t1291520124
+s112391
+i"opencv2/core/core.hpp"
+i"opencv2/flann/flann.hpp"
+i<limits>
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/flann/include/opencv2/flann/all_indices.h
+c000000004CFB087C0000000000000B0D
+t1291520124
+s2829
+i"opencv2/flann/general.h"
+i"opencv2/flann/nn_index.h"
+i"opencv2/flann/kdtree_index.h"
+i"opencv2/flann/kmeans_index.h"
+i"opencv2/flann/composite_index.h"
+i"opencv2/flann/linear_index.h"
+i"opencv2/flann/autotuned_index.h"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/flann/include/opencv2/flann/allocator.h
+c000000004CFB087C00000000000015E5
+t1291520124
+s5605
+i<stdlib.h>
+i<stdio.h>
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/flann/include/opencv2/flann/autotuned_index.h
+c000000004CFB087C000000000000548E
+t1291520124
+s21646
+i"opencv2/flann/general.h"
+i"opencv2/flann/nn_index.h"
+i"opencv2/flann/ground_truth.h"
+i"opencv2/flann/index_testing.h"
+i"opencv2/flann/sampling.h"
+i"opencv2/flann/all_indices.h"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/flann/include/opencv2/flann/composite_index.h
+c000000004CFB087C0000000000001310
+t1291520124
+s4880
+i"opencv2/flann/general.h"
+i"opencv2/flann/nn_index.h"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/flann/include/opencv2/flann/dist.h
+c000000004CFB087C000000000000291E
+t1291520124
+s10526
+i<cmath>
+i"opencv2/flann/general.h"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/flann/include/opencv2/flann/flann.hpp
+c000000004CFB087C0000000000001DF2
+t1291520124
+s7666
+i"opencv2/flann/flann_base.hpp"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/flann/include/opencv2/flann/flann_base.hpp
+c000000004CFB087C0000000000001CD6
+t1291520124
+s7382
+i<vector>
+i<string>
+i<cassert>
+i<cstdio>
+i"opencv2/flann/general.h"
+i"opencv2/flann/matrix.h"
+i"opencv2/flann/result_set.h"
+i"opencv2/flann/index_testing.h"
+i"opencv2/flann/object_factory.h"
+i"opencv2/flann/saving.h"
+i"opencv2/flann/all_indices.h"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/flann/include/opencv2/flann/general.h
+c000000004CFB087C0000000000000DFD
+t1291520124
+s3581
+i<stdexcept>
+i<cassert>
+i"opencv2/flann/object_factory.h"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/flann/include/opencv2/flann/ground_truth.h
+c000000004CFB087C0000000000000C0F
+t1291520124
+s3087
+i"opencv2/flann/dist.h"
+i"opencv2/flann/matrix.h"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/flann/include/opencv2/flann/heap.h
+c000000004CFB087C00000000000012F4
+t1291520124
+s4852
+i<algorithm>
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/flann/include/opencv2/flann/index_testing.h
+c000000004CFB087C00000000000025BB
+t1291520124
+s9659
+i<cstring>
+i<cassert>
+i"opencv2/flann/matrix.h"
+i"opencv2/flann/nn_index.h"
+i"opencv2/flann/result_set.h"
+i"opencv2/flann/logger.h"
+i"opencv2/flann/timer.h"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/flann/include/opencv2/flann/kdtree_index.h
+c000000004CFB087C00000000000041A9
+t1291520124
+s16809
+i<algorithm>
+i<map>
+i<cassert>
+i<cstring>
+i"opencv2/flann/general.h"
+i"opencv2/flann/nn_index.h"
+i"opencv2/flann/matrix.h"
+i"opencv2/flann/result_set.h"
+i"opencv2/flann/heap.h"
+i"opencv2/flann/allocator.h"
+i"opencv2/flann/random.h"
+i"opencv2/flann/saving.h"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/flann/include/opencv2/flann/kmeans_index.h
+c000000004CFB087C00000000000076BE
+t1291520124
+s30398
+i<algorithm>
+i<string>
+i<map>
+i<cassert>
+i<limits>
+i<cmath>
+i"opencv2/flann/general.h"
+i"opencv2/flann/nn_index.h"
+i"opencv2/flann/matrix.h"
+i"opencv2/flann/result_set.h"
+i"opencv2/flann/heap.h"
+i"opencv2/flann/allocator.h"
+i"opencv2/flann/random.h"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/flann/include/opencv2/flann/linear_index.h
+c000000004CFB087C0000000000000C7F
+t1291520124
+s3199
+i"opencv2/flann/general.h"
+i"opencv2/flann/nn_index.h"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/flann/include/opencv2/flann/logger.h
+c000000004CFB087C0000000000000A84
+t1291520124
+s2692
+i<cstdio>
+i<stdarg.h>
+i"opencv2/flann/general.h"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/flann/include/opencv2/flann/matrix.h
+c000000004CFB087C0000000000000BAE
+t1291520124
+s2990
+i<stdio.h>
+i"opencv2/flann/general.h"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/flann/include/opencv2/flann/nn_index.h
+c000000004CFB087C0000000000000B6A
+t1291520124
+s2922
+i<string>
+i"opencv2/flann/general.h"
+i"opencv2/flann/matrix.h"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/flann/include/opencv2/flann/object_factory.h
+c000000004CFB087C0000000000000BA3
+t1291520124
+s2979
+i"opencv2/core/types_c.h"
+i<map>
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/flann/include/opencv2/flann/random.h
+c000000004CFB087C0000000000000DF2
+t1291520124
+s3570
+i<algorithm>
+i<cstdlib>
+i<cassert>
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/flann/include/opencv2/flann/result_set.h
+c000000004CFB087C0000000000001A7E
+t1291520124
+s6782
+i<algorithm>
+i<limits>
+i<vector>
+i"opencv2/flann/dist.h"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/flann/include/opencv2/flann/sampling.h
+c000000004CFB087C0000000000000C04
+t1291520124
+s3076
+i"opencv2/flann/matrix.h"
+i"opencv2/flann/random.h"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/flann/include/opencv2/flann/saving.h
+c000000004CFB087C0000000000000FC5
+t1291520124
+s4037
+i"opencv2/flann/general.h"
+i"opencv2/flann/nn_index.h"
+i<cstdio>
+i<cstring>
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/flann/include/opencv2/flann/timer.h
+c000000004CFB087C0000000000000997
+t1291520124
+s2455
+i<time.h>
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining/OpenCV.build/Debug-iphonesimulator/opencv_haartraining_engine.build/Objects-normal/i386/cvboost.o
+t1298300580
+s390368
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining/OpenCV.build/Debug-iphonesimulator/opencv_haartraining_engine.build/Objects-normal/i386/cvcommon.o
+t1298300579
+s168056
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining/OpenCV.build/Debug-iphonesimulator/opencv_haartraining_engine.build/Objects-normal/i386/cvhaarclassifier.o
+t1298300579
+s192648
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining/OpenCV.build/Debug-iphonesimulator/opencv_haartraining_engine.build/Objects-normal/i386/cvhaartraining.o
+t1298300582
+s271484
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining/OpenCV.build/Debug-iphonesimulator/opencv_haartraining_engine.build/Objects-normal/i386/cvsamples.o
+t1298300581
+s197288
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining/OpenCV.build/Debug-iphonesimulator/opencv_haartraining_engine.build/Objects-normal/i386/opencv_haartraining_engine.LinkFileList
+c000000004D627EA10000000000000329
+t1298300577
+s809
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining/OpenCV.build/Debug-iphonesimulator/opencv_haartraining_engine.build/Script-101325FF0101325FF0101325.sh
+c000000004D627EA10000000000000080
+t1298300577
+s128
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining/OpenCV.build/Debug-iphonesimulator/opencv_haartraining_engine.build/Script-101326A50101326A50101326.sh
+c000000004D627EA100000000000000DB
+t1298300577
+s219
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining/_cvcommon.h
+c000000004CFB087C0000000000000D34
+t1291520124
+s3380
+i<cxcore.h>
+i<cv.h>
+i<cxmisc.h>
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining/_cvhaartraining.h
+c000000004CFB087C00000000000033B6
+t1291520124
+s13238
+i"_cvcommon.h"
+i"cvclassifier.h"
+i<cstring>
+i<cstdio>
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining/cvboost.cpp
+c000000004CFB087C000000000001D3C0
+t1291520124
+s119744
+i"cvconfig.h"
+i<malloc.h>
+i<memory.h>
+i<omp.h>
+i<cstdio>
+i<cfloat>
+i<cmath>
+i<ctime>
+i<climits>
+i"_cvcommon.h"
+i"cvclassifier.h"
+i"omp.h"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining/cvclassifier.h
+c000000004CFB087C0000000000006675
+t1291520124
+s26229
+i<cmath>
+i<cxcore.h>
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining/cvcommon.cpp
+c000000004CFB087C0000000000000EF9
+t1291520124
+s3833
+i"_cvcommon.h"
+i<cstring>
+i<ctime>
+i<sys/stat.h>
+i<sys/types.h>
+i<direct.h>
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining/cvhaarclassifier.cpp
+c000000004CFB087C00000000000056E3
+t1291520124
+s22243
+i"_cvhaartraining.h"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining/cvhaartraining.cpp
+c000000004CFB087C0000000000019C00
+t1291520124
+s105472
+i"cvhaartraining.h"
+i"_cvhaartraining.h"
+i<cstdio>
+i<cstdlib>
+i<cmath>
+i<climits>
+i<highgui.h>
+i<ctime>
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining/cvhaartraining.h
+c000000004CFB087C0000000000002174
+t1291520124
+s8564
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining/cvsamples.cpp
+c000000004CFB087C0000000000006FB4
+t1291520124
+s28596
+i"cvhaartraining.h"
+i"_cvhaartraining.h"
+i<cv.h>
+i<highgui.h>
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/highgui/include/opencv2/highgui/highgui.hpp
+c000000004CFB087C0000000000001A87
+t1291520124
+s6791
+i"opencv2/core/core.hpp"
+i"opencv2/highgui/highgui_c.h"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/highgui/include/opencv2/highgui/highgui_c.h
+c000000004CFB087C0000000000003D5C
+t1291520124
+s15708
+i"opencv2/core/core_c.h"
+i<windows.h>
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/imgproc/include/opencv2/imgproc/imgproc.hpp
+c000000004CFB087D000000000000A768
+t1291520125
+s42856
+i"opencv2/core/core.hpp"
+i"opencv2/imgproc/types_c.h"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/imgproc/include/opencv2/imgproc/imgproc_c.h
+c000000004CFB087D0000000000009012
+t1291520125
+s36882
+i"opencv2/core/core_c.h"
+i"opencv2/imgproc/types_c.h"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/imgproc/include/opencv2/imgproc/types_c.h
+c000000004CFB087D0000000000003352
+t1291520125
+s13138
+i"opencv2/core/core_c.h"
+i"opencv2/imgproc/types_c.h"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/legacy/include/opencv2/legacy/compat.hpp
+c000000004CFB087D00000000000064DF
+t1291520125
+s25823
+i"opencv2/core/core_c.h"
+i"opencv2/imgproc/types_c.h"
+i<math.h>
+i<string.h>
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/include/opencv2/objdetect/objdetect.hpp
+c000000004CFB087D0000000000003CC1
+t1291520125
+s15553
+i"opencv2/core/core.hpp"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/video/include/opencv2/video/tracking.hpp
+c000000004CFB087D00000000000040D9
+t1291520125
+s16601
+i"opencv2/core/core.hpp"
+i"opencv2/imgproc/imgproc_c.h"
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies319993550#319993550#0(0"0(0#1#0"8632345280#0"0#
+
+CCompileC modules/haartraining/OpenCV.build/Debug-iphonesimulator/opencv_haartraining_engine.build/Objects-normal/i386/cvboost.o /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining/cvboost.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s319993377.882443
+e319993380.902562
+r1
+xCompileC
+xmodules/haartraining/OpenCV.build/Debug-iphonesimulator/opencv_haartraining_engine.build/Objects-normal/i386/cvboost.o
+x/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining/cvboost.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining/cvboost.cpp319993377#319993380#0(0"0(0#0#71"/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining/cvboost.cpp8661707264#2287"    cd /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -DCMAKE_INTDIR="Debug" -DHAVE_ALLOCA -DHAVE_ALLOCA_H -DHAVE_LIBPTHREAD -DHAVE_UNISTD_H -DHAVE_CONFIG_H -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/jjthrash/Downloads/OpenCV-2.2.0/lib/Debug -I/Users/jjthrash/Downloads/OpenCV-2.2.0/lib/Debug/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/core/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/imgproc/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/ml/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/highgui/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/video/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/features2d/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/flann/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/legacy/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining/OpenCV.build/Debug-iphonesimulator/opencv_haartraining_engine.build/DerivedSources/i386 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining/OpenCV.build/Debug-iphonesimulator/opencv_haartraining_engine.build/DerivedSources -Wall -pthread -ggdb3 -DDEBUG -D_DEBUG -c /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining/cvboost.cpp -o /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining/OpenCV.build/Debug-iphonesimulator/opencv_haartraining_engine.build/Objects-normal/i386/cvboost.o0#
+
+CCompileC modules/haartraining/OpenCV.build/Debug-iphonesimulator/opencv_haartraining_engine.build/Objects-normal/i386/cvcommon.o /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining/cvcommon.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s319993377.883871
+e319993379.758011
+r1
+xCompileC
+xmodules/haartraining/OpenCV.build/Debug-iphonesimulator/opencv_haartraining_engine.build/Objects-normal/i386/cvcommon.o
+x/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining/cvcommon.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining/cvcommon.cpp319993377#319993379#0(0"0(0#0#72"/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining/cvcommon.cpp8660723200#2289"    cd /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -DCMAKE_INTDIR="Debug" -DHAVE_ALLOCA -DHAVE_ALLOCA_H -DHAVE_LIBPTHREAD -DHAVE_UNISTD_H -DHAVE_CONFIG_H -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/jjthrash/Downloads/OpenCV-2.2.0/lib/Debug -I/Users/jjthrash/Downloads/OpenCV-2.2.0/lib/Debug/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/core/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/imgproc/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/ml/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/highgui/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/video/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/features2d/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/flann/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/legacy/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining/OpenCV.build/Debug-iphonesimulator/opencv_haartraining_engine.build/DerivedSources/i386 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining/OpenCV.build/Debug-iphonesimulator/opencv_haartraining_engine.build/DerivedSources -Wall -pthread -ggdb3 -DDEBUG -D_DEBUG -c /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining/cvcommon.cpp -o /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining/OpenCV.build/Debug-iphonesimulator/opencv_haartraining_engine.build/Objects-normal/i386/cvcommon.o0#
+
+CCompileC modules/haartraining/OpenCV.build/Debug-iphonesimulator/opencv_haartraining_engine.build/Objects-normal/i386/cvhaarclassifier.o /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining/cvhaarclassifier.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s319993377.903287
+e319993379.622112
+r1
+xCompileC
+xmodules/haartraining/OpenCV.build/Debug-iphonesimulator/opencv_haartraining_engine.build/Objects-normal/i386/cvhaarclassifier.o
+x/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining/cvhaarclassifier.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@88"Compile /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining/cvhaarclassifier.cpp319993377#319993379#0(0"0(0#0#80"/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining/cvhaarclassifier.cpp8659017440#2305"    cd /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -DCMAKE_INTDIR="Debug" -DHAVE_ALLOCA -DHAVE_ALLOCA_H -DHAVE_LIBPTHREAD -DHAVE_UNISTD_H -DHAVE_CONFIG_H -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/jjthrash/Downloads/OpenCV-2.2.0/lib/Debug -I/Users/jjthrash/Downloads/OpenCV-2.2.0/lib/Debug/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/core/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/imgproc/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/ml/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/highgui/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/video/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/features2d/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/flann/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/legacy/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining/OpenCV.build/Debug-iphonesimulator/opencv_haartraining_engine.build/DerivedSources/i386 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining/OpenCV.build/Debug-iphonesimulator/opencv_haartraining_engine.build/DerivedSources -Wall -pthread -ggdb3 -DDEBUG -D_DEBUG -c /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining/cvhaarclassifier.cpp -o /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining/OpenCV.build/Debug-iphonesimulator/opencv_haartraining_engine.build/Objects-normal/i386/cvhaarclassifier.o0#
+
+CCompileC modules/haartraining/OpenCV.build/Debug-iphonesimulator/opencv_haartraining_engine.build/Objects-normal/i386/cvhaartraining.o /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining/cvhaartraining.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s319993379.622432
+e319993382.042275
+r1
+xCompileC
+xmodules/haartraining/OpenCV.build/Debug-iphonesimulator/opencv_haartraining_engine.build/Objects-normal/i386/cvhaartraining.o
+x/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining/cvhaartraining.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining/cvhaartraining.cpp319993379#319993382#0(0"0(0#0#78"/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining/cvhaartraining.cpp8642212032#2301"    cd /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -DCMAKE_INTDIR="Debug" -DHAVE_ALLOCA -DHAVE_ALLOCA_H -DHAVE_LIBPTHREAD -DHAVE_UNISTD_H -DHAVE_CONFIG_H -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/jjthrash/Downloads/OpenCV-2.2.0/lib/Debug -I/Users/jjthrash/Downloads/OpenCV-2.2.0/lib/Debug/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/core/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/imgproc/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/ml/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/highgui/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/video/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/features2d/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/flann/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/legacy/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining/OpenCV.build/Debug-iphonesimulator/opencv_haartraining_engine.build/DerivedSources/i386 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining/OpenCV.build/Debug-iphonesimulator/opencv_haartraining_engine.build/DerivedSources -Wall -pthread -ggdb3 -DDEBUG -D_DEBUG -c /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining/cvhaartraining.cpp -o /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining/OpenCV.build/Debug-iphonesimulator/opencv_haartraining_engine.build/Objects-normal/i386/cvhaartraining.o0#
+
+CCompileC modules/haartraining/OpenCV.build/Debug-iphonesimulator/opencv_haartraining_engine.build/Objects-normal/i386/cvsamples.o /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining/cvsamples.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s319993379.758275
+e319993381.682449
+r1
+xCompileC
+xmodules/haartraining/OpenCV.build/Debug-iphonesimulator/opencv_haartraining_engine.build/Objects-normal/i386/cvsamples.o
+x/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining/cvsamples.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@81"Compile /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining/cvsamples.cpp319993379#319993381#0(0"0(0#0#73"/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining/cvsamples.cpp8635104288#2291"    cd /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -DCMAKE_INTDIR="Debug" -DHAVE_ALLOCA -DHAVE_ALLOCA_H -DHAVE_LIBPTHREAD -DHAVE_UNISTD_H -DHAVE_CONFIG_H -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/jjthrash/Downloads/OpenCV-2.2.0/lib/Debug -I/Users/jjthrash/Downloads/OpenCV-2.2.0/lib/Debug/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/core/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/imgproc/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/ml/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/highgui/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/video/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/features2d/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/flann/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/legacy/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining/OpenCV.build/Debug-iphonesimulator/opencv_haartraining_engine.build/DerivedSources/i386 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining/OpenCV.build/Debug-iphonesimulator/opencv_haartraining_engine.build/DerivedSources -Wall -pthread -ggdb3 -DDEBUG -D_DEBUG -c /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining/cvsamples.cpp -o /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining/OpenCV.build/Debug-iphonesimulator/opencv_haartraining_engine.build/Objects-normal/i386/cvsamples.o0#
+
+CLibtool /Users/jjthrash/Downloads/OpenCV-2.2.0/lib/Debug/libopencv_haartraining_engine.a normal i386
+s319993383.382785
+e319993383.405598
+r1
+xLibtool
+x/Users/jjthrash/Downloads/OpenCV-2.2.0/lib/Debug/libopencv_haartraining_engine.a
+xnormal
+xi386
+lSLF07#2@61"Libtool lib/Debug/libopencv_haartraining_engine.a normal i386319993383#319993383#0(0"0(0#0#0"8653680896#747"    cd /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/libtool -static -arch_only i386 -syslibroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/jjthrash/Downloads/OpenCV-2.2.0/lib/Debug -filelist /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining/OpenCV.build/Debug-iphonesimulator/opencv_haartraining_engine.build/Objects-normal/i386/opencv_haartraining_engine.LinkFileList -o /Users/jjthrash/Downloads/OpenCV-2.2.0/lib/Debug/libopencv_haartraining_engine.a0#
+
+CPhaseScriptExecution "CMake PostBuild Rules" /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining/OpenCV.build/Debug-iphonesimulator/opencv_haartraining_engine.build/Script-101326A50101326A50101326.sh
+s319993550.878464
+e319993550.988465
+r1
+xPhaseScriptExecution
+xCMake PostBuild Rules
+x/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining/OpenCV.build/Debug-iphonesimulator/opencv_haartraining_engine.build/Script-101326A50101326A50101326.sh
+oecho "Depend check for xcode"
+oDepend check for xcode
+ocd /Users/jjthrash/Downloads/OpenCV-2.2.0 && make -C /Users/jjthrash/Downloads/OpenCV-2.2.0 -f /Users/jjthrash/Downloads/OpenCV-2.2.0/CMakeScripts/XCODE_DEPEND_HELPER.make all.Debug
+o/bin/rm -f /Users/jjthrash/Downloads/OpenCV-2.2.0/bin/Debug/opencv_createsamples
+o/bin/rm -f /Users/jjthrash/Downloads/OpenCV-2.2.0/bin/Debug/opencv_haartraining
+o/bin/rm -f /Users/jjthrash/Downloads/OpenCV-2.2.0/bin/Debug/opencv_performance
+o/bin/rm -f /Users/jjthrash/Downloads/OpenCV-2.2.0/bin/Debug/opencv_traincascade
+o/bin/rm -f /Users/jjthrash/Downloads/OpenCV-2.2.0/bin/Debug/opencv_test
+o/bin/rm -f /Users/jjthrash/Downloads/OpenCV-2.2.0/bin/Debug/opencv_test_core
+o/bin/rm -f /Users/jjthrash/Downloads/OpenCV-2.2.0/bin/Debug/opencv_test_ml
+o/bin/rm -f /Users/jjthrash/Downloads/OpenCV-2.2.0/bin/Debug/opencv_test_gpu
+oecho "Depend check for xcode"
+oDepend check for xcode
+ocd /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining && make -C /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining -f /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining/CMakeScripts/XCODE_DEPEND_HELPER.make all.Debug
+o/bin/rm -f /Users/jjthrash/Downloads/OpenCV-2.2.0/bin/Debug/opencv_createsamples
+o/bin/rm -f /Users/jjthrash/Downloads/OpenCV-2.2.0/bin/Debug/opencv_haartraining
+o/bin/rm -f /Users/jjthrash/Downloads/OpenCV-2.2.0/bin/Debug/opencv_performance
+lSLF07#2@47"Run custom shell script 'CMake PostBuild Rules'319993550#319993550#0(1393"echo "Depend check for xcode"Depend check for xcodecd /Users/jjthrash/Downloads/OpenCV-2.2.0 && make -C /Users/jjthrash/Downloads/OpenCV-2.2.0 -f /Users/jjthrash/Downloads/OpenCV-2.2.0/CMakeScripts/XCODE_DEPEND_HELPER.make all.Debug/bin/rm -f /Users/jjthrash/Downloads/OpenCV-2.2.0/bin/Debug/opencv_createsamples/bin/rm -f /Users/jjthrash/Downloads/OpenCV-2.2.0/bin/Debug/opencv_haartraining/bin/rm -f /Users/jjthrash/Downloads/OpenCV-2.2.0/bin/Debug/opencv_performance/bin/rm -f /Users/jjthrash/Downloads/OpenCV-2.2.0/bin/Debug/opencv_traincascade/bin/rm -f /Users/jjthrash/Downloads/OpenCV-2.2.0/bin/Debug/opencv_test/bin/rm -f /Users/jjthrash/Downloads/OpenCV-2.2.0/bin/Debug/opencv_test_core/bin/rm -f /Users/jjthrash/Downloads/OpenCV-2.2.0/bin/Debug/opencv_test_ml/bin/rm -f /Users/jjthrash/Downloads/OpenCV-2.2.0/bin/Debug/opencv_test_gpuecho "Depend check for xcode"Depend check for xcodecd /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining && make -C /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining -f /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining/CMakeScripts/XCODE_DEPEND_HELPER.make all.Debug/bin/rm -f /Users/jjthrash/Downloads/OpenCV-2.2.0/bin/Debug/opencv_createsamples/bin/rm -f /Users/jjthrash/Downloads/OpenCV-2.2.0/bin/Debug/opencv_haartraining/bin/rm -f /Users/jjthrash/Downloads/OpenCV-2.2.0/bin/Debug/opencv_performance17(13@30"echo "Depend check for xcode"319993550#0#30#0(1@0"0(13@23"Depend check for xcode319993550#30#23#0(1@0"0(13@182"cd /Users/jjthrash/Downloads/OpenCV-2.2.0 && make -C /Users/jjthrash/Downloads/OpenCV-2.2.0 -f /Users/jjthrash/Downloads/OpenCV-2.2.0/CMakeScripts/XCODE_DEPEND_HELPER.make all.Debug319993550#53#182#0(1@0"0(13@81"/bin/rm -f /Users/jjthrash/Downloads/OpenCV-2.2.0/bin/Debug/opencv_createsamples319993550#235#81#0(1@0"0(13@80"/bin/rm -f /Users/jjthrash/Downloads/OpenCV-2.2.0/bin/Debug/opencv_haartraining319993550#316#80#0(1@0"0(13@79"/bin/rm -f /Users/jjthrash/Downloads/OpenCV-2.2.0/bin/Debug/opencv_performance319993550#396#79#0(1@0"0(13@80"/bin/rm -f /Users/jjthrash/Downloads/OpenCV-2.2.0/bin/Debug/opencv_traincascade319993550#475#80#0(1@0"0(13@72"/bin/rm -f /Users/jjthrash/Downloads/OpenCV-2.2.0/bin/Debug/opencv_test319993550#555#72#0(1@0"0(13@77"/bin/rm -f /Users/jjthrash/Downloads/OpenCV-2.2.0/bin/Debug/opencv_test_core319993550#627#77#0(1@0"0(13@75"/bin/rm -f /Users/jjthrash/Downloads/OpenCV-2.2.0/bin/Debug/opencv_test_ml319993550#704#75#0(1@0"0(13@76"/bin/rm -f /Users/jjthrash/Downloads/OpenCV-2.2.0/bin/Debug/opencv_test_gpu319993550#779#76#0(1@0"0(13@30"echo "Depend check for xcode"319993550#855#30#0(1@0"0(13@23"Depend check for xcode319993550#885#23#0(1@0"0(13@245"cd /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining && make -C /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining -f /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining/CMakeScripts/XCODE_DEPEND_HELPER.make all.Debug319993550#908#245#0(1@0"0(13@81"/bin/rm -f /Users/jjthrash/Downloads/OpenCV-2.2.0/bin/Debug/opencv_createsamples319993550#1153#81#0(1@0"0(13@80"/bin/rm -f /Users/jjthrash/Downloads/OpenCV-2.2.0/bin/Debug/opencv_haartraining319993550#1234#80#0(1@0"0(13@79"/bin/rm -f /Users/jjthrash/Downloads/OpenCV-2.2.0/bin/Debug/opencv_performance319993550#1314#79#0(1@0"0(0#0#0"8613548128#17924"    cd /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv ACTION build    setenv ALTERNATE_GROUP staff    setenv ALTERNATE_MODE u+w,go-w,a+rX    setenv ALTERNATE_OWNER jjthrash    setenv ALWAYS_SEARCH_USER_PATHS YES    setenv APPLE_INTERNAL_DEVELOPER_DIR /AppleInternal/Developer    setenv APPLE_INTERNAL_DIR /AppleInternal    setenv APPLE_INTERNAL_DOCUMENTATION_DIR /AppleInternal/Documentation    setenv APPLE_INTERNAL_LIBRARY_DIR /AppleInternal/Library    setenv APPLE_INTERNAL_TOOLS /AppleInternal/Developer/Tools    setenv APPLY_RULES_IN_COPY_FILES NO    setenv ARCHS i386    setenv ARCHS_STANDARD_32_BIT i386    setenv ARCHS_UNIVERSAL_IPHONE_OS i386    setenv BUILD_COMPONENTS "headers build"    setenv BUILD_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining    setenv BUILD_ROOT /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining    setenv BUILD_STYLE Debug    setenv BUILD_VARIANTS normal    setenv BUILT_PRODUCTS_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/lib/Debug    setenv CACHE_ROOT /var/folders/j9/j9D8eGkFG60i5wEYUED5B++++TI/-Caches-/com.apple.Xcode.501    setenv CCHROOT /var/folders/j9/j9D8eGkFG60i5wEYUED5B++++TI/-Caches-/com.apple.Xcode.501    setenv CHMOD /bin/chmod    setenv CHOWN /usr/sbin/chown    setenv CLASS_FILE_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining/OpenCV.build/Debug-iphonesimulator/opencv_haartraining_engine.build/JavaClasses    setenv CLEAN_PRECOMPS YES    setenv CLONE_HEADERS NO    setenv CODESIGNING_FOLDER_PATH /Users/jjthrash/Downloads/OpenCV-2.2.0/lib/Debug/libopencv_haartraining_engine.a    setenv CODE_SIGN_CONTEXT_CLASS XCCodeSignContext    setenv COMMAND_MODE legacy    setenv COMPOSITE_SDK_DIRS /var/folders/j9/j9D8eGkFG60i5wEYUED5B++++TI/-Caches-/com.apple.Xcode.501/CompositeSDKs    setenv COMPRESS_PNG_FILES YES    setenv CONFIGURATION Debug    setenv CONFIGURATION_BUILD_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/lib/Debug    setenv CONFIGURATION_TEMP_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining/OpenCV.build/Debug-iphonesimulator    setenv COPYING_PRESERVES_HFS_DATA NO    setenv COPY_PHASE_STRIP YES    setenv COPY_RESOURCES_FROM_STATIC_FRAMEWORKS YES    setenv CP /bin/cp    setenv CURRENT_ARCH i386    setenv CURRENT_VARIANT normal    setenv DEAD_CODE_STRIPPING NO    setenv DEBUGGING_SYMBOLS YES    setenv DEBUG_INFORMATION_FORMAT dwarf-with-dsym    setenv DEPLOYMENT_LOCATION NO    setenv DEPLOYMENT_POSTPROCESSING NO    setenv DERIVED_FILES_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining/OpenCV.build/Debug-iphonesimulator/opencv_haartraining_engine.build/DerivedSources    setenv DERIVED_FILE_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining/OpenCV.build/Debug-iphonesimulator/opencv_haartraining_engine.build/DerivedSources    setenv DERIVED_SOURCES_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining/OpenCV.build/Debug-iphonesimulator/opencv_haartraining_engine.build/DerivedSources    setenv DEVELOPER_APPLICATIONS_DIR /Developer/Applications    setenv DEVELOPER_BIN_DIR /Developer/usr/bin    setenv DEVELOPER_DIR /Developer    setenv DEVELOPER_FRAMEWORKS_DIR /Developer/Library/Frameworks    setenv DEVELOPER_FRAMEWORKS_DIR_QUOTED "\"/Developer/Library/Frameworks\""    setenv DEVELOPER_LIBRARY_DIR /Developer/Library    setenv DEVELOPER_SDK_DIR /Developer/SDKs    setenv DEVELOPER_TOOLS_DIR /Developer/Tools    setenv DEVELOPER_USR_DIR /Developer/usr    setenv DEVELOPMENT_LANGUAGE English    setenv DO_HEADER_SCANNING_IN_JAM NO    setenv DSTROOT /tmp/OpenCV.dst    setenv DWARF_DSYM_FILE_NAME libopencv_haartraining_engine.a.dSYM    setenv DWARF_DSYM_FOLDER_PATH /Users/jjthrash/Downloads/OpenCV-2.2.0/lib/Debug    setenv EFFECTIVE_PLATFORM_NAME -iphonesimulator    setenv ENABLE_HEADER_DEPENDENCIES YES    setenv ENABLE_OPENMP_SUPPORT NO    setenv EXCLUDED_INSTALLSRC_SUBDIRECTORY_PATTERNS ".svn .git CVS"    setenv EXCLUDED_RECURSIVE_SEARCH_PATH_SUBDIRECTORIES "*.nib *.lproj *.framework *.gch (*) CVS .svn .git *.xcodeproj *.xcode *.pbproj *.pbxproj"    setenv EXECUTABLE_EXTENSION a    setenv EXECUTABLE_NAME libopencv_haartraining_engine.a    setenv EXECUTABLE_PATH libopencv_haartraining_engine.a    setenv EXECUTABLE_PREFIX lib    setenv EXECUTABLE_SUFFIX .a    setenv FILE_LIST /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining/OpenCV.build/Debug-iphonesimulator/opencv_haartraining_engine.build/Objects/LinkFileList    setenv FIXED_FILES_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining/OpenCV.build/Debug-iphonesimulator/opencv_haartraining_engine.build/FixedFiles    setenv FRAMEWORK_FLAG_PREFIX -framework    setenv FRAMEWORK_SEARCH_PATHS "\"/Users/jjthrash/Downloads/OpenCV-2.2.0/lib/Debug\" "    setenv FRAMEWORK_VERSION A    setenv FULL_PRODUCT_NAME libopencv_haartraining_engine.a    setenv GCC3_VERSION 3.3    setenv GCC_ENABLE_SYMBOL_SEPARATION NO    setenv GCC_GENERATE_DEBUGGING_SYMBOLS YES    setenv GCC_INLINES_ARE_PRIVATE_EXTERN NO    setenv GCC_OBJC_LEGACY_DISPATCH YES    setenv GCC_OPTIMIZATION_LEVEL 0    setenv GCC_PFE_FILE_C_DIALECTS "c objective-c c++ objective-c++"    setenv GCC_PREPROCESSOR_DEFINITIONS "'CMAKE_INTDIR=\"Debug\"' HAVE_ALLOCA HAVE_ALLOCA_H HAVE_LIBPTHREAD HAVE_UNISTD_H HAVE_CONFIG_H"    setenv GCC_SYMBOLS_PRIVATE_EXTERN NO    setenv GCC_THUMB_SUPPORT YES    setenv GCC_TREAT_WARNINGS_AS_ERRORS NO    setenv GCC_VERSION 4.2    setenv GCC_VERSION_IDENTIFIER __2    setenv GENERATE_MASTER_OBJECT_FILE NO    setenv GENERATE_PKGINFO_FILE NO    setenv GENERATE_PROFILING_CODE NO    setenv GID 20    setenv GROUP staff    setenv HEADERMAP_INCLUDES_FLAT_ENTRIES_FOR_TARGET_BEING_BUILT YES    setenv HEADERMAP_INCLUDES_FRAMEWORK_ENTRIES_FOR_ALL_PRODUCT_TYPES YES    setenv HEADERMAP_INCLUDES_NONPUBLIC_NONPRIVATE_HEADERS YES    setenv HEADERMAP_INCLUDES_PROJECT_HEADERS YES    setenv HEADER_SEARCH_PATHS "\"/Users/jjthrash/Downloads/OpenCV-2.2.0/lib/Debug/include\" /Users/jjthrash/Downloads/OpenCV-2.2.0/. /Users/jjthrash/Downloads/OpenCV-2.2.0 /Users/jjthrash/Downloads/OpenCV-2.2.0/include /Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/core/include /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/imgproc/include /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/include /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/ml/include /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/highgui/include /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/video/include /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/features2d/include /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/flann/include /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/include /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/legacy/include"    setenv ICONV /usr/bin/iconv    setenv INFOPLIST_EXPAND_BUILD_SETTINGS YES    setenv INFOPLIST_OUTPUT_FORMAT binary    setenv INFOPLIST_PREPROCESS NO    setenv INSTALL_DIR /tmp/OpenCV.dst    setenv INSTALL_GROUP staff    setenv INSTALL_MODE_FLAG u+w,go-w,a+rX    setenv INSTALL_OWNER jjthrash    setenv INSTALL_ROOT /tmp/OpenCV.dst    setenv IPHONEOS_DEPLOYMENT_TARGET 4.2    setenv JAVAC_DEFAULT_FLAGS "-J-Xms64m -J-XX:NewSize=4M -J-Dfile.encoding=UTF8"    setenv JAVA_APP_STUB /System/Library/Frameworks/JavaVM.framework/Resources/MacOS/JavaApplicationStub    setenv JAVA_ARCHIVE_CLASSES YES    setenv JAVA_ARCHIVE_TYPE JAR    setenv JAVA_COMPILER /usr/bin/javac    setenv JAVA_FRAMEWORK_RESOURCES_DIRS Resources    setenv JAVA_JAR_FLAGS cv    setenv JAVA_SOURCE_SUBDIR .    setenv JAVA_USE_DEPENDENCIES YES    setenv JAVA_ZIP_FLAGS -urg    setenv JIKES_DEFAULT_FLAGS "+E +OLDCSO"    setenv KEEP_PRIVATE_EXTERNS NO    setenv LD_GENERATE_MAP_FILE NO    setenv LD_MAP_FILE_PATH /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining/OpenCV.build/Debug-iphonesimulator/opencv_haartraining_engine.build/opencv_haartraining_engine-LinkMap-normal-i386.txt    setenv LD_OPENMP_FLAGS -fopenmp    setenv LEX /Developer/usr/bin/lex    setenv LIBRARY_FLAG_NOSPACE YES    setenv LIBRARY_FLAG_PREFIX -l    setenv LIBRARY_SEARCH_PATHS "\"/Users/jjthrash/Downloads/OpenCV-2.2.0/lib/Debug\" "    setenv LIBRARY_STYLE STATIC    setenv LINKER_DISPLAYS_MANGLED_NAMES NO    setenv LINK_FILE_LIST_normal_i386 /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining/OpenCV.build/Debug-iphonesimulator/opencv_haartraining_engine.build/Objects-normal/i386/opencv_haartraining_engine.LinkFileList    setenv LINK_WITH_STANDARD_LIBRARIES YES    setenv LOCAL_ADMIN_APPS_DIR /Applications/Utilities    setenv LOCAL_APPS_DIR /Applications    setenv LOCAL_DEVELOPER_DIR /Library/Developer    setenv LOCAL_LIBRARY_DIR /Library    setenv MACH_O_TYPE staticlib    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv MAC_OS_X_VERSION_ACTUAL 1066    setenv MAC_OS_X_VERSION_MAJOR 1060    setenv MAC_OS_X_VERSION_MINOR 0606    setenv NATIVE_ARCH i386    setenv NATIVE_ARCH_32_BIT i386    setenv NATIVE_ARCH_64_BIT x86_64    setenv NATIVE_ARCH_ACTUAL x86_64    setenv NO_COMMON YES    setenv OBJC_ABI_VERSION 2    setenv OBJECT_FILE_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining/OpenCV.build/Debug-iphonesimulator/opencv_haartraining_engine.build/Objects    setenv OBJECT_FILE_DIR_normal /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining/OpenCV.build/Debug-iphonesimulator/opencv_haartraining_engine.build/Objects-normal    setenv OBJROOT /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining    setenv ONLY_ACTIVE_ARCH YES    setenv OPTIMIZATION_LEVEL 0    setenv OS MACOS    setenv OSAC /usr/bin/osacompile    setenv OTHER_CFLAGS "-Wall -pthread -ggdb3 -DDEBUG -D_DEBUG"    setenv OTHER_CPLUSPLUSFLAGS "-Wall -pthread -ggdb3 -DDEBUG -D_DEBUG"    setenv PACKAGE_TYPE com.apple.package-type.static-library    setenv PASCAL_STRINGS YES    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv PATH_PREFIXES_EXCLUDED_FROM_HEADER_DEPENDENCIES "/usr/include /usr/local/include /System/Library/Frameworks /System/Library/PrivateFrameworks /Developer/Headers /Developer/SDKs /Developer/Platforms"    setenv PFE_FILE_C_DIALECTS c++    setenv PKGINFO_FILE_PATH /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining/OpenCV.build/Debug-iphonesimulator/opencv_haartraining_engine.build/PkgInfo    setenv PLATFORM_DEVELOPER_APPLICATIONS_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/Applications    setenv PLATFORM_DEVELOPER_BIN_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin    setenv PLATFORM_DEVELOPER_LIBRARY_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/Library    setenv PLATFORM_DEVELOPER_SDK_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs    setenv PLATFORM_DEVELOPER_TOOLS_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/Tools    setenv PLATFORM_DEVELOPER_USR_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/usr    setenv PLATFORM_DIR /Developer/Platforms/iPhoneSimulator.platform    setenv PLATFORM_NAME iphonesimulator    setenv PLATFORM_PRODUCT_BUILD_VERSION 8C134    setenv PLATFORM_VERSION_AVAILABILITY_H_FORMAT 40200    setenv PLIST_FILE_OUTPUT_FORMAT binary    setenv PREBINDING NO    setenv PRECOMPS_INCLUDE_HEADERS_FROM_BUILT_PRODUCTS_DIR YES    setenv PRECOMP_DESTINATION_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining/OpenCV.build/Debug-iphonesimulator/opencv_haartraining_engine.build/PrefixHeaders    setenv PRESERVE_DEAD_CODE_INITS_AND_TERMS NO    setenv PRIVATE_HEADERS_FOLDER_PATH /usr/local/include    setenv PRODUCT_NAME opencv_haartraining_engine    setenv PRODUCT_SETTINGS_PATH     setenv PRODUCT_TYPE com.apple.product-type.library.static    setenv PROFILING_CODE NO    setenv PROJECT OpenCV    setenv PROJECT_DERIVED_FILE_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining/OpenCV.build/DerivedSources    setenv PROJECT_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv PROJECT_FILE_PATH /Users/jjthrash/Downloads/OpenCV-2.2.0/OpenCV.xcodeproj    setenv PROJECT_NAME OpenCV    setenv PROJECT_TEMP_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining/OpenCV.build    setenv PUBLIC_HEADERS_FOLDER_PATH /usr/local/include    setenv RECURSIVE_SEARCH_PATHS_FOLLOW_SYMLINKS YES    setenv REMOVE_CVS_FROM_RESOURCES YES    setenv REMOVE_GIT_FROM_RESOURCES YES    setenv REMOVE_SVN_FROM_RESOURCES YES    setenv REZ_COLLECTOR_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining/OpenCV.build/Debug-iphonesimulator/opencv_haartraining_engine.build/ResourceManagerResources    setenv REZ_EXECUTABLE YES    setenv REZ_OBJECTS_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining/OpenCV.build/Debug-iphonesimulator/opencv_haartraining_engine.build/ResourceManagerResources/Objects    setenv REZ_SEARCH_PATHS "\"/Users/jjthrash/Downloads/OpenCV-2.2.0/lib/Debug\" "    setenv RUN_CLANG_STATIC_ANALYZER NO    setenv SCAN_ALL_SOURCE_FILES_FOR_INCLUDES NO    setenv SCRIPT_INPUT_FILE_COUNT 0    setenv SCRIPT_OUTPUT_FILE_COUNT 0    setenv SDKROOT /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk    setenv SDK_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk    setenv SDK_NAME iphonesimulator4.2    setenv SED /usr/bin/sed    setenv SEPARATE_STRIP YES    setenv SEPARATE_SYMBOL_EDIT NO    setenv SET_DIR_MODE_OWNER_GROUP YES    setenv SET_FILE_MODE_OWNER_GROUP NO    setenv SHARED_DERIVED_FILE_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/lib/Debug/DerivedSources    setenv SHARED_PRECOMPS_DIR /var/folders/j9/j9D8eGkFG60i5wEYUED5B++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders    setenv SKIP_INSTALL YES    setenv SOURCE_ROOT /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv SRCROOT /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv STANDARD_C_PLUS_PLUS_LIBRARY_TYPE dynamic    setenv STRINGS_FILE_OUTPUT_ENCODING binary    setenv STRIP_INSTALLED_PRODUCT YES    setenv STRIP_STYLE debugging    setenv SUPPORTED_DEVICE_FAMILIES "1 2"    setenv SYMBOL_REPOSITORY_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining/OpenCV.build/Debug-iphonesimulator/opencv_haartraining_engine.build/SymbolRepositories    setenv SYMROOT /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining    setenv SYSTEM_ADMIN_APPS_DIR /Applications/Utilities    setenv SYSTEM_APPS_DIR /Applications    setenv SYSTEM_CORE_SERVICES_DIR /System/Library/CoreServices    setenv SYSTEM_DEMOS_DIR /Applications/Extras    setenv SYSTEM_DEVELOPER_APPS_DIR /Developer/Applications    setenv SYSTEM_DEVELOPER_BIN_DIR /Developer/usr/bin    setenv SYSTEM_DEVELOPER_DEMOS_DIR "/Developer/Applications/Utilities/Built Examples"    setenv SYSTEM_DEVELOPER_DIR /Developer    setenv SYSTEM_DEVELOPER_DOC_DIR "/Developer/ADC Reference Library"    setenv SYSTEM_DEVELOPER_GRAPHICS_TOOLS_DIR "/Developer/Applications/Graphics Tools"    setenv SYSTEM_DEVELOPER_JAVA_TOOLS_DIR "/Developer/Applications/Java Tools"    setenv SYSTEM_DEVELOPER_PERFORMANCE_TOOLS_DIR "/Developer/Applications/Performance Tools"    setenv SYSTEM_DEVELOPER_RELEASENOTES_DIR "/Developer/ADC Reference Library/releasenotes"    setenv SYSTEM_DEVELOPER_TOOLS /Developer/Tools    setenv SYSTEM_DEVELOPER_TOOLS_DOC_DIR "/Developer/ADC Reference Library/documentation/DeveloperTools"    setenv SYSTEM_DEVELOPER_TOOLS_RELEASENOTES_DIR "/Developer/ADC Reference Library/releasenotes/DeveloperTools"    setenv SYSTEM_DEVELOPER_USR_DIR /Developer/usr    setenv SYSTEM_DEVELOPER_UTILITIES_DIR /Developer/Applications/Utilities    setenv SYSTEM_DOCUMENTATION_DIR /Library/Documentation    setenv SYSTEM_LIBRARY_DIR /System/Library    setenv TARGETED_DEVICE_FAMILY 1    setenv TARGETNAME opencv_haartraining_engine    setenv TARGET_BUILD_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/lib/Debug    setenv TARGET_NAME opencv_haartraining_engine    setenv TARGET_TEMP_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining/OpenCV.build/Debug-iphonesimulator/opencv_haartraining_engine.build    setenv TEMP_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining/OpenCV.build/Debug-iphonesimulator/opencv_haartraining_engine.build    setenv TEMP_FILES_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining/OpenCV.build/Debug-iphonesimulator/opencv_haartraining_engine.build    setenv TEMP_FILE_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining/OpenCV.build/Debug-iphonesimulator/opencv_haartraining_engine.build    setenv TEMP_ROOT /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining    setenv UID 501    setenv UNSTRIPPED_PRODUCT NO    setenv USER jjthrash    setenv USER_APPS_DIR /Users/jjthrash/Applications    setenv USER_LIBRARY_DIR /Users/jjthrash/Library    setenv USE_DYNAMIC_NO_PIC YES    setenv USE_HEADERMAP NO    setenv USE_HEADER_SYMLINKS NO    setenv VALIDATE_PRODUCT NO    setenv VALID_ARCHS i386    setenv VERBOSE_PBXCP NO    setenv VERSION_INFO_BUILDER jjthrash    setenv VERSION_INFO_FILE opencv_haartraining_engine_vers.c    setenv VERSION_INFO_STRING "\"@(#)PROGRAM:opencv_haartraining_engine  PROJECT:OpenCV-\""    setenv WARNING_CFLAGS "-Wmost -Wno-four-char-constants -Wno-unknown-pragmas"    setenv XCODE_APP_SUPPORT_DIR /Developer/Library/Xcode    setenv XCODE_PRODUCT_BUILD_VERSION 10M2423    setenv XCODE_VERSION_ACTUAL 0325    setenv XCODE_VERSION_MAJOR 0300    setenv XCODE_VERSION_MINOR 0320    setenv YACC /Developer/usr/bin/yacc    setenv _REAL_SDKROOT iphoneos    /bin/sh -c /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining/OpenCV.build/Debug-iphonesimulator/opencv_haartraining_engine.build/Script-101326A50101326A50101326.sh0#
+
+CPhaseScriptExecution "CMake ReRun" /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining/OpenCV.build/Debug-iphonesimulator/opencv_haartraining_engine.build/Script-101325FF0101325FF0101325.sh
+s319993550.846982
+e319993550.877274
+r1
+xPhaseScriptExecution
+xCMake ReRun
+x/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining/OpenCV.build/Debug-iphonesimulator/opencv_haartraining_engine.build/Script-101325FF0101325FF0101325.sh
+omake: `CMakeFiles/cmake.check_cache' is up to date.
+lSLF07#2@37"Run custom shell script 'CMake ReRun'319993550#319993550#0(52"make: `CMakeFiles/cmake.check_cache' is up to date.1(13@52"make: `CMakeFiles/cmake.check_cache' is up to date.319993550#0#52#0(1@0"0(0#0#0"8626041632#17924"    cd /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv ACTION build    setenv ALTERNATE_GROUP staff    setenv ALTERNATE_MODE u+w,go-w,a+rX    setenv ALTERNATE_OWNER jjthrash    setenv ALWAYS_SEARCH_USER_PATHS YES    setenv APPLE_INTERNAL_DEVELOPER_DIR /AppleInternal/Developer    setenv APPLE_INTERNAL_DIR /AppleInternal    setenv APPLE_INTERNAL_DOCUMENTATION_DIR /AppleInternal/Documentation    setenv APPLE_INTERNAL_LIBRARY_DIR /AppleInternal/Library    setenv APPLE_INTERNAL_TOOLS /AppleInternal/Developer/Tools    setenv APPLY_RULES_IN_COPY_FILES NO    setenv ARCHS i386    setenv ARCHS_STANDARD_32_BIT i386    setenv ARCHS_UNIVERSAL_IPHONE_OS i386    setenv BUILD_COMPONENTS "headers build"    setenv BUILD_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining    setenv BUILD_ROOT /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining    setenv BUILD_STYLE Debug    setenv BUILD_VARIANTS normal    setenv BUILT_PRODUCTS_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/lib/Debug    setenv CACHE_ROOT /var/folders/j9/j9D8eGkFG60i5wEYUED5B++++TI/-Caches-/com.apple.Xcode.501    setenv CCHROOT /var/folders/j9/j9D8eGkFG60i5wEYUED5B++++TI/-Caches-/com.apple.Xcode.501    setenv CHMOD /bin/chmod    setenv CHOWN /usr/sbin/chown    setenv CLASS_FILE_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining/OpenCV.build/Debug-iphonesimulator/opencv_haartraining_engine.build/JavaClasses    setenv CLEAN_PRECOMPS YES    setenv CLONE_HEADERS NO    setenv CODESIGNING_FOLDER_PATH /Users/jjthrash/Downloads/OpenCV-2.2.0/lib/Debug/libopencv_haartraining_engine.a    setenv CODE_SIGN_CONTEXT_CLASS XCCodeSignContext    setenv COMMAND_MODE legacy    setenv COMPOSITE_SDK_DIRS /var/folders/j9/j9D8eGkFG60i5wEYUED5B++++TI/-Caches-/com.apple.Xcode.501/CompositeSDKs    setenv COMPRESS_PNG_FILES YES    setenv CONFIGURATION Debug    setenv CONFIGURATION_BUILD_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/lib/Debug    setenv CONFIGURATION_TEMP_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining/OpenCV.build/Debug-iphonesimulator    setenv COPYING_PRESERVES_HFS_DATA NO    setenv COPY_PHASE_STRIP YES    setenv COPY_RESOURCES_FROM_STATIC_FRAMEWORKS YES    setenv CP /bin/cp    setenv CURRENT_ARCH i386    setenv CURRENT_VARIANT normal    setenv DEAD_CODE_STRIPPING NO    setenv DEBUGGING_SYMBOLS YES    setenv DEBUG_INFORMATION_FORMAT dwarf-with-dsym    setenv DEPLOYMENT_LOCATION NO    setenv DEPLOYMENT_POSTPROCESSING NO    setenv DERIVED_FILES_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining/OpenCV.build/Debug-iphonesimulator/opencv_haartraining_engine.build/DerivedSources    setenv DERIVED_FILE_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining/OpenCV.build/Debug-iphonesimulator/opencv_haartraining_engine.build/DerivedSources    setenv DERIVED_SOURCES_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining/OpenCV.build/Debug-iphonesimulator/opencv_haartraining_engine.build/DerivedSources    setenv DEVELOPER_APPLICATIONS_DIR /Developer/Applications    setenv DEVELOPER_BIN_DIR /Developer/usr/bin    setenv DEVELOPER_DIR /Developer    setenv DEVELOPER_FRAMEWORKS_DIR /Developer/Library/Frameworks    setenv DEVELOPER_FRAMEWORKS_DIR_QUOTED "\"/Developer/Library/Frameworks\""    setenv DEVELOPER_LIBRARY_DIR /Developer/Library    setenv DEVELOPER_SDK_DIR /Developer/SDKs    setenv DEVELOPER_TOOLS_DIR /Developer/Tools    setenv DEVELOPER_USR_DIR /Developer/usr    setenv DEVELOPMENT_LANGUAGE English    setenv DO_HEADER_SCANNING_IN_JAM NO    setenv DSTROOT /tmp/OpenCV.dst    setenv DWARF_DSYM_FILE_NAME libopencv_haartraining_engine.a.dSYM    setenv DWARF_DSYM_FOLDER_PATH /Users/jjthrash/Downloads/OpenCV-2.2.0/lib/Debug    setenv EFFECTIVE_PLATFORM_NAME -iphonesimulator    setenv ENABLE_HEADER_DEPENDENCIES YES    setenv ENABLE_OPENMP_SUPPORT NO    setenv EXCLUDED_INSTALLSRC_SUBDIRECTORY_PATTERNS ".svn .git CVS"    setenv EXCLUDED_RECURSIVE_SEARCH_PATH_SUBDIRECTORIES "*.nib *.lproj *.framework *.gch (*) CVS .svn .git *.xcodeproj *.xcode *.pbproj *.pbxproj"    setenv EXECUTABLE_EXTENSION a    setenv EXECUTABLE_NAME libopencv_haartraining_engine.a    setenv EXECUTABLE_PATH libopencv_haartraining_engine.a    setenv EXECUTABLE_PREFIX lib    setenv EXECUTABLE_SUFFIX .a    setenv FILE_LIST /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining/OpenCV.build/Debug-iphonesimulator/opencv_haartraining_engine.build/Objects/LinkFileList    setenv FIXED_FILES_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining/OpenCV.build/Debug-iphonesimulator/opencv_haartraining_engine.build/FixedFiles    setenv FRAMEWORK_FLAG_PREFIX -framework    setenv FRAMEWORK_SEARCH_PATHS "\"/Users/jjthrash/Downloads/OpenCV-2.2.0/lib/Debug\" "    setenv FRAMEWORK_VERSION A    setenv FULL_PRODUCT_NAME libopencv_haartraining_engine.a    setenv GCC3_VERSION 3.3    setenv GCC_ENABLE_SYMBOL_SEPARATION NO    setenv GCC_GENERATE_DEBUGGING_SYMBOLS YES    setenv GCC_INLINES_ARE_PRIVATE_EXTERN NO    setenv GCC_OBJC_LEGACY_DISPATCH YES    setenv GCC_OPTIMIZATION_LEVEL 0    setenv GCC_PFE_FILE_C_DIALECTS "c objective-c c++ objective-c++"    setenv GCC_PREPROCESSOR_DEFINITIONS "'CMAKE_INTDIR=\"Debug\"' HAVE_ALLOCA HAVE_ALLOCA_H HAVE_LIBPTHREAD HAVE_UNISTD_H HAVE_CONFIG_H"    setenv GCC_SYMBOLS_PRIVATE_EXTERN NO    setenv GCC_THUMB_SUPPORT YES    setenv GCC_TREAT_WARNINGS_AS_ERRORS NO    setenv GCC_VERSION 4.2    setenv GCC_VERSION_IDENTIFIER __2    setenv GENERATE_MASTER_OBJECT_FILE NO    setenv GENERATE_PKGINFO_FILE NO    setenv GENERATE_PROFILING_CODE NO    setenv GID 20    setenv GROUP staff    setenv HEADERMAP_INCLUDES_FLAT_ENTRIES_FOR_TARGET_BEING_BUILT YES    setenv HEADERMAP_INCLUDES_FRAMEWORK_ENTRIES_FOR_ALL_PRODUCT_TYPES YES    setenv HEADERMAP_INCLUDES_NONPUBLIC_NONPRIVATE_HEADERS YES    setenv HEADERMAP_INCLUDES_PROJECT_HEADERS YES    setenv HEADER_SEARCH_PATHS "\"/Users/jjthrash/Downloads/OpenCV-2.2.0/lib/Debug/include\" /Users/jjthrash/Downloads/OpenCV-2.2.0/. /Users/jjthrash/Downloads/OpenCV-2.2.0 /Users/jjthrash/Downloads/OpenCV-2.2.0/include /Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/core/include /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/imgproc/include /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/objdetect/include /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/ml/include /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/highgui/include /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/video/include /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/features2d/include /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/flann/include /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/include /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/legacy/include"    setenv ICONV /usr/bin/iconv    setenv INFOPLIST_EXPAND_BUILD_SETTINGS YES    setenv INFOPLIST_OUTPUT_FORMAT binary    setenv INFOPLIST_PREPROCESS NO    setenv INSTALL_DIR /tmp/OpenCV.dst    setenv INSTALL_GROUP staff    setenv INSTALL_MODE_FLAG u+w,go-w,a+rX    setenv INSTALL_OWNER jjthrash    setenv INSTALL_ROOT /tmp/OpenCV.dst    setenv IPHONEOS_DEPLOYMENT_TARGET 4.2    setenv JAVAC_DEFAULT_FLAGS "-J-Xms64m -J-XX:NewSize=4M -J-Dfile.encoding=UTF8"    setenv JAVA_APP_STUB /System/Library/Frameworks/JavaVM.framework/Resources/MacOS/JavaApplicationStub    setenv JAVA_ARCHIVE_CLASSES YES    setenv JAVA_ARCHIVE_TYPE JAR    setenv JAVA_COMPILER /usr/bin/javac    setenv JAVA_FRAMEWORK_RESOURCES_DIRS Resources    setenv JAVA_JAR_FLAGS cv    setenv JAVA_SOURCE_SUBDIR .    setenv JAVA_USE_DEPENDENCIES YES    setenv JAVA_ZIP_FLAGS -urg    setenv JIKES_DEFAULT_FLAGS "+E +OLDCSO"    setenv KEEP_PRIVATE_EXTERNS NO    setenv LD_GENERATE_MAP_FILE NO    setenv LD_MAP_FILE_PATH /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining/OpenCV.build/Debug-iphonesimulator/opencv_haartraining_engine.build/opencv_haartraining_engine-LinkMap-normal-i386.txt    setenv LD_OPENMP_FLAGS -fopenmp    setenv LEX /Developer/usr/bin/lex    setenv LIBRARY_FLAG_NOSPACE YES    setenv LIBRARY_FLAG_PREFIX -l    setenv LIBRARY_SEARCH_PATHS "\"/Users/jjthrash/Downloads/OpenCV-2.2.0/lib/Debug\" "    setenv LIBRARY_STYLE STATIC    setenv LINKER_DISPLAYS_MANGLED_NAMES NO    setenv LINK_FILE_LIST_normal_i386 /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining/OpenCV.build/Debug-iphonesimulator/opencv_haartraining_engine.build/Objects-normal/i386/opencv_haartraining_engine.LinkFileList    setenv LINK_WITH_STANDARD_LIBRARIES YES    setenv LOCAL_ADMIN_APPS_DIR /Applications/Utilities    setenv LOCAL_APPS_DIR /Applications    setenv LOCAL_DEVELOPER_DIR /Library/Developer    setenv LOCAL_LIBRARY_DIR /Library    setenv MACH_O_TYPE staticlib    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv MAC_OS_X_VERSION_ACTUAL 1066    setenv MAC_OS_X_VERSION_MAJOR 1060    setenv MAC_OS_X_VERSION_MINOR 0606    setenv NATIVE_ARCH i386    setenv NATIVE_ARCH_32_BIT i386    setenv NATIVE_ARCH_64_BIT x86_64    setenv NATIVE_ARCH_ACTUAL x86_64    setenv NO_COMMON YES    setenv OBJC_ABI_VERSION 2    setenv OBJECT_FILE_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining/OpenCV.build/Debug-iphonesimulator/opencv_haartraining_engine.build/Objects    setenv OBJECT_FILE_DIR_normal /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining/OpenCV.build/Debug-iphonesimulator/opencv_haartraining_engine.build/Objects-normal    setenv OBJROOT /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining    setenv ONLY_ACTIVE_ARCH YES    setenv OPTIMIZATION_LEVEL 0    setenv OS MACOS    setenv OSAC /usr/bin/osacompile    setenv OTHER_CFLAGS "-Wall -pthread -ggdb3 -DDEBUG -D_DEBUG"    setenv OTHER_CPLUSPLUSFLAGS "-Wall -pthread -ggdb3 -DDEBUG -D_DEBUG"    setenv PACKAGE_TYPE com.apple.package-type.static-library    setenv PASCAL_STRINGS YES    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv PATH_PREFIXES_EXCLUDED_FROM_HEADER_DEPENDENCIES "/usr/include /usr/local/include /System/Library/Frameworks /System/Library/PrivateFrameworks /Developer/Headers /Developer/SDKs /Developer/Platforms"    setenv PFE_FILE_C_DIALECTS c++    setenv PKGINFO_FILE_PATH /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining/OpenCV.build/Debug-iphonesimulator/opencv_haartraining_engine.build/PkgInfo    setenv PLATFORM_DEVELOPER_APPLICATIONS_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/Applications    setenv PLATFORM_DEVELOPER_BIN_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin    setenv PLATFORM_DEVELOPER_LIBRARY_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/Library    setenv PLATFORM_DEVELOPER_SDK_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs    setenv PLATFORM_DEVELOPER_TOOLS_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/Tools    setenv PLATFORM_DEVELOPER_USR_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/usr    setenv PLATFORM_DIR /Developer/Platforms/iPhoneSimulator.platform    setenv PLATFORM_NAME iphonesimulator    setenv PLATFORM_PRODUCT_BUILD_VERSION 8C134    setenv PLATFORM_VERSION_AVAILABILITY_H_FORMAT 40200    setenv PLIST_FILE_OUTPUT_FORMAT binary    setenv PREBINDING NO    setenv PRECOMPS_INCLUDE_HEADERS_FROM_BUILT_PRODUCTS_DIR YES    setenv PRECOMP_DESTINATION_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining/OpenCV.build/Debug-iphonesimulator/opencv_haartraining_engine.build/PrefixHeaders    setenv PRESERVE_DEAD_CODE_INITS_AND_TERMS NO    setenv PRIVATE_HEADERS_FOLDER_PATH /usr/local/include    setenv PRODUCT_NAME opencv_haartraining_engine    setenv PRODUCT_SETTINGS_PATH     setenv PRODUCT_TYPE com.apple.product-type.library.static    setenv PROFILING_CODE NO    setenv PROJECT OpenCV    setenv PROJECT_DERIVED_FILE_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining/OpenCV.build/DerivedSources    setenv PROJECT_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv PROJECT_FILE_PATH /Users/jjthrash/Downloads/OpenCV-2.2.0/OpenCV.xcodeproj    setenv PROJECT_NAME OpenCV    setenv PROJECT_TEMP_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining/OpenCV.build    setenv PUBLIC_HEADERS_FOLDER_PATH /usr/local/include    setenv RECURSIVE_SEARCH_PATHS_FOLLOW_SYMLINKS YES    setenv REMOVE_CVS_FROM_RESOURCES YES    setenv REMOVE_GIT_FROM_RESOURCES YES    setenv REMOVE_SVN_FROM_RESOURCES YES    setenv REZ_COLLECTOR_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining/OpenCV.build/Debug-iphonesimulator/opencv_haartraining_engine.build/ResourceManagerResources    setenv REZ_EXECUTABLE YES    setenv REZ_OBJECTS_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining/OpenCV.build/Debug-iphonesimulator/opencv_haartraining_engine.build/ResourceManagerResources/Objects    setenv REZ_SEARCH_PATHS "\"/Users/jjthrash/Downloads/OpenCV-2.2.0/lib/Debug\" "    setenv RUN_CLANG_STATIC_ANALYZER NO    setenv SCAN_ALL_SOURCE_FILES_FOR_INCLUDES NO    setenv SCRIPT_INPUT_FILE_COUNT 0    setenv SCRIPT_OUTPUT_FILE_COUNT 0    setenv SDKROOT /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk    setenv SDK_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk    setenv SDK_NAME iphonesimulator4.2    setenv SED /usr/bin/sed    setenv SEPARATE_STRIP YES    setenv SEPARATE_SYMBOL_EDIT NO    setenv SET_DIR_MODE_OWNER_GROUP YES    setenv SET_FILE_MODE_OWNER_GROUP NO    setenv SHARED_DERIVED_FILE_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/lib/Debug/DerivedSources    setenv SHARED_PRECOMPS_DIR /var/folders/j9/j9D8eGkFG60i5wEYUED5B++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders    setenv SKIP_INSTALL YES    setenv SOURCE_ROOT /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv SRCROOT /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv STANDARD_C_PLUS_PLUS_LIBRARY_TYPE dynamic    setenv STRINGS_FILE_OUTPUT_ENCODING binary    setenv STRIP_INSTALLED_PRODUCT YES    setenv STRIP_STYLE debugging    setenv SUPPORTED_DEVICE_FAMILIES "1 2"    setenv SYMBOL_REPOSITORY_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining/OpenCV.build/Debug-iphonesimulator/opencv_haartraining_engine.build/SymbolRepositories    setenv SYMROOT /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining    setenv SYSTEM_ADMIN_APPS_DIR /Applications/Utilities    setenv SYSTEM_APPS_DIR /Applications    setenv SYSTEM_CORE_SERVICES_DIR /System/Library/CoreServices    setenv SYSTEM_DEMOS_DIR /Applications/Extras    setenv SYSTEM_DEVELOPER_APPS_DIR /Developer/Applications    setenv SYSTEM_DEVELOPER_BIN_DIR /Developer/usr/bin    setenv SYSTEM_DEVELOPER_DEMOS_DIR "/Developer/Applications/Utilities/Built Examples"    setenv SYSTEM_DEVELOPER_DIR /Developer    setenv SYSTEM_DEVELOPER_DOC_DIR "/Developer/ADC Reference Library"    setenv SYSTEM_DEVELOPER_GRAPHICS_TOOLS_DIR "/Developer/Applications/Graphics Tools"    setenv SYSTEM_DEVELOPER_JAVA_TOOLS_DIR "/Developer/Applications/Java Tools"    setenv SYSTEM_DEVELOPER_PERFORMANCE_TOOLS_DIR "/Developer/Applications/Performance Tools"    setenv SYSTEM_DEVELOPER_RELEASENOTES_DIR "/Developer/ADC Reference Library/releasenotes"    setenv SYSTEM_DEVELOPER_TOOLS /Developer/Tools    setenv SYSTEM_DEVELOPER_TOOLS_DOC_DIR "/Developer/ADC Reference Library/documentation/DeveloperTools"    setenv SYSTEM_DEVELOPER_TOOLS_RELEASENOTES_DIR "/Developer/ADC Reference Library/releasenotes/DeveloperTools"    setenv SYSTEM_DEVELOPER_USR_DIR /Developer/usr    setenv SYSTEM_DEVELOPER_UTILITIES_DIR /Developer/Applications/Utilities    setenv SYSTEM_DOCUMENTATION_DIR /Library/Documentation    setenv SYSTEM_LIBRARY_DIR /System/Library    setenv TARGETED_DEVICE_FAMILY 1    setenv TARGETNAME opencv_haartraining_engine    setenv TARGET_BUILD_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/lib/Debug    setenv TARGET_NAME opencv_haartraining_engine    setenv TARGET_TEMP_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining/OpenCV.build/Debug-iphonesimulator/opencv_haartraining_engine.build    setenv TEMP_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining/OpenCV.build/Debug-iphonesimulator/opencv_haartraining_engine.build    setenv TEMP_FILES_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining/OpenCV.build/Debug-iphonesimulator/opencv_haartraining_engine.build    setenv TEMP_FILE_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining/OpenCV.build/Debug-iphonesimulator/opencv_haartraining_engine.build    setenv TEMP_ROOT /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining    setenv UID 501    setenv UNSTRIPPED_PRODUCT NO    setenv USER jjthrash    setenv USER_APPS_DIR /Users/jjthrash/Applications    setenv USER_LIBRARY_DIR /Users/jjthrash/Library    setenv USE_DYNAMIC_NO_PIC YES    setenv USE_HEADERMAP NO    setenv USE_HEADER_SYMLINKS NO    setenv VALIDATE_PRODUCT NO    setenv VALID_ARCHS i386    setenv VERBOSE_PBXCP NO    setenv VERSION_INFO_BUILDER jjthrash    setenv VERSION_INFO_FILE opencv_haartraining_engine_vers.c    setenv VERSION_INFO_STRING "\"@(#)PROGRAM:opencv_haartraining_engine  PROJECT:OpenCV-\""    setenv WARNING_CFLAGS "-Wmost -Wno-four-char-constants -Wno-unknown-pragmas"    setenv XCODE_APP_SUPPORT_DIR /Developer/Library/Xcode    setenv XCODE_PRODUCT_BUILD_VERSION 10M2423    setenv XCODE_VERSION_ACTUAL 0325    setenv XCODE_VERSION_MAJOR 0300    setenv XCODE_VERSION_MINOR 0320    setenv YACC /Developer/usr/bin/yacc    setenv _REAL_SDKROOT iphoneos    /bin/sh -c /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining/OpenCV.build/Debug-iphonesimulator/opencv_haartraining_engine.build/Script-101325FF0101325FF0101325.sh0#
+

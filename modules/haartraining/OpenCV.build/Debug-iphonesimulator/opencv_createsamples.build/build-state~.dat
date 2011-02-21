@@ -1,0 +1,66 @@
+Topencv_createsamples
+v7
+r1
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/bin/Debug/
+t2
+s0
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/bin/Debug/.dSYM
+t2
+s0
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining/OpenCV.build/Debug-iphonesimulator/opencv_createsamples.build/Objects-normal/i386/createsamples.o
+t2
+s0
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining/OpenCV.build/Debug-iphonesimulator/opencv_createsamples.build/Objects-normal/i386/opencv_createsamples.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining/OpenCV.build/Debug-iphonesimulator/opencv_createsamples.build/Script-1012ECFA01012ECFA01012EC.sh
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining/OpenCV.build/Debug-iphonesimulator/opencv_createsamples.build/Script-1012ED9F01012ED9F01012ED.sh
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining/createsamples.cpp
+c000000004CFB087C00000000000020E7
+t1291520124
+s8423
+i<cstdio>
+i<cstring>
+i<cstdlib>
+i<cmath>
+i"cvhaartraining.h"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining/cvhaartraining.h
+c000000004CFB087C0000000000002174
+t1291520124
+s8564
+
+CCompileC modules/haartraining/OpenCV.build/Debug-iphonesimulator/opencv_createsamples.build/Objects-normal/i386/createsamples.o /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining/createsamples.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+r0
+
+CGenerateDSYMFile /Users/jjthrash/Downloads/OpenCV-2.2.0/bin/Debug/.dSYM /Users/jjthrash/Downloads/OpenCV-2.2.0/bin/Debug/
+r0
+
+CLd /Users/jjthrash/Downloads/OpenCV-2.2.0/bin/Debug/ normal i386
+r0
+
+CPhaseScriptExecution "CMake PostBuild Rules" /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining/OpenCV.build/Debug-iphonesimulator/opencv_createsamples.build/Script-1012ED9F01012ED9F01012ED.sh
+r0
+
+CPhaseScriptExecution "CMake ReRun" /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/haartraining/OpenCV.build/Debug-iphonesimulator/opencv_createsamples.build/Script-1012ECFA01012ECFA01012EC.sh
+r0
+

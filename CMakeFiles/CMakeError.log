@@ -1,0 +1,96 @@
+Determining if the include file libavformat/avformat.h exists failed with the following output:
+Change Dir: /Users/jjthrash/Downloads/OpenCV-2.2.0/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec.dir/build.make CMakeFiles/cmTryCompileExec.dir/build
+/usr/local/Cellar/cmake/2.8.3/bin/cmake -E cmake_progress_report /Users/jjthrash/Downloads/OpenCV-2.2.0/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec.dir/CheckIncludeFile.c.o
+/usr/bin/gcc    -o CMakeFiles/cmTryCompileExec.dir/CheckIncludeFile.c.o   -c /Users/jjthrash/Downloads/OpenCV-2.2.0/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+/Users/jjthrash/Downloads/OpenCV-2.2.0/CMakeFiles/CMakeTmp/CheckIncludeFile.c:1:34: error: libavformat/avformat.h: No such file or directory
+make[1]: *** [CMakeFiles/cmTryCompileExec.dir/CheckIncludeFile.c.o] Error 1
+make: *** [cmTryCompileExec/fast] Error 2
+
+
+Determining if the include file ffmpeg/avformat.h exists failed with the following output:
+Change Dir: /Users/jjthrash/Downloads/OpenCV-2.2.0/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec.dir/build.make CMakeFiles/cmTryCompileExec.dir/build
+/usr/local/Cellar/cmake/2.8.3/bin/cmake -E cmake_progress_report /Users/jjthrash/Downloads/OpenCV-2.2.0/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec.dir/CheckIncludeFile.c.o
+/usr/bin/gcc    -o CMakeFiles/cmTryCompileExec.dir/CheckIncludeFile.c.o   -c /Users/jjthrash/Downloads/OpenCV-2.2.0/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+/Users/jjthrash/Downloads/OpenCV-2.2.0/CMakeFiles/CMakeTmp/CheckIncludeFile.c:1:29: error: ffmpeg/avformat.h: No such file or directory
+make[1]: *** [CMakeFiles/cmTryCompileExec.dir/CheckIncludeFile.c.o] Error 1
+make: *** [cmTryCompileExec/fast] Error 2
+
+
+Determining if the include file libavformat/avformat.h exists failed with the following output:
+Change Dir: /Users/jjthrash/Downloads/OpenCV-2.2.0/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/local/Cellar/cmake/2.8.3/bin/cmakexbuild -project CMAKE_TRY_COMPILE.xcodeproj build -target cmTryCompileExec -configuration Debug
+
+=== BUILD NATIVE TARGET cmTryCompileExec OF PROJECT CMAKE_TRY_COMPILE WITH CONFIGURATION Debug ===
+Check dependencies
+PhaseScriptExecution "CMake ReRun" CMAKE_TRY_COMPILE.build/Debug/cmTryCompileExec.build/Script-100683C40100683C40100683.sh
+    cd /Users/jjthrash/Downloads/OpenCV-2.2.0/CMakeFiles/CMakeTmp
+    /bin/sh -c /Users/jjthrash/Downloads/OpenCV-2.2.0/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTryCompileExec.build/Script-100683C40100683C40100683.sh
+
+make: `CMakeFiles/cmake.check_cache' is up to date.
+CompileC CMAKE_TRY_COMPILE.build/Debug/cmTryCompileExec.build/Objects-normal/x86_64/CheckIncludeFile.o CheckIncludeFile.c normal x86_64 c com.apple.compilers.gcc.4_2
+    cd /Users/jjthrash/Downloads/OpenCV-2.2.0/CMakeFiles/CMakeTmp
+    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -mdynamic-no-pic -DCMAKE_INTDIR="Debug" -isysroot /Developer/SDKs/MacOSX10.6.sdk -mmacosx-version-min=10.6 -gdwarf-2 -Wmost -Wno-four-char-constan** BUILD FAILED **
+
+
+The following build commands failed:
+cmTryCompileExec:
+	CompileC CMAKE_TRY_COMPILE.build/Debug/cmTryCompileExec.build/Objects-normal/x86_64/CheckIncludeFile.o /Users/jjthrash/Downloads/OpenCV-2.2.0/CMakeFiles/CMakeTmp/CheckIncludeFile.c normal x86_64 c com.apple.compilers.gcc.4_2
+(1 failure)ts -Wno-unknown-pragmas -F/Users/jjthrash/Downloads/OpenCV-2.2.0/CMakeFiles/CMakeTmp/Debug -I/Users/jjthrash/Downloads/OpenCV-2.2.0/CMakeFiles/CMakeTmp/Debug/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTryCompileExec.build/DerivedSources/x86_64 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTryCompileExec.build/DerivedSources -c /Users/jjthrash/Downloads/OpenCV-2.2.0/CMakeFiles/CMakeTmp/CheckIncludeFile.c -o /Users/jjthrash/Downloads/OpenCV-2.2.0/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTryCompileExec.build/Objects-normal/x86_64/CheckIncludeFile.o
+
+/Users/jjthrash/Downloads/OpenCV-2.2.0/CMakeFiles/CMakeTmp/CheckIncludeFile.c:1:34: error: libavformat/avformat.h: No such file or directory
+PhaseScriptExecution "CMake PostBuild Rules" CMAKE_TRY_COMPILE.build/Debug/cmTryCompileExec.build/Script-100684640100684640100684.sh
+    cd /Users/jjthrash/Downloads/OpenCV-2.2.0/CMakeFiles/CMakeTmp
+    /bin/sh -c 
+
+/Users/jjthrash/Downloads/OpenCV-2.2.0/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTryCompileExec.build/Script-100684640100684640100684.sh
+
+echo "Depend check for xcode"
+Depend check for xcode
+cd /Users/jjthrash/Downloads/OpenCV-2.2.0/CMakeFiles/CMakeTmp && make -C /Users/jjthrash/Downloads/OpenCV-2.2.0/CMakeFiles/CMakeTmp -f /Users/jjthrash/Downloads/OpenCV-2.2.0/CMakeFiles/CMakeTmp/CMakeScripts/XCODE_DEPEND_HELPER.make all.Debug
+/bin/rm -f /Users/jjthrash/Downloads/OpenCV-2.2.0/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec
+
+
+Determining if the include file ffmpeg/avformat.h exists failed with the following output:
+Change Dir: /Users/jjthrash/Downloads/OpenCV-2.2.0/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/local/Cellar/cmake/2.8.3/bin/cmakexbuild -project CMAKE_TRY_COMPILE.xcodeproj build -target cmTryCompileExec -configuration Debug
+
+=== BUILD NATIVE TARGET cmTryCompileExec OF PROJECT CMAKE_TRY_COMPILE WITH CONFIGURATION Debug ===
+Check dependencies
+PhaseScriptExecution "CMake ReRun" CMAKE_TRY_COMPILE.build/Debug/cmTryCompileExec.build/Script-100683BA0100683BA0100683.sh
+    cd /Users/jjthrash/Downloads/OpenCV-2.2.0/CMakeFiles/CMakeTmp
+    /bin/sh -c /Users/jjthrash/Downloads/OpenCV-2.2.0/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTryCompileExec.build/Script-100683BA0100683BA0100683.sh
+
+make: `CMakeFiles/cmake.check_cache' is up to date.
+CompileC CMAKE_TRY_COMPILE.build/Debug/cmTryCompileExec.build/Objects-normal/x86_64/CheckIncludeFile.o CheckIncludeFile.c normal x86_64 c com.apple.compilers.gcc.4_2
+    cd /Users/jjthrash/Downloads/OpenCV-2.2.0/CMakeFiles/CMakeTmp
+    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -mdynamic-no-pic -DCMAKE_INTDIR="Debug" -isysroot /Developer/SDKs/MacOSX10.6.sdk -mmacosx-version-min=10.6 -gdwarf-2 -Wmost -Wno-four-char-constan** BUILD FAILED **
+
+
+The following build commands failed:
+cmTryCompileExec:
+	CompileC CMAKE_TRY_COMPILE.build/Debug/cmTryCompileExec.build/Objects-normal/x86_64/CheckIncludeFile.o /Users/jjthrash/Downloads/OpenCV-2.2.0/CMakeFiles/CMakeTmp/CheckIncludeFile.c normal x86_64 c com.apple.compilers.gcc.4_2
+(1 failure)
+ts -Wno-unknown-pragmas -F/Users/jjthrash/Downloads/OpenCV-2.2.0/CMakeFiles/CMakeTmp/Debug -I/Users/jjthrash/Downloads/OpenCV-2.2.0/CMakeFiles/CMakeTmp/Debug/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTryCompileExec.build/DerivedSources/x86_64 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTryCompileExec.build/DerivedSources -c /Users/jjthrash/Downloads/OpenCV-2.2.0/CMakeFiles/CMakeTmp/CheckIncludeFile.c -o /Users/jjthrash/Downloads/OpenCV-2.2.0/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTryCompileExec.build/Objects-normal/x86_64/CheckIncludeFile.o
+
+/Users/jjthrash/Downloads/OpenCV-2.2.0/CMakeFiles/CMakeTmp/CheckIncludeFile.c:1:29: error: ffmpeg/avformat.h: No such file or directory
+PhaseScriptExecution "CMake PostBuild Rules" CMAKE_TRY_COMPILE.build/Debug/cmTryCompileExec.build/Script-100684670100684670100684.sh
+    cd /Users/jjthrash/Downloads/OpenCV-2.2.0/CMakeFiles/CMakeTmp
+    /bin/sh -c /User
+s/jjthrash/Downloads/OpenCV-2.2.0/CMakeFiles/CMakeTmp/CMAKE_TRY_COMPILE.build/Debug/cmTryCompileExec.build/Script-100684670100684670100684.sh
+
+echo "Depend check for xcode"
+Depend check for xcode
+cd /Users/jjthrash/Downloads/OpenCV-2.2.0/CMakeFiles/CMakeTmp && make -C /Users/jjthrash/Downloads/OpenCV-2.2.0/CMakeFiles/CMakeTmp -f /Users/jjthrash/Downloads/OpenCV-2.2.0/CMakeFiles/CMakeTmp/CMakeScripts/XCODE_DEPEND_HELPER.make all.Debug
+/bin/rm -f /Users/jjthrash/Downloads/OpenCV-2.2.0/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec
+
+

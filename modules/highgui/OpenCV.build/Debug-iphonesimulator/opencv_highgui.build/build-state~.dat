@@ -1,0 +1,1000 @@
+Topencv_highgui
+v7
+r2
+t319992810.454404
+cCheck dependencies
+cPhaseScriptExecution "CMake ReRun" /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/highgui/OpenCV.build/Debug-iphonesimulator/opencv_highgui.build/Script-101182E00101182E00101182.sh
+cProcessPCH++ /var/folders/j9/j9D8eGkFG60i5wEYUED5B++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/precomp-gfqvzqdnqvjzmkczldjxnvkcryov/precomp.hpp.gch modules/highgui/src/precomp.hpp normal i386 c++ com.apple.compilers.gcc.4_2
+cProcessPCH++ /var/folders/j9/j9D8eGkFG60i5wEYUED5B++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/precomp-fymrfspzlpwzwmdknhzhsqqsgbae/precomp.hpp.gch modules/highgui/src/precomp.hpp normal i386 objective-c++ com.apple.compilers.gcc.4_2
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/ApplicationServices.framework/Headers/ApplicationServices.h
+c00000000448600480000000000000556
+t1149632584
+s1366
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/TargetConditionals.h
+c000000004CB3FA0800000000000031E9
+t1286863368
+s12777
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/alloca.h
+c000000004CB3E4860000000000000588
+t1286857862
+s1416
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/assert.h
+c000000004CB3E4860000000000000DCB
+t1286857862
+s3531
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/ctype.h
+c000000004CB3E4860000000000002C18
+t1286857862
+s11288
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/fcntl.h
+c000000004CB3E48600000000000003EA
+t1286857862
+s1002
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/math.h
+c000000004A5C14A000000000000004F1
+t1247548576
+s1265
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/pthread.h
+c000000004CB3E48600000000000038F0
+t1286857862
+s14576
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/setjmp.h
+c000000004CB3E4860000000000000438
+t1286857862
+s1080
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/stdio.h
+c000000004CB3E48600000000000040AC
+t1286857862
+s16556
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/stdlib.h
+c000000004CB3E4860000000000002DF5
+t1286857862
+s11765
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/string.h
+c000000004CB3E4860000000000001731
+t1286857862
+s5937
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/strings.h
+c000000004CB3E4860000000000000DA4
+t1286857862
+s3492
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/sys/mman.h
+c000000004CBFACAB00000000000020EC
+t1287629995
+s8428
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/sys/stat.h
+c000000004CBFACAC0000000000004A1D
+t1287629996
+s18973
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/sys/time.h
+c000000004CBFACAC0000000000001E17
+t1287629996
+s7703
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/sys/types.h
+c000000004CBFACAC0000000000002905
+t1287629996
+s10501
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/time.h
+c000000004CB3E486000000000000178E
+t1286857862
+s6030
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/unistd.h
+c000000004CB3E486000000000000563E
+t1286857862
+s22078
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/emmintrin.h
+c000000004A119834000000000000EA8F
+t1242667060
+s60047
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/float.h
+c000000004A1198340000000000001538
+t1242667060
+s5432
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/limits.h
+c000000004A1198340000000000000C7E
+t1242667060
+s3198
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/pmmintrin.h
+c000000004A119834000000000000155D
+t1242667060
+s5469
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/stdarg.h
+c000000004A11983400000000000010DD
+t1242667060
+s4317
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/stdbool.h
+c000000004A1198340000000000000644
+t1242667060
+s1604
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/stddef.h
+c000000004A1198340000000000003197
+t1242667060
+s12695
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/stdint.h
+c000000004A11A512000000000000190C
+t1242670354
+s6412
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/jasper/jas_cm.h
+c000000004CFB087B0000000000001FA9
+t1291520123
+s8105
+i<jasper/jas_config.h>
+i<jasper/jas_icc.h>
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/jasper/jas_config.h
+c000000004CFB087B000000000000128F
+t1291520123
+s4751
+i<jasper/jas_config2.h>
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/jasper/jas_config2.h
+c000000004CFB087B0000000000000F69
+t1291520123
+s3945
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/jasper/jas_debug.h
+c000000004CFB087B00000000000010C0
+t1291520123
+s4288
+i<stdio.h>
+i<jasper/jas_config.h>
+i"jasper/jas_types.h"
+i"jasper/jas_debug.h"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/jasper/jas_fix.h
+c000000004CFB087B0000000000003400
+t1291520123
+s13312
+i<stdio.h>
+i<stdlib.h>
+i<math.h>
+i<jasper/jas_config.h>
+i<jasper/jas_types.h>
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/jasper/jas_getopt.h
+c000000004CFB087B0000000000001245
+t1291520123
+s4677
+i<jasper/jas_config.h>
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/jasper/jas_icc.h
+c000000004CFB087B0000000000003BC9
+t1291520123
+s15305
+i<jasper/jas_config.h>
+i<jasper/jas_types.h>
+i<jasper/jas_stream.h>
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/jasper/jas_image.h
+c000000004CFB087B00000000000048DC
+t1291520123
+s18652
+i<jasper/jas_config.h>
+i<jasper/jas_stream.h>
+i<jasper/jas_seq.h>
+i<jasper/jas_cm.h>
+i<stdio.h>
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/jasper/jas_init.h
+c000000004CFB087B0000000000000D57
+t1291520123
+s3415
+i<jasper/jas_config.h>
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/jasper/jas_malloc.h
+c000000004CFB087B00000000000011F9
+t1291520123
+s4601
+i<jasper/jas_config.h>
+i<stdlib.h>
+i<stdio.h>
+i"../../../../local/src/memalloc.h"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/jasper/jas_math.h
+c000000004CFB087B0000000000001132
+t1291520123
+s4402
+i<jasper/jas_config.h>
+i<assert.h>
+i<stdio.h>
+i<string.h>
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/jasper/jas_seq.h
+c000000004CFB087B00000000000027F9
+t1291520123
+s10233
+i<jasper/jas_config.h>
+i<jasper/jas_stream.h>
+i<jasper/jas_types.h>
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/jasper/jas_stream.h
+c000000004CFB087B0000000000003A1C
+t1291520123
+s14876
+i<jasper/jas_config.h>
+i<stdio.h>
+i<fcntl.h>
+i<string.h>
+i<unistd.h>
+i<jasper/jas_types.h>
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/jasper/jas_string.h
+c000000004CFB087B0000000000000EE6
+t1291520123
+s3814
+i<jasper/jas_config.h>
+i<string.h>
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/jasper/jas_tmr.h
+c000000004CFB087B0000000000000E25
+t1291520123
+s3621
+i<time.h>
+i<jasper/jas_config.h>
+i<sys/time.h>
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/jasper/jas_tvp.h
+c000000004CFB087B00000000000014C7
+t1291520123
+s5319
+i<jasper/jas_config.h>
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/jasper/jas_types.h
+c000000004CFB087B0000000000001A46
+t1291520123
+s6726
+i<jasper/jas_config.h>
+i<windows.h>
+i<stdlib.h>
+i<stddef.h>
+i<sys/types.h>
+i<stdbool.h>
+i<stdint.h>
+i<limits.h>
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/jasper/jas_version.h
+c000000004CFB087B0000000000001337
+t1291520123
+s4919
+i<jasper/jas_config.h>
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/jasper/jasper.h
+c000000004CFB087B0000000000000E71
+t1291520123
+s3697
+i<jasper/jas_config.h>
+i<jasper/jas_types.h>
+i<jasper/jas_version.h>
+i<jasper/jas_init.h>
+i<jasper/jas_cm.h>
+i<jasper/jas_icc.h>
+i<jasper/jas_fix.h>
+i<jasper/jas_debug.h>
+i<jasper/jas_getopt.h>
+i<jasper/jas_image.h>
+i<jasper/jas_icc.h>
+i<jasper/jas_math.h>
+i<jasper/jas_malloc.h>
+i<jasper/jas_seq.h>
+i<jasper/jas_stream.h>
+i<jasper/jas_string.h>
+i<jasper/jas_tmr.h>
+i<jasper/jas_tvp.h>
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/jconfig.h
+c000000004CFB087B000000000000070A
+t1291520123
+s1802
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/jmorecfg.h
+c000000004CFB087B00000000000030AA
+t1291520123
+s12458
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/jpeglib.h
+c000000004CFB087B000000000000B5E9
+t1291520123
+s46569
+i"jconfig.h"
+i"jmorecfg.h"
+i"jpegint.h"
+i"jerror.h"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/png.h
+c000000004CFB087B000000000001DB57
+t1291520123
+s121687
+i"zlib.h"
+i"pngconf.h"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/pngconf.h
+c000000004CFB087B000000000000BA2F
+t1291520123
+s47663
+i<limits.h>
+i"config.h"
+i"pngusr.h"
+i<stdio.h>
+i<stdio.h>
+i<sys/types.h>
+i<setjmp.h>
+i<strings.h>
+i<string.h>
+i<time.h>
+i<dos.h>
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/tiff.h
+c000000004CFB087B0000000000008415
+t1291520123
+s33813
+i"tiffconf.h"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/tiffconf.h
+c000000004CFB087B0000000000000CA9
+t1291520123
+s3241
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/tiffio.h
+c000000004CFB087B0000000000005023
+t1291520123
+s20515
+i"tiff.h"
+i"tiffvers.h"
+i<windows.h>
+i<stdio.h>
+i<stdarg.h>
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/tiffvers.h
+c000000004CFB087B000000000000019A
+t1291520123
+s410
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/zconf.h
+c000000004CFB087B000000000000343F
+t1291520123
+s13375
+i<windows.h>
+i<sys/types.h>
+i<unistd.h>
+i<unixio.h>
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/3rdparty/include/zlib.h
+c000000004CFB087B00000000000136CC
+t1291520123
+s79564
+i"zconf.h"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/cvconfig.h
+c000000004D627BA10000000000001083
+t1298299809
+s4227
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv/cxcore.h
+c000000004CFB087C00000000000009D6
+t1291520124
+s2518
+i"opencv2/core/core_c.h"
+i"opencv2/core/core.hpp"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/lib/Debug/libopencv_highgui.a
+t2
+s0
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/core/include/opencv2/core/core.hpp
+c000000004CFB087C000000000002729D
+t1291520124
+s160413
+i"opencv2/core/types_c.h"
+i"opencv2/core/version.hpp"
+i<limits.h>
+i<algorithm>
+i<cmath>
+i<complex>
+i<map>
+i<new>
+i<string>
+i<vector>
+i"opencv2/core/operations.hpp"
+i"opencv2/core/mat.hpp"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/core/include/opencv2/core/core_c.h
+c000000004CFB087C00000000000132CE
+t1291520124
+s78542
+i"opencv2/core/types_c.h"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/core/include/opencv2/core/eigen.hpp
+c000000004CFB087C000000000000193E
+t1291520124
+s6462
+i"cxcore.h"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/core/include/opencv2/core/internal.hpp
+c000000004CFB087C00000000000079C6
+t1291520124
+s31174
+i<vector>
+i<windows.h>
+i<pthread.h>
+i<sys/mman.h>
+i"ipp.h"
+i"emmintrin.h"
+i"pmmintrin.h"
+i"tbb/tbb_stddef.h"
+i"tbb/tbb.h"
+i<Eigen/Core>
+i"opencv2/core/eigen.hpp"
+i<malloc.h>
+i<alloca.h>
+i<stdlib.h>
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/core/include/opencv2/core/mat.hpp
+c000000004CFB087C0000000000012822
+t1291520124
+s75810
+i<limits.h>
+i<string.h>
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/core/include/opencv2/core/operations.hpp
+c000000004CFB087C000000000001C7C1
+t1291520124
+s116673
+i<string.h>
+i<limits.h>
+i<ext/atomicity.h>
+i<bits/atomicity.h>
+i"windows.h"
+i<limits>
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/core/include/opencv2/core/types_c.h
+c000000004CFB087C000000000000DD3A
+t1291520124
+s56634
+i<assert.h>
+i<stdlib.h>
+i<string.h>
+i<float.h>
+i<stdint.h>
+i<intrin.h>
+i<emmintrin.h>
+i<fastmath.h>
+i<math.h>
+i<ipl.h>
+i<ipl/ipl.h>
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/core/include/opencv2/core/version.hpp
+c000000004CFB087C00000000000009EA
+t1291520124
+s2538
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/highgui/OpenCV.build/Debug-iphonesimulator/opencv_highgui.build/Objects-normal/i386/bitstrm.o
+t2
+s0
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/highgui/OpenCV.build/Debug-iphonesimulator/opencv_highgui.build/Objects-normal/i386/cap.o
+t2
+s0
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/highgui/OpenCV.build/Debug-iphonesimulator/opencv_highgui.build/Objects-normal/i386/cap_images.o
+t2
+s0
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/highgui/OpenCV.build/Debug-iphonesimulator/opencv_highgui.build/Objects-normal/i386/cap_qtkit.o
+t2
+s0
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/highgui/OpenCV.build/Debug-iphonesimulator/opencv_highgui.build/Objects-normal/i386/grfmt_base.o
+t2
+s0
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/highgui/OpenCV.build/Debug-iphonesimulator/opencv_highgui.build/Objects-normal/i386/grfmt_bmp.o
+t2
+s0
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/highgui/OpenCV.build/Debug-iphonesimulator/opencv_highgui.build/Objects-normal/i386/grfmt_exr.o
+t2
+s0
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/highgui/OpenCV.build/Debug-iphonesimulator/opencv_highgui.build/Objects-normal/i386/grfmt_imageio.o
+t2
+s0
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/highgui/OpenCV.build/Debug-iphonesimulator/opencv_highgui.build/Objects-normal/i386/grfmt_jpeg.o
+t2
+s0
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/highgui/OpenCV.build/Debug-iphonesimulator/opencv_highgui.build/Objects-normal/i386/grfmt_jpeg2000.o
+t2
+s0
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/highgui/OpenCV.build/Debug-iphonesimulator/opencv_highgui.build/Objects-normal/i386/grfmt_png.o
+t2
+s0
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/highgui/OpenCV.build/Debug-iphonesimulator/opencv_highgui.build/Objects-normal/i386/grfmt_pxm.o
+t2
+s0
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/highgui/OpenCV.build/Debug-iphonesimulator/opencv_highgui.build/Objects-normal/i386/grfmt_sunras.o
+t2
+s0
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/highgui/OpenCV.build/Debug-iphonesimulator/opencv_highgui.build/Objects-normal/i386/grfmt_tiff.o
+t2
+s0
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/highgui/OpenCV.build/Debug-iphonesimulator/opencv_highgui.build/Objects-normal/i386/loadsave.o
+t2
+s0
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/highgui/OpenCV.build/Debug-iphonesimulator/opencv_highgui.build/Objects-normal/i386/opencv_highgui.LinkFileList
+c000000004D627C680000000000000A9E
+t1298300008
+s2718
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/highgui/OpenCV.build/Debug-iphonesimulator/opencv_highgui.build/Objects-normal/i386/precomp.o
+t2
+s0
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/highgui/OpenCV.build/Debug-iphonesimulator/opencv_highgui.build/Objects-normal/i386/utils.o
+t2
+s0
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/highgui/OpenCV.build/Debug-iphonesimulator/opencv_highgui.build/Objects-normal/i386/window.o
+t2
+s0
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/highgui/OpenCV.build/Debug-iphonesimulator/opencv_highgui.build/Objects-normal/i386/window_cocoa.o
+t2
+s0
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/highgui/OpenCV.build/Debug-iphonesimulator/opencv_highgui.build/Script-101182E00101182E00101182.sh
+c000000004D627C680000000000000080
+t1298300008
+s128
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/highgui/OpenCV.build/Debug-iphonesimulator/opencv_highgui.build/Script-101183820101183820101183.sh
+c000000004D627C6800000000000000C5
+t1298300008
+s197
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/highgui/include/opencv2/highgui/highgui.hpp
+c000000004CFB087C0000000000001A87
+t1291520124
+s6791
+i"opencv2/core/core.hpp"
+i"opencv2/highgui/highgui_c.h"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/highgui/include/opencv2/highgui/highgui_c.h
+c000000004CFB087C0000000000003D5C
+t1291520124
+s15708
+i"opencv2/core/core_c.h"
+i<windows.h>
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/highgui/src/bitstrm.cpp
+c000000004CFB087C0000000000002D67
+t1291520124
+s11623
+i"precomp.hpp"
+i"bitstrm.hpp"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/highgui/src/bitstrm.hpp
+c000000004CFB087C0000000000001488
+t1291520124
+s5256
+i<stdio.h>
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/highgui/src/cap.cpp
+c000000004CFB087C0000000000002F6D
+t1291520124
+s12141
+i"precomp.hpp"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/highgui/src/cap_images.cpp
+c000000004CFB087D00000000000022EE
+t1291520125
+s8942
+i"precomp.hpp"
+i<sys/stat.h>
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/highgui/src/cap_qtkit.mm
+c000000004CFB087D0000000000006F13
+t1291520125
+s28435
+i"precomp.hpp"
+i"opencv2/imgproc/imgproc.hpp"
+i<iostream>
+i<QTKit/QTKit.h>
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/highgui/src/grfmt_base.cpp
+c000000004CFB087D0000000000000E34
+t1291520125
+s3636
+i"precomp.hpp"
+i"grfmt_base.hpp"
+i"bitstrm.hpp"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/highgui/src/grfmt_base.hpp
+c000000004CFB087D0000000000000F75
+t1291520125
+s3957
+i"utils.hpp"
+i"bitstrm.hpp"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/highgui/src/grfmt_bmp.cpp
+c000000004CFB087D0000000000004863
+t1291520125
+s18531
+i"precomp.hpp"
+i"grfmt_bmp.hpp"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/highgui/src/grfmt_bmp.hpp
+c000000004CFB087D0000000000000BD7
+t1291520125
+s3031
+i"grfmt_base.hpp"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/highgui/src/grfmt_exr.cpp
+c000000004CFB087D0000000000005974
+t1291520125
+s22900
+i"precomp.hpp"
+i<ImfHeader.h>
+i<ImfInputFile.h>
+i<ImfOutputFile.h>
+i<ImfChannelList.h>
+i<ImfStandardAttributes.h>
+i<half.h>
+i"grfmt_exr.hpp"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/highgui/src/grfmt_exr.hpp
+c000000004CFB087D0000000000000E32
+t1291520125
+s3634
+i<ImfChromaticities.h>
+i<ImfInputFile.h>
+i<ImfChannelList.h>
+i<ImathBox.h>
+i"grfmt_base.hpp"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/highgui/src/grfmt_imageio.cpp
+c000000004CFB087D00000000000025AE
+t1291520125
+s9646
+i"precomp.hpp"
+i"grfmt_imageio.hpp"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/highgui/src/grfmt_imageio.hpp
+c000000004CFB087D0000000000000373
+t1291520125
+s883
+i"grfmt_base.hpp"
+i<ApplicationServices/ApplicationServices.h>
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/highgui/src/grfmt_jpeg.cpp
+c000000004CFB087D00000000000044ED
+t1291520125
+s17645
+i"precomp.hpp"
+i"grfmt_jpeg.hpp"
+i<stdio.h>
+i<setjmp.h>
+i"jpeglib.h"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/highgui/src/grfmt_jpeg.hpp
+c000000004CFB087D0000000000000B06
+t1291520125
+s2822
+i"grfmt_base.hpp"
+i"bitstrm.hpp"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/highgui/src/grfmt_jpeg2000.cpp
+c000000004CFB087D000000000000401A
+t1291520125
+s16410
+i"precomp.hpp"
+i"grfmt_jpeg2000.hpp"
+i<jasper/jasper.h>
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/highgui/src/grfmt_jpeg2000.hpp
+c000000004CFB087D0000000000000CC0
+t1291520125
+s3264
+i"grfmt_base.hpp"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/highgui/src/grfmt_png.cpp
+c000000004CFB087D0000000000002EEE
+t1291520125
+s12014
+i"precomp.hpp"
+i<libpng/png.h>
+i<png.h>
+i"grfmt_png.hpp"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/highgui/src/grfmt_png.hpp
+c000000004CFB087D0000000000000CDA
+t1291520125
+s3290
+i"grfmt_base.hpp"
+i"bitstrm.hpp"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/highgui/src/grfmt_pxm.cpp
+c000000004CFB087D0000000000003AAF
+t1291520125
+s15023
+i"precomp.hpp"
+i"utils.hpp"
+i"grfmt_pxm.hpp"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/highgui/src/grfmt_pxm.hpp
+c000000004CFB087D0000000000000BF8
+t1291520125
+s3064
+i"grfmt_base.hpp"
+i"bitstrm.hpp"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/highgui/src/grfmt_sunras.cpp
+c000000004CFB087D0000000000003509
+t1291520125
+s13577
+i"precomp.hpp"
+i"grfmt_sunras.hpp"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/highgui/src/grfmt_sunras.hpp
+c000000004CFB087D0000000000000CC6
+t1291520125
+s3270
+i"grfmt_base.hpp"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/highgui/src/grfmt_tiff.cpp
+c000000004CFB087D0000000000003EB1
+t1291520125
+s16049
+i"precomp.hpp"
+i"grfmt_tiff.hpp"
+i"tiff.h"
+i"tiffio.h"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/highgui/src/grfmt_tiff.hpp
+c000000004CFB087D0000000000000E92
+t1291520125
+s3730
+i"grfmt_base.hpp"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/highgui/src/grfmts.hpp
+c000000004CFB087D000000000000096D
+t1291520125
+s2413
+i"grfmt_base.hpp"
+i"grfmt_imageio.hpp"
+i"grfmt_bmp.hpp"
+i"grfmt_sunras.hpp"
+i"grfmt_jpeg.hpp"
+i"grfmt_pxm.hpp"
+i"grfmt_tiff.hpp"
+i"grfmt_png.hpp"
+i"grfmt_jpeg2000.hpp"
+i"grfmt_exr.hpp"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/highgui/src/loadsave.cpp
+c000000004CFB087D0000000000003BBA
+t1291520125
+s15290
+i"precomp.hpp"
+i"grfmts.hpp"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/highgui/src/precomp.cpp
+c000000004CFB087D000000000000083F
+t1291520125
+s2111
+i"precomp.hpp"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/highgui/src/precomp.hpp
+c000000004CFB087D0000000000001F90
+t1291520125
+s8080
+i"opencv2/highgui/highgui.hpp"
+i"opencv2/highgui/highgui_c.h"
+i"opencv2/imgproc/imgproc_c.h"
+i"opencv2/core/internal.hpp"
+i<stdlib.h>
+i<stdio.h>
+i<string.h>
+i<limits.h>
+i<ctype.h>
+i<assert.h>
+i"cvconfig.h"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/highgui/src/utils.cpp
+c000000004CFB087D0000000000004A57
+t1291520125
+s19031
+i"precomp.hpp"
+i"utils.hpp"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/highgui/src/utils.hpp
+c000000004CFB087D0000000000001856
+t1291520125
+s6230
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/highgui/src/window.cpp
+c000000004CFB087D00000000000029ED
+t1291520125
+s10733
+i"precomp.hpp"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/highgui/src/window_cocoa.mm
+c000000004CFB087D00000000000063BF
+t1291520125
+s25535
+i<TargetConditionals.h>
+i<Cocoa/Cocoa.h>
+i"precomp.hpp"
+i<iostream>
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/imgproc/include/opencv2/imgproc/imgproc.hpp
+c000000004CFB087D000000000000A768
+t1291520125
+s42856
+i"opencv2/core/core.hpp"
+i"opencv2/imgproc/types_c.h"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/imgproc/include/opencv2/imgproc/imgproc_c.h
+c000000004CFB087D0000000000009012
+t1291520125
+s36882
+i"opencv2/core/core_c.h"
+i"opencv2/imgproc/types_c.h"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/imgproc/include/opencv2/imgproc/types_c.h
+c000000004CFB087D0000000000003352
+t1291520125
+s13138
+i"opencv2/core/core_c.h"
+i"opencv2/imgproc/types_c.h"
+
+N/var/folders/j9/j9D8eGkFG60i5wEYUED5B++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/precomp-fymrfspzlpwzwmdknhzhsqqsgbae/precomp.hpp.gch
+t2
+s0
+
+N/var/folders/j9/j9D8eGkFG60i5wEYUED5B++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/precomp-gfqvzqdnqvjzmkczldjxnvkcryov/precomp.hpp.gch
+t2
+s0
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies319992808#319992808#0(0"0(0#1#0"8649310592#0"0#
+
+CCompileC modules/highgui/OpenCV.build/Debug-iphonesimulator/opencv_highgui.build/Objects-normal/i386/bitstrm.o /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/highgui/src/bitstrm.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC modules/highgui/OpenCV.build/Debug-iphonesimulator/opencv_highgui.build/Objects-normal/i386/cap.o /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/highgui/src/cap.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC modules/highgui/OpenCV.build/Debug-iphonesimulator/opencv_highgui.build/Objects-normal/i386/cap_images.o /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/highgui/src/cap_images.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC modules/highgui/OpenCV.build/Debug-iphonesimulator/opencv_highgui.build/Objects-normal/i386/cap_qtkit.o /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/highgui/src/cap_qtkit.mm normal i386 objective-c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC modules/highgui/OpenCV.build/Debug-iphonesimulator/opencv_highgui.build/Objects-normal/i386/grfmt_base.o /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/highgui/src/grfmt_base.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC modules/highgui/OpenCV.build/Debug-iphonesimulator/opencv_highgui.build/Objects-normal/i386/grfmt_bmp.o /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/highgui/src/grfmt_bmp.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC modules/highgui/OpenCV.build/Debug-iphonesimulator/opencv_highgui.build/Objects-normal/i386/grfmt_exr.o /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/highgui/src/grfmt_exr.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC modules/highgui/OpenCV.build/Debug-iphonesimulator/opencv_highgui.build/Objects-normal/i386/grfmt_imageio.o /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/highgui/src/grfmt_imageio.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC modules/highgui/OpenCV.build/Debug-iphonesimulator/opencv_highgui.build/Objects-normal/i386/grfmt_jpeg.o /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/highgui/src/grfmt_jpeg.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC modules/highgui/OpenCV.build/Debug-iphonesimulator/opencv_highgui.build/Objects-normal/i386/grfmt_jpeg2000.o /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/highgui/src/grfmt_jpeg2000.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC modules/highgui/OpenCV.build/Debug-iphonesimulator/opencv_highgui.build/Objects-normal/i386/grfmt_png.o /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/highgui/src/grfmt_png.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC modules/highgui/OpenCV.build/Debug-iphonesimulator/opencv_highgui.build/Objects-normal/i386/grfmt_pxm.o /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/highgui/src/grfmt_pxm.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC modules/highgui/OpenCV.build/Debug-iphonesimulator/opencv_highgui.build/Objects-normal/i386/grfmt_sunras.o /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/highgui/src/grfmt_sunras.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC modules/highgui/OpenCV.build/Debug-iphonesimulator/opencv_highgui.build/Objects-normal/i386/grfmt_tiff.o /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/highgui/src/grfmt_tiff.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC modules/highgui/OpenCV.build/Debug-iphonesimulator/opencv_highgui.build/Objects-normal/i386/loadsave.o /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/highgui/src/loadsave.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC modules/highgui/OpenCV.build/Debug-iphonesimulator/opencv_highgui.build/Objects-normal/i386/precomp.o /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/highgui/src/precomp.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC modules/highgui/OpenCV.build/Debug-iphonesimulator/opencv_highgui.build/Objects-normal/i386/utils.o /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/highgui/src/utils.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC modules/highgui/OpenCV.build/Debug-iphonesimulator/opencv_highgui.build/Objects-normal/i386/window.o /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/highgui/src/window.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC modules/highgui/OpenCV.build/Debug-iphonesimulator/opencv_highgui.build/Objects-normal/i386/window_cocoa.o /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/highgui/src/window_cocoa.mm normal i386 objective-c++ com.apple.compilers.gcc.4_2
+r0
+
+CLibtool /Users/jjthrash/Downloads/OpenCV-2.2.0/lib/Debug/libopencv_highgui.a normal i386
+r0
+
+CPhaseScriptExecution "CMake PostBuild Rules" /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/highgui/OpenCV.build/Debug-iphonesimulator/opencv_highgui.build/Script-101183820101183820101183.sh
+r0
+
+CPhaseScriptExecution "CMake ReRun" /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/highgui/OpenCV.build/Debug-iphonesimulator/opencv_highgui.build/Script-101182E00101182E00101182.sh
+s319992808.640167
+e319992808.679362
+r1
+xPhaseScriptExecution
+xCMake ReRun
+x/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/highgui/OpenCV.build/Debug-iphonesimulator/opencv_highgui.build/Script-101182E00101182E00101182.sh
+omake: `CMakeFiles/cmake.check_cache' is up to date.
+lSLF07#2@37"Run custom shell script 'CMake ReRun'319992808#319992808#0(52"make: `CMakeFiles/cmake.check_cache' is up to date.1(13@52"make: `CMakeFiles/cmake.check_cache' is up to date.319992808#0#52#0(1@0"0(0#0#0"8616983616#17411"    cd /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv ACTION build    setenv ALTERNATE_GROUP staff    setenv ALTERNATE_MODE u+w,go-w,a+rX    setenv ALTERNATE_OWNER jjthrash    setenv ALWAYS_SEARCH_USER_PATHS YES    setenv APPLE_INTERNAL_DEVELOPER_DIR /AppleInternal/Developer    setenv APPLE_INTERNAL_DIR /AppleInternal    setenv APPLE_INTERNAL_DOCUMENTATION_DIR /AppleInternal/Documentation    setenv APPLE_INTERNAL_LIBRARY_DIR /AppleInternal/Library    setenv APPLE_INTERNAL_TOOLS /AppleInternal/Developer/Tools    setenv APPLY_RULES_IN_COPY_FILES NO    setenv ARCHS i386    setenv ARCHS_STANDARD_32_BIT i386    setenv ARCHS_UNIVERSAL_IPHONE_OS i386    setenv BUILD_COMPONENTS "headers build"    setenv BUILD_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/highgui    setenv BUILD_ROOT /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/highgui    setenv BUILD_STYLE Debug    setenv BUILD_VARIANTS normal    setenv BUILT_PRODUCTS_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/lib/Debug    setenv CACHE_ROOT /var/folders/j9/j9D8eGkFG60i5wEYUED5B++++TI/-Caches-/com.apple.Xcode.501    setenv CCHROOT /var/folders/j9/j9D8eGkFG60i5wEYUED5B++++TI/-Caches-/com.apple.Xcode.501    setenv CHMOD /bin/chmod    setenv CHOWN /usr/sbin/chown    setenv CLASS_FILE_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/highgui/OpenCV.build/Debug-iphonesimulator/opencv_highgui.build/JavaClasses    setenv CLEAN_PRECOMPS YES    setenv CLONE_HEADERS NO    setenv CODESIGNING_FOLDER_PATH /Users/jjthrash/Downloads/OpenCV-2.2.0/lib/Debug/libopencv_highgui.a    setenv CODE_SIGN_CONTEXT_CLASS XCCodeSignContext    setenv COMMAND_MODE legacy    setenv COMPOSITE_SDK_DIRS /var/folders/j9/j9D8eGkFG60i5wEYUED5B++++TI/-Caches-/com.apple.Xcode.501/CompositeSDKs    setenv COMPRESS_PNG_FILES YES    setenv CONFIGURATION Debug    setenv CONFIGURATION_BUILD_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/lib/Debug    setenv CONFIGURATION_TEMP_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/highgui/OpenCV.build/Debug-iphonesimulator    setenv COPYING_PRESERVES_HFS_DATA NO    setenv COPY_PHASE_STRIP YES    setenv COPY_RESOURCES_FROM_STATIC_FRAMEWORKS YES    setenv CP /bin/cp    setenv CURRENT_ARCH i386    setenv CURRENT_VARIANT normal    setenv DEAD_CODE_STRIPPING NO    setenv DEBUGGING_SYMBOLS YES    setenv DEBUG_INFORMATION_FORMAT dwarf-with-dsym    setenv DEPLOYMENT_LOCATION NO    setenv DEPLOYMENT_POSTPROCESSING NO    setenv DERIVED_FILES_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/highgui/OpenCV.build/Debug-iphonesimulator/opencv_highgui.build/DerivedSources    setenv DERIVED_FILE_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/highgui/OpenCV.build/Debug-iphonesimulator/opencv_highgui.build/DerivedSources    setenv DERIVED_SOURCES_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/highgui/OpenCV.build/Debug-iphonesimulator/opencv_highgui.build/DerivedSources    setenv DEVELOPER_APPLICATIONS_DIR /Developer/Applications    setenv DEVELOPER_BIN_DIR /Developer/usr/bin    setenv DEVELOPER_DIR /Developer    setenv DEVELOPER_FRAMEWORKS_DIR /Developer/Library/Frameworks    setenv DEVELOPER_FRAMEWORKS_DIR_QUOTED "\"/Developer/Library/Frameworks\""    setenv DEVELOPER_LIBRARY_DIR /Developer/Library    setenv DEVELOPER_SDK_DIR /Developer/SDKs    setenv DEVELOPER_TOOLS_DIR /Developer/Tools    setenv DEVELOPER_USR_DIR /Developer/usr    setenv DEVELOPMENT_LANGUAGE English    setenv DO_HEADER_SCANNING_IN_JAM NO    setenv DSTROOT /tmp/OpenCV.dst    setenv DWARF_DSYM_FILE_NAME libopencv_highgui.a.dSYM    setenv DWARF_DSYM_FOLDER_PATH /Users/jjthrash/Downloads/OpenCV-2.2.0/lib/Debug    setenv EFFECTIVE_PLATFORM_NAME -iphonesimulator    setenv ENABLE_HEADER_DEPENDENCIES YES    setenv ENABLE_OPENMP_SUPPORT NO    setenv EXCLUDED_INSTALLSRC_SUBDIRECTORY_PATTERNS ".svn .git CVS"    setenv EXCLUDED_RECURSIVE_SEARCH_PATH_SUBDIRECTORIES "*.nib *.lproj *.framework *.gch (*) CVS .svn .git *.xcodeproj *.xcode *.pbproj *.pbxproj"    setenv EXECUTABLE_EXTENSION a    setenv EXECUTABLE_NAME libopencv_highgui.a    setenv EXECUTABLE_PATH libopencv_highgui.a    setenv EXECUTABLE_PREFIX lib    setenv EXECUTABLE_SUFFIX .a    setenv FILE_LIST /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/highgui/OpenCV.build/Debug-iphonesimulator/opencv_highgui.build/Objects/LinkFileList    setenv FIXED_FILES_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/highgui/OpenCV.build/Debug-iphonesimulator/opencv_highgui.build/FixedFiles    setenv FRAMEWORK_FLAG_PREFIX -framework    setenv FRAMEWORK_SEARCH_PATHS "\"/Users/jjthrash/Downloads/OpenCV-2.2.0/lib/Debug\" "    setenv FRAMEWORK_VERSION A    setenv FULL_PRODUCT_NAME libopencv_highgui.a    setenv GCC3_VERSION 3.3    setenv GCC_ENABLE_SYMBOL_SEPARATION NO    setenv GCC_GENERATE_DEBUGGING_SYMBOLS YES    setenv GCC_INLINES_ARE_PRIVATE_EXTERN NO    setenv GCC_OBJC_LEGACY_DISPATCH YES    setenv GCC_OPTIMIZATION_LEVEL 0    setenv GCC_PFE_FILE_C_DIALECTS "c objective-c c++ objective-c++"    setenv GCC_PRECOMPILE_PREFIX_HEADER YES    setenv GCC_PREFIX_HEADER /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/highgui/src/precomp.hpp    setenv GCC_PREPROCESSOR_DEFINITIONS "'CMAKE_INTDIR=\"Debug\"' HAVE_ALLOCA HAVE_ALLOCA_H HAVE_LIBPTHREAD HAVE_UNISTD_H HAVE_CONFIG_H HAVE_JPEG HAVE_PNG HAVE_TIFF HAVE_JASPER 'HAVE_QUICKTIME=1' 'HAVE_COCOA=1' HIGHGUI_EXPORTS CVAPI_EXPORTS"    setenv GCC_SYMBOLS_PRIVATE_EXTERN NO    setenv GCC_THUMB_SUPPORT YES    setenv GCC_TREAT_WARNINGS_AS_ERRORS NO    setenv GCC_VERSION 4.2    setenv GCC_VERSION_IDENTIFIER __2    setenv GENERATE_MASTER_OBJECT_FILE NO    setenv GENERATE_PKGINFO_FILE NO    setenv GENERATE_PROFILING_CODE NO    setenv GID 20    setenv GROUP staff    setenv HEADERMAP_INCLUDES_FLAT_ENTRIES_FOR_TARGET_BEING_BUILT YES    setenv HEADERMAP_INCLUDES_FRAMEWORK_ENTRIES_FOR_ALL_PRODUCT_TYPES YES    setenv HEADERMAP_INCLUDES_NONPUBLIC_NONPRIVATE_HEADERS YES    setenv HEADERMAP_INCLUDES_PROJECT_HEADERS YES    setenv HEADER_SEARCH_PATHS "\"/Users/jjthrash/Downloads/OpenCV-2.2.0/lib/Debug/include\" /Users/jjthrash/Downloads/OpenCV-2.2.0/. /Users/jjthrash/Downloads/OpenCV-2.2.0 /Users/jjthrash/Downloads/OpenCV-2.2.0/include /Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/highgui/../../3rdparty/include /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/highgui/include /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/highgui/../core/include /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/highgui/../imgproc/include /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/highgui/src /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/highgui"    setenv ICONV /usr/bin/iconv    setenv INFOPLIST_EXPAND_BUILD_SETTINGS YES    setenv INFOPLIST_OUTPUT_FORMAT binary    setenv INFOPLIST_PREPROCESS NO    setenv INSTALL_DIR /tmp/OpenCV.dst    setenv INSTALL_GROUP staff    setenv INSTALL_MODE_FLAG u+w,go-w,a+rX    setenv INSTALL_OWNER jjthrash    setenv INSTALL_ROOT /tmp/OpenCV.dst    setenv IPHONEOS_DEPLOYMENT_TARGET 4.2    setenv JAVAC_DEFAULT_FLAGS "-J-Xms64m -J-XX:NewSize=4M -J-Dfile.encoding=UTF8"    setenv JAVA_APP_STUB /System/Library/Frameworks/JavaVM.framework/Resources/MacOS/JavaApplicationStub    setenv JAVA_ARCHIVE_CLASSES YES    setenv JAVA_ARCHIVE_TYPE JAR    setenv JAVA_COMPILER /usr/bin/javac    setenv JAVA_FRAMEWORK_RESOURCES_DIRS Resources    setenv JAVA_JAR_FLAGS cv    setenv JAVA_SOURCE_SUBDIR .    setenv JAVA_USE_DEPENDENCIES YES    setenv JAVA_ZIP_FLAGS -urg    setenv JIKES_DEFAULT_FLAGS "+E +OLDCSO"    setenv KEEP_PRIVATE_EXTERNS NO    setenv LD_GENERATE_MAP_FILE NO    setenv LD_MAP_FILE_PATH /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/highgui/OpenCV.build/Debug-iphonesimulator/opencv_highgui.build/opencv_highgui-LinkMap-normal-i386.txt    setenv LD_OPENMP_FLAGS -fopenmp    setenv LEX /Developer/usr/bin/lex    setenv LIBRARY_FLAG_NOSPACE YES    setenv LIBRARY_FLAG_PREFIX -l    setenv LIBRARY_SEARCH_PATHS "\"/Users/jjthrash/Downloads/OpenCV-2.2.0/lib/Debug\" "    setenv LIBRARY_STYLE STATIC    setenv LINKER_DISPLAYS_MANGLED_NAMES NO    setenv LINK_FILE_LIST_normal_i386 /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/highgui/OpenCV.build/Debug-iphonesimulator/opencv_highgui.build/Objects-normal/i386/opencv_highgui.LinkFileList    setenv LINK_WITH_STANDARD_LIBRARIES YES    setenv LOCAL_ADMIN_APPS_DIR /Applications/Utilities    setenv LOCAL_APPS_DIR /Applications    setenv LOCAL_DEVELOPER_DIR /Library/Developer    setenv LOCAL_LIBRARY_DIR /Library    setenv MACH_O_TYPE staticlib    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv MAC_OS_X_VERSION_ACTUAL 1066    setenv MAC_OS_X_VERSION_MAJOR 1060    setenv MAC_OS_X_VERSION_MINOR 0606    setenv NATIVE_ARCH i386    setenv NATIVE_ARCH_32_BIT i386    setenv NATIVE_ARCH_64_BIT x86_64    setenv NATIVE_ARCH_ACTUAL x86_64    setenv NO_COMMON YES    setenv OBJC_ABI_VERSION 2    setenv OBJECT_FILE_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/highgui/OpenCV.build/Debug-iphonesimulator/opencv_highgui.build/Objects    setenv OBJECT_FILE_DIR_normal /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/highgui/OpenCV.build/Debug-iphonesimulator/opencv_highgui.build/Objects-normal    setenv OBJROOT /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/highgui    setenv ONLY_ACTIVE_ARCH YES    setenv OPTIMIZATION_LEVEL 0    setenv OS MACOS    setenv OSAC /usr/bin/osacompile    setenv OTHER_CFLAGS "  -Wall -pthread          -ggdb3 -DDEBUG -D_DEBUG   "    setenv OTHER_CPLUSPLUSFLAGS "  -Wall -pthread          -ggdb3 -DDEBUG -D_DEBUG   "    setenv PACKAGE_TYPE com.apple.package-type.static-library    setenv PASCAL_STRINGS YES    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv PATH_PREFIXES_EXCLUDED_FROM_HEADER_DEPENDENCIES "/usr/include /usr/local/include /System/Library/Frameworks /System/Library/PrivateFrameworks /Developer/Headers /Developer/SDKs /Developer/Platforms"    setenv PFE_FILE_C_DIALECTS "c++ objective-c++"    setenv PKGINFO_FILE_PATH /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/highgui/OpenCV.build/Debug-iphonesimulator/opencv_highgui.build/PkgInfo    setenv PLATFORM_DEVELOPER_APPLICATIONS_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/Applications    setenv PLATFORM_DEVELOPER_BIN_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin    setenv PLATFORM_DEVELOPER_LIBRARY_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/Library    setenv PLATFORM_DEVELOPER_SDK_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs    setenv PLATFORM_DEVELOPER_TOOLS_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/Tools    setenv PLATFORM_DEVELOPER_USR_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/usr    setenv PLATFORM_DIR /Developer/Platforms/iPhoneSimulator.platform    setenv PLATFORM_NAME iphonesimulator    setenv PLATFORM_PRODUCT_BUILD_VERSION 8C134    setenv PLATFORM_VERSION_AVAILABILITY_H_FORMAT 40200    setenv PLIST_FILE_OUTPUT_FORMAT binary    setenv PREBINDING NO    setenv PRECOMPS_INCLUDE_HEADERS_FROM_BUILT_PRODUCTS_DIR YES    setenv PRECOMP_DESTINATION_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/highgui/OpenCV.build/Debug-iphonesimulator/opencv_highgui.build/PrefixHeaders    setenv PRESERVE_DEAD_CODE_INITS_AND_TERMS NO    setenv PRIVATE_HEADERS_FOLDER_PATH /usr/local/include    setenv PRODUCT_NAME opencv_highgui    setenv PRODUCT_SETTINGS_PATH     setenv PRODUCT_TYPE com.apple.product-type.library.static    setenv PROFILING_CODE NO    setenv PROJECT OpenCV    setenv PROJECT_DERIVED_FILE_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/highgui/OpenCV.build/DerivedSources    setenv PROJECT_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv PROJECT_FILE_PATH /Users/jjthrash/Downloads/OpenCV-2.2.0/OpenCV.xcodeproj    setenv PROJECT_NAME OpenCV    setenv PROJECT_TEMP_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/highgui/OpenCV.build    setenv PUBLIC_HEADERS_FOLDER_PATH /usr/local/include    setenv RECURSIVE_SEARCH_PATHS_FOLLOW_SYMLINKS YES    setenv REMOVE_CVS_FROM_RESOURCES YES    setenv REMOVE_GIT_FROM_RESOURCES YES    setenv REMOVE_SVN_FROM_RESOURCES YES    setenv REZ_COLLECTOR_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/highgui/OpenCV.build/Debug-iphonesimulator/opencv_highgui.build/ResourceManagerResources    setenv REZ_EXECUTABLE YES    setenv REZ_OBJECTS_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/highgui/OpenCV.build/Debug-iphonesimulator/opencv_highgui.build/ResourceManagerResources/Objects    setenv REZ_SEARCH_PATHS "\"/Users/jjthrash/Downloads/OpenCV-2.2.0/lib/Debug\" "    setenv RUN_CLANG_STATIC_ANALYZER NO    setenv SCAN_ALL_SOURCE_FILES_FOR_INCLUDES NO    setenv SCRIPT_INPUT_FILE_COUNT 0    setenv SCRIPT_OUTPUT_FILE_COUNT 0    setenv SDKROOT /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk    setenv SDK_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk    setenv SDK_NAME iphonesimulator4.2    setenv SED /usr/bin/sed    setenv SEPARATE_STRIP YES    setenv SEPARATE_SYMBOL_EDIT NO    setenv SET_DIR_MODE_OWNER_GROUP YES    setenv SET_FILE_MODE_OWNER_GROUP NO    setenv SHARED_DERIVED_FILE_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/lib/Debug/DerivedSources    setenv SHARED_PRECOMPS_DIR /var/folders/j9/j9D8eGkFG60i5wEYUED5B++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders    setenv SKIP_INSTALL YES    setenv SOURCE_ROOT /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv SRCROOT /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv STANDARD_C_PLUS_PLUS_LIBRARY_TYPE dynamic    setenv STRINGS_FILE_OUTPUT_ENCODING binary    setenv STRIP_INSTALLED_PRODUCT YES    setenv STRIP_STYLE debugging    setenv SUPPORTED_DEVICE_FAMILIES "1 2"    setenv SYMBOL_REPOSITORY_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/highgui/OpenCV.build/Debug-iphonesimulator/opencv_highgui.build/SymbolRepositories    setenv SYMROOT /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/highgui    setenv SYSTEM_ADMIN_APPS_DIR /Applications/Utilities    setenv SYSTEM_APPS_DIR /Applications    setenv SYSTEM_CORE_SERVICES_DIR /System/Library/CoreServices    setenv SYSTEM_DEMOS_DIR /Applications/Extras    setenv SYSTEM_DEVELOPER_APPS_DIR /Developer/Applications    setenv SYSTEM_DEVELOPER_BIN_DIR /Developer/usr/bin    setenv SYSTEM_DEVELOPER_DEMOS_DIR "/Developer/Applications/Utilities/Built Examples"    setenv SYSTEM_DEVELOPER_DIR /Developer    setenv SYSTEM_DEVELOPER_DOC_DIR "/Developer/ADC Reference Library"    setenv SYSTEM_DEVELOPER_GRAPHICS_TOOLS_DIR "/Developer/Applications/Graphics Tools"    setenv SYSTEM_DEVELOPER_JAVA_TOOLS_DIR "/Developer/Applications/Java Tools"    setenv SYSTEM_DEVELOPER_PERFORMANCE_TOOLS_DIR "/Developer/Applications/Performance Tools"    setenv SYSTEM_DEVELOPER_RELEASENOTES_DIR "/Developer/ADC Reference Library/releasenotes"    setenv SYSTEM_DEVELOPER_TOOLS /Developer/Tools    setenv SYSTEM_DEVELOPER_TOOLS_DOC_DIR "/Developer/ADC Reference Library/documentation/DeveloperTools"    setenv SYSTEM_DEVELOPER_TOOLS_RELEASENOTES_DIR "/Developer/ADC Reference Library/releasenotes/DeveloperTools"    setenv SYSTEM_DEVELOPER_USR_DIR /Developer/usr    setenv SYSTEM_DEVELOPER_UTILITIES_DIR /Developer/Applications/Utilities    setenv SYSTEM_DOCUMENTATION_DIR /Library/Documentation    setenv SYSTEM_LIBRARY_DIR /System/Library    setenv TARGETED_DEVICE_FAMILY 1    setenv TARGETNAME opencv_highgui    setenv TARGET_BUILD_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/lib/Debug    setenv TARGET_NAME opencv_highgui    setenv TARGET_TEMP_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/highgui/OpenCV.build/Debug-iphonesimulator/opencv_highgui.build    setenv TEMP_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/highgui/OpenCV.build/Debug-iphonesimulator/opencv_highgui.build    setenv TEMP_FILES_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/highgui/OpenCV.build/Debug-iphonesimulator/opencv_highgui.build    setenv TEMP_FILE_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/highgui/OpenCV.build/Debug-iphonesimulator/opencv_highgui.build    setenv TEMP_ROOT /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/highgui    setenv UID 501    setenv UNSTRIPPED_PRODUCT NO    setenv USER jjthrash    setenv USER_APPS_DIR /Users/jjthrash/Applications    setenv USER_LIBRARY_DIR /Users/jjthrash/Library    setenv USE_DYNAMIC_NO_PIC YES    setenv USE_HEADERMAP NO    setenv USE_HEADER_SYMLINKS NO    setenv VALIDATE_PRODUCT NO    setenv VALID_ARCHS i386    setenv VERBOSE_PBXCP NO    setenv VERSION_INFO_BUILDER jjthrash    setenv VERSION_INFO_FILE opencv_highgui_vers.c    setenv VERSION_INFO_STRING "\"@(#)PROGRAM:opencv_highgui  PROJECT:OpenCV-\""    setenv WARNING_CFLAGS "-Wmost -Wno-four-char-constants -Wno-unknown-pragmas"    setenv XCODE_APP_SUPPORT_DIR /Developer/Library/Xcode    setenv XCODE_PRODUCT_BUILD_VERSION 10M2423    setenv XCODE_VERSION_ACTUAL 0325    setenv XCODE_VERSION_MAJOR 0300    setenv XCODE_VERSION_MINOR 0320    setenv YACC /Developer/usr/bin/yacc    setenv _REAL_SDKROOT iphoneos    /bin/sh -c /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/highgui/OpenCV.build/Debug-iphonesimulator/opencv_highgui.build/Script-101182E00101182E00101182.sh0#
+
+CProcessPCH++ /var/folders/j9/j9D8eGkFG60i5wEYUED5B++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/precomp-fymrfspzlpwzwmdknhzhsqqsgbae/precomp.hpp.gch modules/highgui/src/precomp.hpp normal i386 objective-c++ com.apple.compilers.gcc.4_2
+s319992808.939083
+e319992810.353875
+r0
+xProcessPCH++
+x/var/folders/j9/j9D8eGkFG60i5wEYUED5B++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/precomp-fymrfspzlpwzwmdknhzhsqqsgbae/precomp.hpp.gch
+xmodules/highgui/src/precomp.hpp
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@42"Precompile modules/highgui/src/precomp.hpp319992808#319992810#0(0"0(0#0#70"/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/highgui/src/precomp.hpp8627262560#2131"    cd /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c++-header -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -DCMAKE_INTDIR="Debug" -DHAVE_ALLOCA -DHAVE_ALLOCA_H -DHAVE_LIBPTHREAD -DHAVE_UNISTD_H -DHAVE_CONFIG_H -DHAVE_JPEG -DHAVE_PNG -DHAVE_TIFF -DHAVE_JASPER -DHAVE_QUICKTIME=1 -DHAVE_COCOA=1 -DHIGHGUI_EXPORTS -DCVAPI_EXPORTS -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/jjthrash/Downloads/OpenCV-2.2.0/lib/Debug -I/Users/jjthrash/Downloads/OpenCV-2.2.0/lib/Debug/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/highgui/../../3rdparty/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/highgui/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/highgui/../core/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/highgui/../imgproc/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/highgui/src -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/highgui -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/highgui/OpenCV.build/Debug-iphonesimulator/opencv_highgui.build/DerivedSources/i386 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/highgui/OpenCV.build/Debug-iphonesimulator/opencv_highgui.build/DerivedSources -Wall -pthread -ggdb3 -DDEBUG -D_DEBUG -c /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/highgui/src/precomp.hpp -o /var/folders/j9/j9D8eGkFG60i5wEYUED5B++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/precomp-fymrfspzlpwzwmdknhzhsqqsgbae/precomp.hpp.gch2#
+
+CProcessPCH++ /var/folders/j9/j9D8eGkFG60i5wEYUED5B++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/precomp-gfqvzqdnqvjzmkczldjxnvkcryov/precomp.hpp.gch modules/highgui/src/precomp.hpp normal i386 c++ com.apple.compilers.gcc.4_2
+s319992808.679568
+e319992810.253377
+r0
+xProcessPCH++
+x/var/folders/j9/j9D8eGkFG60i5wEYUED5B++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/precomp-gfqvzqdnqvjzmkczldjxnvkcryov/precomp.hpp.gch
+xmodules/highgui/src/precomp.hpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@42"Precompile modules/highgui/src/precomp.hpp319992808#319992810#0(0"0(0#0#70"/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/highgui/src/precomp.hpp8645785824#2077"    cd /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c++-header -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -DCMAKE_INTDIR="Debug" -DHAVE_ALLOCA -DHAVE_ALLOCA_H -DHAVE_LIBPTHREAD -DHAVE_UNISTD_H -DHAVE_CONFIG_H -DHAVE_JPEG -DHAVE_PNG -DHAVE_TIFF -DHAVE_JASPER -DHAVE_QUICKTIME=1 -DHAVE_COCOA=1 -DHIGHGUI_EXPORTS -DCVAPI_EXPORTS -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/jjthrash/Downloads/OpenCV-2.2.0/lib/Debug -I/Users/jjthrash/Downloads/OpenCV-2.2.0/lib/Debug/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/highgui/../../3rdparty/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/highgui/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/highgui/../core/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/highgui/../imgproc/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/highgui/src -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/highgui -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/highgui/OpenCV.build/Debug-iphonesimulator/opencv_highgui.build/DerivedSources/i386 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/highgui/OpenCV.build/Debug-iphonesimulator/opencv_highgui.build/DerivedSources -Wall -pthread -ggdb3 -DDEBUG -D_DEBUG -c /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/highgui/src/precomp.hpp -o /var/folders/j9/j9D8eGkFG60i5wEYUED5B++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/precomp-gfqvzqdnqvjzmkczldjxnvkcryov/precomp.hpp.gch2#
+

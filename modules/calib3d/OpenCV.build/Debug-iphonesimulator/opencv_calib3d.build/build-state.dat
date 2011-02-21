@@ -1,0 +1,613 @@
+Topencv_calib3d
+v7
+r0
+t319993550.841071
+cCheck dependencies
+cPhaseScriptExecution "CMake ReRun" /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/OpenCV.build/Debug-iphonesimulator/opencv_calib3d.build/Script-1010B89401010B89401010B8.sh
+cProcessPCH++ /var/folders/j9/j9D8eGkFG60i5wEYUED5B++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/precomp-hblqeniyaimiqtggmuhdtalhgxfu/precomp.hpp.gch modules/calib3d/src/precomp.hpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC modules/calib3d/OpenCV.build/Debug-iphonesimulator/opencv_calib3d.build/Objects-normal/i386/calibinit.o /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/calibinit.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC modules/calib3d/OpenCV.build/Debug-iphonesimulator/opencv_calib3d.build/Objects-normal/i386/calibration.o /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/calibration.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC modules/calib3d/OpenCV.build/Debug-iphonesimulator/opencv_calib3d.build/Objects-normal/i386/checkchessboard.o /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/checkchessboard.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC modules/calib3d/OpenCV.build/Debug-iphonesimulator/opencv_calib3d.build/Objects-normal/i386/fundam.o /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/fundam.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC modules/calib3d/OpenCV.build/Debug-iphonesimulator/opencv_calib3d.build/Objects-normal/i386/modelest.o /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/modelest.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC modules/calib3d/OpenCV.build/Debug-iphonesimulator/opencv_calib3d.build/Objects-normal/i386/posit.o /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/posit.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC modules/calib3d/OpenCV.build/Debug-iphonesimulator/opencv_calib3d.build/Objects-normal/i386/precomp.o /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/precomp.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC modules/calib3d/OpenCV.build/Debug-iphonesimulator/opencv_calib3d.build/Objects-normal/i386/stereobm.o /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/stereobm.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC modules/calib3d/OpenCV.build/Debug-iphonesimulator/opencv_calib3d.build/Objects-normal/i386/stereogc.o /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/stereogc.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC modules/calib3d/OpenCV.build/Debug-iphonesimulator/opencv_calib3d.build/Objects-normal/i386/stereosgbm.o /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/stereosgbm.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC modules/calib3d/OpenCV.build/Debug-iphonesimulator/opencv_calib3d.build/Objects-normal/i386/triangulate.o /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/triangulate.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cLibtool /Users/jjthrash/Downloads/OpenCV-2.2.0/lib/Debug/libopencv_calib3d.a normal i386
+cPhaseScriptExecution "CMake PostBuild Rules" /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/OpenCV.build/Debug-iphonesimulator/opencv_calib3d.build/Script-1010B93601010B93601010B9.sh
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/alloca.h
+c000000004CB3E4860000000000000588
+t1286857862
+s1416
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/assert.h
+c000000004CB3E4860000000000000DCB
+t1286857862
+s3531
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/math.h
+c000000004A5C14A000000000000004F1
+t1247548576
+s1265
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/pthread.h
+c000000004CB3E48600000000000038F0
+t1286857862
+s14576
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/stdio.h
+c000000004CB3E48600000000000040AC
+t1286857862
+s16556
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/stdlib.h
+c000000004CB3E4860000000000002DF5
+t1286857862
+s11765
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/string.h
+c000000004CB3E4860000000000001731
+t1286857862
+s5937
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/sys/mman.h
+c000000004CBFACAB00000000000020EC
+t1287629995
+s8428
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/emmintrin.h
+c000000004A119834000000000000EA8F
+t1242667060
+s60047
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/float.h
+c000000004A1198340000000000001538
+t1242667060
+s5432
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/limits.h
+c000000004A1198340000000000000C7E
+t1242667060
+s3198
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/pmmintrin.h
+c000000004A119834000000000000155D
+t1242667060
+s5469
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/stdarg.h
+c000000004A11983400000000000010DD
+t1242667060
+s4317
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/stdint.h
+c000000004A11A512000000000000190C
+t1242670354
+s6412
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/cvconfig.h
+c000000004D627BA10000000000001083
+t1298299809
+s4227
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv/cxcore.h
+c000000004CFB087C00000000000009D6
+t1291520124
+s2518
+i"opencv2/core/core_c.h"
+i"opencv2/core/core.hpp"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv/highgui.h
+c000000004CFB087C0000000000000902
+t1291520124
+s2306
+i"opencv2/core/core_c.h"
+i"opencv2/core/core.hpp"
+i"opencv2/highgui/highgui_c.h"
+i"opencv2/highgui/highgui.hpp"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/lib/Debug/libopencv_calib3d.a
+t1298300577
+s3512472
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/OpenCV.build/Debug-iphonesimulator/opencv_calib3d.build/Objects-normal/i386/calibinit.o
+t1298300574
+s386940
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/OpenCV.build/Debug-iphonesimulator/opencv_calib3d.build/Objects-normal/i386/calibration.o
+t1298300575
+s712604
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/OpenCV.build/Debug-iphonesimulator/opencv_calib3d.build/Objects-normal/i386/checkchessboard.o
+t1298300573
+s262652
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/OpenCV.build/Debug-iphonesimulator/opencv_calib3d.build/Objects-normal/i386/fundam.o
+t1298300577
+s466696
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/OpenCV.build/Debug-iphonesimulator/opencv_calib3d.build/Objects-normal/i386/modelest.o
+t1298300576
+s344852
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/OpenCV.build/Debug-iphonesimulator/opencv_calib3d.build/Objects-normal/i386/opencv_calib3d.LinkFileList
+c000000004D627E260000000000000624
+t1298300454
+s1572
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/OpenCV.build/Debug-iphonesimulator/opencv_calib3d.build/Objects-normal/i386/posit.o
+t1298300576
+s164284
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/OpenCV.build/Debug-iphonesimulator/opencv_calib3d.build/Objects-normal/i386/precomp.o
+t1298300576
+s142612
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/OpenCV.build/Debug-iphonesimulator/opencv_calib3d.build/Objects-normal/i386/stereobm.o
+t1298300577
+s289916
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/OpenCV.build/Debug-iphonesimulator/opencv_calib3d.build/Objects-normal/i386/stereogc.o
+t1298300577
+s190036
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/OpenCV.build/Debug-iphonesimulator/opencv_calib3d.build/Objects-normal/i386/stereosgbm.o
+t1298300577
+s276208
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/OpenCV.build/Debug-iphonesimulator/opencv_calib3d.build/Objects-normal/i386/triangulate.o
+t1298300577
+s204008
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/OpenCV.build/Debug-iphonesimulator/opencv_calib3d.build/Script-1010B89401010B89401010B8.sh
+c000000004D627E260000000000000080
+t1298300454
+s128
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/OpenCV.build/Debug-iphonesimulator/opencv_calib3d.build/Script-1010B93601010B93601010B9.sh
+c000000004D627E2600000000000000C5
+t1298300454
+s197
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/include/opencv2/calib3d/calib3d.hpp
+c000000004CFB087C000000000000938A
+t1291520124
+s37770
+i"opencv2/core/core.hpp"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/_modelest.h
+c000000004CFB087C0000000000000DFE
+t1291520124
+s3582
+i"precomp.hpp"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/calibinit.cpp
+c000000004CFB087C000000000000FF9E
+t1291520124
+s65438
+i"precomp.hpp"
+i<stdarg.h>
+i"..//..//include/opencv/highgui.h"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/calibration.cpp
+c000000004CFB087C000000000001FC08
+t1291520124
+s130056
+i"precomp.hpp"
+i<stdio.h>
+i<iterator>
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/checkchessboard.cpp
+c000000004CFB087C0000000000001B99
+t1291520124
+s7065
+i"precomp.hpp"
+i<vector>
+i<algorithm>
+i"highgui.h"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/fundam.cpp
+c000000004CFB087C000000000000957C
+t1291520124
+s38268
+i"precomp.hpp"
+i"_modelest.h"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/modelest.cpp
+c000000004CFB087C0000000000003AEC
+t1291520124
+s15084
+i"precomp.hpp"
+i"_modelest.h"
+i<algorithm>
+i<iterator>
+i<limits>
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/posit.cpp
+c000000004CFB087C00000000000030FC
+t1291520124
+s12540
+i"precomp.hpp"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/precomp.cpp
+c000000004CFB087C0000000000000852
+t1291520124
+s2130
+i"precomp.hpp"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/precomp.hpp
+c000000004CFB087C00000000000009CF
+t1291520124
+s2511
+i<cvconfig.h>
+i"opencv2/calib3d/calib3d.hpp"
+i"opencv2/imgproc/imgproc.hpp"
+i"opencv2/imgproc/imgproc_c.h"
+i"opencv2/core/internal.hpp"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/stereobm.cpp
+c000000004CFB087C0000000000009369
+t1291520124
+s37737
+i"precomp.hpp"
+i<stdio.h>
+i<limits>
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/stereogc.cpp
+c000000004CFB087C0000000000007901
+t1291520124
+s30977
+i"precomp.hpp"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/stereosgbm.cpp
+c000000004CFB087C000000000000B789
+t1291520124
+s46985
+i"precomp.hpp"
+i<limits.h>
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/triangulate.cpp
+c000000004CFB087C0000000000004338
+t1291520124
+s17208
+i"precomp.hpp"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/core/include/opencv2/core/core.hpp
+c000000004CFB087C000000000002729D
+t1291520124
+s160413
+i"opencv2/core/types_c.h"
+i"opencv2/core/version.hpp"
+i<limits.h>
+i<algorithm>
+i<cmath>
+i<complex>
+i<map>
+i<new>
+i<string>
+i<vector>
+i"opencv2/core/operations.hpp"
+i"opencv2/core/mat.hpp"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/core/include/opencv2/core/core_c.h
+c000000004CFB087C00000000000132CE
+t1291520124
+s78542
+i"opencv2/core/types_c.h"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/core/include/opencv2/core/eigen.hpp
+c000000004CFB087C000000000000193E
+t1291520124
+s6462
+i"cxcore.h"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/core/include/opencv2/core/internal.hpp
+c000000004CFB087C00000000000079C6
+t1291520124
+s31174
+i<vector>
+i<windows.h>
+i<pthread.h>
+i<sys/mman.h>
+i"ipp.h"
+i"emmintrin.h"
+i"pmmintrin.h"
+i"tbb/tbb_stddef.h"
+i"tbb/tbb.h"
+i<Eigen/Core>
+i"opencv2/core/eigen.hpp"
+i<malloc.h>
+i<alloca.h>
+i<stdlib.h>
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/core/include/opencv2/core/mat.hpp
+c000000004CFB087C0000000000012822
+t1291520124
+s75810
+i<limits.h>
+i<string.h>
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/core/include/opencv2/core/operations.hpp
+c000000004CFB087C000000000001C7C1
+t1291520124
+s116673
+i<string.h>
+i<limits.h>
+i<ext/atomicity.h>
+i<bits/atomicity.h>
+i"windows.h"
+i<limits>
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/core/include/opencv2/core/types_c.h
+c000000004CFB087C000000000000DD3A
+t1291520124
+s56634
+i<assert.h>
+i<stdlib.h>
+i<string.h>
+i<float.h>
+i<stdint.h>
+i<intrin.h>
+i<emmintrin.h>
+i<fastmath.h>
+i<math.h>
+i<ipl.h>
+i<ipl/ipl.h>
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/core/include/opencv2/core/version.hpp
+c000000004CFB087C00000000000009EA
+t1291520124
+s2538
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/highgui/include/opencv2/highgui/highgui.hpp
+c000000004CFB087C0000000000001A87
+t1291520124
+s6791
+i"opencv2/core/core.hpp"
+i"opencv2/highgui/highgui_c.h"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/highgui/include/opencv2/highgui/highgui_c.h
+c000000004CFB087C0000000000003D5C
+t1291520124
+s15708
+i"opencv2/core/core_c.h"
+i<windows.h>
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/imgproc/include/opencv2/imgproc/imgproc.hpp
+c000000004CFB087D000000000000A768
+t1291520125
+s42856
+i"opencv2/core/core.hpp"
+i"opencv2/imgproc/types_c.h"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/imgproc/include/opencv2/imgproc/imgproc_c.h
+c000000004CFB087D0000000000009012
+t1291520125
+s36882
+i"opencv2/core/core_c.h"
+i"opencv2/imgproc/types_c.h"
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/imgproc/include/opencv2/imgproc/types_c.h
+c000000004CFB087D0000000000003352
+t1291520125
+s13138
+i"opencv2/core/core_c.h"
+i"opencv2/imgproc/types_c.h"
+
+N/var/folders/j9/j9D8eGkFG60i5wEYUED5B++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/precomp-hblqeniyaimiqtggmuhdtalhgxfu/precomp.hpp.gch
+t1298300573
+s44558064
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies319993550#319993550#0(0"0(0#1#0"8629933536#0"0#
+
+CCompileC modules/calib3d/OpenCV.build/Debug-iphonesimulator/opencv_calib3d.build/Objects-normal/i386/calibinit.o /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/calibinit.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s319993373.134999
+e319993374.071842
+r1
+xCompileC
+xmodules/calib3d/OpenCV.build/Debug-iphonesimulator/opencv_calib3d.build/Objects-normal/i386/calibinit.o
+x/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/calibinit.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/calibinit.cpp319993373#319993374#0(0"0(0#0#72"/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/calibinit.cpp8653835424#2115"    cd /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -DCMAKE_INTDIR="Debug" -DHAVE_ALLOCA -DHAVE_ALLOCA_H -DHAVE_LIBPTHREAD -DHAVE_UNISTD_H -DHAVE_CONFIG_H -DCVAPI_EXPORTS -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/jjthrash/Downloads/OpenCV-2.2.0/lib/Debug -I/Users/jjthrash/Downloads/OpenCV-2.2.0/lib/Debug/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/../core/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/../imgproc/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/../highgui/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/OpenCV.build/Debug-iphonesimulator/opencv_calib3d.build/DerivedSources/i386 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/OpenCV.build/Debug-iphonesimulator/opencv_calib3d.build/DerivedSources -Wall -pthread -ggdb3 -DDEBUG -D_DEBUG -include /var/folders/j9/j9D8eGkFG60i5wEYUED5B++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/precomp-hblqeniyaimiqtggmuhdtalhgxfu/precomp.hpp -c /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/calibinit.cpp -o /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/OpenCV.build/Debug-iphonesimulator/opencv_calib3d.build/Objects-normal/i386/calibinit.o0#
+
+CCompileC modules/calib3d/OpenCV.build/Debug-iphonesimulator/opencv_calib3d.build/Objects-normal/i386/calibration.o /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/calibration.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s319993373.136220
+e319993375.997744
+r1
+xCompileC
+xmodules/calib3d/OpenCV.build/Debug-iphonesimulator/opencv_calib3d.build/Objects-normal/i386/calibration.o
+x/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/calibration.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/calibration.cpp319993373#319993375#0(0"0(0#0#74"/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/calibration.cpp8653316384#2119"    cd /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -DCMAKE_INTDIR="Debug" -DHAVE_ALLOCA -DHAVE_ALLOCA_H -DHAVE_LIBPTHREAD -DHAVE_UNISTD_H -DHAVE_CONFIG_H -DCVAPI_EXPORTS -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/jjthrash/Downloads/OpenCV-2.2.0/lib/Debug -I/Users/jjthrash/Downloads/OpenCV-2.2.0/lib/Debug/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/../core/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/../imgproc/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/../highgui/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/OpenCV.build/Debug-iphonesimulator/opencv_calib3d.build/DerivedSources/i386 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/OpenCV.build/Debug-iphonesimulator/opencv_calib3d.build/DerivedSources -Wall -pthread -ggdb3 -DDEBUG -D_DEBUG -include /var/folders/j9/j9D8eGkFG60i5wEYUED5B++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/precomp-hblqeniyaimiqtggmuhdtalhgxfu/precomp.hpp -c /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/calibration.cpp -o /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/OpenCV.build/Debug-iphonesimulator/opencv_calib3d.build/Objects-normal/i386/calibration.o0#
+
+CCompileC modules/calib3d/OpenCV.build/Debug-iphonesimulator/opencv_calib3d.build/Objects-normal/i386/checkchessboard.o /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/checkchessboard.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s319993373.137310
+e319993373.583834
+r1
+xCompileC
+xmodules/calib3d/OpenCV.build/Debug-iphonesimulator/opencv_calib3d.build/Objects-normal/i386/checkchessboard.o
+x/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/checkchessboard.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/checkchessboard.cpp319993373#319993373#0(0"0(0#0#78"/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/checkchessboard.cpp8651779264#2127"    cd /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -DCMAKE_INTDIR="Debug" -DHAVE_ALLOCA -DHAVE_ALLOCA_H -DHAVE_LIBPTHREAD -DHAVE_UNISTD_H -DHAVE_CONFIG_H -DCVAPI_EXPORTS -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/jjthrash/Downloads/OpenCV-2.2.0/lib/Debug -I/Users/jjthrash/Downloads/OpenCV-2.2.0/lib/Debug/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/../core/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/../imgproc/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/../highgui/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/OpenCV.build/Debug-iphonesimulator/opencv_calib3d.build/DerivedSources/i386 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/OpenCV.build/Debug-iphonesimulator/opencv_calib3d.build/DerivedSources -Wall -pthread -ggdb3 -DDEBUG -D_DEBUG -include /var/folders/j9/j9D8eGkFG60i5wEYUED5B++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/precomp-hblqeniyaimiqtggmuhdtalhgxfu/precomp.hpp -c /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/checkchessboard.cpp -o /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/OpenCV.build/Debug-iphonesimulator/opencv_calib3d.build/Objects-normal/i386/checkchessboard.o0#
+
+CCompileC modules/calib3d/OpenCV.build/Debug-iphonesimulator/opencv_calib3d.build/Objects-normal/i386/fundam.o /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/fundam.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s319993376.110237
+e319993377.408113
+r1
+xCompileC
+xmodules/calib3d/OpenCV.build/Debug-iphonesimulator/opencv_calib3d.build/Objects-normal/i386/fundam.o
+x/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/fundam.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/fundam.cpp319993376#319993377#0(0"0(0#0#69"/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/fundam.cpp8622631648#2109"    cd /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -DCMAKE_INTDIR="Debug" -DHAVE_ALLOCA -DHAVE_ALLOCA_H -DHAVE_LIBPTHREAD -DHAVE_UNISTD_H -DHAVE_CONFIG_H -DCVAPI_EXPORTS -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/jjthrash/Downloads/OpenCV-2.2.0/lib/Debug -I/Users/jjthrash/Downloads/OpenCV-2.2.0/lib/Debug/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/../core/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/../imgproc/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/../highgui/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/OpenCV.build/Debug-iphonesimulator/opencv_calib3d.build/DerivedSources/i386 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/OpenCV.build/Debug-iphonesimulator/opencv_calib3d.build/DerivedSources -Wall -pthread -ggdb3 -DDEBUG -D_DEBUG -include /var/folders/j9/j9D8eGkFG60i5wEYUED5B++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/precomp-hblqeniyaimiqtggmuhdtalhgxfu/precomp.hpp -c /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/fundam.cpp -o /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/OpenCV.build/Debug-iphonesimulator/opencv_calib3d.build/Objects-normal/i386/fundam.o0#
+
+CCompileC modules/calib3d/OpenCV.build/Debug-iphonesimulator/opencv_calib3d.build/Objects-normal/i386/modelest.o /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/modelest.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s319993376.207344
+e319993376.986662
+r1
+xCompileC
+xmodules/calib3d/OpenCV.build/Debug-iphonesimulator/opencv_calib3d.build/Objects-normal/i386/modelest.o
+x/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/modelest.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/modelest.cpp319993376#319993376#0(0"0(0#0#71"/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/modelest.cpp8660734336#2113"    cd /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -DCMAKE_INTDIR="Debug" -DHAVE_ALLOCA -DHAVE_ALLOCA_H -DHAVE_LIBPTHREAD -DHAVE_UNISTD_H -DHAVE_CONFIG_H -DCVAPI_EXPORTS -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/jjthrash/Downloads/OpenCV-2.2.0/lib/Debug -I/Users/jjthrash/Downloads/OpenCV-2.2.0/lib/Debug/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/../core/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/../imgproc/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/../highgui/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/OpenCV.build/Debug-iphonesimulator/opencv_calib3d.build/DerivedSources/i386 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/OpenCV.build/Debug-iphonesimulator/opencv_calib3d.build/DerivedSources -Wall -pthread -ggdb3 -DDEBUG -D_DEBUG -include /var/folders/j9/j9D8eGkFG60i5wEYUED5B++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/precomp-hblqeniyaimiqtggmuhdtalhgxfu/precomp.hpp -c /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/modelest.cpp -o /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/OpenCV.build/Debug-iphonesimulator/opencv_calib3d.build/Objects-normal/i386/modelest.o0#
+
+CCompileC modules/calib3d/OpenCV.build/Debug-iphonesimulator/opencv_calib3d.build/Objects-normal/i386/posit.o /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/posit.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s319993376.229188
+e319993376.533383
+r1
+xCompileC
+xmodules/calib3d/OpenCV.build/Debug-iphonesimulator/opencv_calib3d.build/Objects-normal/i386/posit.o
+x/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/posit.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/posit.cpp319993376#319993376#0(0"0(0#0#68"/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/posit.cpp8659788064#2107"    cd /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -DCMAKE_INTDIR="Debug" -DHAVE_ALLOCA -DHAVE_ALLOCA_H -DHAVE_LIBPTHREAD -DHAVE_UNISTD_H -DHAVE_CONFIG_H -DCVAPI_EXPORTS -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/jjthrash/Downloads/OpenCV-2.2.0/lib/Debug -I/Users/jjthrash/Downloads/OpenCV-2.2.0/lib/Debug/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/../core/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/../imgproc/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/../highgui/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/OpenCV.build/Debug-iphonesimulator/opencv_calib3d.build/DerivedSources/i386 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/OpenCV.build/Debug-iphonesimulator/opencv_calib3d.build/DerivedSources -Wall -pthread -ggdb3 -DDEBUG -D_DEBUG -include /var/folders/j9/j9D8eGkFG60i5wEYUED5B++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/precomp-hblqeniyaimiqtggmuhdtalhgxfu/precomp.hpp -c /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/posit.cpp -o /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/OpenCV.build/Debug-iphonesimulator/opencv_calib3d.build/Objects-normal/i386/posit.o0#
+
+CCompileC modules/calib3d/OpenCV.build/Debug-iphonesimulator/opencv_calib3d.build/Objects-normal/i386/precomp.o /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/precomp.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s319993376.421234
+e319993376.613650
+r1
+xCompileC
+xmodules/calib3d/OpenCV.build/Debug-iphonesimulator/opencv_calib3d.build/Objects-normal/i386/precomp.o
+x/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/precomp.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/precomp.cpp319993376#319993376#0(0"0(0#0#70"/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/precomp.cpp8660641728#2111"    cd /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -DCMAKE_INTDIR="Debug" -DHAVE_ALLOCA -DHAVE_ALLOCA_H -DHAVE_LIBPTHREAD -DHAVE_UNISTD_H -DHAVE_CONFIG_H -DCVAPI_EXPORTS -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/jjthrash/Downloads/OpenCV-2.2.0/lib/Debug -I/Users/jjthrash/Downloads/OpenCV-2.2.0/lib/Debug/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/../core/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/../imgproc/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/../highgui/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/OpenCV.build/Debug-iphonesimulator/opencv_calib3d.build/DerivedSources/i386 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/OpenCV.build/Debug-iphonesimulator/opencv_calib3d.build/DerivedSources -Wall -pthread -ggdb3 -DDEBUG -D_DEBUG -include /var/folders/j9/j9D8eGkFG60i5wEYUED5B++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/precomp-hblqeniyaimiqtggmuhdtalhgxfu/precomp.hpp -c /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/precomp.cpp -o /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/OpenCV.build/Debug-iphonesimulator/opencv_calib3d.build/Objects-normal/i386/precomp.o0#
+
+CCompileC modules/calib3d/OpenCV.build/Debug-iphonesimulator/opencv_calib3d.build/Objects-normal/i386/stereobm.o /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/stereobm.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s319993376.533553
+e319993377.428803
+r1
+xCompileC
+xmodules/calib3d/OpenCV.build/Debug-iphonesimulator/opencv_calib3d.build/Objects-normal/i386/stereobm.o
+x/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/stereobm.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/stereobm.cpp319993376#319993377#0(0"0(0#0#71"/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/stereobm.cpp8653955648#2113"    cd /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -DCMAKE_INTDIR="Debug" -DHAVE_ALLOCA -DHAVE_ALLOCA_H -DHAVE_LIBPTHREAD -DHAVE_UNISTD_H -DHAVE_CONFIG_H -DCVAPI_EXPORTS -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/jjthrash/Downloads/OpenCV-2.2.0/lib/Debug -I/Users/jjthrash/Downloads/OpenCV-2.2.0/lib/Debug/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/../core/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/../imgproc/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/../highgui/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/OpenCV.build/Debug-iphonesimulator/opencv_calib3d.build/DerivedSources/i386 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/OpenCV.build/Debug-iphonesimulator/opencv_calib3d.build/DerivedSources -Wall -pthread -ggdb3 -DDEBUG -D_DEBUG -include /var/folders/j9/j9D8eGkFG60i5wEYUED5B++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/precomp-hblqeniyaimiqtggmuhdtalhgxfu/precomp.hpp -c /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/stereobm.cpp -o /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/OpenCV.build/Debug-iphonesimulator/opencv_calib3d.build/Objects-normal/i386/stereobm.o0#
+
+CCompileC modules/calib3d/OpenCV.build/Debug-iphonesimulator/opencv_calib3d.build/Objects-normal/i386/stereogc.o /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/stereogc.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s319993376.613964
+e319993377.042655
+r1
+xCompileC
+xmodules/calib3d/OpenCV.build/Debug-iphonesimulator/opencv_calib3d.build/Objects-normal/i386/stereogc.o
+x/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/stereogc.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/stereogc.cpp319993376#319993377#0(0"0(0#0#71"/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/stereogc.cpp8648558336#2113"    cd /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -DCMAKE_INTDIR="Debug" -DHAVE_ALLOCA -DHAVE_ALLOCA_H -DHAVE_LIBPTHREAD -DHAVE_UNISTD_H -DHAVE_CONFIG_H -DCVAPI_EXPORTS -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/jjthrash/Downloads/OpenCV-2.2.0/lib/Debug -I/Users/jjthrash/Downloads/OpenCV-2.2.0/lib/Debug/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/../core/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/../imgproc/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/../highgui/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/OpenCV.build/Debug-iphonesimulator/opencv_calib3d.build/DerivedSources/i386 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/OpenCV.build/Debug-iphonesimulator/opencv_calib3d.build/DerivedSources -Wall -pthread -ggdb3 -DDEBUG -D_DEBUG -include /var/folders/j9/j9D8eGkFG60i5wEYUED5B++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/precomp-hblqeniyaimiqtggmuhdtalhgxfu/precomp.hpp -c /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/stereogc.cpp -o /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/OpenCV.build/Debug-iphonesimulator/opencv_calib3d.build/Objects-normal/i386/stereogc.o0#
+
+CCompileC modules/calib3d/OpenCV.build/Debug-iphonesimulator/opencv_calib3d.build/Objects-normal/i386/stereosgbm.o /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/stereosgbm.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s319993376.986823
+e319993377.709377
+r1
+xCompileC
+xmodules/calib3d/OpenCV.build/Debug-iphonesimulator/opencv_calib3d.build/Objects-normal/i386/stereosgbm.o
+x/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/stereosgbm.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@81"Compile /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/stereosgbm.cpp319993376#319993377#0(0"0(0#0#73"/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/stereosgbm.cpp8661039808#2117"    cd /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -DCMAKE_INTDIR="Debug" -DHAVE_ALLOCA -DHAVE_ALLOCA_H -DHAVE_LIBPTHREAD -DHAVE_UNISTD_H -DHAVE_CONFIG_H -DCVAPI_EXPORTS -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/jjthrash/Downloads/OpenCV-2.2.0/lib/Debug -I/Users/jjthrash/Downloads/OpenCV-2.2.0/lib/Debug/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/../core/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/../imgproc/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/../highgui/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/OpenCV.build/Debug-iphonesimulator/opencv_calib3d.build/DerivedSources/i386 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/OpenCV.build/Debug-iphonesimulator/opencv_calib3d.build/DerivedSources -Wall -pthread -ggdb3 -DDEBUG -D_DEBUG -include /var/folders/j9/j9D8eGkFG60i5wEYUED5B++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/precomp-hblqeniyaimiqtggmuhdtalhgxfu/precomp.hpp -c /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/stereosgbm.cpp -o /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/OpenCV.build/Debug-iphonesimulator/opencv_calib3d.build/Objects-normal/i386/stereosgbm.o0#
+
+CCompileC modules/calib3d/OpenCV.build/Debug-iphonesimulator/opencv_calib3d.build/Objects-normal/i386/triangulate.o /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/triangulate.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s319993377.042805
+e319993377.563144
+r1
+xCompileC
+xmodules/calib3d/OpenCV.build/Debug-iphonesimulator/opencv_calib3d.build/Objects-normal/i386/triangulate.o
+x/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/triangulate.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/triangulate.cpp319993377#319993377#0(0"0(0#0#74"/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/triangulate.cpp8659640256#2119"    cd /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -DCMAKE_INTDIR="Debug" -DHAVE_ALLOCA -DHAVE_ALLOCA_H -DHAVE_LIBPTHREAD -DHAVE_UNISTD_H -DHAVE_CONFIG_H -DCVAPI_EXPORTS -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/jjthrash/Downloads/OpenCV-2.2.0/lib/Debug -I/Users/jjthrash/Downloads/OpenCV-2.2.0/lib/Debug/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/../core/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/../imgproc/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/../highgui/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/OpenCV.build/Debug-iphonesimulator/opencv_calib3d.build/DerivedSources/i386 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/OpenCV.build/Debug-iphonesimulator/opencv_calib3d.build/DerivedSources -Wall -pthread -ggdb3 -DDEBUG -D_DEBUG -include /var/folders/j9/j9D8eGkFG60i5wEYUED5B++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/precomp-hblqeniyaimiqtggmuhdtalhgxfu/precomp.hpp -c /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/triangulate.cpp -o /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/OpenCV.build/Debug-iphonesimulator/opencv_calib3d.build/Objects-normal/i386/triangulate.o0#
+
+CLibtool /Users/jjthrash/Downloads/OpenCV-2.2.0/lib/Debug/libopencv_calib3d.a normal i386
+s319993377.709525
+e319993377.738343
+r1
+xLibtool
+x/Users/jjthrash/Downloads/OpenCV-2.2.0/lib/Debug/libopencv_calib3d.a
+xnormal
+xi386
+lSLF07#2@49"Libtool lib/Debug/libopencv_calib3d.a normal i386319993377#319993377#0(0"0(0#0#0"8651649216#706"    cd /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/libtool -static -arch_only i386 -syslibroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/jjthrash/Downloads/OpenCV-2.2.0/lib/Debug -filelist /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/OpenCV.build/Debug-iphonesimulator/opencv_calib3d.build/Objects-normal/i386/opencv_calib3d.LinkFileList -o /Users/jjthrash/Downloads/OpenCV-2.2.0/lib/Debug/libopencv_calib3d.a0#
+
+CPhaseScriptExecution "CMake PostBuild Rules" /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/OpenCV.build/Debug-iphonesimulator/opencv_calib3d.build/Script-1010B93601010B93601010B9.sh
+s319993550.754362
+e319993550.840743
+r1
+xPhaseScriptExecution
+xCMake PostBuild Rules
+x/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/OpenCV.build/Debug-iphonesimulator/opencv_calib3d.build/Script-1010B93601010B93601010B9.sh
+oecho "Depend check for xcode"
+oDepend check for xcode
+ocd /Users/jjthrash/Downloads/OpenCV-2.2.0 && make -C /Users/jjthrash/Downloads/OpenCV-2.2.0 -f /Users/jjthrash/Downloads/OpenCV-2.2.0/CMakeScripts/XCODE_DEPEND_HELPER.make all.Debug
+o/bin/rm -f /Users/jjthrash/Downloads/OpenCV-2.2.0/bin/Debug/opencv_createsamples
+o/bin/rm -f /Users/jjthrash/Downloads/OpenCV-2.2.0/bin/Debug/opencv_haartraining
+o/bin/rm -f /Users/jjthrash/Downloads/OpenCV-2.2.0/bin/Debug/opencv_performance
+o/bin/rm -f /Users/jjthrash/Downloads/OpenCV-2.2.0/bin/Debug/opencv_traincascade
+o/bin/rm -f /Users/jjthrash/Downloads/OpenCV-2.2.0/bin/Debug/opencv_test
+o/bin/rm -f /Users/jjthrash/Downloads/OpenCV-2.2.0/bin/Debug/opencv_test_core
+o/bin/rm -f /Users/jjthrash/Downloads/OpenCV-2.2.0/bin/Debug/opencv_test_ml
+o/bin/rm -f /Users/jjthrash/Downloads/OpenCV-2.2.0/bin/Debug/opencv_test_gpu
+oecho "Depend check for xcode"
+oDepend check for xcode
+ocd /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d && make -C /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d -f /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/CMakeScripts/XCODE_DEPEND_HELPER.make all.Debug
+omake[1]: Nothing to be done for `all.Debug'.
+lSLF07#2@47"Run custom shell script 'CMake PostBuild Rules'319993550#319993550#0(1183"echo "Depend check for xcode"Depend check for xcodecd /Users/jjthrash/Downloads/OpenCV-2.2.0 && make -C /Users/jjthrash/Downloads/OpenCV-2.2.0 -f /Users/jjthrash/Downloads/OpenCV-2.2.0/CMakeScripts/XCODE_DEPEND_HELPER.make all.Debug/bin/rm -f /Users/jjthrash/Downloads/OpenCV-2.2.0/bin/Debug/opencv_createsamples/bin/rm -f /Users/jjthrash/Downloads/OpenCV-2.2.0/bin/Debug/opencv_haartraining/bin/rm -f /Users/jjthrash/Downloads/OpenCV-2.2.0/bin/Debug/opencv_performance/bin/rm -f /Users/jjthrash/Downloads/OpenCV-2.2.0/bin/Debug/opencv_traincascade/bin/rm -f /Users/jjthrash/Downloads/OpenCV-2.2.0/bin/Debug/opencv_test/bin/rm -f /Users/jjthrash/Downloads/OpenCV-2.2.0/bin/Debug/opencv_test_core/bin/rm -f /Users/jjthrash/Downloads/OpenCV-2.2.0/bin/Debug/opencv_test_ml/bin/rm -f /Users/jjthrash/Downloads/OpenCV-2.2.0/bin/Debug/opencv_test_gpuecho "Depend check for xcode"Depend check for xcodecd /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d && make -C /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d -f /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/CMakeScripts/XCODE_DEPEND_HELPER.make all.Debugmake[1]: Nothing to be done for `all.Debug'.15(13@30"echo "Depend check for xcode"319993550#0#30#0(1@0"0(13@23"Depend check for xcode319993550#30#23#0(1@0"0(13@182"cd /Users/jjthrash/Downloads/OpenCV-2.2.0 && make -C /Users/jjthrash/Downloads/OpenCV-2.2.0 -f /Users/jjthrash/Downloads/OpenCV-2.2.0/CMakeScripts/XCODE_DEPEND_HELPER.make all.Debug319993550#53#182#0(1@0"0(13@81"/bin/rm -f /Users/jjthrash/Downloads/OpenCV-2.2.0/bin/Debug/opencv_createsamples319993550#235#81#0(1@0"0(13@80"/bin/rm -f /Users/jjthrash/Downloads/OpenCV-2.2.0/bin/Debug/opencv_haartraining319993550#316#80#0(1@0"0(13@79"/bin/rm -f /Users/jjthrash/Downloads/OpenCV-2.2.0/bin/Debug/opencv_performance319993550#396#79#0(1@0"0(13@80"/bin/rm -f /Users/jjthrash/Downloads/OpenCV-2.2.0/bin/Debug/opencv_traincascade319993550#475#80#0(1@0"0(13@72"/bin/rm -f /Users/jjthrash/Downloads/OpenCV-2.2.0/bin/Debug/opencv_test319993550#555#72#0(1@0"0(13@77"/bin/rm -f /Users/jjthrash/Downloads/OpenCV-2.2.0/bin/Debug/opencv_test_core319993550#627#77#0(1@0"0(13@75"/bin/rm -f /Users/jjthrash/Downloads/OpenCV-2.2.0/bin/Debug/opencv_test_ml319993550#704#75#0(1@0"0(13@76"/bin/rm -f /Users/jjthrash/Downloads/OpenCV-2.2.0/bin/Debug/opencv_test_gpu319993550#779#76#0(1@0"0(13@30"echo "Depend check for xcode"319993550#855#30#0(1@0"0(13@23"Depend check for xcode319993550#885#23#0(1@0"0(13@230"cd /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d && make -C /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d -f /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/CMakeScripts/XCODE_DEPEND_HELPER.make all.Debug319993550#908#230#0(1@0"0(13@45"make[1]: Nothing to be done for `all.Debug'.319993550#1138#45#0(1@0"0(0#0#0"8649927616#17272"    cd /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv ACTION build    setenv ALTERNATE_GROUP staff    setenv ALTERNATE_MODE u+w,go-w,a+rX    setenv ALTERNATE_OWNER jjthrash    setenv ALWAYS_SEARCH_USER_PATHS YES    setenv APPLE_INTERNAL_DEVELOPER_DIR /AppleInternal/Developer    setenv APPLE_INTERNAL_DIR /AppleInternal    setenv APPLE_INTERNAL_DOCUMENTATION_DIR /AppleInternal/Documentation    setenv APPLE_INTERNAL_LIBRARY_DIR /AppleInternal/Library    setenv APPLE_INTERNAL_TOOLS /AppleInternal/Developer/Tools    setenv APPLY_RULES_IN_COPY_FILES NO    setenv ARCHS i386    setenv ARCHS_STANDARD_32_BIT i386    setenv ARCHS_UNIVERSAL_IPHONE_OS i386    setenv BUILD_COMPONENTS "headers build"    setenv BUILD_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d    setenv BUILD_ROOT /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d    setenv BUILD_STYLE Debug    setenv BUILD_VARIANTS normal    setenv BUILT_PRODUCTS_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/lib/Debug    setenv CACHE_ROOT /var/folders/j9/j9D8eGkFG60i5wEYUED5B++++TI/-Caches-/com.apple.Xcode.501    setenv CCHROOT /var/folders/j9/j9D8eGkFG60i5wEYUED5B++++TI/-Caches-/com.apple.Xcode.501    setenv CHMOD /bin/chmod    setenv CHOWN /usr/sbin/chown    setenv CLASS_FILE_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/OpenCV.build/Debug-iphonesimulator/opencv_calib3d.build/JavaClasses    setenv CLEAN_PRECOMPS YES    setenv CLONE_HEADERS NO    setenv CODESIGNING_FOLDER_PATH /Users/jjthrash/Downloads/OpenCV-2.2.0/lib/Debug/libopencv_calib3d.a    setenv CODE_SIGN_CONTEXT_CLASS XCCodeSignContext    setenv COMMAND_MODE legacy    setenv COMPOSITE_SDK_DIRS /var/folders/j9/j9D8eGkFG60i5wEYUED5B++++TI/-Caches-/com.apple.Xcode.501/CompositeSDKs    setenv COMPRESS_PNG_FILES YES    setenv CONFIGURATION Debug    setenv CONFIGURATION_BUILD_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/lib/Debug    setenv CONFIGURATION_TEMP_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/OpenCV.build/Debug-iphonesimulator    setenv COPYING_PRESERVES_HFS_DATA NO    setenv COPY_PHASE_STRIP YES    setenv COPY_RESOURCES_FROM_STATIC_FRAMEWORKS YES    setenv CP /bin/cp    setenv CURRENT_ARCH i386    setenv CURRENT_VARIANT normal    setenv DEAD_CODE_STRIPPING NO    setenv DEBUGGING_SYMBOLS YES    setenv DEBUG_INFORMATION_FORMAT dwarf-with-dsym    setenv DEPLOYMENT_LOCATION NO    setenv DEPLOYMENT_POSTPROCESSING NO    setenv DERIVED_FILES_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/OpenCV.build/Debug-iphonesimulator/opencv_calib3d.build/DerivedSources    setenv DERIVED_FILE_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/OpenCV.build/Debug-iphonesimulator/opencv_calib3d.build/DerivedSources    setenv DERIVED_SOURCES_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/OpenCV.build/Debug-iphonesimulator/opencv_calib3d.build/DerivedSources    setenv DEVELOPER_APPLICATIONS_DIR /Developer/Applications    setenv DEVELOPER_BIN_DIR /Developer/usr/bin    setenv DEVELOPER_DIR /Developer    setenv DEVELOPER_FRAMEWORKS_DIR /Developer/Library/Frameworks    setenv DEVELOPER_FRAMEWORKS_DIR_QUOTED "\"/Developer/Library/Frameworks\""    setenv DEVELOPER_LIBRARY_DIR /Developer/Library    setenv DEVELOPER_SDK_DIR /Developer/SDKs    setenv DEVELOPER_TOOLS_DIR /Developer/Tools    setenv DEVELOPER_USR_DIR /Developer/usr    setenv DEVELOPMENT_LANGUAGE English    setenv DO_HEADER_SCANNING_IN_JAM NO    setenv DSTROOT /tmp/OpenCV.dst    setenv DWARF_DSYM_FILE_NAME libopencv_calib3d.a.dSYM    setenv DWARF_DSYM_FOLDER_PATH /Users/jjthrash/Downloads/OpenCV-2.2.0/lib/Debug    setenv EFFECTIVE_PLATFORM_NAME -iphonesimulator    setenv ENABLE_HEADER_DEPENDENCIES YES    setenv ENABLE_OPENMP_SUPPORT NO    setenv EXCLUDED_INSTALLSRC_SUBDIRECTORY_PATTERNS ".svn .git CVS"    setenv EXCLUDED_RECURSIVE_SEARCH_PATH_SUBDIRECTORIES "*.nib *.lproj *.framework *.gch (*) CVS .svn .git *.xcodeproj *.xcode *.pbproj *.pbxproj"    setenv EXECUTABLE_EXTENSION a    setenv EXECUTABLE_NAME libopencv_calib3d.a    setenv EXECUTABLE_PATH libopencv_calib3d.a    setenv EXECUTABLE_PREFIX lib    setenv EXECUTABLE_SUFFIX .a    setenv FILE_LIST /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/OpenCV.build/Debug-iphonesimulator/opencv_calib3d.build/Objects/LinkFileList    setenv FIXED_FILES_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/OpenCV.build/Debug-iphonesimulator/opencv_calib3d.build/FixedFiles    setenv FRAMEWORK_FLAG_PREFIX -framework    setenv FRAMEWORK_SEARCH_PATHS "\"/Users/jjthrash/Downloads/OpenCV-2.2.0/lib/Debug\" "    setenv FRAMEWORK_VERSION A    setenv FULL_PRODUCT_NAME libopencv_calib3d.a    setenv GCC3_VERSION 3.3    setenv GCC_ENABLE_SYMBOL_SEPARATION NO    setenv GCC_GENERATE_DEBUGGING_SYMBOLS YES    setenv GCC_INLINES_ARE_PRIVATE_EXTERN NO    setenv GCC_OBJC_LEGACY_DISPATCH YES    setenv GCC_OPTIMIZATION_LEVEL 0    setenv GCC_PFE_FILE_C_DIALECTS "c objective-c c++ objective-c++"    setenv GCC_PRECOMPILE_PREFIX_HEADER YES    setenv GCC_PREFIX_HEADER /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/precomp.hpp    setenv GCC_PREPROCESSOR_DEFINITIONS "'CMAKE_INTDIR=\"Debug\"' HAVE_ALLOCA HAVE_ALLOCA_H HAVE_LIBPTHREAD HAVE_UNISTD_H HAVE_CONFIG_H CVAPI_EXPORTS"    setenv GCC_SYMBOLS_PRIVATE_EXTERN NO    setenv GCC_THUMB_SUPPORT YES    setenv GCC_TREAT_WARNINGS_AS_ERRORS NO    setenv GCC_VERSION 4.2    setenv GCC_VERSION_IDENTIFIER __2    setenv GENERATE_MASTER_OBJECT_FILE NO    setenv GENERATE_PKGINFO_FILE NO    setenv GENERATE_PROFILING_CODE NO    setenv GID 20    setenv GROUP staff    setenv HEADERMAP_INCLUDES_FLAT_ENTRIES_FOR_TARGET_BEING_BUILT YES    setenv HEADERMAP_INCLUDES_FRAMEWORK_ENTRIES_FOR_ALL_PRODUCT_TYPES YES    setenv HEADERMAP_INCLUDES_NONPUBLIC_NONPRIVATE_HEADERS YES    setenv HEADERMAP_INCLUDES_PROJECT_HEADERS YES    setenv HEADER_SEARCH_PATHS "\"/Users/jjthrash/Downloads/OpenCV-2.2.0/lib/Debug/include\" /Users/jjthrash/Downloads/OpenCV-2.2.0/. /Users/jjthrash/Downloads/OpenCV-2.2.0 /Users/jjthrash/Downloads/OpenCV-2.2.0/include /Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/include /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/../core/include /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/../imgproc/include /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/../highgui/include"    setenv ICONV /usr/bin/iconv    setenv INFOPLIST_EXPAND_BUILD_SETTINGS YES    setenv INFOPLIST_OUTPUT_FORMAT binary    setenv INFOPLIST_PREPROCESS NO    setenv INSTALL_DIR /tmp/OpenCV.dst    setenv INSTALL_GROUP staff    setenv INSTALL_MODE_FLAG u+w,go-w,a+rX    setenv INSTALL_OWNER jjthrash    setenv INSTALL_ROOT /tmp/OpenCV.dst    setenv IPHONEOS_DEPLOYMENT_TARGET 4.2    setenv JAVAC_DEFAULT_FLAGS "-J-Xms64m -J-XX:NewSize=4M -J-Dfile.encoding=UTF8"    setenv JAVA_APP_STUB /System/Library/Frameworks/JavaVM.framework/Resources/MacOS/JavaApplicationStub    setenv JAVA_ARCHIVE_CLASSES YES    setenv JAVA_ARCHIVE_TYPE JAR    setenv JAVA_COMPILER /usr/bin/javac    setenv JAVA_FRAMEWORK_RESOURCES_DIRS Resources    setenv JAVA_JAR_FLAGS cv    setenv JAVA_SOURCE_SUBDIR .    setenv JAVA_USE_DEPENDENCIES YES    setenv JAVA_ZIP_FLAGS -urg    setenv JIKES_DEFAULT_FLAGS "+E +OLDCSO"    setenv KEEP_PRIVATE_EXTERNS NO    setenv LD_GENERATE_MAP_FILE NO    setenv LD_MAP_FILE_PATH /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/OpenCV.build/Debug-iphonesimulator/opencv_calib3d.build/opencv_calib3d-LinkMap-normal-i386.txt    setenv LD_OPENMP_FLAGS -fopenmp    setenv LEX /Developer/usr/bin/lex    setenv LIBRARY_FLAG_NOSPACE YES    setenv LIBRARY_FLAG_PREFIX -l    setenv LIBRARY_SEARCH_PATHS "\"/Users/jjthrash/Downloads/OpenCV-2.2.0/lib/Debug\" "    setenv LIBRARY_STYLE STATIC    setenv LINKER_DISPLAYS_MANGLED_NAMES NO    setenv LINK_FILE_LIST_normal_i386 /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/OpenCV.build/Debug-iphonesimulator/opencv_calib3d.build/Objects-normal/i386/opencv_calib3d.LinkFileList    setenv LINK_WITH_STANDARD_LIBRARIES YES    setenv LOCAL_ADMIN_APPS_DIR /Applications/Utilities    setenv LOCAL_APPS_DIR /Applications    setenv LOCAL_DEVELOPER_DIR /Library/Developer    setenv LOCAL_LIBRARY_DIR /Library    setenv MACH_O_TYPE staticlib    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv MAC_OS_X_VERSION_ACTUAL 1066    setenv MAC_OS_X_VERSION_MAJOR 1060    setenv MAC_OS_X_VERSION_MINOR 0606    setenv NATIVE_ARCH i386    setenv NATIVE_ARCH_32_BIT i386    setenv NATIVE_ARCH_64_BIT x86_64    setenv NATIVE_ARCH_ACTUAL x86_64    setenv NO_COMMON YES    setenv OBJC_ABI_VERSION 2    setenv OBJECT_FILE_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/OpenCV.build/Debug-iphonesimulator/opencv_calib3d.build/Objects    setenv OBJECT_FILE_DIR_normal /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/OpenCV.build/Debug-iphonesimulator/opencv_calib3d.build/Objects-normal    setenv OBJROOT /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d    setenv ONLY_ACTIVE_ARCH YES    setenv OPTIMIZATION_LEVEL 0    setenv OS MACOS    setenv OSAC /usr/bin/osacompile    setenv OTHER_CFLAGS "-Wall -pthread -ggdb3 -DDEBUG -D_DEBUG"    setenv OTHER_CPLUSPLUSFLAGS "-Wall -pthread -ggdb3 -DDEBUG -D_DEBUG"    setenv PACKAGE_TYPE com.apple.package-type.static-library    setenv PASCAL_STRINGS YES    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv PATH_PREFIXES_EXCLUDED_FROM_HEADER_DEPENDENCIES "/usr/include /usr/local/include /System/Library/Frameworks /System/Library/PrivateFrameworks /Developer/Headers /Developer/SDKs /Developer/Platforms"    setenv PFE_FILE_C_DIALECTS c++    setenv PKGINFO_FILE_PATH /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/OpenCV.build/Debug-iphonesimulator/opencv_calib3d.build/PkgInfo    setenv PLATFORM_DEVELOPER_APPLICATIONS_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/Applications    setenv PLATFORM_DEVELOPER_BIN_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin    setenv PLATFORM_DEVELOPER_LIBRARY_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/Library    setenv PLATFORM_DEVELOPER_SDK_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs    setenv PLATFORM_DEVELOPER_TOOLS_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/Tools    setenv PLATFORM_DEVELOPER_USR_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/usr    setenv PLATFORM_DIR /Developer/Platforms/iPhoneSimulator.platform    setenv PLATFORM_NAME iphonesimulator    setenv PLATFORM_PRODUCT_BUILD_VERSION 8C134    setenv PLATFORM_VERSION_AVAILABILITY_H_FORMAT 40200    setenv PLIST_FILE_OUTPUT_FORMAT binary    setenv PREBINDING NO    setenv PRECOMPS_INCLUDE_HEADERS_FROM_BUILT_PRODUCTS_DIR YES    setenv PRECOMP_DESTINATION_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/OpenCV.build/Debug-iphonesimulator/opencv_calib3d.build/PrefixHeaders    setenv PRESERVE_DEAD_CODE_INITS_AND_TERMS NO    setenv PRIVATE_HEADERS_FOLDER_PATH /usr/local/include    setenv PRODUCT_NAME opencv_calib3d    setenv PRODUCT_SETTINGS_PATH     setenv PRODUCT_TYPE com.apple.product-type.library.static    setenv PROFILING_CODE NO    setenv PROJECT OpenCV    setenv PROJECT_DERIVED_FILE_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/OpenCV.build/DerivedSources    setenv PROJECT_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv PROJECT_FILE_PATH /Users/jjthrash/Downloads/OpenCV-2.2.0/OpenCV.xcodeproj    setenv PROJECT_NAME OpenCV    setenv PROJECT_TEMP_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/OpenCV.build    setenv PUBLIC_HEADERS_FOLDER_PATH /usr/local/include    setenv RECURSIVE_SEARCH_PATHS_FOLLOW_SYMLINKS YES    setenv REMOVE_CVS_FROM_RESOURCES YES    setenv REMOVE_GIT_FROM_RESOURCES YES    setenv REMOVE_SVN_FROM_RESOURCES YES    setenv REZ_COLLECTOR_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/OpenCV.build/Debug-iphonesimulator/opencv_calib3d.build/ResourceManagerResources    setenv REZ_EXECUTABLE YES    setenv REZ_OBJECTS_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/OpenCV.build/Debug-iphonesimulator/opencv_calib3d.build/ResourceManagerResources/Objects    setenv REZ_SEARCH_PATHS "\"/Users/jjthrash/Downloads/OpenCV-2.2.0/lib/Debug\" "    setenv RUN_CLANG_STATIC_ANALYZER NO    setenv SCAN_ALL_SOURCE_FILES_FOR_INCLUDES NO    setenv SCRIPT_INPUT_FILE_COUNT 0    setenv SCRIPT_OUTPUT_FILE_COUNT 0    setenv SDKROOT /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk    setenv SDK_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk    setenv SDK_NAME iphonesimulator4.2    setenv SED /usr/bin/sed    setenv SEPARATE_STRIP YES    setenv SEPARATE_SYMBOL_EDIT NO    setenv SET_DIR_MODE_OWNER_GROUP YES    setenv SET_FILE_MODE_OWNER_GROUP NO    setenv SHARED_DERIVED_FILE_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/lib/Debug/DerivedSources    setenv SHARED_PRECOMPS_DIR /var/folders/j9/j9D8eGkFG60i5wEYUED5B++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders    setenv SKIP_INSTALL YES    setenv SOURCE_ROOT /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv SRCROOT /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv STANDARD_C_PLUS_PLUS_LIBRARY_TYPE dynamic    setenv STRINGS_FILE_OUTPUT_ENCODING binary    setenv STRIP_INSTALLED_PRODUCT YES    setenv STRIP_STYLE debugging    setenv SUPPORTED_DEVICE_FAMILIES "1 2"    setenv SYMBOL_REPOSITORY_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/OpenCV.build/Debug-iphonesimulator/opencv_calib3d.build/SymbolRepositories    setenv SYMROOT /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d    setenv SYSTEM_ADMIN_APPS_DIR /Applications/Utilities    setenv SYSTEM_APPS_DIR /Applications    setenv SYSTEM_CORE_SERVICES_DIR /System/Library/CoreServices    setenv SYSTEM_DEMOS_DIR /Applications/Extras    setenv SYSTEM_DEVELOPER_APPS_DIR /Developer/Applications    setenv SYSTEM_DEVELOPER_BIN_DIR /Developer/usr/bin    setenv SYSTEM_DEVELOPER_DEMOS_DIR "/Developer/Applications/Utilities/Built Examples"    setenv SYSTEM_DEVELOPER_DIR /Developer    setenv SYSTEM_DEVELOPER_DOC_DIR "/Developer/ADC Reference Library"    setenv SYSTEM_DEVELOPER_GRAPHICS_TOOLS_DIR "/Developer/Applications/Graphics Tools"    setenv SYSTEM_DEVELOPER_JAVA_TOOLS_DIR "/Developer/Applications/Java Tools"    setenv SYSTEM_DEVELOPER_PERFORMANCE_TOOLS_DIR "/Developer/Applications/Performance Tools"    setenv SYSTEM_DEVELOPER_RELEASENOTES_DIR "/Developer/ADC Reference Library/releasenotes"    setenv SYSTEM_DEVELOPER_TOOLS /Developer/Tools    setenv SYSTEM_DEVELOPER_TOOLS_DOC_DIR "/Developer/ADC Reference Library/documentation/DeveloperTools"    setenv SYSTEM_DEVELOPER_TOOLS_RELEASENOTES_DIR "/Developer/ADC Reference Library/releasenotes/DeveloperTools"    setenv SYSTEM_DEVELOPER_USR_DIR /Developer/usr    setenv SYSTEM_DEVELOPER_UTILITIES_DIR /Developer/Applications/Utilities    setenv SYSTEM_DOCUMENTATION_DIR /Library/Documentation    setenv SYSTEM_LIBRARY_DIR /System/Library    setenv TARGETED_DEVICE_FAMILY 1    setenv TARGETNAME opencv_calib3d    setenv TARGET_BUILD_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/lib/Debug    setenv TARGET_NAME opencv_calib3d    setenv TARGET_TEMP_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/OpenCV.build/Debug-iphonesimulator/opencv_calib3d.build    setenv TEMP_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/OpenCV.build/Debug-iphonesimulator/opencv_calib3d.build    setenv TEMP_FILES_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/OpenCV.build/Debug-iphonesimulator/opencv_calib3d.build    setenv TEMP_FILE_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/OpenCV.build/Debug-iphonesimulator/opencv_calib3d.build    setenv TEMP_ROOT /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d    setenv UID 501    setenv UNSTRIPPED_PRODUCT NO    setenv USER jjthrash    setenv USER_APPS_DIR /Users/jjthrash/Applications    setenv USER_LIBRARY_DIR /Users/jjthrash/Library    setenv USE_DYNAMIC_NO_PIC YES    setenv USE_HEADERMAP NO    setenv USE_HEADER_SYMLINKS NO    setenv VALIDATE_PRODUCT NO    setenv VALID_ARCHS i386    setenv VERBOSE_PBXCP NO    setenv VERSION_INFO_BUILDER jjthrash    setenv VERSION_INFO_FILE opencv_calib3d_vers.c    setenv VERSION_INFO_STRING "\"@(#)PROGRAM:opencv_calib3d  PROJECT:OpenCV-\""    setenv WARNING_CFLAGS "-Wmost -Wno-four-char-constants -Wno-unknown-pragmas"    setenv XCODE_APP_SUPPORT_DIR /Developer/Library/Xcode    setenv XCODE_PRODUCT_BUILD_VERSION 10M2423    setenv XCODE_VERSION_ACTUAL 0325    setenv XCODE_VERSION_MAJOR 0300    setenv XCODE_VERSION_MINOR 0320    setenv YACC /Developer/usr/bin/yacc    setenv _REAL_SDKROOT iphoneos    /bin/sh -c /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/OpenCV.build/Debug-iphonesimulator/opencv_calib3d.build/Script-1010B93601010B93601010B9.sh0#
+
+CPhaseScriptExecution "CMake ReRun" /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/OpenCV.build/Debug-iphonesimulator/opencv_calib3d.build/Script-1010B89401010B89401010B8.sh
+s319993550.705544
+e319993550.742184
+r1
+xPhaseScriptExecution
+xCMake ReRun
+x/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/OpenCV.build/Debug-iphonesimulator/opencv_calib3d.build/Script-1010B89401010B89401010B8.sh
+omake: `CMakeFiles/cmake.check_cache' is up to date.
+lSLF07#2@37"Run custom shell script 'CMake ReRun'319993550#319993550#0(52"make: `CMakeFiles/cmake.check_cache' is up to date.1(13@52"make: `CMakeFiles/cmake.check_cache' is up to date.319993550#0#52#0(1@0"0(0#0#0"8607962336#17272"    cd /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv ACTION build    setenv ALTERNATE_GROUP staff    setenv ALTERNATE_MODE u+w,go-w,a+rX    setenv ALTERNATE_OWNER jjthrash    setenv ALWAYS_SEARCH_USER_PATHS YES    setenv APPLE_INTERNAL_DEVELOPER_DIR /AppleInternal/Developer    setenv APPLE_INTERNAL_DIR /AppleInternal    setenv APPLE_INTERNAL_DOCUMENTATION_DIR /AppleInternal/Documentation    setenv APPLE_INTERNAL_LIBRARY_DIR /AppleInternal/Library    setenv APPLE_INTERNAL_TOOLS /AppleInternal/Developer/Tools    setenv APPLY_RULES_IN_COPY_FILES NO    setenv ARCHS i386    setenv ARCHS_STANDARD_32_BIT i386    setenv ARCHS_UNIVERSAL_IPHONE_OS i386    setenv BUILD_COMPONENTS "headers build"    setenv BUILD_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d    setenv BUILD_ROOT /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d    setenv BUILD_STYLE Debug    setenv BUILD_VARIANTS normal    setenv BUILT_PRODUCTS_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/lib/Debug    setenv CACHE_ROOT /var/folders/j9/j9D8eGkFG60i5wEYUED5B++++TI/-Caches-/com.apple.Xcode.501    setenv CCHROOT /var/folders/j9/j9D8eGkFG60i5wEYUED5B++++TI/-Caches-/com.apple.Xcode.501    setenv CHMOD /bin/chmod    setenv CHOWN /usr/sbin/chown    setenv CLASS_FILE_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/OpenCV.build/Debug-iphonesimulator/opencv_calib3d.build/JavaClasses    setenv CLEAN_PRECOMPS YES    setenv CLONE_HEADERS NO    setenv CODESIGNING_FOLDER_PATH /Users/jjthrash/Downloads/OpenCV-2.2.0/lib/Debug/libopencv_calib3d.a    setenv CODE_SIGN_CONTEXT_CLASS XCCodeSignContext    setenv COMMAND_MODE legacy    setenv COMPOSITE_SDK_DIRS /var/folders/j9/j9D8eGkFG60i5wEYUED5B++++TI/-Caches-/com.apple.Xcode.501/CompositeSDKs    setenv COMPRESS_PNG_FILES YES    setenv CONFIGURATION Debug    setenv CONFIGURATION_BUILD_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/lib/Debug    setenv CONFIGURATION_TEMP_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/OpenCV.build/Debug-iphonesimulator    setenv COPYING_PRESERVES_HFS_DATA NO    setenv COPY_PHASE_STRIP YES    setenv COPY_RESOURCES_FROM_STATIC_FRAMEWORKS YES    setenv CP /bin/cp    setenv CURRENT_ARCH i386    setenv CURRENT_VARIANT normal    setenv DEAD_CODE_STRIPPING NO    setenv DEBUGGING_SYMBOLS YES    setenv DEBUG_INFORMATION_FORMAT dwarf-with-dsym    setenv DEPLOYMENT_LOCATION NO    setenv DEPLOYMENT_POSTPROCESSING NO    setenv DERIVED_FILES_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/OpenCV.build/Debug-iphonesimulator/opencv_calib3d.build/DerivedSources    setenv DERIVED_FILE_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/OpenCV.build/Debug-iphonesimulator/opencv_calib3d.build/DerivedSources    setenv DERIVED_SOURCES_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/OpenCV.build/Debug-iphonesimulator/opencv_calib3d.build/DerivedSources    setenv DEVELOPER_APPLICATIONS_DIR /Developer/Applications    setenv DEVELOPER_BIN_DIR /Developer/usr/bin    setenv DEVELOPER_DIR /Developer    setenv DEVELOPER_FRAMEWORKS_DIR /Developer/Library/Frameworks    setenv DEVELOPER_FRAMEWORKS_DIR_QUOTED "\"/Developer/Library/Frameworks\""    setenv DEVELOPER_LIBRARY_DIR /Developer/Library    setenv DEVELOPER_SDK_DIR /Developer/SDKs    setenv DEVELOPER_TOOLS_DIR /Developer/Tools    setenv DEVELOPER_USR_DIR /Developer/usr    setenv DEVELOPMENT_LANGUAGE English    setenv DO_HEADER_SCANNING_IN_JAM NO    setenv DSTROOT /tmp/OpenCV.dst    setenv DWARF_DSYM_FILE_NAME libopencv_calib3d.a.dSYM    setenv DWARF_DSYM_FOLDER_PATH /Users/jjthrash/Downloads/OpenCV-2.2.0/lib/Debug    setenv EFFECTIVE_PLATFORM_NAME -iphonesimulator    setenv ENABLE_HEADER_DEPENDENCIES YES    setenv ENABLE_OPENMP_SUPPORT NO    setenv EXCLUDED_INSTALLSRC_SUBDIRECTORY_PATTERNS ".svn .git CVS"    setenv EXCLUDED_RECURSIVE_SEARCH_PATH_SUBDIRECTORIES "*.nib *.lproj *.framework *.gch (*) CVS .svn .git *.xcodeproj *.xcode *.pbproj *.pbxproj"    setenv EXECUTABLE_EXTENSION a    setenv EXECUTABLE_NAME libopencv_calib3d.a    setenv EXECUTABLE_PATH libopencv_calib3d.a    setenv EXECUTABLE_PREFIX lib    setenv EXECUTABLE_SUFFIX .a    setenv FILE_LIST /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/OpenCV.build/Debug-iphonesimulator/opencv_calib3d.build/Objects/LinkFileList    setenv FIXED_FILES_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/OpenCV.build/Debug-iphonesimulator/opencv_calib3d.build/FixedFiles    setenv FRAMEWORK_FLAG_PREFIX -framework    setenv FRAMEWORK_SEARCH_PATHS "\"/Users/jjthrash/Downloads/OpenCV-2.2.0/lib/Debug\" "    setenv FRAMEWORK_VERSION A    setenv FULL_PRODUCT_NAME libopencv_calib3d.a    setenv GCC3_VERSION 3.3    setenv GCC_ENABLE_SYMBOL_SEPARATION NO    setenv GCC_GENERATE_DEBUGGING_SYMBOLS YES    setenv GCC_INLINES_ARE_PRIVATE_EXTERN NO    setenv GCC_OBJC_LEGACY_DISPATCH YES    setenv GCC_OPTIMIZATION_LEVEL 0    setenv GCC_PFE_FILE_C_DIALECTS "c objective-c c++ objective-c++"    setenv GCC_PRECOMPILE_PREFIX_HEADER YES    setenv GCC_PREFIX_HEADER /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/precomp.hpp    setenv GCC_PREPROCESSOR_DEFINITIONS "'CMAKE_INTDIR=\"Debug\"' HAVE_ALLOCA HAVE_ALLOCA_H HAVE_LIBPTHREAD HAVE_UNISTD_H HAVE_CONFIG_H CVAPI_EXPORTS"    setenv GCC_SYMBOLS_PRIVATE_EXTERN NO    setenv GCC_THUMB_SUPPORT YES    setenv GCC_TREAT_WARNINGS_AS_ERRORS NO    setenv GCC_VERSION 4.2    setenv GCC_VERSION_IDENTIFIER __2    setenv GENERATE_MASTER_OBJECT_FILE NO    setenv GENERATE_PKGINFO_FILE NO    setenv GENERATE_PROFILING_CODE NO    setenv GID 20    setenv GROUP staff    setenv HEADERMAP_INCLUDES_FLAT_ENTRIES_FOR_TARGET_BEING_BUILT YES    setenv HEADERMAP_INCLUDES_FRAMEWORK_ENTRIES_FOR_ALL_PRODUCT_TYPES YES    setenv HEADERMAP_INCLUDES_NONPUBLIC_NONPRIVATE_HEADERS YES    setenv HEADERMAP_INCLUDES_PROJECT_HEADERS YES    setenv HEADER_SEARCH_PATHS "\"/Users/jjthrash/Downloads/OpenCV-2.2.0/lib/Debug/include\" /Users/jjthrash/Downloads/OpenCV-2.2.0/. /Users/jjthrash/Downloads/OpenCV-2.2.0 /Users/jjthrash/Downloads/OpenCV-2.2.0/include /Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/include /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/../core/include /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/../imgproc/include /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/../highgui/include"    setenv ICONV /usr/bin/iconv    setenv INFOPLIST_EXPAND_BUILD_SETTINGS YES    setenv INFOPLIST_OUTPUT_FORMAT binary    setenv INFOPLIST_PREPROCESS NO    setenv INSTALL_DIR /tmp/OpenCV.dst    setenv INSTALL_GROUP staff    setenv INSTALL_MODE_FLAG u+w,go-w,a+rX    setenv INSTALL_OWNER jjthrash    setenv INSTALL_ROOT /tmp/OpenCV.dst    setenv IPHONEOS_DEPLOYMENT_TARGET 4.2    setenv JAVAC_DEFAULT_FLAGS "-J-Xms64m -J-XX:NewSize=4M -J-Dfile.encoding=UTF8"    setenv JAVA_APP_STUB /System/Library/Frameworks/JavaVM.framework/Resources/MacOS/JavaApplicationStub    setenv JAVA_ARCHIVE_CLASSES YES    setenv JAVA_ARCHIVE_TYPE JAR    setenv JAVA_COMPILER /usr/bin/javac    setenv JAVA_FRAMEWORK_RESOURCES_DIRS Resources    setenv JAVA_JAR_FLAGS cv    setenv JAVA_SOURCE_SUBDIR .    setenv JAVA_USE_DEPENDENCIES YES    setenv JAVA_ZIP_FLAGS -urg    setenv JIKES_DEFAULT_FLAGS "+E +OLDCSO"    setenv KEEP_PRIVATE_EXTERNS NO    setenv LD_GENERATE_MAP_FILE NO    setenv LD_MAP_FILE_PATH /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/OpenCV.build/Debug-iphonesimulator/opencv_calib3d.build/opencv_calib3d-LinkMap-normal-i386.txt    setenv LD_OPENMP_FLAGS -fopenmp    setenv LEX /Developer/usr/bin/lex    setenv LIBRARY_FLAG_NOSPACE YES    setenv LIBRARY_FLAG_PREFIX -l    setenv LIBRARY_SEARCH_PATHS "\"/Users/jjthrash/Downloads/OpenCV-2.2.0/lib/Debug\" "    setenv LIBRARY_STYLE STATIC    setenv LINKER_DISPLAYS_MANGLED_NAMES NO    setenv LINK_FILE_LIST_normal_i386 /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/OpenCV.build/Debug-iphonesimulator/opencv_calib3d.build/Objects-normal/i386/opencv_calib3d.LinkFileList    setenv LINK_WITH_STANDARD_LIBRARIES YES    setenv LOCAL_ADMIN_APPS_DIR /Applications/Utilities    setenv LOCAL_APPS_DIR /Applications    setenv LOCAL_DEVELOPER_DIR /Library/Developer    setenv LOCAL_LIBRARY_DIR /Library    setenv MACH_O_TYPE staticlib    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv MAC_OS_X_VERSION_ACTUAL 1066    setenv MAC_OS_X_VERSION_MAJOR 1060    setenv MAC_OS_X_VERSION_MINOR 0606    setenv NATIVE_ARCH i386    setenv NATIVE_ARCH_32_BIT i386    setenv NATIVE_ARCH_64_BIT x86_64    setenv NATIVE_ARCH_ACTUAL x86_64    setenv NO_COMMON YES    setenv OBJC_ABI_VERSION 2    setenv OBJECT_FILE_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/OpenCV.build/Debug-iphonesimulator/opencv_calib3d.build/Objects    setenv OBJECT_FILE_DIR_normal /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/OpenCV.build/Debug-iphonesimulator/opencv_calib3d.build/Objects-normal    setenv OBJROOT /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d    setenv ONLY_ACTIVE_ARCH YES    setenv OPTIMIZATION_LEVEL 0    setenv OS MACOS    setenv OSAC /usr/bin/osacompile    setenv OTHER_CFLAGS "-Wall -pthread -ggdb3 -DDEBUG -D_DEBUG"    setenv OTHER_CPLUSPLUSFLAGS "-Wall -pthread -ggdb3 -DDEBUG -D_DEBUG"    setenv PACKAGE_TYPE com.apple.package-type.static-library    setenv PASCAL_STRINGS YES    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv PATH_PREFIXES_EXCLUDED_FROM_HEADER_DEPENDENCIES "/usr/include /usr/local/include /System/Library/Frameworks /System/Library/PrivateFrameworks /Developer/Headers /Developer/SDKs /Developer/Platforms"    setenv PFE_FILE_C_DIALECTS c++    setenv PKGINFO_FILE_PATH /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/OpenCV.build/Debug-iphonesimulator/opencv_calib3d.build/PkgInfo    setenv PLATFORM_DEVELOPER_APPLICATIONS_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/Applications    setenv PLATFORM_DEVELOPER_BIN_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin    setenv PLATFORM_DEVELOPER_LIBRARY_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/Library    setenv PLATFORM_DEVELOPER_SDK_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs    setenv PLATFORM_DEVELOPER_TOOLS_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/Tools    setenv PLATFORM_DEVELOPER_USR_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/usr    setenv PLATFORM_DIR /Developer/Platforms/iPhoneSimulator.platform    setenv PLATFORM_NAME iphonesimulator    setenv PLATFORM_PRODUCT_BUILD_VERSION 8C134    setenv PLATFORM_VERSION_AVAILABILITY_H_FORMAT 40200    setenv PLIST_FILE_OUTPUT_FORMAT binary    setenv PREBINDING NO    setenv PRECOMPS_INCLUDE_HEADERS_FROM_BUILT_PRODUCTS_DIR YES    setenv PRECOMP_DESTINATION_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/OpenCV.build/Debug-iphonesimulator/opencv_calib3d.build/PrefixHeaders    setenv PRESERVE_DEAD_CODE_INITS_AND_TERMS NO    setenv PRIVATE_HEADERS_FOLDER_PATH /usr/local/include    setenv PRODUCT_NAME opencv_calib3d    setenv PRODUCT_SETTINGS_PATH     setenv PRODUCT_TYPE com.apple.product-type.library.static    setenv PROFILING_CODE NO    setenv PROJECT OpenCV    setenv PROJECT_DERIVED_FILE_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/OpenCV.build/DerivedSources    setenv PROJECT_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv PROJECT_FILE_PATH /Users/jjthrash/Downloads/OpenCV-2.2.0/OpenCV.xcodeproj    setenv PROJECT_NAME OpenCV    setenv PROJECT_TEMP_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/OpenCV.build    setenv PUBLIC_HEADERS_FOLDER_PATH /usr/local/include    setenv RECURSIVE_SEARCH_PATHS_FOLLOW_SYMLINKS YES    setenv REMOVE_CVS_FROM_RESOURCES YES    setenv REMOVE_GIT_FROM_RESOURCES YES    setenv REMOVE_SVN_FROM_RESOURCES YES    setenv REZ_COLLECTOR_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/OpenCV.build/Debug-iphonesimulator/opencv_calib3d.build/ResourceManagerResources    setenv REZ_EXECUTABLE YES    setenv REZ_OBJECTS_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/OpenCV.build/Debug-iphonesimulator/opencv_calib3d.build/ResourceManagerResources/Objects    setenv REZ_SEARCH_PATHS "\"/Users/jjthrash/Downloads/OpenCV-2.2.0/lib/Debug\" "    setenv RUN_CLANG_STATIC_ANALYZER NO    setenv SCAN_ALL_SOURCE_FILES_FOR_INCLUDES NO    setenv SCRIPT_INPUT_FILE_COUNT 0    setenv SCRIPT_OUTPUT_FILE_COUNT 0    setenv SDKROOT /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk    setenv SDK_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk    setenv SDK_NAME iphonesimulator4.2    setenv SED /usr/bin/sed    setenv SEPARATE_STRIP YES    setenv SEPARATE_SYMBOL_EDIT NO    setenv SET_DIR_MODE_OWNER_GROUP YES    setenv SET_FILE_MODE_OWNER_GROUP NO    setenv SHARED_DERIVED_FILE_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/lib/Debug/DerivedSources    setenv SHARED_PRECOMPS_DIR /var/folders/j9/j9D8eGkFG60i5wEYUED5B++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders    setenv SKIP_INSTALL YES    setenv SOURCE_ROOT /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv SRCROOT /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv STANDARD_C_PLUS_PLUS_LIBRARY_TYPE dynamic    setenv STRINGS_FILE_OUTPUT_ENCODING binary    setenv STRIP_INSTALLED_PRODUCT YES    setenv STRIP_STYLE debugging    setenv SUPPORTED_DEVICE_FAMILIES "1 2"    setenv SYMBOL_REPOSITORY_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/OpenCV.build/Debug-iphonesimulator/opencv_calib3d.build/SymbolRepositories    setenv SYMROOT /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d    setenv SYSTEM_ADMIN_APPS_DIR /Applications/Utilities    setenv SYSTEM_APPS_DIR /Applications    setenv SYSTEM_CORE_SERVICES_DIR /System/Library/CoreServices    setenv SYSTEM_DEMOS_DIR /Applications/Extras    setenv SYSTEM_DEVELOPER_APPS_DIR /Developer/Applications    setenv SYSTEM_DEVELOPER_BIN_DIR /Developer/usr/bin    setenv SYSTEM_DEVELOPER_DEMOS_DIR "/Developer/Applications/Utilities/Built Examples"    setenv SYSTEM_DEVELOPER_DIR /Developer    setenv SYSTEM_DEVELOPER_DOC_DIR "/Developer/ADC Reference Library"    setenv SYSTEM_DEVELOPER_GRAPHICS_TOOLS_DIR "/Developer/Applications/Graphics Tools"    setenv SYSTEM_DEVELOPER_JAVA_TOOLS_DIR "/Developer/Applications/Java Tools"    setenv SYSTEM_DEVELOPER_PERFORMANCE_TOOLS_DIR "/Developer/Applications/Performance Tools"    setenv SYSTEM_DEVELOPER_RELEASENOTES_DIR "/Developer/ADC Reference Library/releasenotes"    setenv SYSTEM_DEVELOPER_TOOLS /Developer/Tools    setenv SYSTEM_DEVELOPER_TOOLS_DOC_DIR "/Developer/ADC Reference Library/documentation/DeveloperTools"    setenv SYSTEM_DEVELOPER_TOOLS_RELEASENOTES_DIR "/Developer/ADC Reference Library/releasenotes/DeveloperTools"    setenv SYSTEM_DEVELOPER_USR_DIR /Developer/usr    setenv SYSTEM_DEVELOPER_UTILITIES_DIR /Developer/Applications/Utilities    setenv SYSTEM_DOCUMENTATION_DIR /Library/Documentation    setenv SYSTEM_LIBRARY_DIR /System/Library    setenv TARGETED_DEVICE_FAMILY 1    setenv TARGETNAME opencv_calib3d    setenv TARGET_BUILD_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/lib/Debug    setenv TARGET_NAME opencv_calib3d    setenv TARGET_TEMP_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/OpenCV.build/Debug-iphonesimulator/opencv_calib3d.build    setenv TEMP_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/OpenCV.build/Debug-iphonesimulator/opencv_calib3d.build    setenv TEMP_FILES_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/OpenCV.build/Debug-iphonesimulator/opencv_calib3d.build    setenv TEMP_FILE_DIR /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/OpenCV.build/Debug-iphonesimulator/opencv_calib3d.build    setenv TEMP_ROOT /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d    setenv UID 501    setenv UNSTRIPPED_PRODUCT NO    setenv USER jjthrash    setenv USER_APPS_DIR /Users/jjthrash/Applications    setenv USER_LIBRARY_DIR /Users/jjthrash/Library    setenv USE_DYNAMIC_NO_PIC YES    setenv USE_HEADERMAP NO    setenv USE_HEADER_SYMLINKS NO    setenv VALIDATE_PRODUCT NO    setenv VALID_ARCHS i386    setenv VERBOSE_PBXCP NO    setenv VERSION_INFO_BUILDER jjthrash    setenv VERSION_INFO_FILE opencv_calib3d_vers.c    setenv VERSION_INFO_STRING "\"@(#)PROGRAM:opencv_calib3d  PROJECT:OpenCV-\""    setenv WARNING_CFLAGS "-Wmost -Wno-four-char-constants -Wno-unknown-pragmas"    setenv XCODE_APP_SUPPORT_DIR /Developer/Library/Xcode    setenv XCODE_PRODUCT_BUILD_VERSION 10M2423    setenv XCODE_VERSION_ACTUAL 0325    setenv XCODE_VERSION_MAJOR 0300    setenv XCODE_VERSION_MINOR 0320    setenv YACC /Developer/usr/bin/yacc    setenv _REAL_SDKROOT iphoneos    /bin/sh -c /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/OpenCV.build/Debug-iphonesimulator/opencv_calib3d.build/Script-1010B89401010B89401010B8.sh0#
+
+CProcessPCH++ /var/folders/j9/j9D8eGkFG60i5wEYUED5B++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/precomp-hblqeniyaimiqtggmuhdtalhgxfu/precomp.hpp.gch modules/calib3d/src/precomp.hpp normal i386 c++ com.apple.compilers.gcc.4_2
+s319993370.589455
+e319993373.134784
+r1
+xProcessPCH++
+x/var/folders/j9/j9D8eGkFG60i5wEYUED5B++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/precomp-hblqeniyaimiqtggmuhdtalhgxfu/precomp.hpp.gch
+xmodules/calib3d/src/precomp.hpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@42"Precompile modules/calib3d/src/precomp.hpp319993370#319993373#0(0"0(0#0#70"/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/precomp.hpp8623219360#1972"    cd /Users/jjthrash/Downloads/OpenCV-2.2.0    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c++-header -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -DCMAKE_INTDIR="Debug" -DHAVE_ALLOCA -DHAVE_ALLOCA_H -DHAVE_LIBPTHREAD -DHAVE_UNISTD_H -DHAVE_CONFIG_H -DCVAPI_EXPORTS -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/jjthrash/Downloads/OpenCV-2.2.0/lib/Debug -I/Users/jjthrash/Downloads/OpenCV-2.2.0/lib/Debug/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/include/opencv -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/../core/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/../imgproc/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/../highgui/include -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/OpenCV.build/Debug-iphonesimulator/opencv_calib3d.build/DerivedSources/i386 -I/Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/OpenCV.build/Debug-iphonesimulator/opencv_calib3d.build/DerivedSources -Wall -pthread -ggdb3 -DDEBUG -D_DEBUG -c /Users/jjthrash/Downloads/OpenCV-2.2.0/modules/calib3d/src/precomp.hpp -o /var/folders/j9/j9D8eGkFG60i5wEYUED5B++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/precomp-hblqeniyaimiqtggmuhdtalhgxfu/precomp.hpp.gch0#
+

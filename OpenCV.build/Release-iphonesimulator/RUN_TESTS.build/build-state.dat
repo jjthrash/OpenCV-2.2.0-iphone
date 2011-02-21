@@ -1,0 +1,20 @@
+TRUN_TESTS
+v7
+r1
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/OpenCV.build/Release-iphonesimulator/RUN_TESTS.build/Script-10107D14010107D14010107D.sh
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/jjthrash/Downloads/OpenCV-2.2.0/OpenCV.build/Release-iphonesimulator/RUN_TESTS.build/Script-10107DB8010107DB8010107D.sh
+c00000000000000000000000000000000
+t2
+s0
+
+CPhaseScriptExecution "CMake PostBuild Rules" /Users/jjthrash/Downloads/OpenCV-2.2.0/OpenCV.build/Release-iphonesimulator/RUN_TESTS.build/Script-10107DB8010107DB8010107D.sh
+r0
+
+CPhaseScriptExecution "CMake ReRun" /Users/jjthrash/Downloads/OpenCV-2.2.0/OpenCV.build/Release-iphonesimulator/RUN_TESTS.build/Script-10107D14010107D14010107D.sh
+r0
+
